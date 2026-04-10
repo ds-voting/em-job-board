@@ -1,0 +1,135 @@
+locations:
+  - name: "Bay Area, CA"
+    priority: 1
+    keywords:
+      - "San Francisco"
+      - "Oakland"
+      - "San Jose"
+      - "Palo Alto"
+      - "Stanford"
+      - "Mountain View"
+      - "Redwood City"
+      - "Fremont"
+      - "Bay Area"
+      - "UCSF"
+      - "Santa Clara"
+      - "Walnut Creek"
+      - "Marin"
+      - "San Mateo"
+      - "Berkeley"
+      - "Daly City"
+  - name: "San Diego, CA"
+    priority: 1
+    keywords:
+      - "San Diego"
+      - "La Jolla"
+      - "Chula Vista"
+      - "Oceanside"
+      - "Escondido"
+      - "Carlsbad"
+  - name: "California Coast"
+    priority: 2
+    keywords:
+      - "Los Angeles"
+      - "Santa Barbara"
+      - "Monterey"
+      - "Santa Cruz"
+      - "Long Beach"
+      - "Orange County"
+      - "Irvine"
+      - "Laguna"
+      - "Ventura"
+      - "Sacramento"
+  - name: "Denver/Boulder, CO"
+    priority: 3
+    keywords:
+      - "Denver"
+      - "Boulder"
+      - "Aurora"
+      - "Lakewood"
+      - "Colorado Springs"
+      - "Fort Collins"
+  - name: "Bozeman, MT"
+    priority: 4
+    keywords:
+      - "Bozeman"
+  - name: "Stamford, CT"
+    priority: 5
+    keywords:
+      - "Stamford"
+      - "Greenwich"
+      - "Norwalk"
+      - "Bridgeport"
+      - "New Haven"
+      - "Fairfield"
+      - "Danbury"
+  - name: "Boston, MA"
+    priority: 6
+    keywords:
+      - "Boston"
+      - "Cambridge"
+      - "Quincy"
+      - "Plymouth"
+      - "Cape Cod"
+      - "South Shore"
+      - "Brockton"
+      - "Fall River"
+      - "New Bedford"
+  - name: "Other East Coast"
+    priority: 7
+    min_salary_override: 400000
+    keywords:
+      - "New York"
+      - "Philadelphia"
+      - "Washington DC"
+      - "Baltimore"
+      - "Charlotte"
+      - "Raleigh"
+      - "Richmond"
+      - "Atlanta"
+
+salary:
+  minimum: 300000
+  target_low: 350000
+  target_high: 400000
+
+schedule:
+  reject_nocturnist_only: true
+  reject_some_nights: false
+
+excluded_employers:
+  - "HCA Healthcare"
+  - "HCA"
+  - "Envision"
+  - "TeamHealth"
+
+excluded_title_keywords:
+  - "Physician Assistant"
+  - "Nurse Practitioner"
+  - "Advanced Practice"
+  - "APP "
+  - "Medical Director"
+  - "Fellowship"
+  - "Locum"
+  - "Locums"
+  - "NP "
+  - "PA-C"
+  - "PA "
+
+institution_preferences:
+  preferred:
+    - "Academic Medical Center"
+    - "Trauma Level I"
+    - "Trauma Level II"
+  acceptable:
+    - "Trauma Level III"
+    - "Private Hospital Group"
+    - "Community Hospital"
+  excluded:
+    - "HCA"
+
+search_queries:
+  - "Emergency Medicine Physician"
+  - "Emergency Department Physician"
+  - "EM Attending Physician"
+  - "Emergency Room Physician"
