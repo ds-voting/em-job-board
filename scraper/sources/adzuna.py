@@ -65,7 +65,7 @@ class AdzunaSource(BaseSource):
         params = {
             "app_id": app_id,
             "app_key": app_key,
-            "results_per_page": 50,
+            "results_per_page": 20,
             "what": query,
             "where": state,
             "content-type": "application/json",

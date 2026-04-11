@@ -75,45 +75,54 @@ class EmCareersSource(BaseSource):
         soup = BeautifulSoup(resp.text, "html.parser")
         postings = []
 
-        # emCareers lists jobs in card/listing elements
-        job_cards = soup.select("div.job-listing, article.job-card, div[class*='job']")
+        # emCareers uses <li class="lister__item ..."> for each job listing
+        job_items = soup.select("li[class*='lister__item']")
 
-        if not job_cards:
-            # Fallback: look for any list of links that look like job postings
-            job_cards = soup.select("a[href*='/job/'], a[href*='/jobs/']")
-
-        for card in job_cards:
+        for item in job_items:
             try:
-                title_el = card.select_one("h2, h3, h4, .job-title, [class*='title']")
-                title = title_el.get_text(strip=True) if title_el else card.get_text(strip=True)[:100]
+                # Title is in <h3 class="lister__header"> > <a> > <span>
+                title_el = item.select_one("h3.lister__header a span")
+                if not title_el:
+                    title_el = item.select_one("h3.lister__header a")
+                if not title_el:
+                    continue  # Skip non-job items
+                title = title_el.get_text(strip=True)
+                if not title:
+                    continue
 
-                employer_el = card.select_one(".company, .employer, [class*='company']")
+                # Employer is in <li class="lister__meta-item--recruiter">
+                employer_el = item.select_one("li.lister__meta-item--recruiter")
                 employer = employer_el.get_text(strip=True) if employer_el else "Unknown"
 
-                location_el = card.select_one(".location, [class*='location']")
+                # Location is in <li class="lister__meta-item--location">
+                location_el = item.select_one("li.lister__meta-item--location")
                 location = location_el.get_text(strip=True) if location_el else state.replace("-", " ").title()
 
-                link_el = card.select_one("a[href]") if card.name != "a" else card
-                href = link_el.get("href", "") if link_el else ""
+                # Salary is in <li class="lister__meta-item--salary">
+                salary_el = item.select_one("li.lister__meta-item--salary")
+                salary_text = salary_el.get_text(strip=True) if salary_el else "Not listed"
+
+                # Description snippet is in <p class="lister__description">
+                desc_el = item.select_one("p.lister__description")
+                description = desc_el.get_text(strip=True) if desc_el else ""
+
+                # Link is in <h3> > <a href="...">
+                link_el = item.select_one("h3.lister__header a[href]")
+                href = link_el.get("href", "").strip() if link_el else ""
                 if href and not href.startswith("http"):
                     href = f"{self.base_url}{href}"
-
-                salary_text = "Not listed"
-                salary_el = card.select_one("[class*='salary'], [class*='compensation']")
-                if salary_el:
-                    salary_text = salary_el.get_text(strip=True)
 
                 postings.append(RawPosting(
                     title=title,
                     employer=employer,
                     location=location,
-                    description="",
+                    description=description,
                     salary_text=salary_text,
                     source_url=href,
                     source_name=self.name,
                 ))
             except Exception as e:
-                print(f"[{self.name}] Error parsing job card: {e}")
+                print(f"[{self.name}] Error parsing job item: {e}")
                 continue
 
         return postings

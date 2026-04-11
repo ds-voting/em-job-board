@@ -18,6 +18,12 @@ locations:
       - "San Mateo"
       - "Berkeley"
       - "Daly City"
+      - "Hayward"
+      - "Alameda"
+      - "Concord"
+      - "Livermore"
+      - "Pleasanton"
+      - "Sunnyvale"
   - name: "San Diego, CA"
     priority: 1
     keywords:
@@ -40,6 +46,13 @@ locations:
       - "Laguna"
       - "Ventura"
       - "Sacramento"
+      - "Fresno"
+      - "California"
+      - "Bakersfield"
+      - "Pasadena"
+      - "Torrance"
+      - "Riverside"
+      - "San Bernardino"
   - name: "Denver/Boulder, CO"
     priority: 3
     keywords:
@@ -49,6 +62,14 @@ locations:
       - "Lakewood"
       - "Colorado Springs"
       - "Fort Collins"
+      - "Littleton"
+      - "Westminster"
+      - "Thornton"
+      - "Arvada"
+      - "Greeley"
+      - "Pueblo"
+      - "Fort Carson"
+      - "Colorado"
   - name: "Bozeman, MT"
     priority: 4
     keywords:
@@ -63,6 +84,10 @@ locations:
       - "New Haven"
       - "Fairfield"
       - "Danbury"
+      - "Hartford"
+      - "Waterbury"
+      - "Willimantic"
+      - "Connecticut"
   - name: "Boston, MA"
     priority: 6
     keywords:
@@ -75,6 +100,10 @@ locations:
       - "Brockton"
       - "Fall River"
       - "New Bedford"
+      - "Attleboro"
+      - "Worcester"
+      - "Springfield"
+      - "Massachusetts"
   - name: "Other East Coast"
     priority: 7
     min_salary_override: 400000
@@ -82,11 +111,19 @@ locations:
       - "New York"
       - "Philadelphia"
       - "Washington DC"
+      - "Washington, D.C."
       - "Baltimore"
       - "Charlotte"
       - "Raleigh"
       - "Richmond"
       - "Atlanta"
+      - "Bronx"
+      - "Brooklyn"
+      - "Manhattan"
+      - "Queens"
+      - "Virginia"
+      - "Maryland"
+      - "New Jersey"
 
 salary:
   minimum: 300000
@@ -132,4 +169,3 @@ search_queries:
   - "Emergency Medicine Physician"
   - "Emergency Department Physician"
   - "EM Attending Physician"
-  - "Emergency Room Physician"

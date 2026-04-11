@@ -19,8 +19,14 @@ class SerpApiGoogleSource(BaseSource):
         queries = config.get("search_queries", ["Emergency Medicine Physician"])
         locations = config.get("locations", [])
 
-        # Build location search strings from the region names
-        location_searches = [loc["name"] for loc in locations]
+        # SerpApi Google Jobs needs real city/state locations, not region names.
+        # Use the first keyword from each region as a representative search location.
+        location_searches = []
+        for loc in locations:
+            keywords = loc.get("keywords", [])
+            if keywords:
+                # Use first keyword + state abbreviation where possible
+                location_searches.append(keywords[0])
 
         async with httpx.AsyncClient(timeout=30.0) as client:
             for query in queries:

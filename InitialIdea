@@ -1,0 +1,36 @@
+Context:
+    My significant other is in the final year of her Emergency Medicine (EM) training at the Mayo Clinic in Rochester, MN. She is starting her job search for an Emergency Medical Physcian job following the completion of her Residency Program in June 2027.
+Job Criteria:
+    Job title: Emergency Medical Physcian
+        EXCLUDE: Midlevel APPs such as Physician Assistants and Nurse Practitioners
+        EXCLUDE: Medical Director roles
+        EXCLUDE: EM Fellowship roles
+    Location Prefences:
+        California (Within 30-40 minutes of the California coast, or within the California Bay Area with a preference for North, South, and West Bay, but east bay will be considered. Highest preference for Bay Area and San Diego)
+        Colorado (Denver Boulder Area but open to others)
+        Bozeman MT
+        Connecticut (Near Stamford, CT)
+        Massachusetts (Near and South of Boston, MA with a preference for the coast)
+        Note: Will consider other locations on the east coast if the pay is competitive (>$400k)
+    Minimum Salary:
+        $300,000
+    Target Salary:
+        $350,000-$400,000
+    Job Type:
+        Full Time employment with benefits
+        Do not include locum tenens jobs
+        NO NOCTURNE JOBS (NO OVERNIGHT SHIFTS)
+    Insutition Type:
+        Academic Medical Center
+        Trauma Center (Tier I Preferred)
+        Private Hospital Group
+        No HCA hospitals
+        Prefer Level I, II, and III hospitals within one hour of a major metropolitan area
+Goal:
+    Create a program that will scrape the internet for Emergency Medical Physician jobs that meet the above criteria.
+    The program should output to a live dashboard with a sharable URL
+    The dashboard should display jobs that meet the criteria, including the job title, location, salary, and institution type, and a link to the job posting.
+    The dashboard should attempt to find the hiring manager or recruiter for the job posting and provide an email address for the hiring manager or recruiter.
+    The dashboard should cross reference for individuals working at that institutions with a history at Mayo Clinic and flag those as high warm leads.
+    The program should also output a list of jobs that do not meet the criteria, including the reason why they do not meet the criteria.
+    The program should be able to be run on a daily, weekly, and custom basis to check for new jobs.
