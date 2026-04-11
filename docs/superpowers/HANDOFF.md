@@ -1,45 +1,36 @@
 # EM Job Board — Session Handoff
 
-**Last session:** 2026-04-10
-**Status:** Phase 1 + Phase 2 complete, Phase 3 not started
+**Last session:** 2026-04-11
+**Status:** Phase 1 + Phase 2 complete + GitHub Actions cron validated, Phase 3 not started
 
 ---
 
-## ⚠️ Time-Sensitive — Check Tomorrow Morning
+## ✅ Cron Pipeline — VALIDATED (2026-04-11)
 
-**The first scheduled GitHub Actions cron run will execute tomorrow at 7:00 AM CT (2026-04-11 12:00 UTC).** This is the FIRST time the workflow runs on a schedule — it has never been validated end-to-end.
+**The GitHub Actions cron is now confirmed working end-to-end.** No immediate action required next session — just verify today's 7am CT run succeeded as a sanity check.
 
-**Action items first thing in next session:**
+**Quick sanity check (optional at start of next session):**
+```bash
+gh run list --workflow=scrape.yml --limit 5
+```
+Expected: top entry `completed / success` from the scheduled run.
 
-1. Verify the cron run succeeded:
+### What broke + what was fixed (2026-04-11)
 
-   ```bash
-   cd /c/Users/ryan/OneDrive/Desktop/Playground/JOBS
-   gh run list --workflow=scrape.yml --limit 5
-   ```
+The first scheduled cron (7am CT) failed. Root cause: the workflow was missing `permissions: contents: write`, so `github-actions[bot]` could check out but not push. Fixed in commit `19b90b0`:
 
-2. If status is `completed` and `success`, check that:
-   - New commits were pushed by "Job Scraper Bot"
-   - Vercel auto-redeployed (visit <https://em-job-board.vercel.app> and check "Last updated" timestamp on the dashboard)
-   - Any new jobs show with the green "New" badge
+- Added `permissions: contents: write` to the `scrape` job
+- Added `dashboard/data/` to the `git add` command so Vercel gets fresh data on each run
 
-3. If status is `failure`, get the logs:
+A manual re-run immediately after the fix completed successfully (9m5s). Tomorrow's scheduled run should work.
 
-   ```bash
-   gh run view --log-failed
-   ```
-
-   Most likely failure modes to debug first:
-   - Git push permission issue (workflow's `GITHUB_TOKEN` may need `contents: write` permission added to the workflow YAML)
-   - Python dependency install failure
-   - Missing/wrong environment secret
+**Secondary observation (non-blocking):** emCareers blocks GitHub Actions runner IPs with 403s on all state pages. The scraper handles this gracefully (logs and continues). That source is effectively dead from CI — not urgent to fix, but worth noting.
 
 ### Expected Daily Cost
 
 - **~$0.10-$0.30 per daily run** once steady state (skip-existing optimization handles most postings for free)
 - ~$3-9/month total
-- Anthropic balance after today's session: **~$5.30 remaining** — enough for 15-50 daily runs
-- Top up with another $5-10 sometime in the next ~2 weeks
+- Top up Anthropic balance with another $5-10 in the next 1-2 weeks
 
 ---
 
@@ -184,9 +175,11 @@ These are documented in the spec but not implemented:
 
 4. **The "Other East Coast" min_salary_override of $400k** isn't enforced anywhere yet — Claude knows about it from the system prompt but the runner doesn't double-check after classification.
 
-5. **Vercel auto-deploys ARE working** but we should test that a git push from the cron actually triggers a redeploy with fresh data. The first cron run should validate this.
+5. **Vercel auto-deploys ARE working** — confirmed by the 2026-04-11 manual re-run: data push triggered a Vercel redeploy.
 
-6. **We have NO test for the GitHub Actions workflow yet.** It hasn't run on a schedule yet — first scheduled run will be tomorrow at 7am CT. If something breaks there, we won't know until then.
+6. **emCareers (ACEP/EMRA) is blocked from GitHub Actions runner IPs** — returns 403 on all state pages when running in CI. Scraper handles it gracefully (logs and continues), so no crashes, but that source contributes 0 jobs from automated runs. Options if we want it back: proxy/residential IP, fetch via a different approach, or just accept the loss.
+
+7. ~~**We have NO test for the GitHub Actions workflow yet.**~~ ✅ Validated 2026-04-11.
 
 ---
 
@@ -204,7 +197,7 @@ These are documented in the spec but not implemented:
 
 In priority order, pick whichever feels right:
 
-1. **Verify the GitHub Actions cron worked.** Tomorrow morning, check if `7am CT` run succeeded — `gh run list --workflow=scrape.yml` and inspect the result. If it failed, fix it. This is the most critical thing to validate.
+1. **Quick cron sanity check.** Run `gh run list --workflow=scrape.yml --limit 5` and confirm the most recent scheduled run is `success`. The pipeline was validated on 2026-04-11 so this should be a formality — if it failed again, check the logs for a new issue.
 
 2. **Add Phase 3 salary intelligence.** Both salary estimation and competitiveness analysis are achievable in 1-2 hours and would be huge wins for her decision-making. She'd be able to instantly see which "Not listed" jobs are likely above $400k and which listed salaries are below market.
 
