@@ -3,7 +3,23 @@ import fs from "fs";
 import path from "path";
 export { getPriorityColor, getConfidenceColor } from "./utils";
 
-const DATA_DIR = path.join(process.cwd(), "..", "data");
+// Look for data in multiple locations:
+// 1. ../data/ (local dev, running from dashboard/)
+// 2. ./data/ (Vercel, data copied into dashboard at build time)
+function findDataDir(): string {
+  const candidates = [
+    path.join(process.cwd(), "..", "data"),
+    path.join(process.cwd(), "data"),
+  ];
+  for (const dir of candidates) {
+    if (fs.existsSync(path.join(dir, "jobs.json"))) {
+      return dir;
+    }
+  }
+  return candidates[0]; // fallback
+}
+
+const DATA_DIR = findDataDir();
 
 export function getJobs(): Job[] {
   try {
