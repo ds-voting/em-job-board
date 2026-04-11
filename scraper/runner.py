@@ -6,6 +6,7 @@ from scraper.deduplicator import deduplicate_raw, merge_jobs, merge_rejected
 from scraper.sources.serpapi_google import SerpApiGoogleSource
 from scraper.sources.adzuna import AdzunaSource
 from scraper.sources.emcareers import EmCareersSource
+from scraper.sources.practicelink import PracticeLinkSource
 
 
 DATA_DIR = "data"
@@ -19,6 +20,7 @@ async def fetch_all_sources(config: dict) -> list:
         SerpApiGoogleSource(),
         AdzunaSource(),
         EmCareersSource(),
+        PracticeLinkSource(),
     ]
 
     all_postings = []
