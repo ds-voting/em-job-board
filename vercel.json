@@ -1,6 +1,0 @@
-{
-  "framework": "nextjs",
-  "rootDirectory": "dashboard",
-  "buildCommand": "cp -r ../data ./data && npm run build",
-  "installCommand": "npm install"
-}

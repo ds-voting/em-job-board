@@ -4,12 +4,12 @@ import path from "path";
 export { getPriorityColor, getConfidenceColor } from "./utils";
 
 // Look for data in multiple locations:
-// 1. ../data/ (local dev, running from dashboard/)
-// 2. ./data/ (Vercel, data copied into dashboard at build time)
+// 1. ./data/ (Vercel deploys, dashboard/data/ is committed alongside)
+// 2. ../data/ (local dev fallback)
 function findDataDir(): string {
   const candidates = [
-    path.join(process.cwd(), "..", "data"),
     path.join(process.cwd(), "data"),
+    path.join(process.cwd(), "..", "data"),
   ];
   for (const dir of candidates) {
     if (fs.existsSync(path.join(dir, "jobs.json"))) {

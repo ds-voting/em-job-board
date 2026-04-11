@@ -9,9 +9,16 @@ from scraper.sources.emcareers import EmCareersSource
 from scraper.sources.practicelink import PracticeLinkSource
 
 
+import os
+
 DATA_DIR = "data"
 JOBS_FILE = f"{DATA_DIR}/jobs.json"
 REJECTED_FILE = f"{DATA_DIR}/rejected.json"
+
+# Also save into the dashboard directory so Vercel deploys with current data
+DASHBOARD_DATA_DIR = "dashboard/data"
+DASHBOARD_JOBS_FILE = f"{DASHBOARD_DATA_DIR}/jobs.json"
+DASHBOARD_REJECTED_FILE = f"{DASHBOARD_DATA_DIR}/rejected.json"
 
 
 async def fetch_all_sources(config: dict) -> list:
@@ -148,9 +155,13 @@ async def run_scrape():
     merged_jobs = merge_jobs(new_jobs, existing_jobs)
     merged_rejected = merge_rejected(new_rejected, existing_rejected)
 
-    # Save
+    # Save to both the main data dir and the dashboard data dir
     save_jobs(merged_jobs, JOBS_FILE)
     save_rejected(merged_rejected, REJECTED_FILE)
+
+    os.makedirs(DASHBOARD_DATA_DIR, exist_ok=True)
+    save_jobs(merged_jobs, DASHBOARD_JOBS_FILE)
+    save_rejected(merged_rejected, DASHBOARD_REJECTED_FILE)
 
     # Summary
     new_count = sum(1 for j in merged_jobs if j.is_new)
