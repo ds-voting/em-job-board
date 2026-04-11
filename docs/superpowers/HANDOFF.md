@@ -5,6 +5,44 @@
 
 ---
 
+## ⚠️ Time-Sensitive — Check Tomorrow Morning
+
+**The first scheduled GitHub Actions cron run will execute tomorrow at 7:00 AM CT (2026-04-11 12:00 UTC).** This is the FIRST time the workflow runs on a schedule — it has never been validated end-to-end.
+
+**Action items first thing in next session:**
+
+1. Verify the cron run succeeded:
+
+   ```bash
+   cd /c/Users/ryan/OneDrive/Desktop/Playground/JOBS
+   gh run list --workflow=scrape.yml --limit 5
+   ```
+
+2. If status is `completed` and `success`, check that:
+   - New commits were pushed by "Job Scraper Bot"
+   - Vercel auto-redeployed (visit <https://em-job-board.vercel.app> and check "Last updated" timestamp on the dashboard)
+   - Any new jobs show with the green "New" badge
+
+3. If status is `failure`, get the logs:
+
+   ```bash
+   gh run view --log-failed
+   ```
+
+   Most likely failure modes to debug first:
+   - Git push permission issue (workflow's `GITHUB_TOKEN` may need `contents: write` permission added to the workflow YAML)
+   - Python dependency install failure
+   - Missing/wrong environment secret
+
+### Expected Daily Cost
+
+- **~$0.10-$0.30 per daily run** once steady state (skip-existing optimization handles most postings for free)
+- ~$3-9/month total
+- Anthropic balance after today's session: **~$5.30 remaining** — enough for 15-50 daily runs
+- Top up with another $5-10 sometime in the next ~2 weeks
+
+---
+
 ## Where We Are
 
 ### Live System
