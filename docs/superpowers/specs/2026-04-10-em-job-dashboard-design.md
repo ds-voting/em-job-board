@@ -1,7 +1,9 @@
 # EM Physician Job Search Dashboard — Design Spec
 
 **Date:** 2026-04-10
-**Status:** Draft
+**Status:** ✅ Phase 1 + Phase 2 SHIPPED — Phase 3 not started
+**Live URL:** <https://em-job-board.vercel.app>
+**Repo:** <https://github.com/ds-voting/em-job-board>
 **Author:** Ryan (operator) + Claude (builder)
 
 ---
