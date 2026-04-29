@@ -6,19 +6,296 @@
     "location": "Bakersfield, CA",
     "location_region": "California Coast",
     "location_priority": 2,
-    "salary": "$235-$306/hour (W-2) or $275-$415/hour (1099)",
-    "salary_numeric": 320000,
+    "salary": "$275-$415/hour (1099) or $235-$306/hour (W-2)",
+    "salary_numeric": 345000,
     "institution_type": "Private Hospital Group",
     "schedule_type": "Mixed",
     "is_nocturnist_only": false,
     "match_confidence": "Medium",
     "analysis_notes": "Strong compensation package well above minimum requirements with both W-2 and 1099 options available. 47,000 ED volume with 10-hour physician shifts suggests mixed scheduling. Bakersfield is inland California but still within the broader California Coast region preference.",
-    "source_url": "https://www.google.com/search?ibp=htl;jobs&q=Emergency+Medicine+Physician&htidocid=f70aVaQ8j6kbRwTKAAAAAA%3D%3D&hl=en-PK&shem=epsdc,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_02OwUoDQRBE8ZpP8NTnkOzGgIeYk4nBJRAQgoin0DvbzoyZdA_TLWZ_1y9xvHkpqiioepOfm0m3u1DxxG6EAw3RRSZ4CaNWhwxv8yUgD3C3WK1AskVhhTnspQclLC6AMDyL-ES362CW9aFtVVPj1dCia5xcWmHq5dp-Sq9_ctKAhXJCo9PyfnFtMvvp-1P0HG2EjjBZqB8HKpWpE83RMMFRvix8k1qtNnimoh-R0gCR_8cZbB9n8FqXaIBjRSD9BeX5LSjlAAAA&shmds=v1_ATWGeePzPMIXj11G_BzhHjjOjJvgKcUAqHgsEz_2qC7TpzGysQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Emergency+Medicine+Physician&htidocid=f70aVaQ8j6kbRwTKAAAAAA%3D%3D",
+    "source_url": "https://www.google.com/search?ibp=htl;jobs&q=Emergency+Medicine+Physician&htidocid=f70aVaQ8j6kbRwTKAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_02OsU4DQQxERZtPoHIdkbskEkWggoA4RYqElIIy8u2ZXYeNvVobkftOfihHRzOapynezH5vZt3rmWokCSPsaeDAQvCeRpsaCnws1oAywGq52YAWZxWDBey0ByOsIYEKvKnGTLePyb3YQ9ua5Saao3Nogp5bFer10p60t784WsJKJaPTcX2_vDRF4nz3wlHYR-gIs6fJsac6ferUCjtmOOi3px8yn6Zn_KJqn0x5AJb_eAfbpytn65sL1gAAAA&shmds=v1_ATWGeeNQmu30JxhltWksiR_KvSyAQJnPpnneQMp2s2nXolQpWQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Emergency+Medicine+Physician&htidocid=f70aVaQ8j6kbRwTKAAAAAA%3D%3D",
     "source_name": "Google Jobs",
     "description_snippet": "Join the nation's largest physician-owned group, US Acute Care Solutions, where you'll gain ownership stake, access top-tier continuing education, and work alongside committed colleagues in an environment focused on outstanding patient care. Our model combines the resources of a national company with a physician-first approach, allowing you to focus on what matters most - caring for patients.Additional DetailsW-2 and 1099 options availableExcellent compensation package with an estimated employed",
     "full_description": "Join the nation's largest physician-owned group, US Acute Care Solutions, where you'll gain ownership stake, access top-tier continuing education, and work alongside committed colleagues in an environment focused on outstanding patient care. Our model combines the resources of a national company with a physician-first approach, allowing you to focus on what matters most - caring for patients.Additional DetailsW-2 and 1099 options availableExcellent compensation package with an estimated employed W-2 range of $235/hour to $306/hourEstimated 1099 base pay range of $275/hour to $415/hourSplit position between Mercy Health Downtown Bakersfield & Mercy Health SouthwestAbout Mercy Hospital Southwest - BakersfieldED Volume: 47,000Cerner EMR SystemSpecialty services include critical care, general surgery, urology, neurosurgery, ortho, OBGYN, and PEDS on call10-hour physician shifts and 12-hour APP shifts are availableBenefitsFinancial Benefits:$4,000 tax-free CME/BEA annually$6,500 plus your state and DEA license in year one for new graduatesGroundbreaking 100% Paid Parental LeavePioneering Paid Military LeaveStudent loan refinancing as low as 2.99%Comprehensive medical, dental, vision and Rx coverageShort- and long-term disability (own occupation)Unmatched medical malpractice including tail and free litigation supportUSACS malpractice claims are less than 1/2 the national average!Intangible Benefits:Location flexibility and career stability of a national groupNational Clinical Governance Board (NCGB) of internally elected physiciansClinical Management Tools (CMTs) provide evidence-based support24/7/365 live physician supportProfessional Development Programs including:Scholars (Leadership Training)Efficiency AcademyEngagement & Experience AcademyUSACS Annual Assembly opportunityInternal USACS STAT traveling physiciansThe AreaBakersfield is located in Kern County, the heart of California, nestled between San Francisco and Los Angeles. People who consider putting down roots in the area will find a healthy job market and an affordable place to raise a family. Bakersfield's strong sense of community and family and its booming oil and agriculture industries keep the region thriving. Bakersfield has hundreds of miles of bike paths and lanes and nearly 60 parks, offering locals plenty of opportunities to enjoy the outdoors, including the Sierra Nevada Mountains and some of California's expansive national forests.",
     "date_found": "2026-04-23",
-    "date_last_seen": "2026-04-27",
+    "date_last_seen": "2026-04-29",
+    "status": "active",
+    "is_new": false,
+    "red_flags": [],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "5d3ab1172a00",
+    "title": "Emergency Medicine Physician",
+    "employer": "UCSF Health Stanyan Hospital",
+    "location": "San Francisco, CA",
+    "location_region": "Bay Area, CA",
+    "location_priority": 1,
+    "salary": "Not listed",
+    "salary_numeric": null,
+    "institution_type": "Academic Medical Center",
+    "schedule_type": "Unclear",
+    "is_nocturnist_only": false,
+    "match_confidence": "High",
+    "analysis_notes": "Excellent match with UCSF academic medical center in Priority 1 Bay Area location. Vituity is a reputable physician-owned partnership. Though salary not listed, the $50k sign-on bonus suggests competitive compensation and the urban San Francisco location typically offers salaries well above minimum requirements.",
+    "source_url": "https://www.google.com/search?ibp=htl;jobs&q=Emergency+Department+Physician&htidocid=1zd-1YmzfsksSPdHAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_32NQWoCQRBFydYjuKpAVpLMTAQ3ZpVIzBARhcH1UNMpuju0Vc1UBZzrehLbC2Tz4b8H_8-uD7N8DJNGF5HhBT7PNHpiN8GefgpkKvCUwQSeVs0OuugZDgwfwn_6eHebbgstYbIAnSFPZaYVzdEwFf0tAyjh6AIIw5eITzR_C2ZZ13WtmiqvhhZd5eRcC9Mgl_pXBr1HrwFHygmN-uWquVSZ_eL138fI0JW-HZFdVCfPsHm_AcfgaCDlAAAA&shmds=v1_ATWGeeOWZ7sRALdh-G19-kdxTrifcdESxP0KSzwf_qLNYrD2pQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Emergency+Department+Physician&htidocid=1zd-1YmzfsksSPdHAAAAAA%3D%3D",
+    "source_name": "Google Jobs",
+    "description_snippet": "Up to $50K Sign On Bonus \u2013 San Francisco, CA \u2013 Seeking Emergency Medicine Physicians Join the Physician Partnership Where You Can Increase Your Impact Vituity\u2019s ownership model provides autonomy, local control, and a national system of support, so you can focus your attention where you want it to be \u2013 on your patients. Join the Vituity Team. Vituity is a 100% physician-owned partnership and is led by frontline physicians that are all equitable owners. As an equal and valued partner from day one,",
+    "full_description": "Up to $50K Sign On Bonus \u2013 San Francisco, CA \u2013 Seeking Emergency Medicine Physicians Join the Physician Partnership Where You Can Increase Your Impact Vituity\u2019s ownership model provides autonomy, local control, and a national system of support, so you can focus your attention where you want it to be \u2013 on your patients. Join the Vituity Team. Vituity is a 100% physician-owned partnership and is led by frontline physicians that are all equitable owners. As an equal and valued partner from day one, our ownership model provides you with financial transparency, a comprehensive benefits package including profit distribution, and multiple career development opportunities. Our leadership understands what your practice needs to thrive and gives you autonomy and local control so you can provide care when, where, and how your patients need it. You are backed by a best-in-class corporate healthcare team and supported by the broad peer-level expertise of 6,000 Vituity clinicians. At Vituity we\u2019ve cultivated an environment where passion thrives, and success comes through shared purpose. We were founded in a culture that values team accomplishments more than individual achievements, an approach we call \u201cculture of brilliance.\u201d Together, we leverage our strengths and experiences to make a positive impact in our local communities. We foster this through shared goals and helping our colleagues succeed, and we also understand the importance of recognition, taking the time to show appreciation and gratitude for a job well done. Vituity Locations: Vituity has opportunities at 890 practices across the country, serving 14.5 million patients a year. With Vituity, if you ever need to move, you can take your job with you. The OpportunityUp to $50k sign-on bonus for qualified candidates.Seeking Board Eligible/Certified Emergency Medicine physicians.AAPS physicians with ED experience will be considered.Current CA state license is a plus.Full time, part time, and per diem opportunities available.Provider\u2019s will be cross credentialed at UCSF Health St. Mary\u2019s Hospital and UCSF Health Saint Francis Hospital. The PracticeUCSF Health St. Mary's Hospital \u2013 San Francisco, California403-bed facility and a STEMI Receiving Center.13-bed Emergency Department in an urban environment.Annual volume of 16,000 with a 20-25% admit rate.Good payer mix.Vituity-staffed Emergency Department, GME, and Psych including adolescent psychiatry offer integrated care solutions at this site! The CommunitySan Francisco, California, is a city of iconic landmarks, cultural diversity, and unparalleled charm, making it an extraordinary place to live and work.Known for the Golden Gate Bridge, Alcatraz Island, and historic cable cars, the city offers breathtaking sights and a vibrant urban lifestyle.Residents enjoy world-class museums like the de Young and SFMOMA, while outdoor enthusiasts explore Golden Gate Park or hike the trails at Lands\u2019 End.The neighborhoods, from bustling Chinatown to the artsy Mission District, offer unique dining and cultural experiences.San Francisco\u2019s cool, foggy climate creates a distinct atmosphere, earning it the nickname \u201cThe City by the Bay.\u201dIts location provides easy access to Napa Valley, Silicon Valley, and coastal adventures.With a passionate sports culture, including teams like the Giants and 49ers, San Francisco is a city that inspires and energizes. Benefits & Beyond*Vituity cares about the whole you. With our comprehensive compensation and benefits package, we are mindful of what matters most, and support your needs of today and your plans for the future.Superior Health Plan OptionsDental, Vision, HSA, life and AD&D coverage, and morePartnership models allows a K-1 status pay structure, allowing high tax deductionsExtraordinary 401K Plan with high tax reduction and faster balance growthEligible to receive an Annual Profit Distribution/yearly cash bonusEAP and travel assistance includedStudent loan refinancing discountsPurpose-driven culture focused on improving the lives of our patients, communities, and employees We are unified around the common purpose of transforming healthcare to improve lives and we believe everyone has a role to play in that. When we work together across sites and specialties as an integrated healthcare team, we exceed the expectations of our patients and the hospitals and clinics we work in. If you are looking to make a difference, from clinical to corporate, Vituity is the place to do it. Come grow with us. Vituity does not discriminate against any person on the basis of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information (including family medical history), veteran status, marital status, pregnancy or related condition, or any other basis protected by law. Vituity is committed to complying with all applicable national, state and local laws pertaining to nondiscrimination and equal opportunity. *Visa status applicants benefits vary. Please speak to a recruiter for more details. Applicants only. No agencies please.",
+    "date_found": "2026-04-12",
+    "date_last_seen": "2026-04-29",
+    "status": "active",
+    "is_new": false,
+    "red_flags": [],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "c842e6458d36",
+    "title": "Emergency Medicine Physician",
+    "employer": "Hayman Daugherty Associates",
+    "location": "San Francisco, CA",
+    "location_region": "Bay Area, CA",
+    "location_priority": 1,
+    "salary": "Not listed",
+    "salary_numeric": null,
+    "institution_type": "Community Hospital",
+    "schedule_type": "Mixed",
+    "is_nocturnist_only": false,
+    "match_confidence": "Medium",
+    "analysis_notes": "This is a strong geographic match in the Bay Area with flexible scheduling options (8, 9, and 10-hour shifts). The 43-bed ED with fast track suggests a decent-sized facility, though salary information is not provided which makes full evaluation difficult.",
+    "source_url": "https://www.google.com/search?ibp=htl;jobs&q=Emergency+Department+Physician&htidocid=Qxyv8ZsqVS2PJ0UoAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_22PPQoCQQyFsd0jWKUW3RHBRivxF0FY8ACSHePMyG6yTEZwL-w5HK0sbAL53gvvpXgNikflew02IIOBbUvREdseTnTNkCnDNTbhJpED5qWi2CITp__uo9QQ-Pdk8mVKGK0HYdiLuIaGS59SpwtjVJvSacIUbGmlNcJUy9PcpdbPuKjHSF2DiS6z-fRZduxG0wP2uQVs8OE8xdTDSlXyD4n0E3_O2i4i26BWxrBevQEMDKkY6QAAAA&shmds=v1_ATWGeeN88MNm0uyMhyBnnRMvBP_mKEGunl4knl7O_-DkZu5gFQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Emergency+Department+Physician&htidocid=Qxyv8ZsqVS2PJ0UoAAAAAA%3D%3D",
+    "source_name": "Google Jobs",
+    "description_snippet": "Emergency Medicine Physician Opportunity Near San Francisco, CA Are you an Emergency Medicine Physician seeking a fulfilling career opportunity to make a significant impact on patient care? Join our dedicated team at a well-established medical center near San Francisco, CA. We are actively seeking skilled physicians to contribute to our dynamic emergency department.\n\n\nPosition: Physician Emergency Medicine Physician Location: Near San Francisco, CA Position Highlights: Generous Sign-On Bonus: We",
+    "full_description": "Emergency Medicine Physician Opportunity Near San Francisco, CA Are you an Emergency Medicine Physician seeking a fulfilling career opportunity to make a significant impact on patient care? Join our dedicated team at a well-established medical center near San Francisco, CA. We are actively seeking skilled physicians to contribute to our dynamic emergency department.\n\n\nPosition: Physician Emergency Medicine Physician Location: Near San Francisco, CA Position Highlights: Generous Sign-On Bonus: We offer a generous sign-on bonus, recognizing and valuing your commitment to providing exceptional patient care.\n\n\nFlexible Shifts: Enjoy flexibility with a mix of 8, 9, and 10-hour shifts, providing a work schedule that accommodates your lifestyle. W2 or Independent Contractor Status: Choose the employment status that aligns with your preferences and professional goals.\n\n\nProfessional Liability Coverage: Benefit from paid professional liability insurance with tail coverage, ensuring comprehensive coverage and peace of mind. Well-Established Leadership Team: Work alongside a well-established leadership team that prioritizes the development of your skills and fosters a supportive environment of care.\n\n\nEmergency Department Details: 43-Bed ED Plus Fast Track: Join a dynamic team providing care in a well-equipped emergency department with 43 beds plus a fast track area.\n\n\nDaily Physician Coverage: Benefit from 70 hours of daily physician coverage, ensuring optimal support and collaboration.\n\n\nDaily APC Coverage: Enjoy 70 hours of daily Advanced Practice Clinician (APC) coverage, enhancing the efficiency and quality of patient care.\n\n\nProfessional Community and Resources: Join a Nationwide Community: Access an extensive community of thousands of professionals, providing opportunities to share and shape best practices.\n\n\nClinical Resources: Benefit from a nationwide collection of tools and clinical resources, fostering a collaborative environment for clinicians to provide the best care for their patients.\n\n\nHow to Apply: If you are a trained Emergency Medicine Physician, board certified or board eligible, and are eager to contribute to a dynamic healthcare environment, we invite you to apply. Please reference Job ID #j-190478. Join us in making a positive impact on patient care and shaping the future of emergency medicine near San Francisco, CA. Apply today and take the first step toward a rewarding and fulfilling career with us!",
+    "date_found": "2026-04-24",
+    "date_last_seen": "2026-04-29",
+    "status": "active",
+    "is_new": false,
+    "red_flags": [],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "1071b2d8e942",
+    "title": "Emergency Medicine Physician",
+    "employer": "Waterbury Hospital",
+    "location": "Waterbury, CT",
+    "location_region": "Stamford, CT",
+    "location_priority": 5,
+    "salary": "$100,000 Sign-On bonus mentioned, base salary not listed",
+    "salary_numeric": null,
+    "institution_type": "Trauma Level II",
+    "schedule_type": "Unclear",
+    "is_nocturnist_only": false,
+    "match_confidence": "Medium",
+    "analysis_notes": "This is a Level II Trauma Center in Connecticut with high-acuity cases and good trauma exposure. While not in Stamford specifically, it's in the same state and offers the advanced clinical environment the candidate likely seeks. Salary not listed but mentions $100,000 sign-on bonus suggesting competitive compensation.",
+    "source_url": "https://www.google.com/search?ibp=htl;jobs&q=Emergency+Department+Physician&htidocid=NlrrwJeFOFPLWnfJAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_0WOvQrCMBSFce0j6HIHJ-lPFFx0lKIIRUHBwUHSeEkjaW7ITaF9Ml_PdnI5HD44fCf5zpLnci1EKoSAm9EuuzjI4CEjhroLA5yIvYnSjrBsMWh0aoAK30YZh3BtBh6bnDZnqoFRBtUAOTgSaYvzfROj511RMNtcc5TRqFxRW5DDmvriQzVP8eJGBvR29L42W9Hn3unVoqwCqtCZyGDc_1QKh_sP4d-eKLoAAAA&shmds=v1_ATWGeeM5SyQJrM-wyNM2CaueooPY3gzBZQsNKNRfIlbr0gXDOw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Emergency+Department+Physician&htidocid=NlrrwJeFOFPLWnfJAAAAAA%3D%3D",
+    "source_name": "Google Jobs",
+    "description_snippet": "Waterbury Hospital \u2013 Western Connecticut\n\nEmergency Medicine Physician | Highest-Acuity Site | Trauma Exposure | Advanced Clinical Practice\n\nPractice Profile\n\nWaterbury Hospital represents the most clinically intense Emergency Medicine environment within the system and is best suited for physicians seeking trauma exposure, high procedural volume, and complex pathology.\n\nThis site delivers advanced emergency and trauma care with a faster pace and higher acuity than other regional locations, offer",
+    "full_description": "Waterbury Hospital \u2013 Western Connecticut\n\nEmergency Medicine Physician | Highest-Acuity Site | Trauma Exposure | Advanced Clinical Practice\n\nPractice Profile\n\nWaterbury Hospital represents the most clinically intense Emergency Medicine environment within the system and is best suited for physicians seeking trauma exposure, high procedural volume, and complex pathology.\n\nThis site delivers advanced emergency and trauma care with a faster pace and higher acuity than other regional locations, offering an excellent setting for physicians who want to maintain and sharpen advanced clinical skills.\n\nPractice Environment\n\nThe emergency department manages a wide spectrum of high-acuity medical, surgical, and traumatic presentations, including critical care-level patients. Clinical volume and pace are meaningfully higher than other sites, providing consistent exposure to complex cases. Physicians practice within a provider-led model that balances high clinical intensity with structured staffing and operational support.\n\nED Snapshot\n\u2022 Hospital Type: 357-bed acute-care hospital (225 staffed beds)\n\u2022 Annual ED Volume: ~44,000\u201355,000 visits\n\u2022 Trauma Designation: ACS Level II Trauma Center\n\u2022 Physician Coverage: ~34 hours per day\n\u2022 APP Coverage: ~36 hours per day\n\nLiving & Commute Patterns\n\nMost physicians choose to live outside the city in nearby suburban communities such as Cheshire, Middlebury, Southbury, or Oxford, offering strong school systems, quieter neighborhoods, and a more relaxed home environment with a reasonable commute.\n\nRegional Access\n\u2022 New Haven: ~35\u201340 minutes\n\u2022 Hartford: ~1 hour\n\u2022 New York City: ~1.75\u20132 hours (Metro-North access nearby)\n\u2022 Boston: ~2.5 hours\n\nBest suited for:\n\nPhysicians seeking high-acuity emergency medicine, trauma exposure, advanced procedures, and a clinically rigorous environment while maintaining suburban living options outside the city.\n\nApply Today\n\nWe are actively accepting CVs and scheduling confidential interviews.\n\u2022 Apply Online\n\u2022 Send CV: info@emrecruits.com\n\u2022 Contact: Bill Masters, 940-368-0761 (call for details or to arrange a phone/on-site interview)",
+    "date_found": "2026-04-10",
+    "date_last_seen": "2026-04-29",
+    "status": "active",
+    "is_new": false,
+    "red_flags": [],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "2e68f9196b2a",
+    "title": "Emergency Medicine Physician",
+    "employer": "MidState Medical Center",
+    "location": "New Haven, CT",
+    "location_region": "Stamford, CT",
+    "location_priority": 5,
+    "salary": "Not listed",
+    "salary_numeric": null,
+    "institution_type": "Community Hospital",
+    "schedule_type": "Unclear",
+    "is_nocturnist_only": false,
+    "match_confidence": "Medium",
+    "analysis_notes": "Connecticut location matches Priority 5 preference. No salary listed but mentions sign-on bonus of $60-100k. Community hospital with good patient satisfaction metrics and sustainable clinical pace sounds promising for work-life balance.",
+    "source_url": "https://www.google.com/search?ibp=htl;jobs&q=Emergency+Department+Physician&htidocid=cAvIVDfWYVaPlWfzAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_yWOwQrCMBBE8dpP0MueRVsRvOixFEWoCAoeS5quaSTdLdmo7cf5b0a8PAZmmJnkM0nUDSXAQflwZ9_AEkrbXIIKCCU2VisHOVJAH52iQ2-Q9Pi3LCGc21GiUgRHrmPkR0HldQtMsGc2Dqe7NoRetlkm4lIjsdzqVHOXMWHNQ_bgWn6opFUeexfHq_VmNaQ9mfmsKD1q_7RBwBKc8B3PvpAWkF-_nECxcMAAAAA&shmds=v1_ATWGeeNF03Yufv6hArzgNSW7y9zF7xWvMKgOTG_S_lVOd76Qag&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Emergency+Department+Physician&htidocid=cAvIVDfWYVaPlWfzAAAAAA%3D%3D",
+    "source_name": "Google Jobs",
+    "description_snippet": "MidState Medical Center - Central Connecticut Emergency Medicine Physician Live in Cheshire | Wallingford | Southington | West Hartford MidState Medical Center offers an ideal blend of modern emergency medicine and Central Connecticut lifestyle. Physicians practice in a well-supported emergency department with a sustainable clinical pace while living in some of the state's most desirable suburban communities. You'll join a provider-led emergency medicine team delivering state-of-the-art care tha",
+    "full_description": "MidState Medical Center - Central Connecticut Emergency Medicine Physician Live in Cheshire | Wallingford | Southington | West Hartford MidState Medical Center offers an ideal blend of modern emergency medicine and Central Connecticut lifestyle. Physicians practice in a well-supported emergency department with a sustainable clinical pace while living in some of the state's most desirable suburban communities. You'll join a provider-led emergency medicine team delivering state-of-the-art care that consistently ranks in the top tier nationally for patient satisfaction, maintains below-average provider patients per hour, and continues to expand local market presence\u2014even in regions where larger national organizations struggle.\n\n\nSign-on bonus opportunity ranging from approximately $60,000 to $100,000, based on experience and commitment This is a data-informed, quality-driven practice committed to continuous improvement in patient outcomes, efficiency, and long-term physician satisfaction. Community & Location Physicians commonly live in Cheshire, Wallingford, Southington, and West Hartford, communities known for top-rated schools, vibrant dining scenes, and strong sense of community. We are actively accepting CVs and scheduling confidential interviews.\n\n\nApply Online Bill\nMasters, (call for details or to arrange a phone/on-site interview) ?#",
+    "date_found": "2026-04-25",
+    "date_last_seen": "2026-04-29",
+    "status": "active",
+    "is_new": false,
+    "red_flags": [],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "fadf87d4bcdb",
+    "title": "Emergency Medicine Physician",
+    "employer": "Physician-owned emergency medicine group (via EMrecruits, LLC)",
+    "location": "Waterbury, CT",
+    "location_region": "Stamford, CT",
+    "location_priority": 5,
+    "salary": "Not listed",
+    "salary_numeric": null,
+    "institution_type": "Private Hospital Group",
+    "schedule_type": "Unclear",
+    "is_nocturnist_only": false,
+    "match_confidence": "Medium",
+    "analysis_notes": "Physician-owned democratic group treating 220k+ patients across seven EDs with partnership track and $100k sign-on bonus. Located in Waterbury, CT which is reasonably close to candidate's Stamford, CT preference area. Salary not specified but mentions competitive compensation with productivity incentives.",
+    "source_url": "https://www.google.com/search?ibp=htl;jobs&q=Emergency+Department+Physician&htidocid=y4FNU8aFMTkRyrXoAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCMBBAce0nON0s2ojgomMpBWnRQXAsSTySSHsXcim0f-RnWpfHGx6v-G6KpmIitDnYKUM9YnJIdoEO38EGQnj4RVbTBPeIFMjBAW5sQFAn64EJGmY34Pbqc45yUUpkKJ1kvS5Ly6NiQsOz-rCRP3rxOmEcdMb-dD7OZSS3g7pLaNMUsuyhbSsIBK-1SGZKyx6q5w-S0qCBqwAAAA&shmds=v1_ATWGeeNUkpqSwh6c-1sx_h_WH3bL44sF9cIyBY4ZK8y66Xf4CA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Emergency+Department+Physician&htidocid=y4FNU8aFMTkRyrXoAAAAAA%3D%3D",
+    "source_name": "Google Jobs",
+    "description_snippet": "Join a physician-owned and managed emergency medicine group in Connecticut \u2014 currently seeking BC/BE Emergency Medicine residency-trained physicians for both full-time and part-time opportunities. We are committed to quality care, innovation, and physician autonomy. Our door-to-doctor times are best in class and patient satisfaction scores rank in the top percentiles,\n\nWhy this is a standout opportunity\n\u2022 $100,000 sign-on bonus for full-time hires\n\u2022 Competitive compensation package with producti",
+    "full_description": "Join a physician-owned and managed emergency medicine group in Connecticut \u2014 currently seeking BC/BE Emergency Medicine residency-trained physicians for both full-time and part-time opportunities. We are committed to quality care, innovation, and physician autonomy. Our door-to-doctor times are best in class and patient satisfaction scores rank in the top percentiles,\n\nWhy this is a standout opportunity\n\u2022 $100,000 sign-on bonus for full-time hires\n\u2022 Competitive compensation package with productivity incentives and tenure-based increases\n\u2022 Clear partnership track in a democratic, physician-led model \u2014 where clinicians make the decisions, not corporate executives. The group delivers care across seven emergency departments, treating over 220,000 patients annually\n\u2022 Full benefits: health, dental, vision, 401(k), CME allowance, malpractice coverage\n\nLifestyle & Location\n\nDiscover life in Connecticut \u2014 a region that\u2019s as desirable professionally as it is personally:\n\u2022 You\u2019ll experience true four-season living: from coastal summers on the Long Island Sound, to fall foliage in New England hills, to nearby skiing and snow-shoeing in Vermont.\n\u2022 Easy access to major metropolitan hubs: within comfortable reach of both New York City and Boston, giving you the best of city amenities and suburban or small-town ease.\n\u2022 A family-friendly environment: Connecticut is consistently highlighted for its top-rated public schools, strong healthcare infrastructure and safe, scenic communities.\n\u2022 Outdoor opportunities abound: walkable historic towns, waterfront beaches, hiking and biking trails, and charming rural escapes are all within reach.\n\u2022 For those who value work-life balance: you\u2019ll be able to enjoy time off in exquisitely beautiful settings (think New England coastline at sunset, ski weekends, apple-picking in fall) without sacrificing professional challenges and growth.\n\n???? Apply Today\n\nWe are actively accepting CVs and scheduling confidential interviews.\n\u2022 Apply Online\n\u2022 Send CV: info@emrecruits.com\n\u2022 Contact: Bill Masters, 940-368-0761 (call for details or to arrange a phone/on-site interview)\n\u2022 hec*\n\n\ufeff#EM",
+    "date_found": "2026-04-10",
+    "date_last_seen": "2026-04-29",
+    "status": "active",
+    "is_new": false,
+    "red_flags": [],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "6608e664b409",
+    "title": "Emergency Medicine Physicians- Academic and Community EM",
+    "employer": "Baystate Health",
+    "location": "Springfield, MA",
+    "location_region": "Boston, MA",
+    "location_priority": 6,
+    "salary": "$285,000-$460,000",
+    "salary_numeric": 372500,
+    "institution_type": "Academic Medical Center",
+    "schedule_type": "Unclear",
+    "is_nocturnist_only": false,
+    "match_confidence": "High",
+    "analysis_notes": "Strong academic position at UMass-affiliated medical center with excellent salary range that exceeds minimum requirements. Offers flexibility between academic and community ED work with robust benefits and research opportunities.",
+    "source_url": "https://www.google.com/search?ibp=htl;jobs&q=Emergency+Department+Physician&htidocid=SHEOyVJtSx19cjl0AAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_12NwUoDQRBE8ZpP8FRnMbsS8aKnGIISWAj4AWF2pp1pmelepich-6N-j5url6IOr16tfu9W475QjSR-xkCBPQvhmGZbmhNbY-tdoMIeTgJ2WspZuM3YD3AN72625hrhk1xuCWscdISRqz5BBR-qMdP9W2ptste-N8tdvC3Yd15Lr0KjXvsfHe0WJ0uu0pQX42nz8nTtJokPz_9PjlUvHKhit8BUDSz4mipL_GbK4RHD9g8FX8xZ2QAAAA&shmds=v1_ATWGeeNSqxoX5sVHc0hUOQ7777sWwiQp_yaDLUYQ21Ri8vv3Cw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Emergency+Department+Physician&htidocid=SHEOyVJtSx19cjl0AAAAAA%3D%3D",
+    "source_name": "Google Jobs",
+    "description_snippet": "Baystate Health is a not-for-profit, integrated healthcare system in western Massachusetts which consists of an academic medical center, Baystate Children\u2019s Hospital, three community hospitals and the region\u2019s largest multispecialty group. Our flagship hospital, Baystate Medical Center, is home to the University of Massachusetts Chan Medical School-Baystate.\n\nEMERGENCY MEDICINE HIGHLIGHTS:\n\u2022 Our Department of EM consists of 40+ attendings, 30+ APPs, residents, fellows, medical students, and supp",
+    "full_description": "Baystate Health is a not-for-profit, integrated healthcare system in western Massachusetts which consists of an academic medical center, Baystate Children\u2019s Hospital, three community hospitals and the region\u2019s largest multispecialty group. Our flagship hospital, Baystate Medical Center, is home to the University of Massachusetts Chan Medical School-Baystate.\n\nEMERGENCY MEDICINE HIGHLIGHTS:\n\u2022 Our Department of EM consists of 40+ attendings, 30+ APPs, residents, fellows, medical students, and support teams across academic and community EDs in our integrated health system.\n\u2022 Craft your ideal position- 100% academic, 100% community, or a blend.\n\u2022 Baystate Medical Center (BMC) in Springfield MA is home to one of the busiest EDs in Massachusetts and the east coast. We serve over 122,000 adult and pediatric patients annually. Our 72,000 square foot ED is equipped with 94 private rooms, separate pediatric ED, separate behavioral health rooms and top-of-the-line technology.\n\u2022 Our community EDs in Palmer, Westfield and Greenfield MA each care for >33,000 patients annually with strong subspecialty support onsite and at nearby BMC. APPs run fast tracks.\n\u2022 Academic positions include a faculty appointment at UMass-Chan Baystate and strong involvement with our 48 residents as well as fellows in pediatric emergency medicine, research, wilderness medicine, administration, medical education, EMS, health equity, wellness, and ultrasound.\n\u2022 Strong support for clinical and health services research plus state-of-the-art simulation programs.\n\u2022 Qualifications: ABMS BE or BC Emergency Medicine, fellowship desired for academic positions. EMS fellowship particularly desired.\n\u2022 The compensation range listed below represents the base salaries for all positions at a given grade across the health system. Typically, a new hire can expect a starting salary somewhere in the lower part of the range. Actual salaries may vary by position and will be determined based on the candidate\u2019s relevant experience. No employee will be paid below the minimum of the range. Pay ranges are listed as hourly for non-exempt employees and based on assumed full time commitment for exempt employees. Minimum= $285,000. Maximum= $460,000.\n\nTHE ADVANTAGES OF WORKING WITH BAYSTATE:\n\u2022 Compensation plan includes base salary and opportunity to earn incentive bonuses\n\u2022 Robust relocation package\n\u2022 Flexibility- opportunities to flex your FTE to fit your life\n\u2022 Transparent and equitable promotional practices\n\u2022 Immediate access to paid time off\n\u2022 Lucrative 403b match and 457b plan\n\u2022 Professional development and mentorship\n\u2022 Wellbeing programs that include mental, physical, and financial health and more\n\nAt Baystate Health, we believe that treating one another with dignity and fairness is what elevates respect for our patients and staff. We are committed to ensuring opportunity and inclusion for everyone through equitable policies, practices, and procedures and creating a workforce that is reflective of the communities we serve.\n\nFor more information please contact:\nSeth Gemme, MD, Chair of Emergency Medicine\nC/O Melissa Hale, Senior Physician Recruiter\n413-794-2624 or melissa.hale@baystatehealth.org",
+    "date_found": "2026-04-10",
+    "date_last_seen": "2026-04-29",
+    "status": "active",
+    "is_new": false,
+    "red_flags": [],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "4a4bee2471d9",
+    "title": "Emergency Medicine Faculty",
+    "employer": "Baystate Medical Center",
+    "location": "Springfield, MA",
+    "location_region": "Boston, MA",
+    "location_priority": 6,
+    "salary": "Not listed",
+    "salary_numeric": null,
+    "institution_type": "Academic Medical Center",
+    "schedule_type": "Unclear",
+    "is_nocturnist_only": false,
+    "match_confidence": "Medium",
+    "analysis_notes": "Academic faculty position at Baystate Medical Center in Springfield, MA, which falls within the Boston region preference. While salary is not listed, the academic nature and location make this a reasonable fit, though more details on compensation and schedule would be needed.",
+    "source_url": "https://jobs.practicelink.com/jobs/1490181/emergency-medicine/physician/massachusetts/baystate-medical-center/",
+    "source_name": "PracticeLink",
+    "description_snippet": "MA | Employer Direct | Emergency Medicine Faculty- Baystate Health | Baystate Medical Center | part of | Baystate Health | Springfield, MA | Physician-Emergency Medicine | Full-Time | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | ",
+    "full_description": "MA | Employer Direct | Emergency Medicine Faculty- Baystate Health | Baystate Medical Center | part of | Baystate Health | Springfield, MA | Physician-Emergency Medicine | Full-Time | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1490181 | Emergency Medicine Faculty- Baystate Health | Baystate Medical Center | Springfield, MA | Undo",
+    "date_found": "2026-04-10",
+    "date_last_seen": "2026-04-29",
+    "status": "active",
+    "is_new": false,
+    "red_flags": [],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "5bbae10a9e53",
+    "title": "Emergency Medicine Physician",
+    "employer": "Sturdy Health",
+    "location": "Attleboro, MA",
+    "location_region": "Boston, MA",
+    "location_priority": 6,
+    "salary": "$205/hour",
+    "salary_numeric": 426400,
+    "institution_type": "Community Hospital",
+    "schedule_type": "Unclear",
+    "is_nocturnist_only": false,
+    "match_confidence": "Medium",
+    "analysis_notes": "Community hospital position in Boston area with $205/hour rate (approximately $427K annually for full-time). Listed as part-time but hourly rate suggests competitive compensation if full-time hours available.",
+    "source_url": "https://jobs.practicelink.com/jobs/1397786/emergency-medicine/physician/massachusetts/sturdy-health/",
+    "source_name": "PracticeLink",
+    "description_snippet": "MA | Employer Direct | Gratifying Community Emergency Medicine in Attleboro, MA | Sturdy Health | part of | Sturdy Health | Attleboro, MA | Physician-Emergency Medicine | Part-Time | Salary Range: From $205 an hour | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Si",
+    "full_description": "MA | Employer Direct | Gratifying Community Emergency Medicine in Attleboro, MA | Sturdy Health | part of | Sturdy Health | Attleboro, MA | Physician-Emergency Medicine | Part-Time | Salary Range: From $205 an hour | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1397786 | Gratifying Community Emergency Medicine in Attleboro, MA | Sturdy Health | Attleboro, MA | Undo",
+    "date_found": "2026-04-10",
+    "date_last_seen": "2026-04-29",
+    "status": "active",
+    "is_new": false,
+    "red_flags": [
+      "Part-time position may not meet full-time requirement"
+    ],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "2d205212c023",
+    "title": "Physician - Emergency Medicine",
+    "employer": "Mercy Medical Center - Springfield (Vituity)",
+    "location": "Springfield, MA",
+    "location_region": "Boston, MA",
+    "location_priority": 6,
+    "salary": "Not listed",
+    "salary_numeric": null,
+    "institution_type": "Community Hospital",
+    "schedule_type": "Unclear",
+    "is_nocturnist_only": false,
+    "match_confidence": "Medium",
+    "analysis_notes": "Emergency Medicine attending position at Mercy Medical Center in Springfield, MA with up to $100K sign-on bonus. The job description lacks detail about salary, schedule, and institution specifics, but appears to be a standard EM attending role. Location matches Priority 6 preference for Boston, MA area.",
+    "source_url": "https://jobs.practicelink.com/jobs/1491272/emergency-medicine/physician/massachusetts/mercy-medical-center-springfield/",
+    "source_name": "PracticeLink",
+    "description_snippet": "MA | Employer Direct | Physician - Emergency Medicine - Up to $100K Sign On Bonus! - Mercy Medical Center - Springfield | Mercy Medical Center - Springfield | part of | Vituity | Springfield, MA | Physician-Emergency Medicine | Other | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Cre",
+    "full_description": "MA | Employer Direct | Physician - Emergency Medicine - Up to $100K Sign On Bonus! - Mercy Medical Center - Springfield | Mercy Medical Center - Springfield | part of | Vituity | Springfield, MA | Physician-Emergency Medicine | Other | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1491272 | Physician - Emergency Medicine - Up to $100K Sign On Bonus! - Mercy Medical Center - Springfield | Mercy Medical Center - Springfield | Springfield, MA | Undo",
+    "date_found": "2026-04-10",
+    "date_last_seen": "2026-04-29",
+    "status": "active",
+    "is_new": false,
+    "red_flags": [],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "4fa24c58eb5c",
+    "title": "Emergency Medicine Physician",
+    "employer": "Bakersfield Memorial Hospital / Vituity",
+    "location": "Bakersfield, CA",
+    "location_region": "California Coast",
+    "location_priority": 2,
+    "salary": "Not listed",
+    "salary_numeric": null,
+    "institution_type": "Community Hospital",
+    "schedule_type": "Unclear",
+    "is_nocturnist_only": false,
+    "match_confidence": "Medium",
+    "analysis_notes": "Position in California with $100K sign-on bonus suggests competitive compensation. Vituity is a physician-owned group, which is positive. Limited details about schedule and exact salary, but location fits Priority 2 preferences.",
+    "source_url": "https://jobs.practicelink.com/jobs/1516835/emergency-medicine/physician/california/bakersfield-memorial-hospital/",
+    "source_name": "PracticeLink",
+    "description_snippet": "CA | Employer Direct | Physician - Emergency Medicine - Up to $100K Sign On Bonus! - Bakersfield Memorial Hospital | Bakersfield Memorial Hospital | part of | Vituity | Bakersfield, CA | Physician-Emergency Medicine | Other | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Acc",
+    "full_description": "CA | Employer Direct | Physician - Emergency Medicine - Up to $100K Sign On Bonus! - Bakersfield Memorial Hospital | Bakersfield Memorial Hospital | part of | Vituity | Bakersfield, CA | Physician-Emergency Medicine | Other | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1516835 | Physician - Emergency Medicine - Up to $100K Sign On Bonus! - Bakersfield Memorial Hospital | Bakersfield Memorial Hospital | Bakersfield, CA | Undo",
+    "date_found": "2026-04-29",
+    "date_last_seen": "2026-04-29",
+    "status": "active",
+    "is_new": true,
+    "red_flags": [],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "0ef0af571fcf",
+    "title": "Emergency Medicine Physician",
+    "employer": "Fresno VA Medical Center",
+    "location": "Fresno, CA",
+    "location_region": "California Coast",
+    "location_priority": 2,
+    "salary": "$220,000-$400,000",
+    "salary_numeric": 310000,
+    "institution_type": "Community Hospital",
+    "schedule_type": "Unclear",
+    "is_nocturnist_only": false,
+    "match_confidence": "Medium",
+    "analysis_notes": "VA position in California with competitive salary range that meets minimum requirements. Fresno is inland California but still within the broader California region. Limited schedule details provided but no indication of nocturnist-only role.",
+    "source_url": "https://jobs.practicelink.com/jobs/1558323/emergency-medicine/physician/california/fresno-ca-veterans-affairs-medical-center/",
+    "source_name": "PracticeLink",
+    "description_snippet": "CA | Employer Direct | Embrace Work-Life Balance as an Emergency Medicine Physician at Fresno VA | Fresno, CA Veterans Affairs Medical Center | part of | Veterans Health Administration | Fresno, CA | Physician-Emergency Medicine | Full-Time | Salary Range: $220,000 - $400,000 a year | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view jo",
+    "full_description": "CA | Employer Direct | Embrace Work-Life Balance as an Emergency Medicine Physician at Fresno VA | Fresno, CA Veterans Affairs Medical Center | part of | Veterans Health Administration | Fresno, CA | Physician-Emergency Medicine | Full-Time | Salary Range: $220,000 - $400,000 a year | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1558323 | Embrace Work-Life Balance as an Emergency Medicine Physician at Fresno VA | Fresno, CA Veterans Affairs Medical Center | Fresno, CA | Undo",
+    "date_found": "2026-04-12",
+    "date_last_seen": "2026-04-29",
     "status": "active",
     "is_new": false,
     "red_flags": [],
@@ -47,7 +324,7 @@
     "status": "active",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "d4cbfa1d699e",
@@ -70,9 +347,9 @@
     "date_found": "2026-04-27",
     "date_last_seen": "2026-04-27",
     "status": "active",
-    "is_new": true,
+    "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "f32fca09eb0f",
@@ -95,9 +372,9 @@
     "date_found": "2026-04-27",
     "date_last_seen": "2026-04-27",
     "status": "active",
-    "is_new": true,
+    "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "27d207f5bc9a",
@@ -120,9 +397,9 @@
     "date_found": "2026-04-27",
     "date_last_seen": "2026-04-27",
     "status": "active",
-    "is_new": true,
+    "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "603f22f422fc",
@@ -147,7 +424,7 @@
     "status": "active",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "a815ed8c7cde",
@@ -172,7 +449,7 @@
     "status": "active",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "3304dbb50824",
@@ -197,7 +474,7 @@
     "status": "active",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "c96575e5c89a",
@@ -222,7 +499,7 @@
     "status": "active",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "6228687c9b1d",
@@ -247,7 +524,7 @@
     "status": "active",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "5d2324d9ee36",
@@ -272,7 +549,7 @@
     "status": "active",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "3a9a8943beee",
@@ -297,32 +574,7 @@
     "status": "active",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "0ef0af571fcf",
-    "title": "Emergency Medicine Physician",
-    "employer": "Fresno VA Medical Center",
-    "location": "Fresno, CA",
-    "location_region": "California Coast",
-    "location_priority": 2,
-    "salary": "$220,000-$400,000",
-    "salary_numeric": 310000,
-    "institution_type": "Community Hospital",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Medium",
-    "analysis_notes": "VA position in California with competitive salary range that meets minimum requirements. Fresno is inland California but still within the broader California region. Limited schedule details provided but no indication of nocturnist-only role.",
-    "source_url": "https://jobs.practicelink.com/jobs/1558323/emergency-medicine/physician/california/fresno-ca-veterans-affairs-medical-center/",
-    "source_name": "PracticeLink",
-    "description_snippet": "CA | Employer Direct | Embrace Work-Life Balance as an Emergency Medicine Physician at Fresno VA | Fresno, CA Veterans Affairs Medical Center | part of | Veterans Health Administration | Fresno, CA | Physician-Emergency Medicine | Full-Time | Salary Range: $220,000 - $400,000 a year | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view jo",
-    "full_description": "CA | Employer Direct | Embrace Work-Life Balance as an Emergency Medicine Physician at Fresno VA | Fresno, CA Veterans Affairs Medical Center | part of | Veterans Health Administration | Fresno, CA | Physician-Emergency Medicine | Full-Time | Salary Range: $220,000 - $400,000 a year | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1558323 | Embrace Work-Life Balance as an Emergency Medicine Physician at Fresno VA | Fresno, CA Veterans Affairs Medical Center | Fresno, CA | Undo",
-    "date_found": "2026-04-12",
-    "date_last_seen": "2026-04-27",
-    "status": "active",
-    "is_new": false,
-    "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "5ab2f498b1c8",
@@ -347,84 +599,7 @@
     "status": "active",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "4a4bee2471d9",
-    "title": "Emergency Medicine Faculty",
-    "employer": "Baystate Medical Center",
-    "location": "Springfield, MA",
-    "location_region": "Boston, MA",
-    "location_priority": 6,
-    "salary": "Not listed",
-    "salary_numeric": null,
-    "institution_type": "Academic Medical Center",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Medium",
-    "analysis_notes": "Academic faculty position at Baystate Medical Center in Springfield, MA, which falls within the Boston region preference. While salary is not listed, the academic nature and location make this a reasonable fit, though more details on compensation and schedule would be needed.",
-    "source_url": "https://jobs.practicelink.com/jobs/1490181/emergency-medicine/physician/massachusetts/baystate-medical-center/",
-    "source_name": "PracticeLink",
-    "description_snippet": "MA | Employer Direct | Emergency Medicine Faculty- Baystate Health | Baystate Medical Center | part of | Baystate Health | Springfield, MA | Physician-Emergency Medicine | Full-Time | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | ",
-    "full_description": "MA | Employer Direct | Emergency Medicine Faculty- Baystate Health | Baystate Medical Center | part of | Baystate Health | Springfield, MA | Physician-Emergency Medicine | Full-Time | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1490181 | Emergency Medicine Faculty- Baystate Health | Baystate Medical Center | Springfield, MA | Undo",
-    "date_found": "2026-04-10",
-    "date_last_seen": "2026-04-27",
-    "status": "active",
-    "is_new": false,
-    "red_flags": [],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "5bbae10a9e53",
-    "title": "Emergency Medicine Physician",
-    "employer": "Sturdy Health",
-    "location": "Attleboro, MA",
-    "location_region": "Boston, MA",
-    "location_priority": 6,
-    "salary": "$205/hour",
-    "salary_numeric": 426400,
-    "institution_type": "Community Hospital",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Medium",
-    "analysis_notes": "Community hospital position in Boston area with $205/hour rate (approximately $427K annually for full-time). Listed as part-time but hourly rate suggests competitive compensation if full-time hours available.",
-    "source_url": "https://jobs.practicelink.com/jobs/1397786/emergency-medicine/physician/massachusetts/sturdy-health/",
-    "source_name": "PracticeLink",
-    "description_snippet": "MA | Employer Direct | Gratifying Community Emergency Medicine in Attleboro, MA | Sturdy Health | part of | Sturdy Health | Attleboro, MA | Physician-Emergency Medicine | Part-Time | Salary Range: From $205 an hour | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Si",
-    "full_description": "MA | Employer Direct | Gratifying Community Emergency Medicine in Attleboro, MA | Sturdy Health | part of | Sturdy Health | Attleboro, MA | Physician-Emergency Medicine | Part-Time | Salary Range: From $205 an hour | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1397786 | Gratifying Community Emergency Medicine in Attleboro, MA | Sturdy Health | Attleboro, MA | Undo",
-    "date_found": "2026-04-10",
-    "date_last_seen": "2026-04-27",
-    "status": "active",
-    "is_new": false,
-    "red_flags": [
-      "Part-time position may not meet full-time requirement"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "2d205212c023",
-    "title": "Physician - Emergency Medicine",
-    "employer": "Mercy Medical Center - Springfield (Vituity)",
-    "location": "Springfield, MA",
-    "location_region": "Boston, MA",
-    "location_priority": 6,
-    "salary": "Not listed",
-    "salary_numeric": null,
-    "institution_type": "Community Hospital",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Medium",
-    "analysis_notes": "Emergency Medicine attending position at Mercy Medical Center in Springfield, MA with up to $100K sign-on bonus. The job description lacks detail about salary, schedule, and institution specifics, but appears to be a standard EM attending role. Location matches Priority 6 preference for Boston, MA area.",
-    "source_url": "https://jobs.practicelink.com/jobs/1491272/emergency-medicine/physician/massachusetts/mercy-medical-center-springfield/",
-    "source_name": "PracticeLink",
-    "description_snippet": "MA | Employer Direct | Physician - Emergency Medicine - Up to $100K Sign On Bonus! - Mercy Medical Center - Springfield | Mercy Medical Center - Springfield | part of | Vituity | Springfield, MA | Physician-Emergency Medicine | Other | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Cre",
-    "full_description": "MA | Employer Direct | Physician - Emergency Medicine - Up to $100K Sign On Bonus! - Mercy Medical Center - Springfield | Mercy Medical Center - Springfield | part of | Vituity | Springfield, MA | Physician-Emergency Medicine | Other | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1491272 | Physician - Emergency Medicine - Up to $100K Sign On Bonus! - Mercy Medical Center - Springfield | Mercy Medical Center - Springfield | Springfield, MA | Undo",
-    "date_found": "2026-04-10",
-    "date_last_seen": "2026-04-27",
-    "status": "active",
-    "is_new": false,
-    "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "65da9d9cabf9",
@@ -446,10 +621,10 @@
     "full_description": "Up to $50K Sign On Bonus \u2013 San Francisco, CA \u2013 Seeking Emergency Medicine Physicians Join the Physician Partnership Where You Can Increase Your Impact Vituity\u2019s ownership model provides autonomy, local control, and a national system of support, so you can focus your attention where you want it to be \u2013 on your patients. Join the Vituity Team. Vituity is a 100% physician-owned partnership and is led by frontline physicians that are all equitable owners. As an equal and valued partner from day one, our ownership model provides you with financial transparency, a comprehensive benefits package including profit distribution, and multiple career development opportunities. Our leadership understands what your practice needs to thrive and gives you autonomy and local control so you can provide care when, where, and how your patients need it. You are backed by a best-in-class corporate healthcare team and supported by the broad peer-level expertise of 6,000 Vituity clinicians. At Vituity we\u2019ve cultivated an environment where passion thrives, and success comes through shared purpose. We were founded in a culture that values team accomplishments more than individual achievements, an approach we call \u201cculture of brilliance.\u201d Together, we leverage our strengths and experiences to make a positive impact in our local communities. We foster this through shared goals and helping our colleagues succeed, and we also understand the importance of recognition, taking the time to show appreciation and gratitude for a job well done. Vituity Locations: Vituity has opportunities at 890 practices across the country, serving 14.5 million patients a year. With Vituity, if you ever need to move, you can take your job with you. The OpportunityUp to $50k sign-on bonus for qualified candidates.Seeking Board Eligible/Certified Emergency Medicine physicians.AAPS physicians with ED experience will be considered.Current CA state license is a plus.Full time, part time, and per diem opportunities available.Provider\u2019s will be cross credentialed at UCSF Health St. Mary\u2019s Hospital and UCSF Health Saint Francis Hospital. The PracticeUCSF Health St. Mary's Hospital \u2013 San Francisco, California403-bed facility and a STEMI Receiving Center.13-bed Emergency Department in an urban environment.Annual volume of 16,000 with a 20-25% admit rate.Good payer mix.Vituity-staffed Emergency Department, GME, and Psych including adolescent psychiatry offer integrated care solutions at this site! The CommunitySan Francisco, California, is a city of iconic landmarks, cultural diversity, and unparalleled charm, making it an extraordinary place to live and work.Known for the Golden Gate Bridge, Alcatraz Island, and historic cable cars, the city offers breathtaking sights and a vibrant urban lifestyle.Residents enjoy world-class museums like the de Young and SFMOMA, while outdoor enthusiasts explore Golden Gate Park or hike the trails at Lands\u2019 End.The neighborhoods, from bustling Chinatown to the artsy Mission District, offer unique dining and cultural experiences.San Francisco\u2019s cool, foggy climate creates a distinct atmosphere, earning it the nickname \u201cThe City by the Bay.\u201dIts location provides easy access to Napa Valley, Silicon Valley, and coastal adventures.With a passionate sports culture, including teams like the Giants and 49ers, San Francisco is a city that inspires and energizes. Benefits & Beyond*Vituity cares about the whole you. With our comprehensive compensation and benefits package, we are mindful of what matters most, and support your needs of today and your plans for the future.Superior Health Plan OptionsDental, Vision, HSA, life and AD&D coverage, and morePartnership models allows a K-1 status pay structure, allowing high tax deductionsExtraordinary 401K Plan with high tax reduction and faster balance growthEligible to receive an Annual Profit Distribution/yearly cash bonusEAP and travel assistance includedStudent loan refinancing discountsPurpose-driven culture focused on improving the lives of our patients, communities, and employees We are unified around the common purpose of transforming healthcare to improve lives and we believe everyone has a role to play in that. When we work together across sites and specialties as an integrated healthcare team, we exceed the expectations of our patients and the hospitals and clinics we work in. If you are looking to make a difference, from clinical to corporate, Vituity is the place to do it. Come grow with us. Vituity does not discriminate against any person on the basis of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information (including family medical history), veteran status, marital status, pregnancy or related condition, or any other basis protected by law. Vituity is committed to complying with all applicable national, state and local laws pertaining to nondiscrimination and equal opportunity. *Visa status applicants benefits vary. Please speak to a recruiter for more details. Applicants only. No agencies please.",
     "date_found": "2026-04-10",
     "date_last_seen": "2026-04-26",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "5a399cfec917",
@@ -471,35 +646,10 @@
     "full_description": "We are seeking a dedicated Emergency Medicine Physician to join our team in Hayward, California.\n\nResponsibilities include providing high-quality emergency care to patients of all ages, performing thorough assessments, and making prompt, accurate diagnoses.\n\nManage acute medical conditions, coordinate with multidisciplinary teams, and ensure patient safety and comfort.\n\nMust demonstrate excellent clinical skills, strong decision-making abilities, and the ability to work efficiently in a fast-paced environment.\n\nAdditional duties involve documentation, patient education, and adherence to hospital protocols.\n\nBenefits include competitive compensation, comprehensive health insurance, retirement plans, paid time off, and opportunities for professional development.",
     "date_found": "2026-04-26",
     "date_last_seen": "2026-04-26",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 1
-  },
-  {
-    "id": "c842e6458d36",
-    "title": "Emergency Medicine Physician",
-    "employer": "Hayman Daugherty Associates",
-    "location": "San Francisco, CA",
-    "location_region": "Bay Area, CA",
-    "location_priority": 1,
-    "salary": "Not listed",
-    "salary_numeric": null,
-    "institution_type": "Community Hospital",
-    "schedule_type": "Mixed",
-    "is_nocturnist_only": false,
-    "match_confidence": "Medium",
-    "analysis_notes": "This is a strong geographic match in the Bay Area with flexible scheduling options (8, 9, and 10-hour shifts). The 43-bed ED with fast track suggests a decent-sized facility, though salary information is not provided which makes full evaluation difficult.",
-    "source_url": "https://www.google.com/search?ibp=htl;jobs&q=Emergency+Department+Physician&htidocid=Qxyv8ZsqVS2PJ0UoAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_22PPQoCQQyFsd0jWKUW3RHBRivxF0FY8ACSHePMyG6yTEZwL-w5HK0sbAL53gvvpXgNikflew02IIOBbUvREdseTnTNkCnDNTbhJpED5qWi2CITp__uo9QQ-Pdk8mVKGK0HYdiLuIaGS59SpwtjVJvSacIUbGmlNcJUy9PcpdbPuKjHSF2DiS6z-fRZduxG0wP2uQVs8OE8xdTDSlXyD4n0E3_O2i4i26BWxrBevQEMDKkY6QAAAA&shmds=v1_ATWGeeN88MNm0uyMhyBnnRMvBP_mKEGunl4knl7O_-DkZu5gFQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Emergency+Department+Physician&htidocid=Qxyv8ZsqVS2PJ0UoAAAAAA%3D%3D",
-    "source_name": "Google Jobs",
-    "description_snippet": "Emergency Medicine Physician Opportunity Near San Francisco, CA Are you an Emergency Medicine Physician seeking a fulfilling career opportunity to make a significant impact on patient care? Join our dedicated team at a well-established medical center near San Francisco, CA. We are actively seeking skilled physicians to contribute to our dynamic emergency department.\n\n\nPosition: Physician Emergency Medicine Physician Location: Near San Francisco, CA Position Highlights: Generous Sign-On Bonus: We",
-    "full_description": "Emergency Medicine Physician Opportunity Near San Francisco, CA Are you an Emergency Medicine Physician seeking a fulfilling career opportunity to make a significant impact on patient care? Join our dedicated team at a well-established medical center near San Francisco, CA. We are actively seeking skilled physicians to contribute to our dynamic emergency department.\n\n\nPosition: Physician Emergency Medicine Physician Location: Near San Francisco, CA Position Highlights: Generous Sign-On Bonus: We offer a generous sign-on bonus, recognizing and valuing your commitment to providing exceptional patient care.\n\n\nFlexible Shifts: Enjoy flexibility with a mix of 8, 9, and 10-hour shifts, providing a work schedule that accommodates your lifestyle. W2 or Independent Contractor Status: Choose the employment status that aligns with your preferences and professional goals.\n\n\nProfessional Liability Coverage: Benefit from paid professional liability insurance with tail coverage, ensuring comprehensive coverage and peace of mind. Well-Established Leadership Team: Work alongside a well-established leadership team that prioritizes the development of your skills and fosters a supportive environment of care.\n\n\nEmergency Department Details: 43-Bed ED Plus Fast Track: Join a dynamic team providing care in a well-equipped emergency department with 43 beds plus a fast track area.\n\n\nDaily Physician Coverage: Benefit from 70 hours of daily physician coverage, ensuring optimal support and collaboration.\n\n\nDaily APC Coverage: Enjoy 70 hours of daily Advanced Practice Clinician (APC) coverage, enhancing the efficiency and quality of patient care.\n\n\nProfessional Community and Resources: Join a Nationwide Community: Access an extensive community of thousands of professionals, providing opportunities to share and shape best practices.\n\n\nClinical Resources: Benefit from a nationwide collection of tools and clinical resources, fostering a collaborative environment for clinicians to provide the best care for their patients.\n\n\nHow to Apply: If you are a trained Emergency Medicine Physician, board certified or board eligible, and are eager to contribute to a dynamic healthcare environment, we invite you to apply. Please reference Job ID #j-190478. Join us in making a positive impact on patient care and shaping the future of emergency medicine near San Francisco, CA. Apply today and take the first step toward a rewarding and fulfilling career with us!",
-    "date_found": "2026-04-24",
-    "date_last_seen": "2026-04-26",
-    "status": "active",
-    "is_new": false,
-    "red_flags": [],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "efa053c2f6ed",
@@ -521,35 +671,10 @@
     "full_description": "Chula Vista, CA \u2013 Seeking Emergency Medicine Physicians Join the Physician Partnership Where You Can Increase Your Impact Vituity\u2019s ownership model provides autonomy, local control, and a national system of support, so you can focus your attention where you want it to be \u2013 on your patients. Join the Vituity Team. Vituity is a 100% physician-owned partnership and is led by frontline physicians that are all equitable owners. As an equal and valued partner from day one, our ownership model provides you with financial transparency, a comprehensive benefits package including profit distribution, and multiple career development opportunities. Our leadership understands what your practice needs to thrive and gives you autonomy and local control so you can provide care when, where, and how your patients need it. You are backed by a best-in-class corporate healthcare team and supported by the broad peer-level expertise of 6,000 Vituity clinicians. At Vituity we\u2019ve cultivated an environment where passion thrives, and success comes through shared purpose. We were founded in a culture that values team accomplishments more than individual achievements, an approach we call \u201cculture of brilliance.\u201d Together, we leverage our strengths and experiences to make a positive impact in our local communities. We foster this through shared goals and helping our colleagues succeed, and we also understand the importance of recognition, taking the time to show appreciation and gratitude for a job well done. Vituity Locations: Vituity has opportunities at 890 practices across the country, serving 14.5 million patients a year. With Vituity, if you ever need to move, you can take your job with you. The OpportunitySeeking Board Eligible/Certified Emergency Medicine physicians.One (1) year of Emergency Medicine or Urgent Care experience is required.Current CA state license is a plus.Visa Candidates are encouraged to apply. The PracticeSharp Chula Vista Medical Center \u2013 Chula Vista, CaliforniaSTEMI Receiving Center and Stroke Center.350-bed facility with a 46-bed Emergency Department.Diverse patient mix with an annual volume of 85,000. The CommunityChula Vista, California, is a dynamic city located just south of San Diego, offering a mix of coastal living, urban amenities, and natural beauty.Known for its proximity to stunning beaches like Silver Strand State Beach and the Chula Vista Marina, residents enjoy outdoor activities such as boating, hiking, and birdwatching.The city is home to the renowned Sweetwater Marsh National Wildlife Refuge and the Olympic Training Center, adding to its unique charm.With a Mediterranean climate, Chula Vista enjoys warm summers and mild winters, perfect for year-round outdoor enjoyment.Living here means access to top-rated schools, a strong sense of community, and a variety of shopping, dining, and cultural experiences.Just a short drive from San Diego\u2019s attractions like Balboa Park and the San Diego Zoo, Chula Vista offers an exceptional balance of relaxation and adventure, making it an ideal place to live and work. Benefits & Beyond*Vituity cares about the whole you. With our comprehensive compensation and benefits package, we are mindful of what matters most, and support your needs of today and your plans for the future.Superior Health Plan OptionsDental, Vision, HSA, life and AD&D coverage, and morePartnership models allows a K-1 status pay structure, allowing high tax deductionsExtraordinary 401K Plan with high tax reduction and faster balance growthEligible to receive an Annual Profit Distribution/yearly cash bonusEAP and travel assistance includedStudent loan refinancing discountsPurpose-driven culture focused on improving the lives of our patients, communities, and employees We are unified around the common purpose of transforming healthcare to improve lives and we believe everyone has a role to play in that. When we work together across sites and specialties as an integrated healthcare team, we exceed the expectations of our patients and the hospitals and clinics we work in. If you are looking to make a difference, from clinical to corporate, Vituity is the place to do it. Come grow with us. Vituity does not discriminate against any person on the basis of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information (including family medical history), veteran status, marital status, pregnancy or related condition, or any other basis protected by law. Vituity is committed to complying with all applicable national, state and local laws pertaining to nondiscrimination and equal opportunity. *Visa status applicants benefits vary. Please speak to a recruiter for more details. Applicants only. No agencies please.",
     "date_found": "2026-04-26",
     "date_last_seen": "2026-04-26",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 1
-  },
-  {
-    "id": "1071b2d8e942",
-    "title": "Emergency Medicine Physician",
-    "employer": "Waterbury Hospital",
-    "location": "Waterbury, CT",
-    "location_region": "Stamford, CT",
-    "location_priority": 5,
-    "salary": "Not listed",
-    "salary_numeric": null,
-    "institution_type": "Trauma Level II",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Medium",
-    "analysis_notes": "This is a Level II Trauma Center in Connecticut with high-acuity cases and good trauma exposure. While not in Stamford specifically, it's in the same state and offers the advanced clinical environment the candidate likely seeks. Salary not listed but mentions $100,000 sign-on bonus suggesting competitive compensation.",
-    "source_url": "https://www.google.com/search?ibp=htl;jobs&q=Emergency+Department+Physician&htidocid=NlrrwJeFOFPLWnfJAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_0WOvQrCMBSFce0j6HIHJ-lPFFx0lKIIRUHBwUHSeEkjaW7ITaF9Ml_PdnI5HD44fCf5zpLnci1EKoSAm9EuuzjI4CEjhroLA5yIvYnSjrBsMWh0aoAK30YZh3BtBh6bnDZnqoFRBtUAOTgSaYvzfROj511RMNtcc5TRqFxRW5DDmvriQzVP8eJGBvR29L42W9Hn3unVoqwCqtCZyGDc_1QKh_sP4d-eKLoAAAA&shmds=v1_ATWGeeM5SyQJrM-wyNM2CaueooPY3gzBZQsNKNRfIlbr0gXDOw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Emergency+Department+Physician&htidocid=NlrrwJeFOFPLWnfJAAAAAA%3D%3D",
-    "source_name": "Google Jobs",
-    "description_snippet": "Waterbury Hospital \u2013 Western Connecticut\n\nEmergency Medicine Physician | Highest-Acuity Site | Trauma Exposure | Advanced Clinical Practice\n\nPractice Profile\n\nWaterbury Hospital represents the most clinically intense Emergency Medicine environment within the system and is best suited for physicians seeking trauma exposure, high procedural volume, and complex pathology.\n\nThis site delivers advanced emergency and trauma care with a faster pace and higher acuity than other regional locations, offer",
-    "full_description": "Waterbury Hospital \u2013 Western Connecticut\n\nEmergency Medicine Physician | Highest-Acuity Site | Trauma Exposure | Advanced Clinical Practice\n\nPractice Profile\n\nWaterbury Hospital represents the most clinically intense Emergency Medicine environment within the system and is best suited for physicians seeking trauma exposure, high procedural volume, and complex pathology.\n\nThis site delivers advanced emergency and trauma care with a faster pace and higher acuity than other regional locations, offering an excellent setting for physicians who want to maintain and sharpen advanced clinical skills.\n\nPractice Environment\n\nThe emergency department manages a wide spectrum of high-acuity medical, surgical, and traumatic presentations, including critical care-level patients. Clinical volume and pace are meaningfully higher than other sites, providing consistent exposure to complex cases. Physicians practice within a provider-led model that balances high clinical intensity with structured staffing and operational support.\n\nED Snapshot\n\u2022 Hospital Type: 357-bed acute-care hospital (225 staffed beds)\n\u2022 Annual ED Volume: ~44,000\u201355,000 visits\n\u2022 Trauma Designation: ACS Level II Trauma Center\n\u2022 Physician Coverage: ~34 hours per day\n\u2022 APP Coverage: ~36 hours per day\n\nLiving & Commute Patterns\n\nMost physicians choose to live outside the city in nearby suburban communities such as Cheshire, Middlebury, Southbury, or Oxford, offering strong school systems, quieter neighborhoods, and a more relaxed home environment with a reasonable commute.\n\nRegional Access\n\u2022 New Haven: ~35\u201340 minutes\n\u2022 Hartford: ~1 hour\n\u2022 New York City: ~1.75\u20132 hours (Metro-North access nearby)\n\u2022 Boston: ~2.5 hours\n\nBest suited for:\n\nPhysicians seeking high-acuity emergency medicine, trauma exposure, advanced procedures, and a clinically rigorous environment while maintaining suburban living options outside the city.\n\nApply Today\n\nWe are actively accepting CVs and scheduling confidential interviews.\n\u2022 Apply Online\n\u2022 Send CV: info@emrecruits.com\n\u2022 Contact: Bill Masters, 940-368-0761 (call for details or to arrange a phone/on-site interview)",
-    "date_found": "2026-04-10",
-    "date_last_seen": "2026-04-26",
-    "status": "active",
-    "is_new": false,
-    "red_flags": [],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "a56628eac1f8",
@@ -571,10 +696,10 @@
     "full_description": "MidState Medical Center - Central Connecticut Emergency Medicine Physician Live in Cheshire | Wallingford | Southington | West Hartford MidState Medical Center offers an ideal blend of modern emergency medicine and Central Connecticut lifestyle. Physicians practice in a well-supported emergency department with a sustainable clinical pace while living in some of the state's most desirable suburban communities. You'll join a provider-led emergency medicine team delivering state-of-the-art care that consistently ranks in the top tier nationally for patient satisfaction, maintains below-average provider patients per hour, and continues to expand local market presence\u2014even in regions where larger national organizations struggle.\n\n\nSign-on bonus opportunity ranging from approximately $60,000 to $100,000, based on experience and commitment This is a data-informed, quality-driven practice committed to continuous improvement in patient outcomes, efficiency, and long-term physician satisfaction. Community & Location Physicians commonly live in Cheshire, Wallingford, Southington, and West Hartford, communities known for top-rated schools, vibrant dining scenes, and strong sense of community. We are actively accepting CVs and scheduling confidential interviews.\n\n\nApply Online Bill\nMasters, (call for details or to arrange a phone/on-site interview) ?#",
     "date_found": "2026-04-26",
     "date_last_seen": "2026-04-26",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "f3280af2e39d",
@@ -596,35 +721,10 @@
     "full_description": "Join a physician-owned and managed emergency medicine group in Connecticut \u2014 currently seeking BC/BE Emergency Medicine residency-trained physicians for both full-time and part-time opportunities. We are committed to quality care, innovation, and physician autonomy. Our door-to-doctor times are best in class and patient satisfaction scores rank in the top percentiles,\n\n\n\n\nWhy this is a standout opportunity\n\n$100,000 sign-on bonus for full-time hiresCompetitive compensation package with productivity incentives and tenure-based increasesClear partnership track in a democratic, physician-led model \u2014 where clinicians make the decisions, not corporate executives. The group delivers care across seven emergency departments, treating over 220,000 patients annuallyFull benefits: health, dental, vision, 401(k), CME allowance, malpractice coverage\n\n\nLifestyle & Location\n\nDiscover life in Connecticut \u2014 a region that\u2019s as desirable professionally as it is personally:\n\nYou\u2019ll experience true four-season living: from coastal summers on the Long Island Sound, to fall foliage in New England hills, to nearby skiing and snow-shoeing in Vermont.Easy access to major metropolitan hubs: within comfortable reach of both New York City and Boston, giving you the best of city amenities and suburban or small-town ease.A family-friendly environment: Connecticut is consistently highlighted for its top-rated public schools, strong healthcare infrastructure and safe, scenic communities.Outdoor opportunities abound: walkable historic towns, waterfront beaches, hiking and biking trails, and charming rural escapes are all within reach.For those who value work-life balance: you\u2019ll be able to enjoy time off in exquisitely beautiful settings (think New England coastline at sunset, ski weekends, apple-picking in fall) without sacrificing professional challenges and growth.",
     "date_found": "2026-04-26",
     "date_last_seen": "2026-04-26",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 1
-  },
-  {
-    "id": "6608e664b409",
-    "title": "Emergency Medicine Physicians- Academic and Community EM",
-    "employer": "Baystate Health",
-    "location": "Springfield, MA",
-    "location_region": "Boston, MA",
-    "location_priority": 6,
-    "salary": "$285,000-$460,000",
-    "salary_numeric": 372500,
-    "institution_type": "Academic Medical Center",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "High",
-    "analysis_notes": "Strong academic position at UMass-affiliated medical center with excellent salary range that exceeds minimum requirements. Offers flexibility between academic and community ED work with robust benefits and research opportunities.",
-    "source_url": "https://www.google.com/search?ibp=htl;jobs&q=Emergency+Department+Physician&htidocid=SHEOyVJtSx19cjl0AAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_12NwUoDQRBE8ZpP8FRnMbsS8aKnGIISWAj4AWF2pp1pmelepich-6N-j5url6IOr16tfu9W475QjSR-xkCBPQvhmGZbmhNbY-tdoMIeTgJ2WspZuM3YD3AN72625hrhk1xuCWscdISRqz5BBR-qMdP9W2ptste-N8tdvC3Yd15Lr0KjXvsfHe0WJ0uu0pQX42nz8nTtJokPz_9PjlUvHKhit8BUDSz4mipL_GbK4RHD9g8FX8xZ2QAAAA&shmds=v1_ATWGeeNSqxoX5sVHc0hUOQ7777sWwiQp_yaDLUYQ21Ri8vv3Cw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Emergency+Department+Physician&htidocid=SHEOyVJtSx19cjl0AAAAAA%3D%3D",
-    "source_name": "Google Jobs",
-    "description_snippet": "Baystate Health is a not-for-profit, integrated healthcare system in western Massachusetts which consists of an academic medical center, Baystate Children\u2019s Hospital, three community hospitals and the region\u2019s largest multispecialty group. Our flagship hospital, Baystate Medical Center, is home to the University of Massachusetts Chan Medical School-Baystate.\n\nEMERGENCY MEDICINE HIGHLIGHTS:\n\u2022 Our Department of EM consists of 40+ attendings, 30+ APPs, residents, fellows, medical students, and supp",
-    "full_description": "Baystate Health is a not-for-profit, integrated healthcare system in western Massachusetts which consists of an academic medical center, Baystate Children\u2019s Hospital, three community hospitals and the region\u2019s largest multispecialty group. Our flagship hospital, Baystate Medical Center, is home to the University of Massachusetts Chan Medical School-Baystate.\n\nEMERGENCY MEDICINE HIGHLIGHTS:\n\u2022 Our Department of EM consists of 40+ attendings, 30+ APPs, residents, fellows, medical students, and support teams across academic and community EDs in our integrated health system.\n\u2022 Craft your ideal position- 100% academic, 100% community, or a blend.\n\u2022 Baystate Medical Center (BMC) in Springfield MA is home to one of the busiest EDs in Massachusetts and the east coast. We serve over 122,000 adult and pediatric patients annually. Our 72,000 square foot ED is equipped with 94 private rooms, separate pediatric ED, separate behavioral health rooms and top-of-the-line technology.\n\u2022 Our community EDs in Palmer, Westfield and Greenfield MA each care for >33,000 patients annually with strong subspecialty support onsite and at nearby BMC. APPs run fast tracks.\n\u2022 Academic positions include a faculty appointment at UMass-Chan Baystate and strong involvement with our 48 residents as well as fellows in pediatric emergency medicine, research, wilderness medicine, administration, medical education, EMS, health equity, wellness, and ultrasound.\n\u2022 Strong support for clinical and health services research plus state-of-the-art simulation programs.\n\u2022 Qualifications: ABMS BE or BC Emergency Medicine, fellowship desired for academic positions. EMS fellowship particularly desired.\n\u2022 The compensation range listed below represents the base salaries for all positions at a given grade across the health system. Typically, a new hire can expect a starting salary somewhere in the lower part of the range. Actual salaries may vary by position and will be determined based on the candidate\u2019s relevant experience. No employee will be paid below the minimum of the range. Pay ranges are listed as hourly for non-exempt employees and based on assumed full time commitment for exempt employees. Minimum= $285,000. Maximum= $460,000.\n\nTHE ADVANTAGES OF WORKING WITH BAYSTATE:\n\u2022 Compensation plan includes base salary and opportunity to earn incentive bonuses\n\u2022 Robust relocation package\n\u2022 Flexibility- opportunities to flex your FTE to fit your life\n\u2022 Transparent and equitable promotional practices\n\u2022 Immediate access to paid time off\n\u2022 Lucrative 403b match and 457b plan\n\u2022 Professional development and mentorship\n\u2022 Wellbeing programs that include mental, physical, and financial health and more\n\nAt Baystate Health, we believe that treating one another with dignity and fairness is what elevates respect for our patients and staff. We are committed to ensuring opportunity and inclusion for everyone through equitable policies, practices, and procedures and creating a workforce that is reflective of the communities we serve.\n\nFor more information please contact:\nSeth Gemme, MD, Chair of Emergency Medicine\nC/O Melissa Hale, Senior Physician Recruiter\n413-794-2624 or melissa.hale@baystatehealth.org",
-    "date_found": "2026-04-10",
-    "date_last_seen": "2026-04-26",
-    "status": "active",
-    "is_new": false,
-    "red_flags": [],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "e5bf30e00dda",
@@ -646,10 +746,10 @@
     "full_description": "CA | Employer Direct | Physician - Emergency Medicine - Up To $100K Sign On Bonus! - Bakersfield Memorial Hospital | Bakersfield Memorial Hospital | part of | Vituity | Bakersfield, CA | Physician-Emergency Medicine | Other | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1516835 | Physician - Emergency Medicine - Up To $100K Sign On Bonus! - Bakersfield Memorial Hospital | Bakersfield Memorial Hospital | Bakersfield, CA | Undo",
     "date_found": "2026-04-11",
     "date_last_seen": "2026-04-26",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "aab608699843",
@@ -671,10 +771,10 @@
     "full_description": "CA | Employer Direct | Embrace Work-Life Balance as an Emergency Medicine Physician at Fresno VA | Fresno, CA Veterans Affairs Medical Center | part of | Veterans Health Administration | Fresno, CA | Physician-Emergency Medicine | Full-Time | Salary Range: $220,000 - $400,000 a year | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1558323 | Embrace Work-Life Balance as an Emergency Medicine Physician at Fresno VA | Fresno, CA Veterans Affairs Medical Center | Fresno, CA | Undo",
     "date_found": "2026-04-10",
     "date_last_seen": "2026-04-26",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "e54444056706",
@@ -696,10 +796,10 @@
     "full_description": "MA | Employer Direct | Physician - Emergency Medicine - Up to $100K Sign On Bonus! - Mercy Medical Center - Springfield | Mercy Medical Center - Springfield | part of | Vituity | Springfield, MA | Physician-Emergency Medicine | Other | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1491272 | Physician - Emergency Medicine - Up to $100K Sign On Bonus! - Mercy Medical Center - Springfield | Mercy Medical Center - Springfield | Springfield, MA | Undo",
     "date_found": "2026-04-12",
     "date_last_seen": "2026-04-26",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "a294a15c767a",
@@ -724,7 +824,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "1cdbd74ed43c",
@@ -749,7 +849,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "e82721e8f611",
@@ -774,7 +874,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "0e9b2b079b94",
@@ -799,32 +899,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
-  },
-  {
-    "id": "2e68f9196b2a",
-    "title": "Emergency Medicine Physician",
-    "employer": "MidState Medical Center",
-    "location": "New Haven, CT",
-    "location_region": "Stamford, CT",
-    "location_priority": 5,
-    "salary": "Not listed",
-    "salary_numeric": null,
-    "institution_type": "Community Hospital",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Medium",
-    "analysis_notes": "Connecticut location matches Priority 5 preference. No salary listed but mentions sign-on bonus of $60-100k. Community hospital with good patient satisfaction metrics and sustainable clinical pace sounds promising for work-life balance.",
-    "source_url": "https://www.google.com/search?ibp=htl;jobs&q=Emergency+Department+Physician&htidocid=cAvIVDfWYVaPlWfzAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_yWOwQrCMBBE8dpP0MueRVsRvOixFEWoCAoeS5quaSTdLdmo7cf5b0a8PAZmmJnkM0nUDSXAQflwZ9_AEkrbXIIKCCU2VisHOVJAH52iQ2-Q9Pi3LCGc21GiUgRHrmPkR0HldQtMsGc2Dqe7NoRetlkm4lIjsdzqVHOXMWHNQ_bgWn6opFUeexfHq_VmNaQ9mfmsKD1q_7RBwBKc8B3PvpAWkF-_nECxcMAAAAA&shmds=v1_ATWGeeNF03Yufv6hArzgNSW7y9zF7xWvMKgOTG_S_lVOd76Qag&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Emergency+Department+Physician&htidocid=cAvIVDfWYVaPlWfzAAAAAA%3D%3D",
-    "source_name": "Google Jobs",
-    "description_snippet": "MidState Medical Center - Central Connecticut Emergency Medicine Physician Live in Cheshire | Wallingford | Southington | West Hartford MidState Medical Center offers an ideal blend of modern emergency medicine and Central Connecticut lifestyle. Physicians practice in a well-supported emergency department with a sustainable clinical pace while living in some of the state's most desirable suburban communities. You'll join a provider-led emergency medicine team delivering state-of-the-art care tha",
-    "full_description": "MidState Medical Center - Central Connecticut Emergency Medicine Physician Live in Cheshire | Wallingford | Southington | West Hartford MidState Medical Center offers an ideal blend of modern emergency medicine and Central Connecticut lifestyle. Physicians practice in a well-supported emergency department with a sustainable clinical pace while living in some of the state's most desirable suburban communities. You'll join a provider-led emergency medicine team delivering state-of-the-art care that consistently ranks in the top tier nationally for patient satisfaction, maintains below-average provider patients per hour, and continues to expand local market presence\u2014even in regions where larger national organizations struggle.\n\n\nSign-on bonus opportunity ranging from approximately $60,000 to $100,000, based on experience and commitment This is a data-informed, quality-driven practice committed to continuous improvement in patient outcomes, efficiency, and long-term physician satisfaction. Community & Location Physicians commonly live in Cheshire, Wallingford, Southington, and West Hartford, communities known for top-rated schools, vibrant dining scenes, and strong sense of community. We are actively accepting CVs and scheduling confidential interviews.\n\n\nApply Online Bill\nMasters, (call for details or to arrange a phone/on-site interview) ?#",
-    "date_found": "2026-04-25",
-    "date_last_seen": "2026-04-25",
-    "status": "possibly_filled",
-    "is_new": false,
-    "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "96664c566ebf",
@@ -849,7 +924,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "799f14622f17",
@@ -874,7 +949,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "8ad2bfe2d4e4",
@@ -899,7 +974,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "751d29a86340",
@@ -924,7 +999,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "62bddec0fb7d",
@@ -949,7 +1024,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "c2c16b1d34a4",
@@ -974,7 +1049,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "a557e855c92e",
@@ -999,7 +1074,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "12a79f625c5c",
@@ -1024,7 +1099,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "8c468486217e",
@@ -1049,7 +1124,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "1eb5d53557a3",
@@ -1074,7 +1149,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "d74fbf6507c1",
@@ -1099,7 +1174,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "592ba5008ca8",
@@ -1124,7 +1199,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "435c9979cf36",
@@ -1149,7 +1224,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "c4b6e03658a1",
@@ -1174,7 +1249,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "d54fd74d3db3",
@@ -1199,7 +1274,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "c3cea9d64dfd",
@@ -1224,7 +1299,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "bced4e29dd95",
@@ -1253,7 +1328,7 @@
       "No salary information provided",
       "Vague job description"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "c365ab37d373",
@@ -1278,7 +1353,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "7d96541f76c8",
@@ -1303,7 +1378,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "4f922f1e2bfe",
@@ -1328,7 +1403,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "e006d60369f4",
@@ -1353,7 +1428,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "411b09969840",
@@ -1378,7 +1453,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "29452fbac450",
@@ -1403,7 +1478,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "b977b2ccbb85",
@@ -1428,7 +1503,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "da881ffc56b0",
@@ -1453,7 +1528,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "85582c648d9d",
@@ -1478,7 +1553,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "42cf998cc7d0",
@@ -1503,7 +1578,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "4dd5d35fb7a7",
@@ -1528,7 +1603,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "6a8e3e062566",
@@ -1553,7 +1628,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "937de2a51aa5",
@@ -1578,7 +1653,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "86dde03423c0",
@@ -1603,7 +1678,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "236d7e3af646",
@@ -1632,7 +1707,7 @@
       "Requires security clearance",
       "Mission Essential designation"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "4654e563542f",
@@ -1657,7 +1732,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "26d34bebf18b",
@@ -1682,7 +1757,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "d8084bc78b41",
@@ -1711,7 +1786,7 @@
       "Security clearance required",
       "Mission essential designation"
     ],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "1fa9f03e7362",
@@ -1736,7 +1811,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "bcef70d10735",
@@ -1761,7 +1836,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "c58c06eb7fb8",
@@ -1786,7 +1861,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 8
+    "missed_scrapes": 9
   },
   {
     "id": "a808c3253c22",
@@ -1811,7 +1886,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 8
+    "missed_scrapes": 9
   },
   {
     "id": "5c029ba295b3",
@@ -1839,7 +1914,7 @@
       "Vague job description",
       "May be urgent care rather than emergency medicine"
     ],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "3c0a0655c69c",
@@ -1864,7 +1939,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "e19db5b4b68a",
@@ -1889,7 +1964,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "86d2f90992d3",
@@ -1914,7 +1989,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "0598084124f6",
@@ -1939,7 +2014,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "8bce84296009",
@@ -1964,7 +2039,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "900dab2d66bc",
@@ -1989,7 +2064,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 10
+    "missed_scrapes": 11
   },
   {
     "id": "65ec272c89dc",
@@ -2014,7 +2089,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 10
+    "missed_scrapes": 11
   },
   {
     "id": "2ef91debd5a7",
@@ -2039,7 +2114,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 11
+    "missed_scrapes": 12
   },
   {
     "id": "c741fdd25e2a",
@@ -2064,7 +2139,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 11
+    "missed_scrapes": 12
   },
   {
     "id": "575cd4a502f7",
@@ -2089,7 +2164,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 11
+    "missed_scrapes": 12
   },
   {
     "id": "d37b077b77ee",
@@ -2116,7 +2191,7 @@
     "red_flags": [
       "Below target salary range"
     ],
-    "missed_scrapes": 11
+    "missed_scrapes": 12
   },
   {
     "id": "06f93eb079f2",
@@ -2141,7 +2216,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 12
+    "missed_scrapes": 13
   },
   {
     "id": "0ca2d7aa1052",
@@ -2166,7 +2241,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 12
+    "missed_scrapes": 13
   },
   {
     "id": "9fcf363e5375",
@@ -2191,32 +2266,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 12
-  },
-  {
-    "id": "fadf87d4bcdb",
-    "title": "Emergency Medicine Physician",
-    "employer": "Physician-owned emergency medicine group (via EMrecruits, LLC)",
-    "location": "Waterbury, CT",
-    "location_region": "Stamford, CT",
-    "location_priority": 5,
-    "salary": "Not listed",
-    "salary_numeric": null,
-    "institution_type": "Private Hospital Group",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Medium",
-    "analysis_notes": "Physician-owned democratic group treating 220k+ patients across seven EDs with partnership track and $100k sign-on bonus. Located in Waterbury, CT which is reasonably close to candidate's Stamford, CT preference area. Salary not specified but mentions competitive compensation with productivity incentives.",
-    "source_url": "https://www.google.com/search?ibp=htl;jobs&q=Emergency+Department+Physician&htidocid=y4FNU8aFMTkRyrXoAAAAAA%3D%3D&hl=en-US&shem=rimspwouoc&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCMBBAce0nON0s2ojgomMpBWnRQXAsSTySSHsXcim0f-RnWpfHGx6v-G6KpmIitDnYKUM9YnJIdoEO38EGQnj4RVbTBPeIFMjBAW5sQFAn64EJGmY34Pbqc45yUUpkKJ1kvS5Ly6NiQsOz-rCRP3rxOmEcdMb-dD7OZSS3g7pLaNMUsuyhbSsIBK-1SGZKyx6q5w-S0qCBqwAAAA&shmds=v1_ATWGeeNUkpqSwh6c-1sx_h_WH3bL44sF9cIyBY4ZK8y66Xf4CA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Emergency+Department+Physician&htidocid=y4FNU8aFMTkRyrXoAAAAAA%3D%3D",
-    "source_name": "Google Jobs",
-    "description_snippet": "Join a physician-owned and managed emergency medicine group in Connecticut \u2014 currently seeking BC/BE Emergency Medicine residency-trained physicians for both full-time and part-time opportunities. We are committed to quality care, innovation, and physician autonomy. Our door-to-doctor times are best in class and patient satisfaction scores rank in the top percentiles,\n\nWhy this is a standout opportunity\n\u2022 $100,000 sign-on bonus for full-time hires\n\u2022 Competitive compensation package with producti",
-    "full_description": "Join a physician-owned and managed emergency medicine group in Connecticut \u2014 currently seeking BC/BE Emergency Medicine residency-trained physicians for both full-time and part-time opportunities. We are committed to quality care, innovation, and physician autonomy. Our door-to-doctor times are best in class and patient satisfaction scores rank in the top percentiles,\n\nWhy this is a standout opportunity\n\u2022 $100,000 sign-on bonus for full-time hires\n\u2022 Competitive compensation package with productivity incentives and tenure-based increases\n\u2022 Clear partnership track in a democratic, physician-led model \u2014 where clinicians make the decisions, not corporate executives. The group delivers care across seven emergency departments, treating over 220,000 patients annually\n\u2022 Full benefits: health, dental, vision, 401(k), CME allowance, malpractice coverage\n\nLifestyle & Location\n\nDiscover life in Connecticut \u2014 a region that\u2019s as desirable professionally as it is personally:\n\u2022 You\u2019ll experience true four-season living: from coastal summers on the Long Island Sound, to fall foliage in New England hills, to nearby skiing and snow-shoeing in Vermont.\n\u2022 Easy access to major metropolitan hubs: within comfortable reach of both New York City and Boston, giving you the best of city amenities and suburban or small-town ease.\n\u2022 A family-friendly environment: Connecticut is consistently highlighted for its top-rated public schools, strong healthcare infrastructure and safe, scenic communities.\n\u2022 Outdoor opportunities abound: walkable historic towns, waterfront beaches, hiking and biking trails, and charming rural escapes are all within reach.\n\u2022 For those who value work-life balance: you\u2019ll be able to enjoy time off in exquisitely beautiful settings (think New England coastline at sunset, ski weekends, apple-picking in fall) without sacrificing professional challenges and growth.\n\n???? Apply Today\n\nWe are actively accepting CVs and scheduling confidential interviews.\n\u2022 Apply Online\n\u2022 Send CV: info@emrecruits.com\n\u2022 Contact: Bill Masters, 940-368-0761 (call for details or to arrange a phone/on-site interview)\n\u2022 hec*\n\n\ufeff#EM",
-    "date_found": "2026-04-10",
-    "date_last_seen": "2026-04-15",
-    "status": "possibly_filled",
-    "is_new": false,
-    "red_flags": [],
-    "missed_scrapes": 12
+    "missed_scrapes": 13
   },
   {
     "id": "473067c4cf6f",
@@ -2241,7 +2291,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 13
+    "missed_scrapes": 14
   },
   {
     "id": "4b51be291167",
@@ -2266,7 +2316,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 13
+    "missed_scrapes": 14
   },
   {
     "id": "27875e89794a",
@@ -2291,7 +2341,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 13
+    "missed_scrapes": 14
   },
   {
     "id": "fabcead7dfa2",
@@ -2316,7 +2366,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 13
+    "missed_scrapes": 14
   },
   {
     "id": "dd901932d44d",
@@ -2341,7 +2391,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 14
+    "missed_scrapes": 15
   },
   {
     "id": "b4705beefc35",
@@ -2366,7 +2416,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 14
+    "missed_scrapes": 15
   },
   {
     "id": "ef3c44fd20b4",
@@ -2391,32 +2441,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 15
-  },
-  {
-    "id": "5d3ab1172a00",
-    "title": "Emergency Medicine Physician",
-    "employer": "UCSF Health Stanyan Hospital",
-    "location": "San Francisco, CA",
-    "location_region": "Bay Area, CA",
-    "location_priority": 1,
-    "salary": "Not listed",
-    "salary_numeric": null,
-    "institution_type": "Academic Medical Center",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "High",
-    "analysis_notes": "Excellent match with UCSF academic medical center in Priority 1 Bay Area location. Vituity is a reputable physician-owned partnership. Though salary not listed, the $50k sign-on bonus suggests competitive compensation and the urban San Francisco location typically offers salaries well above minimum requirements.",
-    "source_url": "https://www.google.com/search?ibp=htl;jobs&q=Emergency+Department+Physician&htidocid=1zd-1YmzfsksSPdHAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_32NQWoCQRBFydYjuKpAVpLMTAQ3ZpVIzBARhcH1UNMpuju0Vc1UBZzrehLbC2Tz4b8H_8-uD7N8DJNGF5HhBT7PNHpiN8GefgpkKvCUwQSeVs0OuugZDgwfwn_6eHebbgstYbIAnSFPZaYVzdEwFf0tAyjh6AIIw5eITzR_C2ZZ13WtmiqvhhZd5eRcC9Mgl_pXBr1HrwFHygmN-uWquVSZ_eL138fI0JW-HZFdVCfPsHm_AcfgaCDlAAAA&shmds=v1_ATWGeeOWZ7sRALdh-G19-kdxTrifcdESxP0KSzwf_qLNYrD2pQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Emergency+Department+Physician&htidocid=1zd-1YmzfsksSPdHAAAAAA%3D%3D",
-    "source_name": "Google Jobs",
-    "description_snippet": "Up to $50K Sign On Bonus \u2013 San Francisco, CA \u2013 Seeking Emergency Medicine Physicians Join the Physician Partnership Where You Can Increase Your Impact Vituity\u2019s ownership model provides autonomy, local control, and a national system of support, so you can focus your attention where you want it to be \u2013 on your patients. Join the Vituity Team. Vituity is a 100% physician-owned partnership and is led by frontline physicians that are all equitable owners. As an equal and valued partner from day one,",
-    "full_description": "Up to $50K Sign On Bonus \u2013 San Francisco, CA \u2013 Seeking Emergency Medicine Physicians Join the Physician Partnership Where You Can Increase Your Impact Vituity\u2019s ownership model provides autonomy, local control, and a national system of support, so you can focus your attention where you want it to be \u2013 on your patients. Join the Vituity Team. Vituity is a 100% physician-owned partnership and is led by frontline physicians that are all equitable owners. As an equal and valued partner from day one, our ownership model provides you with financial transparency, a comprehensive benefits package including profit distribution, and multiple career development opportunities. Our leadership understands what your practice needs to thrive and gives you autonomy and local control so you can provide care when, where, and how your patients need it. You are backed by a best-in-class corporate healthcare team and supported by the broad peer-level expertise of 6,000 Vituity clinicians. At Vituity we\u2019ve cultivated an environment where passion thrives, and success comes through shared purpose. We were founded in a culture that values team accomplishments more than individual achievements, an approach we call \u201cculture of brilliance.\u201d Together, we leverage our strengths and experiences to make a positive impact in our local communities. We foster this through shared goals and helping our colleagues succeed, and we also understand the importance of recognition, taking the time to show appreciation and gratitude for a job well done. Vituity Locations: Vituity has opportunities at 890 practices across the country, serving 14.5 million patients a year. With Vituity, if you ever need to move, you can take your job with you. The OpportunityUp to $50k sign-on bonus for qualified candidates.Seeking Board Eligible/Certified Emergency Medicine physicians.AAPS physicians with ED experience will be considered.Current CA state license is a plus.Full time, part time, and per diem opportunities available.Provider\u2019s will be cross credentialed at UCSF Health St. Mary\u2019s Hospital and UCSF Health Saint Francis Hospital. The PracticeUCSF Health St. Mary's Hospital \u2013 San Francisco, California403-bed facility and a STEMI Receiving Center.13-bed Emergency Department in an urban environment.Annual volume of 16,000 with a 20-25% admit rate.Good payer mix.Vituity-staffed Emergency Department, GME, and Psych including adolescent psychiatry offer integrated care solutions at this site! The CommunitySan Francisco, California, is a city of iconic landmarks, cultural diversity, and unparalleled charm, making it an extraordinary place to live and work.Known for the Golden Gate Bridge, Alcatraz Island, and historic cable cars, the city offers breathtaking sights and a vibrant urban lifestyle.Residents enjoy world-class museums like the de Young and SFMOMA, while outdoor enthusiasts explore Golden Gate Park or hike the trails at Lands\u2019 End.The neighborhoods, from bustling Chinatown to the artsy Mission District, offer unique dining and cultural experiences.San Francisco\u2019s cool, foggy climate creates a distinct atmosphere, earning it the nickname \u201cThe City by the Bay.\u201dIts location provides easy access to Napa Valley, Silicon Valley, and coastal adventures.With a passionate sports culture, including teams like the Giants and 49ers, San Francisco is a city that inspires and energizes. Benefits & Beyond*Vituity cares about the whole you. With our comprehensive compensation and benefits package, we are mindful of what matters most, and support your needs of today and your plans for the future.Superior Health Plan OptionsDental, Vision, HSA, life and AD&D coverage, and morePartnership models allows a K-1 status pay structure, allowing high tax deductionsExtraordinary 401K Plan with high tax reduction and faster balance growthEligible to receive an Annual Profit Distribution/yearly cash bonusEAP and travel assistance includedStudent loan refinancing discountsPurpose-driven culture focused on improving the lives of our patients, communities, and employees We are unified around the common purpose of transforming healthcare to improve lives and we believe everyone has a role to play in that. When we work together across sites and specialties as an integrated healthcare team, we exceed the expectations of our patients and the hospitals and clinics we work in. If you are looking to make a difference, from clinical to corporate, Vituity is the place to do it. Come grow with us. Vituity does not discriminate against any person on the basis of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information (including family medical history), veteran status, marital status, pregnancy or related condition, or any other basis protected by law. Vituity is committed to complying with all applicable national, state and local laws pertaining to nondiscrimination and equal opportunity. *Visa status applicants benefits vary. Please speak to a recruiter for more details. Applicants only. No agencies please.",
-    "date_found": "2026-04-12",
-    "date_last_seen": "2026-04-12",
-    "status": "possibly_filled",
-    "is_new": false,
-    "red_flags": [],
-    "missed_scrapes": 15
+    "missed_scrapes": 16
   },
   {
     "id": "85ba457bfaf0",
@@ -2441,7 +2466,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 15
+    "missed_scrapes": 16
   },
   {
     "id": "f01c85ba0f13",
@@ -2466,7 +2491,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 15
+    "missed_scrapes": 16
   },
   {
     "id": "df16a0eea8ac",
@@ -2491,7 +2516,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 15
+    "missed_scrapes": 16
   },
   {
     "id": "0a26f145928f",
@@ -2516,7 +2541,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 15
+    "missed_scrapes": 16
   },
   {
     "id": "780c55891f31",
@@ -2541,7 +2566,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 16
+    "missed_scrapes": 17
   },
   {
     "id": "17c9f39b2b8e",
@@ -2566,7 +2591,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 16
+    "missed_scrapes": 17
   },
   {
     "id": "d95a7c3e271b",
@@ -2591,7 +2616,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 16
+    "missed_scrapes": 17
   },
   {
     "id": "45eb155df3f7",
@@ -2616,7 +2641,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 16
+    "missed_scrapes": 17
   },
   {
     "id": "602703c2f9c1",
@@ -2641,7 +2666,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 17
+    "missed_scrapes": 18
   },
   {
     "id": "710ca0f1c7a3",
@@ -2666,7 +2691,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 17
+    "missed_scrapes": 18
   },
   {
     "id": "b74c7e45574f",
@@ -2691,7 +2716,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 17
+    "missed_scrapes": 18
   },
   {
     "id": "858808046b40",
@@ -2716,7 +2741,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 17
+    "missed_scrapes": 18
   },
   {
     "id": "285ce19a4e97",
@@ -2741,7 +2766,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 17
+    "missed_scrapes": 18
   },
   {
     "id": "ac9c42e4f209",
@@ -2768,7 +2793,7 @@
     "red_flags": [
       "Academic faculty expectations may require additional teaching/research commitments"
     ],
-    "missed_scrapes": 18
+    "missed_scrapes": 19
   },
   {
     "id": "57bc854c2536",
@@ -2793,7 +2818,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 19
+    "missed_scrapes": 20
   },
   {
     "id": "d30b9106b441",
@@ -2818,7 +2843,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 19
+    "missed_scrapes": 20
   },
   {
     "id": "ba2b1aef6a43",
@@ -2843,7 +2868,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 19
+    "missed_scrapes": 20
   },
   {
     "id": "c9deb57cfcb4",
@@ -2868,7 +2893,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 19
+    "missed_scrapes": 20
   },
   {
     "id": "09c66a790c6f",
@@ -2893,6 +2918,6 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 19
+    "missed_scrapes": 20
   }
 ]
