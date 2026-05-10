@@ -1,5 +1,163 @@
 [
   {
+    "id": "5176897e1d12",
+    "title": "Emergency Medicine Physician",
+    "employer": "US Acute Care Solutions / St. Thomas More Hospital",
+    "location": "Canon City, CO",
+    "location_region": "Denver/Boulder, CO",
+    "location_priority": 3,
+    "salary": "$398,108",
+    "salary_numeric": 398108,
+    "institution_type": "Community Hospital",
+    "schedule_type": "Unclear",
+    "is_nocturnist_only": false,
+    "match_confidence": "Medium",
+    "analysis_notes": "This is a legitimate Emergency Medicine attending position at a Level 4 trauma center in Colorado, which falls within the candidate's priority 3 location preference. The salary meets the minimum requirement at $398,108. While Canon City is not exactly Denver/Boulder, it's in Colorado which matches the regional preference.",
+    "source_url": "https://www.adzuna.com/details/5707221323?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "description_snippet": "Job Description Visa Accepted J1 Visa Location Hospital Details St. Thomas More Hospital is located in the foothills of the Rocky Mountains at the entrance of the Royal Gorge, in scenic Ca\u00f1on City, Colorado Our non-profit, faith-based hospital is the cornerstone of health care services for Fremont County and surrounding communities with 24-hour emergency services and a level 4 trauma designation St. Thomas More is a recipient of the Healthgrades 2018 Patient Safety Excellence Award\u2122 St. Thomas \u2026",
+    "full_description": "Job Description Visa Accepted J1 Visa Location Hospital Details St. Thomas More Hospital is located in the foothills of the Rocky Mountains at the entrance of the Royal Gorge, in scenic Ca\u00f1on City, Colorado Our non-profit, faith-based hospital is the cornerstone of health care services for Fremont County and surrounding communities with 24-hour emergency services and a level 4 trauma designation St. Thomas More is a recipient of the Healthgrades 2018 Patient Safety Excellence Award\u2122 St. Thomas \u2026",
+    "date_found": "2026-05-10",
+    "date_last_seen": "2026-05-10",
+    "status": "active",
+    "is_new": true,
+    "red_flags": [],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "ae362bb1fd33",
+    "title": "Emergency Medicine - Physician",
+    "employer": "Sharp Rees-Stealy Medical Group",
+    "location": "Carlsbad, CA",
+    "location_region": "San Diego, CA",
+    "location_priority": 1,
+    "salary": "$285,000-$340,000",
+    "salary_numeric": 312500,
+    "institution_type": "Private Hospital Group",
+    "schedule_type": "Day",
+    "is_nocturnist_only": false,
+    "match_confidence": "Medium",
+    "analysis_notes": "This appears to be an Urgent Care position rather than traditional Emergency Medicine, which is a concern. However, it's in a top priority location (San Diego) with acceptable salary range and explicitly states 'NO OVERNIGHTS' which meets schedule preferences. The description mentions 'high acuity, procedural shift work' which suggests it may be more like emergency medicine than typical urgent care.",
+    "source_url": "https://www.adzuna.com/land/ad/5724624710?se=BFEKAHBM8RGi5sGLDfS4mg&utm_medium=api&utm_source=04e8e9e3&v=23C8CBC77EE2534A4720CF74C4C9E07D2C7C73F0",
+    "source_name": "Adzuna",
+    "description_snippet": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
+    "full_description": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
+    "date_found": "2026-05-10",
+    "date_last_seen": "2026-05-10",
+    "status": "active",
+    "is_new": true,
+    "red_flags": [
+      "Urgent Care position - may not be true Emergency Medicine"
+    ],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "df16a0eea8ac",
+    "title": "Emergency Medicine Physician",
+    "employer": "Sharp Rees-Stealy Medical Group",
+    "location": "Vista, CA",
+    "location_region": "San Diego, CA",
+    "location_priority": 1,
+    "salary": "$285,000-$340,000",
+    "salary_numeric": 312500,
+    "institution_type": "Private Hospital Group",
+    "schedule_type": "Day",
+    "is_nocturnist_only": false,
+    "match_confidence": "High",
+    "analysis_notes": "This appears to be an Emergency Medicine position with Sharp Rees-Stealy in the San Diego area, which matches Priority 1 location preferences. The salary range of $285K-$340K meets minimum requirements, and the posting explicitly states 'NO OVERNIGHTS' which aligns with schedule preferences.",
+    "source_url": "https://www.adzuna.com/land/ad/5724624539?se=BFEKAHBM8RGi5sGLDfS4mg&utm_medium=api&utm_source=04e8e9e3&v=911A77E250ADA6ACC732548F6E0D5BA3C586BE95",
+    "source_name": "Adzuna",
+    "description_snippet": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
+    "full_description": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
+    "date_found": "2026-04-12",
+    "date_last_seen": "2026-05-10",
+    "status": "active",
+    "is_new": false,
+    "red_flags": [],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "ce25ff788f7d",
+    "title": "Emergency Medicine - Physician",
+    "employer": "Sharp Rees-Stealy Medical Group",
+    "location": "San Marcos, CA",
+    "location_region": "San Diego, CA",
+    "location_priority": 1,
+    "salary": "$285,000-$340,000",
+    "salary_numeric": 312500,
+    "institution_type": "Private Hospital Group",
+    "schedule_type": "Day",
+    "is_nocturnist_only": false,
+    "match_confidence": "Medium",
+    "analysis_notes": "This appears to be an urgent care position disguised as Emergency Medicine, which may not provide the full-scope emergency medicine experience expected for an EM attending. However, it's in a top priority location (San Diego) with competitive compensation and no overnights. The description mentions 'high acuity, procedural shift work' which suggests it may be more comprehensive than typical urgent care.",
+    "source_url": "https://www.adzuna.com/land/ad/5724624148?se=BFEKAHBM8RGi5sGLDfS4mg&utm_medium=api&utm_source=04e8e9e3&v=50DCF7B4D7BA76BDCAB1D9E97D13B5E50B767BEC",
+    "source_name": "Adzuna",
+    "description_snippet": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
+    "full_description": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
+    "date_found": "2026-05-10",
+    "date_last_seen": "2026-05-10",
+    "status": "active",
+    "is_new": true,
+    "red_flags": [
+      "Labeled as 'Urgent Care' in description despite Emergency Medicine title"
+    ],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "d465f4da0a91",
+    "title": "Emergency Medicine Physician",
+    "employer": "Sharp Rees-Stealy Medical Group",
+    "location": "Oceanside, CA",
+    "location_region": "San Diego, CA",
+    "location_priority": 1,
+    "salary": "$285,000-$340,000",
+    "salary_numeric": 312500,
+    "institution_type": "Private Hospital Group",
+    "schedule_type": "Day",
+    "is_nocturnist_only": false,
+    "match_confidence": "Medium",
+    "analysis_notes": "This appears to be an Urgent Care position rather than traditional Emergency Medicine, despite the job title. However, it's in a priority location (San Diego), offers competitive compensation within the target range, and explicitly states 'NO OVERNIGHTS' which meets schedule preferences. The distinction between urgent care and emergency medicine may need clarification.",
+    "source_url": "https://www.adzuna.com/land/ad/5724623997?se=BFEKAHBM8RGi5sGLDfS4mg&utm_medium=api&utm_source=04e8e9e3&v=061336348694FE2729F9BABEDE55DF251BF5090A",
+    "source_name": "Adzuna",
+    "description_snippet": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
+    "full_description": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
+    "date_found": "2026-05-10",
+    "date_last_seen": "2026-05-10",
+    "status": "active",
+    "is_new": true,
+    "red_flags": [
+      "Position appears to be Urgent Care rather than Emergency Medicine"
+    ],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "c1548481ac41",
+    "title": "Emergency Medicine - Physician",
+    "employer": "Sharp Rees-Stealy Medical Group",
+    "location": "Escondido, CA",
+    "location_region": "San Diego, CA",
+    "location_priority": 1,
+    "salary": "$285,000-$340,000",
+    "salary_numeric": 312500,
+    "institution_type": "Private Hospital Group",
+    "schedule_type": "Day",
+    "is_nocturnist_only": false,
+    "match_confidence": "Medium",
+    "analysis_notes": "This is in a priority 1 location (San Diego) with acceptable salary range and explicitly states 'NO OVERNIGHTS'. However, the description suggests this may be an Urgent Care position rather than traditional Emergency Medicine, though it mentions high acuity and procedural work. Sharp is a reputable healthcare system in San Diego.",
+    "source_url": "https://www.adzuna.com/land/ad/5724623736?se=BFEKAHBM8RGi5sGLDfS4mg&utm_medium=api&utm_source=04e8e9e3&v=BB0376BDBC493E8614E4082B30CB6B23C8732DB5",
+    "source_name": "Adzuna",
+    "description_snippet": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
+    "full_description": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
+    "date_found": "2026-05-10",
+    "date_last_seen": "2026-05-10",
+    "status": "active",
+    "is_new": true,
+    "red_flags": [
+      "Position appears to be Urgent Care rather than traditional Emergency Medicine"
+    ],
+    "missed_scrapes": 0
+  },
+  {
     "id": "de3c6a11ba55",
     "title": "Emergency Medicine Physician",
     "employer": "US Acute Care Solutions / Dignity Health - Mercy Hospital Southwest",
@@ -22,7 +180,7 @@
     "status": "active",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "65da9d9cabf9",
@@ -47,7 +205,7 @@
     "status": "active",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "dc7947e53f7e",
@@ -72,7 +230,7 @@
     "status": "active",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "c842e6458d36",
@@ -97,7 +255,7 @@
     "status": "active",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "f6ae7e7a05a1",
@@ -120,9 +278,9 @@
     "date_found": "2026-05-09",
     "date_last_seen": "2026-05-09",
     "status": "active",
-    "is_new": true,
+    "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "dd9bc9858ed0",
@@ -145,9 +303,9 @@
     "date_found": "2026-05-09",
     "date_last_seen": "2026-05-09",
     "status": "active",
-    "is_new": true,
+    "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "bbb3aefbbfd9",
@@ -169,10 +327,10 @@
     "full_description": "Join the nation's largest physician-owned group, US Acute Care Solutions, where you'll gain ownership stake, access top-tier continuing education, and work alongside committed colleagues in an environment focused on outstanding patient care. Our model combines the resources of a national company with a physician-first approach, allowing you to focus on what matters most - caring for patients.Additional DetailsW-2 and 1099 options availableExcellent compensation package with an estimated employed W-2 range of $235/hour to $306/hourEstimated 1099 base pay range of $275/hour to $415/hourSplit position between Mercy Health Downtown Bakersfield & Mercy Health SouthwestAbout Mercy Hospital Southwest - BakersfieldED Volume: 47,000Cerner EMR SystemSpecialty services include critical care, general surgery, urology, neurosurgery, ortho, OBGYN, and PEDS on call10-hour physician shifts and 12-hour APP shifts are availableBenefitsFinancial Benefits:$4,000 tax-free CME/BEA annually$6,500 plus your state and DEA license in year one for new graduatesGroundbreaking 100% Paid Parental LeavePioneering Paid Military LeaveStudent loan refinancing as low as 2.99%Comprehensive medical, dental, vision and Rx coverageShort- and long-term disability (own occupation)Unmatched medical malpractice including tail and free litigation supportUSACS malpractice claims are less than 1/2 the national average!Intangible Benefits:Location flexibility and career stability of a national groupNational Clinical Governance Board (NCGB) of internally elected physiciansClinical Management Tools (CMTs) provide evidence-based support24/7/365 live physician supportProfessional Development Programs including:Scholars (Leadership Training)Efficiency AcademyEngagement & Experience AcademyUSACS Annual Assembly opportunityInternal USACS STAT traveling physiciansThe AreaBakersfield is located in Kern County, the heart of California, nestled between San Francisco and Los Angeles. People who consider putting down roots in the area will find a healthy job market and an affordable place to raise a family. Bakersfield's strong sense of community and family and its booming oil and agriculture industries keep the region thriving. Bakersfield has hundreds of miles of bike paths and lanes and nearly 60 parks, offering locals plenty of opportunities to enjoy the outdoors, including the Sierra Nevada Mountains and some of California's expansive national forests.",
     "date_found": "2026-04-26",
     "date_last_seen": "2026-05-08",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "994d22268f6d",
@@ -194,10 +352,10 @@
     "full_description": "Our client in Massachusetts is seeking an ABEM certified or Eligible Emergency Medicine physician to joing their team.  Twelve hour shifts.  Less than an hour to Boston, Worcester, and Springfield.  Ideal candidate will be comfortable with full scope of Emergency Medicine. Situated in beautiful New England, this position will not last long.  Call me today.  \n\nHospital Employee, Inpatient only.   Salary OR Income Guarantee.  Production Incentives available.  Relocation Bonus available.  CME time and money available.  Retirement plan provided.  Market Leading Compensation, with full scope of Benefits! .  State of the Art Community Hospital.  Over 20 ED beds.  Affordable COL, Top Rated Public and Private Schools as well as higher education, Outstanding golf courses, Close to Ski Resorts.",
     "date_found": "2026-05-07",
     "date_last_seen": "2026-05-08",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "5d3ab1172a00",
@@ -219,10 +377,10 @@
     "full_description": "Up to $50K Sign On Bonus \u2013 San Francisco, CA \u2013 Seeking Emergency Medicine Physicians Join the Physician Partnership Where You Can Increase Your Impact Vituity\u2019s ownership model provides autonomy, local control, and a national system of support, so you can focus your attention where you want it to be \u2013 on your patients. Join the Vituity Team. Vituity is a 100% physician-owned partnership and is led by frontline physicians that are all equitable owners. As an equal and valued partner from day one, our ownership model provides you with financial transparency, a comprehensive benefits package including profit distribution, and multiple career development opportunities. Our leadership understands what your practice needs to thrive and gives you autonomy and local control so you can provide care when, where, and how your patients need it. You are backed by a best-in-class corporate healthcare team and supported by the broad peer-level expertise of 6,000 Vituity clinicians. At Vituity we\u2019ve cultivated an environment where passion thrives, and success comes through shared purpose. We were founded in a culture that values team accomplishments more than individual achievements, an approach we call \u201cculture of brilliance.\u201d Together, we leverage our strengths and experiences to make a positive impact in our local communities. We foster this through shared goals and helping our colleagues succeed, and we also understand the importance of recognition, taking the time to show appreciation and gratitude for a job well done. Vituity Locations: Vituity has opportunities at 890 practices across the country, serving 14.5 million patients a year. With Vituity, if you ever need to move, you can take your job with you. The OpportunityUp to $50k sign-on bonus for qualified candidates.Seeking Board Eligible/Certified Emergency Medicine physicians.AAPS physicians with ED experience will be considered.Current CA state license is a plus.Full time, part time, and per diem opportunities available.Provider\u2019s will be cross credentialed at UCSF Health St. Mary\u2019s Hospital and UCSF Health Saint Francis Hospital. The PracticeUCSF Health St. Mary's Hospital \u2013 San Francisco, California403-bed facility and a STEMI Receiving Center.13-bed Emergency Department in an urban environment.Annual volume of 16,000 with a 20-25% admit rate.Good payer mix.Vituity-staffed Emergency Department, GME, and Psych including adolescent psychiatry offer integrated care solutions at this site! The CommunitySan Francisco, California, is a city of iconic landmarks, cultural diversity, and unparalleled charm, making it an extraordinary place to live and work.Known for the Golden Gate Bridge, Alcatraz Island, and historic cable cars, the city offers breathtaking sights and a vibrant urban lifestyle.Residents enjoy world-class museums like the de Young and SFMOMA, while outdoor enthusiasts explore Golden Gate Park or hike the trails at Lands\u2019 End.The neighborhoods, from bustling Chinatown to the artsy Mission District, offer unique dining and cultural experiences.San Francisco\u2019s cool, foggy climate creates a distinct atmosphere, earning it the nickname \u201cThe City by the Bay.\u201dIts location provides easy access to Napa Valley, Silicon Valley, and coastal adventures.With a passionate sports culture, including teams like the Giants and 49ers, San Francisco is a city that inspires and energizes. Benefits & Beyond*Vituity cares about the whole you. With our comprehensive compensation and benefits package, we are mindful of what matters most, and support your needs of today and your plans for the future.Superior Health Plan OptionsDental, Vision, HSA, life and AD&D coverage, and morePartnership models allows a K-1 status pay structure, allowing high tax deductionsExtraordinary 401K Plan with high tax reduction and faster balance growthEligible to receive an Annual Profit Distribution/yearly cash bonusEAP and travel assistance includedStudent loan refinancing discountsPurpose-driven culture focused on improving the lives of our patients, communities, and employees We are unified around the common purpose of transforming healthcare to improve lives and we believe everyone has a role to play in that. When we work together across sites and specialties as an integrated healthcare team, we exceed the expectations of our patients and the hospitals and clinics we work in. If you are looking to make a difference, from clinical to corporate, Vituity is the place to do it. Come grow with us. Vituity does not discriminate against any person on the basis of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information (including family medical history), veteran status, marital status, pregnancy or related condition, or any other basis protected by law. Vituity is committed to complying with all applicable national, state and local laws pertaining to nondiscrimination and equal opportunity. *Visa status applicants benefits vary. Please speak to a recruiter for more details. Applicants only. No agencies please.",
     "date_found": "2026-04-12",
     "date_last_seen": "2026-05-08",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "c4b6e03658a1",
@@ -244,10 +402,10 @@
     "full_description": "SUMMARY: The Emergency Medicine Physician will provide emergency medicine services for Alameda Health System. The Emergency Medicine Physician is responsible for the expert provision of safe, efficient, patient-centered, and cost-effective care within the Emergency Department and for responding to in-house emergencies at the Hospital. This position reports to the Medical Directors of the Department of Emergency Medicine, with ultimate responsibility to the Chair of the Department.\n\nDUTIES & ESSENTIAL JOB FUNCTIONS: NOTE: Following are the duties performed by employees in this classification. However, employees may perform other related duties at an equivalent level. Not all duties listed are necessarily performed by each individual in the classification.\n\n1. Provide appropriate medical services to all patients presenting to the Emergency Department.\n\n2. Consult with medical staff members about issues concerning appropriate medical services to be provided to such patients.\n\n3. Consult and cooperate with the clinical departments to facilitate patient care.\n\n4. Refer when medically necessary patients for specialist care.\n\n5. Use currently accepted methods and practices of medicine, adhere to applicable standards of care, medical ethics, policies and protocols, and timely documentation in the Electronic Health Record.\n\n6. Be responsible, on a case-by-case basis as the need arises, for taking all actions necessary to facilitate the appropriate transfer of a patient to or from another medical facility to gain access to skilled medical care.\n\n7. Promote and maintain a good working relationship with members of the medical staff and employees.\n\n8. Assist hospital in attaining any goals regarding patient, employee, and physician satisfaction in connection with physician's delivery of services.\n\n9. Consult with quality manager to achieve better clinical outcomes for patients, improve the quality of patient care and efficient utilization of physician and hospital resources.\n\n10. Assist hospital with the appropriate medical assessment, treatment and timely discharge of patients admitted to hospital for observation.\n\n11. Report to hospital, as needed, material concerns about quality of care, delay in delivery of medical services to patients, or any patient concerns.\n\n12. Comply with requirements and standards of AHS Medical, The Joint Commission, any other accrediting agencies, and all applicable AHS laws, code of conduct, rules, and regulations.\n\n13. Cooperate with hospital operation and nursing in implementing new procedures, controls, and systems to promote and facilitate quality, cost controls, reimbursement functions, standardization of products and equipment, and any other requests made by hospital.\n\n14. Provide effective and timely communications to referring or admitting physicians, patients and family concerning the clinical status of each patient admitted through the ED (Emergency Department).\n\n15. Promote and maintain good public relations on behalf of hospitals and assist hospitals in attaining goals established regarding patient/employee/physician satisfaction in connection with delivery of clinical services.\n\n16. Attend monthly Faculty and Quality Review (Peer Review) meetings.\n\n17. Perform other duties as assigned by the director of service and the department chair.\n\nMINIMUM QUALIFICATIONS:\n\nEducation: Doctor of Medicine (M.D.) or Doctor of Osteopathic Medicine (D.O.) is required.\n\nRequired: Completion of approved post-graduate residency training in Emergency Medicine from an accredited program.\n\nRequired: Board Eligible or Board Certified in Emergency Medicine.\n\nRequired Licenses/Certifications: Possession of a valid license to practice medicine in the State of California.\n\nRequired: Valid DEA (Drug Enforcement Administration) license.\n\nCompliance with Emergency Medicine (EM) Board mandated education and training to maintain State licensure and board certification.\n\nPay Range: $174.75 - $185.26 / Hour\n\nThe pay range for this position reflects the base pay scale for the role at Alameda Health System. Final compensation will be determined based on several factors, including but not limited to a candidate's experience, education, skills, licensure and certifications, departmental equity, applicable collective bargaining agreements, and the operational needs of the organization. Alameda Health System also offers eligible positions a generous comprehensive benefits program.",
     "date_found": "2026-04-11",
     "date_last_seen": "2026-05-08",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "29c6bbc5ff2c",
@@ -269,10 +427,10 @@
     "full_description": "Up to $100K Sign On Bonus \u2013 Antioch, CA \u2013 Seeking Emergency Medicine Physicians\n\n\nJoin the Physician Partnership Where You Can Increase Your Impact\n\n\nVituity\u2019s ownership model provides autonomy, local control, and a national system of support, so you can focus your attention where you want it to be \u2013 on your patients.\n\n\nJoin the Vituity Team.\n\n\nVituity is a 100% physician-owned partnership and is led by frontline physicians that are all equitable owners. As an equal and valued partner from day one, our ownership model provides you with financial transparency, a comprehensive benefits package including profit distribution, and multiple career development opportunities. Our leadership understands what your practice needs to thrive and gives you autonomy and local control so you can provide care when, where, and how your patients need it.\n\n\nYou are backed by a best-in-class corporate healthcare team and supported by the broad peer-level expertise of 6,000 Vituity clinicians. At Vituity we\u2019ve cultivated an environment where passion thrives, and success comes through shared purpose. We were founded in a culture that values team accomplishments more than individual achievements, an approach we call \u201cculture of brilliance.\u201d Together, we leverage our strengths and experiences to make a positive impact in our local communities.\n\n\nWe foster this through shared goals and helping our colleagues succeed, and we also understand the importance of recognition, taking the time to show appreciation and gratitude for a job well done.\n\n\nVituity Locations\nVituity has opportunities at 890 practices across the country, serving 14.5 million patients a year. With Vituity, if you ever need to move, you can take your job with you.\n\n\nThe Opportunity\nUp to $100k sign-on bonus for qualified candidates.\n\n\nSeeking Board Eligible/Certified Emergency Medicine physicians.\n\n\nSpanish speaking is a plus.\n\n\nCurrent CA state license is a plus.\n\n\nThe Practice\nSutter Delta Medical Center \u2013 Antioch, California A small community hospital with great relationships with consultants. 100-bed facility with a 27-bed Emergency Department.\n\n\nLevel II Trauma Center and STEMI receiving center.\n\n\nAnnual volume of 60,000 with a 14% admit rate.\n\n\nBusy ED with high acuity, incredible diversity of pathology, and procedure heavy.\n\n\nExcellence in Cardiac Care, Excellence in Obstetric Care for Black Women, and one of Becker's 2024 Great Community Hospitals.\n\n\nThe Community\nAntioch, California, is a vibrant city located in the East Bay region of the San Francisco Bay Area.\n\n\nKnown for its rich history and scenic surroundings, Antioch offers residents a mix of suburban comfort and outdoor adventure.\n\n\nThe city is home to landmarks like the Black Diamond Mines Regional Preserve, where visitors can explore historic mining sites, and Contra Loma Regional Park, ideal for hiking, picnicking, and fishing.\n\n\nAntioch's Mediterranean climate features warm summers and mild winters, making it perfect for year-round outdoor activities.\n\n\nThe city offers a variety of local amenities, including shopping, dining, and cultural events, while still being close to major cities like Oakland and San Francisco for additional attractions.\n\n\nBenefits & Beyond* Vituity cares about the whole you. With our comprehensive compensation and benefits package, we are mindful of what matters most, and support your needs of today and your plans for the future.\n\n\nSuperior Health Plan Options\nDental, Vision, HSA, life and AD&D coverage, and more\n\n\nPartnership models allows a K-1 status pay structure, allowing high tax deductions\n\n\nExtraordinary 401K Plan with high tax reduction and faster balance growth\n\n\nEligible to receive an Annual Profit Distribution/yearly cash bonus\n\n\nEAP and travel assistance included\n\n\nStudent loan refinancing discounts\nPurpose-driven culture focused on improving the lives of our patients, communities, and employees\n\n\nWe are unified around the common purpose of transforming healthcare to improve lives and we believe everyone has a role to play in that. When we work together across sites and specialties as an integrated healthcare team, we exceed the expectations of our patients and the hospitals and clinics we work in. If you are looking to make a difference, from clinical to corporate, Vituity is the place to do it. Come grow with us.\n\n\nVituity does not discriminate against any person on the basis of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information (including family medical history), veteran status, marital status, pregnancy or related condition, or any other basis protected by law. Vituity is committed to complying with all applicable national, state and local laws pertaining to",
     "date_found": "2026-05-08",
     "date_last_seen": "2026-05-08",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "8482ccb945a4",
@@ -294,10 +452,10 @@
     "full_description": "Competitive Compensation and Benefit Package The comprehensive benefits and longevity-based compensation package offered by Southern California Permanente Medical Group (SCPMG) enables physicians to focus on what they do best \u2013 provide their patients with exceptional care. \u2022 Medical/dental/vision coverage \u2022 Supplemental medical coverage \u2022 Special dependent coverage \u2022 Vacation/holiday/sick/education time and leave (prorated to work schedule) \u2022 Retirement and savings plans \u2022 Relocation package \u2022 Professional liability coverage \u2022 Public Service Loan Forgiveness (PSLF) eligible Partnership of SCPMG \u2022 Transition to a Partner/Owner of SCPMG \u2022 Eligible after three consecutive years of full-time employment (six consecutive years of part-time employment) \u2022 Increased benefits (e.g., compensation, retirement, life insurance) \u2022 Voting rights on organizational decisions Additional Information \u2022 Board Certified or Board Eligible About the area San Diego captures the essence of coastal living with its beachside communities and lively downtown. The city's coastal climate allows for year-round visits to the San Diego Zoo, Sea World, and Legoland. For culture seekers, San Diego features a range of culinary delights and unique architectural landscapes influenced by the city's proximity to Mexico and Spanish history. Working here The San Diego service area is one the region\u2019s largest, with impressive geographical coverage, over 1,100 physicians, and about 25 satellite offices to complement the main medical center. Yet we have a singular, well-defined culture, grounded in three pillars that improve outcomes: maintaining physicians\u2019 well-being and their original passion for medicine; keeping the workforce energized and cohesive; and ensuring patient engagement in their own overall health. This formula, along with our size, diversity, and depth of talent, helps the area keep its edge in new technology and clinical expertise. San Diego maintains a high level of integration and collaboration; physicians and new hires alike know they\u2019re not alone, that they have the personal support and clinical assistance of an entire team. Educational and research opportunities are actively offered and supported, with residency programs and fellowships, along with participation in clinical studies and trials.",
     "date_found": "2026-05-05",
     "date_last_seen": "2026-05-08",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "4707fe0954c2",
@@ -319,10 +477,10 @@
     "full_description": "Chula Vista, CA \u2013 Seeking Emergency Medicine Physicians Join the Physician Partnership Where You Can Increase Your Impact Vituity\u2019s ownership model provides autonomy, local control, and a national system of support, so you can focus your attention where you want it to be \u2013 on your patients. Join the Vituity Team.\n\n\nVituity is a 100% physician-owned partnership and is led by frontline physicians that are all equitable owners. As an equal and valued partner from day one, our ownership model provides you with financial transparency, a comprehensive benefits package including profit distribution, and multiple career development opportunities. Our leadership understands what your practice needs to thrive and gives you autonomy and local control so you can provide care when, where, and how your patients need it.\n\n\nYou are backed by a best-in-class corporate healthcare team and supported by the broad peer-level expertise of 6,000 Vituity clinicians. At Vituity we\u2019ve cultivated an environment where passion thrives, and success comes through shared purpose. We were founded in a culture that values team accomplishments more than individual achievements, an approach we call \u201cculture of brilliance.\u201d Together, we leverage our strengths and experiences to make a positive impact in our local communities.\n\n\nWe foster this through shared goals and helping our colleagues succeed, and we also understand the importance of recognition, taking the time to show appreciation and gratitude for a job well done.\n\n\nVituity\nLocations\nVituity has opportunities at 890 practices across the country, serving 14.5 million patients a year. With Vituity, if you ever need to move, you can take your job with you. The Opportunity\n\n\nSeeking Board Eligible/Certified Emergency Medicine physicians. One (1) year of Emergency Medicine or Urgent Care experience is required. Current CA state license is a plus. Visa Candidates are encouraged to apply.\n\n\nThe Practice Sharp Chula Vista Medical\n\n\nCenter \u2013 Chula Vista, California\n\n\n~ STEMI Receiving Center and Stroke Center. ~350-bed facility with a 46-bed Emergency Department. ~ Diverse patient mix with an annual volume of 85,000.\n\n\nThe Community\nChula Vista, California, is a dynamic city located just south of San Diego, offering a mix of coastal living, urban amenities, and natural beauty. Known for its proximity to stunning beaches like Silver Strand State Beach and the Chula Vista Marina, residents enjoy outdoor activities such as boating, hiking, and birdwatching. The city is home to the renowned Sweetwater Marsh National Wildlife Refuge and the Olympic Training Center, adding to its unique charm.\n\n\nWith a Mediterranean climate, Chula Vista enjoys warm summers and mild winters, perfect for year-round outdoor enjoyment. Living here means access to top-rated schools, a strong sense of community, and a variety of shopping, dining, and cultural experiences. Just a short drive from San Diego\u2019s attractions like Balboa Park and the San Diego Zoo, Chula Vista offers an exceptional balance of relaxation and adventure, making it an ideal place to live and work.\n\n\nBenefits & Beyond* Vituity cares about the whole you. With our comprehensive compensation and benefits package, we are mindful of what matters most, and support your needs of today and your plans for the future.\n\n\nSuperior Health Plan Options Dental, Vision, HSA, life and AD&D coverage, and more Partnership models allows a K-1 status pay structure, allowing high tax deductions Extraordinary 401K Plan with high tax reduction and faster balance growth Eligible to receive an Annual Profit Distribution/yearly cash bonus EAP and travel assistance included Student loan refinancing discounts Purpose-driven culture focused on improving the lives of our patients, communities, and employees We are unified around the common purpose of transforming healthcare to improve lives and we believe everyone has a role to play in that. When we work together across sites and specialties as an integrated healthcare team, we exceed the expectations of our patients and the hospitals and clinics we work in. If you are looking to make a difference, from clinical to corporate, Vituity is the place to do it.\n\n\nCome grow with us. Vituity does not discriminate against any person on the basis of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information (including family medical history), veteran status, marital status, pregnancy or related condition, or any other basis protected by law. Vituity is committed to complying with all applicable national, state and local laws pertaining to nondiscrimination and equal opportunity. *Visa status applicants benefits vary.\n\n\nPlease speak to a recruiter for more details. Applicants only. No agencies please.",
     "date_found": "2026-05-06",
     "date_last_seen": "2026-05-08",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "35561c6e5e04",
@@ -344,10 +502,10 @@
     "full_description": "Southern California Permanente Medical Group (SCPMG) is a physician-led partnership with strong values that support a patient-centered and evidence-based approach to medicine. Provides our physicians with the resources and support systems needed to ensure every physician can focus on practicing medicine, connecting with one another, and providing the best possible care to their patients. Additional Information \u00b7 Board Certified or Board Eligible About the area The city of Los Angeles offers one of the world\u2019s great urban experiences. Opportunities to enjoy pro sports, entertainment, cuisine, and the arts are virtually endless, with the variety to satisfy its incredibly diverse population. Beaches are nearby; mountains and desert are an hour away, and the weather enables year-round outdoor activities. Working here The Los Angeles Medical Center is the region's largest facility\u2014and SCPMG\u2019s largest teaching facility\u2014with a broad offering of primary, specialty, tertiary, and quaternary care programs for a highly diverse patient population. Despite its size, the center is remarkably compact, providing physicians with ready access to interaction and support. Our leadership is dedicated to transparency, and to providing opportunities for others to step up and have a voice. The center\u2019s Graduate Medical Education program is another hallmark, along with our established culture of collaboration and accountability. Physician well-being is key: new hires and partners alike will find wellness events, workshops, trainings, meet-and-greets, and other opportunities to integrate, grow, and thrive\u2014all in one of the world\u2019s premier big cities.",
     "date_found": "2026-05-08",
     "date_last_seen": "2026-05-08",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "ce599959efec",
@@ -369,10 +527,10 @@
     "full_description": "Cambridge Health Alliance (CHA) is a health system serving patients in Cambridge, Somerville and Boston's Metro-North region. CHA strives to provide high quality care including primary, hospital, and specialty care, emergency services, and behavioral health. As a teaching hospital of Harvard Medical School and Tufts University School of Medicine, CHA prides itself on training the healthcare professionals of tomorrow. The organization's mission is to improve the health of communities. CHA has built its culture on the core values of community, integrity, respect, compassion, learning, and excellence. If you think you could bring your skills, ideas and compassion to the team CHA welcomes your application, whether you are interested in full-time, part-time, or per diem job opportunities.\n\nCambridge Health Alliance, a nationally recognized, award-winning health system is seeking a full-time board certified/board eligible Emergency Physician to join our exceptional team. The Cambridge Health Alliance Department of Emergency Medicine staffs two community Emergency Departments and one Urgent Care center located in the Greater Boston area. We provide outstanding and innovative care to a diverse patient population. Our team of more than 40 physicians and physician assistants serve approximately 100,000 patients annually across the three sites and has led us to become a national model for patient flow.\n\nWe are looking for a dedicated physician who excels in a collegial environment, is willing to grow professionally and help shape future clinicians. As a Harvard Medical School teaching affiliate, we offer ample teaching opportunities with medical students and residents. We offer a competitive benefits and salary package.\n\nPlease send CV's to: Benjamin Milligan, MD, FACEP, Chief, Department of Emergency Medicine at bmilligan@. Candidates may also apply confidentially by submitting contact information and CV/cover letter using the short form located to the right of this job post. \n\nWe are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.\n\nCambridge Health Alliance brings Care to the People - including your neighbors, friends and family. Our local hospitals and care centers serve our vibrant, diverse communities, and play an integral role in improving health. As passionate advocates for the underserved, we actively partner with our communities to take on challenging public health issues, and conduct important research to help reduce barriers to care. We believe that everyone deserves access to high quality, convenient health care. This is why our employees believe in where they work and why many build long, rewarding careers at CHA.\n\nHealthcare is changing rapidly. CHA has a strategic plan that charts a proactive course for our future. It is built on a vision of equity and excellence for everyone, every time. It also recognizes that our workforce is our most valuable asset and prioritizes competitive salaries, benefits and professional development opportunities for employees. The strategic plan is changing the way we provide care and improving the health and experience of our patients; we are looking for smart, committed, compassionate people who want to be part of making our vision of better health and equity a reality.\n\nAt CHA, you can believe in where you work and go home every day knowing you made a difference. Join our team and help us bring Care to the People.",
     "date_found": "2026-05-06",
     "date_last_seen": "2026-05-08",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "6608e664b409",
@@ -394,10 +552,10 @@
     "full_description": "Baystate Health is a not-for-profit, integrated healthcare system in western Massachusetts which consists of an academic medical center, Baystate Children\u2019s Hospital, three community hospitals and the region\u2019s largest multispecialty group. Our flagship hospital, Baystate Medical Center, is home to the University of Massachusetts Chan Medical School-Baystate.\n\nEMERGENCY MEDICINE HIGHLIGHTS:\n\u2022 Our Department of EM consists of 40+ attendings, 30+ APPs, residents, fellows, medical students, and support teams across academic and community EDs in our integrated health system.\n\u2022 Craft your ideal position- 100% academic, 100% community, or a blend.\n\u2022 Baystate Medical Center (BMC) in Springfield MA is home to one of the busiest EDs in Massachusetts and the east coast. We serve over 122,000 adult and pediatric patients annually. Our 72,000 square foot ED is equipped with 94 private rooms, separate pediatric ED, separate behavioral health rooms and top-of-the-line technology.\n\u2022 Our community EDs in Palmer, Westfield and Greenfield MA each care for >33,000 patients annually with strong subspecialty support onsite and at nearby BMC. APPs run fast tracks.\n\u2022 Academic positions include a faculty appointment at UMass-Chan Baystate and strong involvement with our 48 residents as well as fellows in pediatric emergency medicine, research, wilderness medicine, administration, medical education, EMS, health equity, wellness, and ultrasound.\n\u2022 Strong support for clinical and health services research plus state-of-the-art simulation programs.\n\u2022 Qualifications: ABMS BE or BC Emergency Medicine, fellowship desired for academic positions. EMS fellowship particularly desired.\n\u2022 The compensation range listed below represents the base salaries for all positions at a given grade across the health system. Typically, a new hire can expect a starting salary somewhere in the lower part of the range. Actual salaries may vary by position and will be determined based on the candidate\u2019s relevant experience. No employee will be paid below the minimum of the range. Pay ranges are listed as hourly for non-exempt employees and based on assumed full time commitment for exempt employees. Minimum= $285,000. Maximum= $460,000.\n\nTHE ADVANTAGES OF WORKING WITH BAYSTATE:\n\u2022 Compensation plan includes base salary and opportunity to earn incentive bonuses\n\u2022 Robust relocation package\n\u2022 Flexibility- opportunities to flex your FTE to fit your life\n\u2022 Transparent and equitable promotional practices\n\u2022 Immediate access to paid time off\n\u2022 Lucrative 403b match and 457b plan\n\u2022 Professional development and mentorship\n\u2022 Wellbeing programs that include mental, physical, and financial health and more\n\nAt Baystate Health, we believe that treating one another with dignity and fairness is what elevates respect for our patients and staff. We are committed to ensuring opportunity and inclusion for everyone through equitable policies, practices, and procedures and creating a workforce that is reflective of the communities we serve.\n\nFor more information please contact:\nSeth Gemme, MD, Chair of Emergency Medicine\nC/O Melissa Hale, Senior Physician Recruiter\n413-794-2624 or melissa.hale@baystatehealth.org",
     "date_found": "2026-04-10",
     "date_last_seen": "2026-05-08",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "f8b0b4d40769",
@@ -422,7 +580,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "08eb44b01d65",
@@ -447,7 +605,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "a294a15c767a",
@@ -472,7 +630,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "c2c16b1d34a4",
@@ -497,7 +655,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "85582c648d9d",
@@ -522,7 +680,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "4654e563542f",
@@ -547,7 +705,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "2e68f9196b2a",
@@ -572,7 +730,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "a815ed8c7cde",
@@ -597,7 +755,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "3304dbb50824",
@@ -622,7 +780,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "bdb83bcae688",
@@ -647,7 +805,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "529166ff7ff4",
@@ -672,7 +830,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "b74c7e45574f",
@@ -697,7 +855,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "c9ad1643da5a",
@@ -722,7 +880,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "55f99fefad9d",
@@ -751,7 +909,7 @@
       "Requires security clearance",
       "Government employment"
     ],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "0e8f1b6c96ff",
@@ -776,7 +934,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "83eb444c2e07",
@@ -801,7 +959,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "4d22ba3d8e38",
@@ -826,7 +984,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "86dde03423c0",
@@ -851,7 +1009,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "c365ab37d373",
@@ -876,7 +1034,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "7d96541f76c8",
@@ -901,7 +1059,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "4f922f1e2bfe",
@@ -926,7 +1084,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "fadf87d4bcdb",
@@ -951,7 +1109,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "14d75e971136",
@@ -976,7 +1134,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "bbcf38e9c8ab",
@@ -1003,7 +1161,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "de9f998ea2b5",
@@ -1030,7 +1188,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "d68f2b612626",
@@ -1057,7 +1215,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "4226f10a0828",
@@ -1084,7 +1242,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "5d4061b16acb",
@@ -1111,7 +1269,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "17d0d7f3e4c6",
@@ -1138,7 +1296,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "35d02704fc5d",
@@ -1165,7 +1323,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "c917b2c5b1d1",
@@ -1192,7 +1350,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "b4b37307e13f",
@@ -1219,7 +1377,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "2c0b02b2ea00",
@@ -1246,7 +1404,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "72d9f2fd1929",
@@ -1273,7 +1431,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "6e7471a00d61",
@@ -1300,7 +1458,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "58e910e2a1bf",
@@ -1327,7 +1485,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "8e96e4dccaea",
@@ -1354,7 +1512,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "8223d07ec1d3",
@@ -1381,7 +1539,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "48117f9f793e",
@@ -1408,7 +1566,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "c9e948e801c1",
@@ -1435,7 +1593,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "3e7299b2d585",
@@ -1462,7 +1620,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "dd95d1d02f4a",
@@ -1489,7 +1647,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "09886d2fabd7",
@@ -1516,7 +1674,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "41948b13ad8e",
@@ -1543,7 +1701,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "1afd0c0b2301",
@@ -1570,7 +1728,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "12d8ee30b6e2",
@@ -1597,7 +1755,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "6ce8cb6599c4",
@@ -1624,7 +1782,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "f1aff801224e",
@@ -1651,7 +1809,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "81bc21742893",
@@ -1678,7 +1836,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "98dddbf0d279",
@@ -1705,7 +1863,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "d60f44d74d74",
@@ -1732,7 +1890,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "c86acdfa7672",
@@ -1759,7 +1917,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "ec7c1918b290",
@@ -1786,7 +1944,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "f94c825ec0be",
@@ -1813,7 +1971,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "528fa565925e",
@@ -1840,7 +1998,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "e77e28806cd5",
@@ -1867,7 +2025,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "e6c73124235c",
@@ -1894,7 +2052,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "b26f4aad516b",
@@ -1921,7 +2079,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "4db6076e5033",
@@ -1948,7 +2106,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "710f5ee46a50",
@@ -1975,7 +2133,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "d8ddb18a85ea",
@@ -2002,7 +2160,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "53918e88a930",
@@ -2029,7 +2187,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "6cb385831452",
@@ -2056,7 +2214,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "1ff9ebe97479",
@@ -2083,7 +2241,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "610dc4b4e7b1",
@@ -2110,7 +2268,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "8332ad3ca59a",
@@ -2137,7 +2295,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "828655d61437",
@@ -2164,7 +2322,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "b4595992d738",
@@ -2191,7 +2349,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "8b872935877d",
@@ -2218,7 +2376,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "2444be3499fb",
@@ -2245,7 +2403,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "318ad3758e15",
@@ -2272,7 +2430,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "9301f1c2ad6f",
@@ -2299,7 +2457,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "230f66060e1e",
@@ -2326,7 +2484,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "6737d4a68d33",
@@ -2353,7 +2511,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "6229f899f4fd",
@@ -2380,7 +2538,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "8b17209c5a58",
@@ -2407,7 +2565,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "a70f2e35bef6",
@@ -2434,7 +2592,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "b65fea12f910",
@@ -2461,7 +2619,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "b314e6194766",
@@ -2488,7 +2646,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "605cf2401384",
@@ -2515,7 +2673,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "c14070508fea",
@@ -2542,7 +2700,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "e7aa2da31ba0",
@@ -2569,7 +2727,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "4751a8327ee5",
@@ -2596,7 +2754,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "7118646c7451",
@@ -2623,7 +2781,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "c81ba0de0c81",
@@ -2650,7 +2808,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "02761c996a6c",
@@ -2677,7 +2835,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "9da552835b03",
@@ -2704,7 +2862,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "7992300d8c5f",
@@ -2731,7 +2889,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "ad95122841e5",
@@ -2758,7 +2916,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "47eac8aa54ca",
@@ -2785,7 +2943,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "3335a8e266f6",
@@ -2812,7 +2970,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "c7be128fd6be",
@@ -2839,7 +2997,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "9da54953af9b",
@@ -2866,7 +3024,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "4a72db19afc7",
@@ -2893,7 +3051,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "9bb8eb6a7dcf",
@@ -2920,7 +3078,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "20eeb65cbbba",
@@ -2947,7 +3105,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "19ede0e2a830",
@@ -2974,7 +3132,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "402dfbf25612",
@@ -3001,7 +3159,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "a11a2a15b821",
@@ -3028,7 +3186,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "355cbb4adc86",
@@ -3055,7 +3213,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "982324d29696",
@@ -3082,7 +3240,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "24148b4fc284",
@@ -3109,7 +3267,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "780dd8620877",
@@ -3136,7 +3294,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "4d884d33d47b",
@@ -3161,7 +3319,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "01961943cac6",
@@ -3186,7 +3344,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "076e4ccf8d68",
@@ -3211,7 +3369,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "29452fbac450",
@@ -3236,7 +3394,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "b396fba08d3e",
@@ -3261,7 +3419,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "77c5fd1d3fd8",
@@ -3286,7 +3444,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "8ee4ed5175c9",
@@ -3311,7 +3469,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "266e2ab00795",
@@ -3336,7 +3494,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "73dbbbf07f1d",
@@ -3361,7 +3519,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "29247b874210",
@@ -3386,7 +3544,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "9d9b8fae846b",
@@ -3411,7 +3569,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "603f22f422fc",
@@ -3436,7 +3594,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "0a26f145928f",
@@ -3461,7 +3619,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "5d2324d9ee36",
@@ -3486,7 +3644,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "6228687c9b1d",
@@ -3511,7 +3669,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "4fa24c58eb5c",
@@ -3536,7 +3694,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "0ef0af571fcf",
@@ -3561,7 +3719,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "4a4bee2471d9",
@@ -3586,7 +3744,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "937de2a51aa5",
@@ -3611,7 +3769,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "2d205212c023",
@@ -3636,7 +3794,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "df3470dd02b7",
@@ -3661,7 +3819,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "d8084bc78b41",
@@ -3690,7 +3848,7 @@
       "Security clearance required",
       "Mission essential designation"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "743eadd7ad44",
@@ -3715,7 +3873,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "e5bf30e00dda",
@@ -3740,7 +3898,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "5bbae10a9e53",
@@ -3767,7 +3925,7 @@
     "red_flags": [
       "Part-time position may not meet full-time requirement"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "61335f927772",
@@ -3792,7 +3950,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "0bd384e4a55a",
@@ -3817,7 +3975,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "710ca0f1c7a3",
@@ -3842,7 +4000,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "ab25b16ba222",
@@ -3867,7 +4025,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "1071b2d8e942",
@@ -3892,7 +4050,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "692b89eb2422",
@@ -3917,7 +4075,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "62d476447c49",
@@ -3942,7 +4100,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "8853e28cf59b",
@@ -3967,7 +4125,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "6a8e3e062566",
@@ -3992,7 +4150,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "a808c3253c22",
@@ -4017,7 +4175,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "a8d09853ea24",
@@ -4044,7 +4202,7 @@
     "red_flags": [
       "Leadership role - may be disguised Medical Director position"
     ],
-    "missed_scrapes": 8
+    "missed_scrapes": 9
   },
   {
     "id": "9b0abea31c7f",
@@ -4069,7 +4227,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 8
+    "missed_scrapes": 9
   },
   {
     "id": "315810a303c1",
@@ -4094,7 +4252,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 8
+    "missed_scrapes": 9
   },
   {
     "id": "39fc57c339c0",
@@ -4119,7 +4277,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 8
+    "missed_scrapes": 9
   },
   {
     "id": "1fa9f03e7362",
@@ -4144,7 +4302,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 8
+    "missed_scrapes": 9
   },
   {
     "id": "45eb155df3f7",
@@ -4169,7 +4327,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 8
+    "missed_scrapes": 9
   },
   {
     "id": "f5d53fe049bb",
@@ -4194,7 +4352,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "9fcf363e5375",
@@ -4219,7 +4377,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "e006d60369f4",
@@ -4244,7 +4402,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "d840c19fa995",
@@ -4269,7 +4427,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "d560ef77a24f",
@@ -4294,7 +4452,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "3eed6ed98ac5",
@@ -4319,7 +4477,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "3a9a8943beee",
@@ -4344,7 +4502,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "0598084124f6",
@@ -4369,7 +4527,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "d4cbfa1d699e",
@@ -4394,7 +4552,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 11
+    "missed_scrapes": 12
   },
   {
     "id": "f32fca09eb0f",
@@ -4419,7 +4577,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 11
+    "missed_scrapes": 12
   },
   {
     "id": "27d207f5bc9a",
@@ -4444,7 +4602,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 11
+    "missed_scrapes": 12
   },
   {
     "id": "c96575e5c89a",
@@ -4469,7 +4627,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 11
+    "missed_scrapes": 12
   },
   {
     "id": "5ab2f498b1c8",
@@ -4494,7 +4652,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 11
+    "missed_scrapes": 12
   },
   {
     "id": "5a399cfec917",
@@ -4519,7 +4677,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 12
+    "missed_scrapes": 13
   },
   {
     "id": "efa053c2f6ed",
@@ -4544,7 +4702,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 12
+    "missed_scrapes": 13
   },
   {
     "id": "a56628eac1f8",
@@ -4569,7 +4727,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 12
+    "missed_scrapes": 13
   },
   {
     "id": "f3280af2e39d",
@@ -4594,7 +4752,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 12
+    "missed_scrapes": 13
   },
   {
     "id": "aab608699843",
@@ -4619,7 +4777,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 12
+    "missed_scrapes": 13
   },
   {
     "id": "e54444056706",
@@ -4644,7 +4802,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 12
+    "missed_scrapes": 13
   },
   {
     "id": "1cdbd74ed43c",
@@ -4669,7 +4827,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 13
+    "missed_scrapes": 14
   },
   {
     "id": "e82721e8f611",
@@ -4694,7 +4852,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 13
+    "missed_scrapes": 14
   },
   {
     "id": "0e9b2b079b94",
@@ -4719,7 +4877,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 13
+    "missed_scrapes": 14
   },
   {
     "id": "96664c566ebf",
@@ -4744,7 +4902,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 13
+    "missed_scrapes": 14
   },
   {
     "id": "799f14622f17",
@@ -4769,7 +4927,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 13
+    "missed_scrapes": 14
   },
   {
     "id": "8ad2bfe2d4e4",
@@ -4794,7 +4952,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 13
+    "missed_scrapes": 14
   },
   {
     "id": "751d29a86340",
@@ -4819,7 +4977,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 13
+    "missed_scrapes": 14
   },
   {
     "id": "62bddec0fb7d",
@@ -4844,7 +5002,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 14
+    "missed_scrapes": 15
   },
   {
     "id": "a557e855c92e",
@@ -4869,7 +5027,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 14
+    "missed_scrapes": 15
   },
   {
     "id": "12a79f625c5c",
@@ -4894,7 +5052,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 14
+    "missed_scrapes": 15
   },
   {
     "id": "8c468486217e",
@@ -4919,7 +5077,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 14
+    "missed_scrapes": 15
   },
   {
     "id": "1eb5d53557a3",
@@ -4944,7 +5102,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 14
+    "missed_scrapes": 15
   },
   {
     "id": "d74fbf6507c1",
@@ -4969,7 +5127,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 14
+    "missed_scrapes": 15
   },
   {
     "id": "592ba5008ca8",
@@ -4994,7 +5152,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 14
+    "missed_scrapes": 15
   },
   {
     "id": "435c9979cf36",
@@ -5019,7 +5177,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 14
+    "missed_scrapes": 15
   },
   {
     "id": "d54fd74d3db3",
@@ -5044,7 +5202,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 15
+    "missed_scrapes": 16
   },
   {
     "id": "c3cea9d64dfd",
@@ -5069,7 +5227,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 15
+    "missed_scrapes": 16
   },
   {
     "id": "bced4e29dd95",
@@ -5098,7 +5256,7 @@
       "No salary information provided",
       "Vague job description"
     ],
-    "missed_scrapes": 15
+    "missed_scrapes": 16
   },
   {
     "id": "411b09969840",
@@ -5123,7 +5281,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 15
+    "missed_scrapes": 16
   },
   {
     "id": "b977b2ccbb85",
@@ -5148,7 +5306,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 16
+    "missed_scrapes": 17
   },
   {
     "id": "da881ffc56b0",
@@ -5173,7 +5331,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 16
+    "missed_scrapes": 17
   },
   {
     "id": "42cf998cc7d0",
@@ -5198,7 +5356,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 16
+    "missed_scrapes": 17
   },
   {
     "id": "4dd5d35fb7a7",
@@ -5223,7 +5381,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 16
+    "missed_scrapes": 17
   },
   {
     "id": "236d7e3af646",
@@ -5252,7 +5410,7 @@
       "Requires security clearance",
       "Mission Essential designation"
     ],
-    "missed_scrapes": 17
+    "missed_scrapes": 18
   },
   {
     "id": "26d34bebf18b",
@@ -5277,7 +5435,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 17
+    "missed_scrapes": 18
   },
   {
     "id": "bcef70d10735",
@@ -5302,7 +5460,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 18
+    "missed_scrapes": 19
   },
   {
     "id": "c58c06eb7fb8",
@@ -5327,7 +5485,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 19
+    "missed_scrapes": 20
   },
   {
     "id": "5c029ba295b3",
@@ -5355,7 +5513,7 @@
       "Vague job description",
       "May be urgent care rather than emergency medicine"
     ],
-    "missed_scrapes": 20
+    "missed_scrapes": 21
   },
   {
     "id": "3c0a0655c69c",
@@ -5380,7 +5538,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 20
+    "missed_scrapes": 21
   },
   {
     "id": "e19db5b4b68a",
@@ -5405,7 +5563,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 20
+    "missed_scrapes": 21
   },
   {
     "id": "86d2f90992d3",
@@ -5430,7 +5588,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 20
+    "missed_scrapes": 21
   },
   {
     "id": "8bce84296009",
@@ -5455,7 +5613,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 20
+    "missed_scrapes": 21
   },
   {
     "id": "900dab2d66bc",
@@ -5480,7 +5638,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 21
+    "missed_scrapes": 22
   },
   {
     "id": "65ec272c89dc",
@@ -5505,7 +5663,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 21
+    "missed_scrapes": 22
   },
   {
     "id": "2ef91debd5a7",
@@ -5530,7 +5688,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 22
+    "missed_scrapes": 23
   },
   {
     "id": "c741fdd25e2a",
@@ -5555,7 +5713,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 22
+    "missed_scrapes": 23
   },
   {
     "id": "575cd4a502f7",
@@ -5580,7 +5738,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 22
+    "missed_scrapes": 23
   },
   {
     "id": "d37b077b77ee",
@@ -5607,7 +5765,7 @@
     "red_flags": [
       "Below target salary range"
     ],
-    "missed_scrapes": 22
+    "missed_scrapes": 23
   },
   {
     "id": "06f93eb079f2",
@@ -5632,7 +5790,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 23
+    "missed_scrapes": 24
   },
   {
     "id": "0ca2d7aa1052",
@@ -5657,7 +5815,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 23
+    "missed_scrapes": 24
   },
   {
     "id": "473067c4cf6f",
@@ -5682,7 +5840,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 24
+    "missed_scrapes": 25
   },
   {
     "id": "4b51be291167",
@@ -5707,7 +5865,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 24
+    "missed_scrapes": 25
   },
   {
     "id": "27875e89794a",
@@ -5732,7 +5890,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 24
+    "missed_scrapes": 25
   },
   {
     "id": "fabcead7dfa2",
@@ -5757,7 +5915,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 24
+    "missed_scrapes": 25
   },
   {
     "id": "dd901932d44d",
@@ -5782,7 +5940,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 25
+    "missed_scrapes": 26
   },
   {
     "id": "b4705beefc35",
@@ -5807,7 +5965,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 25
+    "missed_scrapes": 26
   },
   {
     "id": "ef3c44fd20b4",
@@ -5832,7 +5990,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 26
+    "missed_scrapes": 27
   },
   {
     "id": "85ba457bfaf0",
@@ -5857,7 +6015,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 26
+    "missed_scrapes": 27
   },
   {
     "id": "f01c85ba0f13",
@@ -5882,32 +6040,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 26
-  },
-  {
-    "id": "df16a0eea8ac",
-    "title": "Emergency Medicine Physician",
-    "employer": "Sharp Rees-Stealy Medical Group",
-    "location": "Vista, CA",
-    "location_region": "San Diego, CA",
-    "location_priority": 1,
-    "salary": "$285,000-$340,000",
-    "salary_numeric": 312500,
-    "institution_type": "Private Hospital Group",
-    "schedule_type": "Day",
-    "is_nocturnist_only": false,
-    "match_confidence": "High",
-    "analysis_notes": "This appears to be an Emergency Medicine position with Sharp Rees-Stealy in the San Diego area, which matches Priority 1 location preferences. The salary range of $285K-$340K meets minimum requirements, and the posting explicitly states 'NO OVERNIGHTS' which aligns with schedule preferences.",
-    "source_url": "https://www.adzuna.com/land/ad/5696921762?se=1hbx9Gw28RGxboRaoq6V0w&utm_medium=api&utm_source=04e8e9e3&v=D3E01C416456FA7BDB9F0E9A858AFF21519515D9",
-    "source_name": "Adzuna",
-    "description_snippet": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
-    "full_description": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
-    "date_found": "2026-04-12",
-    "date_last_seen": "2026-04-12",
-    "status": "possibly_filled",
-    "is_new": false,
-    "red_flags": [],
-    "missed_scrapes": 26
+    "missed_scrapes": 27
   },
   {
     "id": "780c55891f31",
@@ -5932,7 +6065,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 27
+    "missed_scrapes": 28
   },
   {
     "id": "17c9f39b2b8e",
@@ -5957,7 +6090,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 27
+    "missed_scrapes": 28
   },
   {
     "id": "d95a7c3e271b",
@@ -5982,7 +6115,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 27
+    "missed_scrapes": 28
   },
   {
     "id": "602703c2f9c1",
@@ -6007,7 +6140,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 28
+    "missed_scrapes": 29
   },
   {
     "id": "858808046b40",
@@ -6032,7 +6165,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 28
+    "missed_scrapes": 29
   },
   {
     "id": "285ce19a4e97",
@@ -6057,7 +6190,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 28
+    "missed_scrapes": 29
   },
   {
     "id": "ac9c42e4f209",
@@ -6084,7 +6217,7 @@
     "red_flags": [
       "Academic faculty expectations may require additional teaching/research commitments"
     ],
-    "missed_scrapes": 29
+    "missed_scrapes": 30
   },
   {
     "id": "57bc854c2536",
@@ -6109,7 +6242,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 30
+    "missed_scrapes": 31
   },
   {
     "id": "d30b9106b441",
@@ -6134,7 +6267,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 30
+    "missed_scrapes": 31
   },
   {
     "id": "ba2b1aef6a43",
@@ -6159,7 +6292,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 30
+    "missed_scrapes": 31
   },
   {
     "id": "c9deb57cfcb4",
@@ -6184,7 +6317,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 30
+    "missed_scrapes": 31
   },
   {
     "id": "09c66a790c6f",
@@ -6209,6 +6342,6 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 30
+    "missed_scrapes": 31
   }
 ]
