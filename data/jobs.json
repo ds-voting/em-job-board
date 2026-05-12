@@ -1,5 +1,57 @@
 [
   {
+    "id": "29452fbac450",
+    "title": "Emergency Medicine Physician",
+    "employer": "US Acute Care Solutions",
+    "location": "Canon City, CO",
+    "location_region": "Denver/Boulder, CO",
+    "location_priority": 3,
+    "salary": "$321,271",
+    "salary_numeric": 321271,
+    "institution_type": "Unknown",
+    "schedule_type": "Unclear",
+    "is_nocturnist_only": false,
+    "match_confidence": "Medium",
+    "analysis_notes": "Position in Colorado matches priority 3 location preference with salary meeting requirements at $398k. USACS is a legitimate emergency medicine staffing company, though limited description doesn't specify institution type or schedule details.",
+    "source_url": "https://www.adzuna.com/details/5718006549?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "description_snippet": "Job Description Visa Accepted J1 Visa Location USACS Benefits Financial Benefits Employee Ownership: $100,000 equity ownership for all full-time Physicians after 3 years of service 401(k): Industry-leading, 10% company-funded 401(k) up to IRS limit of $36,000 Continuing Education: $4,000 tax-free CME/BEA annually $8,000, including your state and DEA license, in year one for new graduates Parental Leave: Groundbreaking 100% paid parental leave for all new parents Military Leave: Pioneering paid \u2026",
+    "full_description": "Job Description Visa Accepted J1 Visa Location USACS Benefits Financial Benefits Employee Ownership: $100,000 equity ownership for all full-time Physicians after 3 years of service 401(k): Industry-leading, 10% company-funded 401(k) up to IRS limit of $36,000 Continuing Education: $4,000 tax-free CME/BEA annually $8,000, including your state and DEA license, in year one for new graduates Parental Leave: Groundbreaking 100% paid parental leave for all new parents Military Leave: Pioneering paid \u2026",
+    "date_found": "2026-04-23",
+    "date_last_seen": "2026-05-12",
+    "status": "active",
+    "is_new": false,
+    "red_flags": [],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "74326d8cec40",
+    "title": "Emergency Medicine Physician - Aurora, IL",
+    "employer": "Vohra Physicians",
+    "location": "Aurora, Arapahoe County",
+    "location_region": "Unknown",
+    "location_priority": 99,
+    "salary": "$159,798-$159,798",
+    "salary_numeric": null,
+    "institution_type": "Unknown",
+    "schedule_type": "Unclear",
+    "is_nocturnist_only": false,
+    "match_confidence": "Low",
+    "analysis_notes": "Classification error: Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}, 'request_id': 'req_011Caxo6saGViC1oDykjwjoT'}",
+    "source_url": "https://www.adzuna.com/details/5597246471?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "description_snippet": "Emergency Medicine Physician Position with National Wound Physician Group Clinical satisfaction, autonomy and flexibility, work-life balance No Nights, No Call, No Weekend Clinical Responsibilities Become an expert in wound management , learn from highly qualified wound-certified physician trainers and Fellowship Directors. Utilize cutting-edge clinical technologies and the latest wound care modalities. \u2022 Our physicians provide bedside wound care in over 3,200 facilities across 28 states. \u2022 We \u2026",
+    "full_description": "Emergency Medicine Physician Position with National Wound Physician Group Clinical satisfaction, autonomy and flexibility, work-life balance No Nights, No Call, No Weekend Clinical Responsibilities Become an expert in wound management , learn from highly qualified wound-certified physician trainers and Fellowship Directors. Utilize cutting-edge clinical technologies and the latest wound care modalities. \u2022 Our physicians provide bedside wound care in over 3,200 facilities across 28 states. \u2022 We \u2026",
+    "date_found": "2026-05-12",
+    "date_last_seen": "2026-05-12",
+    "status": "active",
+    "is_new": true,
+    "red_flags": [
+      "classification_error"
+    ],
+    "missed_scrapes": 0
+  },
+  {
     "id": "25f3940f3fe9",
     "title": "Emergency Medicine Physician",
     "employer": "Sharp Rees-Stealy Medical Group",
@@ -13,16 +65,70 @@
     "is_nocturnist_only": false,
     "match_confidence": "Medium",
     "analysis_notes": "This appears to be an Urgent Care position rather than traditional Emergency Medicine, which may not align with EM residency training. The salary range of $285K-$340K is slightly below the preferred $350K-$400K target range, though it's above the $300K minimum requirement.",
-    "source_url": "https://www.adzuna.com/land/ad/5724624573?se=DtH4-0VN8RGicNbapXJAkg&utm_medium=api&utm_source=04e8e9e3&v=FB54E9A08929CAF73D4F472FD3BCAAC111D05A7C",
+    "source_url": "https://www.adzuna.com/land/ad/5724624573?se=rPjEvQpO8RGALbcijI2pPg&utm_medium=api&utm_source=04e8e9e3&v=FB54E9A08929CAF73D4F472FD3BCAAC111D05A7C",
     "source_name": "Adzuna",
     "description_snippet": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
     "full_description": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
     "date_found": "2026-05-11",
-    "date_last_seen": "2026-05-11",
+    "date_last_seen": "2026-05-12",
+    "status": "active",
+    "is_new": false,
+    "red_flags": [
+      "Listed salary range $285K-$340K may be below target range"
+    ],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "2a560cc994d2",
+    "title": "Emergency Medicine Physician",
+    "employer": "Sharp Rees-Stealy Medical Group",
+    "location": "Carlsbad, CA",
+    "location_region": "San Diego, CA",
+    "location_priority": 1,
+    "salary": "$285,000-$340,000 (total compensation)",
+    "salary_numeric": 312500,
+    "institution_type": "Private Hospital Group",
+    "schedule_type": "Day",
+    "is_nocturnist_only": false,
+    "match_confidence": "Medium",
+    "analysis_notes": "This appears to be an urgent care position at Sharp Rees-Stealy, which is a major healthcare system in San Diego. While the title mentions Emergency Medicine, the description emphasizes urgent care with no overnights and high-functioning shift work. The salary range of $285K-$340K meets requirements and it's in a Priority 1 location.",
+    "source_url": "https://www.adzuna.com/land/ad/5726718026?se=rPjEvQpO8RGALbcijI2pPg&utm_medium=api&utm_source=04e8e9e3&v=D2B15906ADF3B04EC7E36A3E0EE70611FD8BC16A",
+    "source_name": "Adzuna",
+    "description_snippet": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
+    "full_description": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
+    "date_found": "2026-05-12",
+    "date_last_seen": "2026-05-12",
     "status": "active",
     "is_new": true,
     "red_flags": [
-      "Listed salary range $285K-$340K may be below target range"
+      "Potential urgent care position - may not be traditional emergency medicine"
+    ],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "ce25ff788f7d",
+    "title": "Emergency Medicine - Physician",
+    "employer": "Sharp Rees-Stealy Medical Group",
+    "location": "San Marcos, CA",
+    "location_region": "San Diego, CA",
+    "location_priority": 1,
+    "salary": "$285,000-$340,000",
+    "salary_numeric": 312500,
+    "institution_type": "Private Hospital Group",
+    "schedule_type": "Day",
+    "is_nocturnist_only": false,
+    "match_confidence": "Medium",
+    "analysis_notes": "This appears to be an urgent care position disguised as Emergency Medicine, which may not provide the full-scope emergency medicine experience expected for an EM attending. However, it's in a top priority location (San Diego) with competitive compensation and no overnights. The description mentions 'high acuity, procedural shift work' which suggests it may be more comprehensive than typical urgent care.",
+    "source_url": "https://www.adzuna.com/land/ad/5724624148?se=rPjEvQpO8RGALbcijI2pPg&utm_medium=api&utm_source=04e8e9e3&v=50DCF7B4D7BA76BDCAB1D9E97D13B5E50B767BEC",
+    "source_name": "Adzuna",
+    "description_snippet": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
+    "full_description": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
+    "date_found": "2026-05-10",
+    "date_last_seen": "2026-05-12",
+    "status": "active",
+    "is_new": false,
+    "red_flags": [
+      "Labeled as 'Urgent Care' in description despite Emergency Medicine title"
     ],
     "missed_scrapes": 0
   },
@@ -47,11 +153,11 @@
     "date_found": "2026-05-11",
     "date_last_seen": "2026-05-11",
     "status": "active",
-    "is_new": true,
+    "is_new": false,
     "red_flags": [
       "Urgent Care position - not traditional Emergency Medicine"
     ],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "a815ed8c7cde",
@@ -76,7 +182,7 @@
     "status": "active",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "3304dbb50824",
@@ -101,7 +207,7 @@
     "status": "active",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "5176897e1d12",
@@ -123,10 +229,10 @@
     "full_description": "Job Description Visa Accepted J1 Visa Location Hospital Details St. Thomas More Hospital is located in the foothills of the Rocky Mountains at the entrance of the Royal Gorge, in scenic Ca\u00f1on City, Colorado Our non-profit, faith-based hospital is the cornerstone of health care services for Fremont County and surrounding communities with 24-hour emergency services and a level 4 trauma designation St. Thomas More is a recipient of the Healthgrades 2018 Patient Safety Excellence Award\u2122 St. Thomas \u2026",
     "date_found": "2026-05-10",
     "date_last_seen": "2026-05-10",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "ae362bb1fd33",
@@ -148,12 +254,12 @@
     "full_description": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
     "date_found": "2026-05-10",
     "date_last_seen": "2026-05-10",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [
       "Urgent Care position - may not be true Emergency Medicine"
     ],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "df16a0eea8ac",
@@ -175,37 +281,10 @@
     "full_description": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
     "date_found": "2026-04-12",
     "date_last_seen": "2026-05-10",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 1
-  },
-  {
-    "id": "ce25ff788f7d",
-    "title": "Emergency Medicine - Physician",
-    "employer": "Sharp Rees-Stealy Medical Group",
-    "location": "San Marcos, CA",
-    "location_region": "San Diego, CA",
-    "location_priority": 1,
-    "salary": "$285,000-$340,000",
-    "salary_numeric": 312500,
-    "institution_type": "Private Hospital Group",
-    "schedule_type": "Day",
-    "is_nocturnist_only": false,
-    "match_confidence": "Medium",
-    "analysis_notes": "This appears to be an urgent care position disguised as Emergency Medicine, which may not provide the full-scope emergency medicine experience expected for an EM attending. However, it's in a top priority location (San Diego) with competitive compensation and no overnights. The description mentions 'high acuity, procedural shift work' which suggests it may be more comprehensive than typical urgent care.",
-    "source_url": "https://www.adzuna.com/land/ad/5724624148?se=BFEKAHBM8RGi5sGLDfS4mg&utm_medium=api&utm_source=04e8e9e3&v=50DCF7B4D7BA76BDCAB1D9E97D13B5E50B767BEC",
-    "source_name": "Adzuna",
-    "description_snippet": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
-    "full_description": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
-    "date_found": "2026-05-10",
-    "date_last_seen": "2026-05-10",
-    "status": "active",
-    "is_new": false,
-    "red_flags": [
-      "Labeled as 'Urgent Care' in description despite Emergency Medicine title"
-    ],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "d465f4da0a91",
@@ -227,12 +306,12 @@
     "full_description": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
     "date_found": "2026-05-10",
     "date_last_seen": "2026-05-10",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [
       "Position appears to be Urgent Care rather than Emergency Medicine"
     ],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "c1548481ac41",
@@ -254,12 +333,12 @@
     "full_description": "Urgent Care Physician Opportunities in Sunny San Diego, California Sharp Rees-Stealy Medical Group Hourly rate range: $147/hr-$163/hr, plus receive wRVU incentive as well as group bonuses. Total compensation salary range: $285K-$340K Compensation is subject to the individual department/division compensation plans. More information is discussed during the recruitment process. About the Position: NO OVERNIGHTS High functioning, full-scope, high acuity, procedural shift work. Practice a wide spect\u2026",
     "date_found": "2026-05-10",
     "date_last_seen": "2026-05-10",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [
       "Position appears to be Urgent Care rather than traditional Emergency Medicine"
     ],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "de3c6a11ba55",
@@ -284,7 +363,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "65da9d9cabf9",
@@ -309,7 +388,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "dc7947e53f7e",
@@ -334,7 +413,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "c842e6458d36",
@@ -359,7 +438,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "f6ae7e7a05a1",
@@ -384,7 +463,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "dd9bc9858ed0",
@@ -409,7 +488,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "bbb3aefbbfd9",
@@ -434,7 +513,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "994d22268f6d",
@@ -459,7 +538,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "5d3ab1172a00",
@@ -484,7 +563,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "c4b6e03658a1",
@@ -509,7 +588,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "29c6bbc5ff2c",
@@ -534,7 +613,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "8482ccb945a4",
@@ -559,7 +638,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "4707fe0954c2",
@@ -584,7 +663,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "35561c6e5e04",
@@ -609,7 +688,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "ce599959efec",
@@ -634,7 +713,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "6608e664b409",
@@ -659,7 +738,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 3
+    "missed_scrapes": 4
   },
   {
     "id": "f8b0b4d40769",
@@ -684,7 +763,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "08eb44b01d65",
@@ -709,7 +788,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "a294a15c767a",
@@ -734,7 +813,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "c2c16b1d34a4",
@@ -759,7 +838,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "85582c648d9d",
@@ -784,7 +863,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "4654e563542f",
@@ -809,7 +888,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "2e68f9196b2a",
@@ -834,7 +913,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "bdb83bcae688",
@@ -859,7 +938,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "529166ff7ff4",
@@ -884,7 +963,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "b74c7e45574f",
@@ -909,7 +988,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "c9ad1643da5a",
@@ -934,7 +1013,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "55f99fefad9d",
@@ -963,7 +1042,7 @@
       "Requires security clearance",
       "Government employment"
     ],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "0e8f1b6c96ff",
@@ -988,7 +1067,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "83eb444c2e07",
@@ -1013,7 +1092,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "4d22ba3d8e38",
@@ -1038,7 +1117,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 5
+    "missed_scrapes": 6
   },
   {
     "id": "86dde03423c0",
@@ -1063,7 +1142,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "c365ab37d373",
@@ -1088,7 +1167,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "7d96541f76c8",
@@ -1113,7 +1192,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "4f922f1e2bfe",
@@ -1138,7 +1217,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "fadf87d4bcdb",
@@ -1163,7 +1242,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "14d75e971136",
@@ -1188,7 +1267,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "bbcf38e9c8ab",
@@ -1215,7 +1294,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "de9f998ea2b5",
@@ -1242,7 +1321,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "d68f2b612626",
@@ -1269,7 +1348,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "4226f10a0828",
@@ -1296,7 +1375,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "5d4061b16acb",
@@ -1323,7 +1402,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "17d0d7f3e4c6",
@@ -1350,7 +1429,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "35d02704fc5d",
@@ -1377,7 +1456,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "c917b2c5b1d1",
@@ -1404,7 +1483,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "b4b37307e13f",
@@ -1431,7 +1510,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "2c0b02b2ea00",
@@ -1458,7 +1537,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "72d9f2fd1929",
@@ -1485,7 +1564,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "6e7471a00d61",
@@ -1512,7 +1591,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "58e910e2a1bf",
@@ -1539,7 +1618,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "8e96e4dccaea",
@@ -1566,7 +1645,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "8223d07ec1d3",
@@ -1593,7 +1672,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "48117f9f793e",
@@ -1620,7 +1699,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "c9e948e801c1",
@@ -1647,7 +1726,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "3e7299b2d585",
@@ -1674,7 +1753,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "dd95d1d02f4a",
@@ -1701,7 +1780,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "09886d2fabd7",
@@ -1728,7 +1807,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "41948b13ad8e",
@@ -1755,7 +1834,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "1afd0c0b2301",
@@ -1782,7 +1861,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "12d8ee30b6e2",
@@ -1809,7 +1888,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "6ce8cb6599c4",
@@ -1836,7 +1915,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "f1aff801224e",
@@ -1863,7 +1942,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "81bc21742893",
@@ -1890,7 +1969,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "98dddbf0d279",
@@ -1917,7 +1996,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "d60f44d74d74",
@@ -1944,7 +2023,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "c86acdfa7672",
@@ -1971,7 +2050,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "ec7c1918b290",
@@ -1998,7 +2077,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "f94c825ec0be",
@@ -2025,7 +2104,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "528fa565925e",
@@ -2052,7 +2131,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "e77e28806cd5",
@@ -2079,7 +2158,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "e6c73124235c",
@@ -2106,7 +2185,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "b26f4aad516b",
@@ -2133,7 +2212,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "4db6076e5033",
@@ -2160,7 +2239,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "710f5ee46a50",
@@ -2187,7 +2266,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "d8ddb18a85ea",
@@ -2214,7 +2293,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "53918e88a930",
@@ -2241,7 +2320,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "6cb385831452",
@@ -2268,7 +2347,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "1ff9ebe97479",
@@ -2295,7 +2374,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "610dc4b4e7b1",
@@ -2322,7 +2401,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "8332ad3ca59a",
@@ -2349,7 +2428,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "828655d61437",
@@ -2376,7 +2455,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "b4595992d738",
@@ -2403,7 +2482,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "8b872935877d",
@@ -2430,7 +2509,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "2444be3499fb",
@@ -2457,7 +2536,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "318ad3758e15",
@@ -2484,7 +2563,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "9301f1c2ad6f",
@@ -2511,7 +2590,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "230f66060e1e",
@@ -2538,7 +2617,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "6737d4a68d33",
@@ -2565,7 +2644,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "6229f899f4fd",
@@ -2592,7 +2671,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "8b17209c5a58",
@@ -2619,7 +2698,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "a70f2e35bef6",
@@ -2646,7 +2725,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "b65fea12f910",
@@ -2673,7 +2752,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "b314e6194766",
@@ -2700,7 +2779,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "605cf2401384",
@@ -2727,7 +2806,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "c14070508fea",
@@ -2754,7 +2833,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "e7aa2da31ba0",
@@ -2781,7 +2860,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "4751a8327ee5",
@@ -2808,7 +2887,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "7118646c7451",
@@ -2835,7 +2914,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "c81ba0de0c81",
@@ -2862,7 +2941,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "02761c996a6c",
@@ -2889,7 +2968,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "9da552835b03",
@@ -2916,7 +2995,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "7992300d8c5f",
@@ -2943,7 +3022,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "ad95122841e5",
@@ -2970,7 +3049,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "47eac8aa54ca",
@@ -2997,7 +3076,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "3335a8e266f6",
@@ -3024,7 +3103,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "c7be128fd6be",
@@ -3051,7 +3130,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "9da54953af9b",
@@ -3078,7 +3157,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "4a72db19afc7",
@@ -3105,7 +3184,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "9bb8eb6a7dcf",
@@ -3132,7 +3211,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "20eeb65cbbba",
@@ -3159,7 +3238,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "19ede0e2a830",
@@ -3186,7 +3265,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "402dfbf25612",
@@ -3213,7 +3292,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "a11a2a15b821",
@@ -3240,7 +3319,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "355cbb4adc86",
@@ -3267,7 +3346,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "982324d29696",
@@ -3294,7 +3373,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "24148b4fc284",
@@ -3321,7 +3400,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "780dd8620877",
@@ -3348,7 +3427,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 6
+    "missed_scrapes": 7
   },
   {
     "id": "4d884d33d47b",
@@ -3373,7 +3452,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "01961943cac6",
@@ -3398,7 +3477,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "076e4ccf8d68",
@@ -3423,32 +3502,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
-  },
-  {
-    "id": "29452fbac450",
-    "title": "Emergency Medicine Physician",
-    "employer": "US Acute Care Solutions",
-    "location": "Canon City, CO",
-    "location_region": "Denver/Boulder, CO",
-    "location_priority": 3,
-    "salary": "$321,271",
-    "salary_numeric": 321271,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Medium",
-    "analysis_notes": "Position in Colorado matches priority 3 location preference with salary meeting requirements at $398k. USACS is a legitimate emergency medicine staffing company, though limited description doesn't specify institution type or schedule details.",
-    "source_url": "https://www.adzuna.com/land/ad/5718006549?se=ZKIpsLxH8RGx4-oXNiCn6g&utm_medium=api&utm_source=04e8e9e3&v=6A0FFF6914875E9E83B08FEDDFC68D27FFCACB81",
-    "source_name": "Adzuna",
-    "description_snippet": "Job Description Visa Accepted J1 Visa Location USACS Benefits Financial Benefits Employee Ownership: $100,000 equity ownership for all full-time Physicians after 3 years of service 401(k): Industry-leading, 10% company-funded 401(k) up to IRS limit of $36,000 Continuing Education: $4,000 tax-free CME/BEA annually $8,000, including your state and DEA license, in year one for new graduates Parental Leave: Groundbreaking 100% paid parental leave for all new parents Military Leave: Pioneering paid \u2026",
-    "full_description": "Job Description Visa Accepted J1 Visa Location USACS Benefits Financial Benefits Employee Ownership: $100,000 equity ownership for all full-time Physicians after 3 years of service 401(k): Industry-leading, 10% company-funded 401(k) up to IRS limit of $36,000 Continuing Education: $4,000 tax-free CME/BEA annually $8,000, including your state and DEA license, in year one for new graduates Parental Leave: Groundbreaking 100% paid parental leave for all new parents Military Leave: Pioneering paid \u2026",
-    "date_found": "2026-04-23",
-    "date_last_seen": "2026-05-04",
-    "status": "possibly_filled",
-    "is_new": false,
-    "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "b396fba08d3e",
@@ -3473,7 +3527,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "77c5fd1d3fd8",
@@ -3498,7 +3552,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "8ee4ed5175c9",
@@ -3523,7 +3577,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "266e2ab00795",
@@ -3548,7 +3602,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "73dbbbf07f1d",
@@ -3573,7 +3627,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "29247b874210",
@@ -3598,7 +3652,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "9d9b8fae846b",
@@ -3623,7 +3677,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "603f22f422fc",
@@ -3648,7 +3702,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "0a26f145928f",
@@ -3673,7 +3727,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "5d2324d9ee36",
@@ -3698,7 +3752,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "6228687c9b1d",
@@ -3723,7 +3777,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "4fa24c58eb5c",
@@ -3748,7 +3802,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "0ef0af571fcf",
@@ -3773,7 +3827,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "4a4bee2471d9",
@@ -3798,7 +3852,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "937de2a51aa5",
@@ -3823,7 +3877,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "2d205212c023",
@@ -3848,7 +3902,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "df3470dd02b7",
@@ -3873,7 +3927,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 8
+    "missed_scrapes": 9
   },
   {
     "id": "d8084bc78b41",
@@ -3902,7 +3956,7 @@
       "Security clearance required",
       "Mission essential designation"
     ],
-    "missed_scrapes": 8
+    "missed_scrapes": 9
   },
   {
     "id": "743eadd7ad44",
@@ -3927,7 +3981,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 8
+    "missed_scrapes": 9
   },
   {
     "id": "e5bf30e00dda",
@@ -3952,7 +4006,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 8
+    "missed_scrapes": 9
   },
   {
     "id": "5bbae10a9e53",
@@ -3979,7 +4033,7 @@
     "red_flags": [
       "Part-time position may not meet full-time requirement"
     ],
-    "missed_scrapes": 8
+    "missed_scrapes": 9
   },
   {
     "id": "61335f927772",
@@ -4004,7 +4058,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 8
+    "missed_scrapes": 9
   },
   {
     "id": "0bd384e4a55a",
@@ -4029,7 +4083,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "710ca0f1c7a3",
@@ -4054,7 +4108,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "ab25b16ba222",
@@ -4079,7 +4133,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "1071b2d8e942",
@@ -4104,7 +4158,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "692b89eb2422",
@@ -4129,7 +4183,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "62d476447c49",
@@ -4154,7 +4208,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "8853e28cf59b",
@@ -4179,7 +4233,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "6a8e3e062566",
@@ -4204,7 +4258,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "a808c3253c22",
@@ -4229,7 +4283,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "a8d09853ea24",
@@ -4256,7 +4310,7 @@
     "red_flags": [
       "Leadership role - may be disguised Medical Director position"
     ],
-    "missed_scrapes": 10
+    "missed_scrapes": 11
   },
   {
     "id": "9b0abea31c7f",
@@ -4281,7 +4335,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 10
+    "missed_scrapes": 11
   },
   {
     "id": "315810a303c1",
@@ -4306,7 +4360,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 10
+    "missed_scrapes": 11
   },
   {
     "id": "39fc57c339c0",
@@ -4331,7 +4385,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 10
+    "missed_scrapes": 11
   },
   {
     "id": "1fa9f03e7362",
@@ -4356,7 +4410,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 10
+    "missed_scrapes": 11
   },
   {
     "id": "45eb155df3f7",
@@ -4381,7 +4435,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 10
+    "missed_scrapes": 11
   },
   {
     "id": "f5d53fe049bb",
@@ -4406,7 +4460,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 11
+    "missed_scrapes": 12
   },
   {
     "id": "9fcf363e5375",
@@ -4431,7 +4485,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 11
+    "missed_scrapes": 12
   },
   {
     "id": "e006d60369f4",
@@ -4456,7 +4510,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 11
+    "missed_scrapes": 12
   },
   {
     "id": "d840c19fa995",
@@ -4481,7 +4535,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 11
+    "missed_scrapes": 12
   },
   {
     "id": "d560ef77a24f",
@@ -4506,7 +4560,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 11
+    "missed_scrapes": 12
   },
   {
     "id": "3eed6ed98ac5",
@@ -4531,7 +4585,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 11
+    "missed_scrapes": 12
   },
   {
     "id": "3a9a8943beee",
@@ -4556,7 +4610,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 11
+    "missed_scrapes": 12
   },
   {
     "id": "0598084124f6",
@@ -4581,7 +4635,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 11
+    "missed_scrapes": 12
   },
   {
     "id": "d4cbfa1d699e",
@@ -4606,7 +4660,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 13
+    "missed_scrapes": 14
   },
   {
     "id": "f32fca09eb0f",
@@ -4631,7 +4685,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 13
+    "missed_scrapes": 14
   },
   {
     "id": "27d207f5bc9a",
@@ -4656,7 +4710,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 13
+    "missed_scrapes": 14
   },
   {
     "id": "c96575e5c89a",
@@ -4681,7 +4735,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 13
+    "missed_scrapes": 14
   },
   {
     "id": "5ab2f498b1c8",
@@ -4706,7 +4760,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 13
+    "missed_scrapes": 14
   },
   {
     "id": "5a399cfec917",
@@ -4731,7 +4785,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 14
+    "missed_scrapes": 15
   },
   {
     "id": "efa053c2f6ed",
@@ -4756,7 +4810,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 14
+    "missed_scrapes": 15
   },
   {
     "id": "a56628eac1f8",
@@ -4781,7 +4835,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 14
+    "missed_scrapes": 15
   },
   {
     "id": "f3280af2e39d",
@@ -4806,7 +4860,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 14
+    "missed_scrapes": 15
   },
   {
     "id": "aab608699843",
@@ -4831,7 +4885,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 14
+    "missed_scrapes": 15
   },
   {
     "id": "e54444056706",
@@ -4856,7 +4910,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 14
+    "missed_scrapes": 15
   },
   {
     "id": "1cdbd74ed43c",
@@ -4881,7 +4935,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 15
+    "missed_scrapes": 16
   },
   {
     "id": "e82721e8f611",
@@ -4906,7 +4960,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 15
+    "missed_scrapes": 16
   },
   {
     "id": "0e9b2b079b94",
@@ -4931,7 +4985,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 15
+    "missed_scrapes": 16
   },
   {
     "id": "96664c566ebf",
@@ -4956,7 +5010,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 15
+    "missed_scrapes": 16
   },
   {
     "id": "799f14622f17",
@@ -4981,7 +5035,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 15
+    "missed_scrapes": 16
   },
   {
     "id": "8ad2bfe2d4e4",
@@ -5006,7 +5060,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 15
+    "missed_scrapes": 16
   },
   {
     "id": "751d29a86340",
@@ -5031,7 +5085,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 15
+    "missed_scrapes": 16
   },
   {
     "id": "62bddec0fb7d",
@@ -5056,7 +5110,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 16
+    "missed_scrapes": 17
   },
   {
     "id": "a557e855c92e",
@@ -5081,7 +5135,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 16
+    "missed_scrapes": 17
   },
   {
     "id": "12a79f625c5c",
@@ -5106,7 +5160,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 16
+    "missed_scrapes": 17
   },
   {
     "id": "8c468486217e",
@@ -5131,7 +5185,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 16
+    "missed_scrapes": 17
   },
   {
     "id": "1eb5d53557a3",
@@ -5156,7 +5210,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 16
+    "missed_scrapes": 17
   },
   {
     "id": "d74fbf6507c1",
@@ -5181,7 +5235,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 16
+    "missed_scrapes": 17
   },
   {
     "id": "592ba5008ca8",
@@ -5206,7 +5260,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 16
+    "missed_scrapes": 17
   },
   {
     "id": "435c9979cf36",
@@ -5231,7 +5285,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 16
+    "missed_scrapes": 17
   },
   {
     "id": "d54fd74d3db3",
@@ -5256,7 +5310,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 17
+    "missed_scrapes": 18
   },
   {
     "id": "c3cea9d64dfd",
@@ -5281,7 +5335,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 17
+    "missed_scrapes": 18
   },
   {
     "id": "bced4e29dd95",
@@ -5310,7 +5364,7 @@
       "No salary information provided",
       "Vague job description"
     ],
-    "missed_scrapes": 17
+    "missed_scrapes": 18
   },
   {
     "id": "411b09969840",
@@ -5335,7 +5389,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 17
+    "missed_scrapes": 18
   },
   {
     "id": "b977b2ccbb85",
@@ -5360,7 +5414,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 18
+    "missed_scrapes": 19
   },
   {
     "id": "da881ffc56b0",
@@ -5385,7 +5439,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 18
+    "missed_scrapes": 19
   },
   {
     "id": "42cf998cc7d0",
@@ -5410,7 +5464,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 18
+    "missed_scrapes": 19
   },
   {
     "id": "4dd5d35fb7a7",
@@ -5435,7 +5489,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 18
+    "missed_scrapes": 19
   },
   {
     "id": "236d7e3af646",
@@ -5464,7 +5518,7 @@
       "Requires security clearance",
       "Mission Essential designation"
     ],
-    "missed_scrapes": 19
+    "missed_scrapes": 20
   },
   {
     "id": "26d34bebf18b",
@@ -5489,7 +5543,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 19
+    "missed_scrapes": 20
   },
   {
     "id": "bcef70d10735",
@@ -5514,7 +5568,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 20
+    "missed_scrapes": 21
   },
   {
     "id": "c58c06eb7fb8",
@@ -5539,7 +5593,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 21
+    "missed_scrapes": 22
   },
   {
     "id": "5c029ba295b3",
@@ -5567,7 +5621,7 @@
       "Vague job description",
       "May be urgent care rather than emergency medicine"
     ],
-    "missed_scrapes": 22
+    "missed_scrapes": 23
   },
   {
     "id": "3c0a0655c69c",
@@ -5592,7 +5646,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 22
+    "missed_scrapes": 23
   },
   {
     "id": "e19db5b4b68a",
@@ -5617,7 +5671,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 22
+    "missed_scrapes": 23
   },
   {
     "id": "86d2f90992d3",
@@ -5642,7 +5696,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 22
+    "missed_scrapes": 23
   },
   {
     "id": "8bce84296009",
@@ -5667,7 +5721,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 22
+    "missed_scrapes": 23
   },
   {
     "id": "900dab2d66bc",
@@ -5692,7 +5746,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 23
+    "missed_scrapes": 24
   },
   {
     "id": "65ec272c89dc",
@@ -5717,7 +5771,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 23
+    "missed_scrapes": 24
   },
   {
     "id": "2ef91debd5a7",
@@ -5742,7 +5796,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 24
+    "missed_scrapes": 25
   },
   {
     "id": "c741fdd25e2a",
@@ -5767,7 +5821,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 24
+    "missed_scrapes": 25
   },
   {
     "id": "575cd4a502f7",
@@ -5792,7 +5846,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 24
+    "missed_scrapes": 25
   },
   {
     "id": "d37b077b77ee",
@@ -5819,7 +5873,7 @@
     "red_flags": [
       "Below target salary range"
     ],
-    "missed_scrapes": 24
+    "missed_scrapes": 25
   },
   {
     "id": "06f93eb079f2",
@@ -5844,7 +5898,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 25
+    "missed_scrapes": 26
   },
   {
     "id": "0ca2d7aa1052",
@@ -5869,7 +5923,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 25
+    "missed_scrapes": 26
   },
   {
     "id": "473067c4cf6f",
@@ -5894,7 +5948,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 26
+    "missed_scrapes": 27
   },
   {
     "id": "4b51be291167",
@@ -5919,7 +5973,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 26
+    "missed_scrapes": 27
   },
   {
     "id": "27875e89794a",
@@ -5944,7 +5998,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 26
+    "missed_scrapes": 27
   },
   {
     "id": "fabcead7dfa2",
@@ -5969,7 +6023,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 26
+    "missed_scrapes": 27
   },
   {
     "id": "dd901932d44d",
@@ -5994,7 +6048,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 27
+    "missed_scrapes": 28
   },
   {
     "id": "b4705beefc35",
@@ -6019,7 +6073,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 27
+    "missed_scrapes": 28
   },
   {
     "id": "ef3c44fd20b4",
@@ -6044,7 +6098,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 28
+    "missed_scrapes": 29
   },
   {
     "id": "85ba457bfaf0",
@@ -6069,7 +6123,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 28
+    "missed_scrapes": 29
   },
   {
     "id": "f01c85ba0f13",
@@ -6094,7 +6148,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 28
+    "missed_scrapes": 29
   },
   {
     "id": "780c55891f31",
@@ -6119,7 +6173,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 29
+    "missed_scrapes": 30
   },
   {
     "id": "17c9f39b2b8e",
@@ -6144,7 +6198,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 29
+    "missed_scrapes": 30
   },
   {
     "id": "d95a7c3e271b",
@@ -6169,7 +6223,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 29
+    "missed_scrapes": 30
   },
   {
     "id": "602703c2f9c1",
@@ -6194,7 +6248,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 30
+    "missed_scrapes": 31
   },
   {
     "id": "858808046b40",
@@ -6219,7 +6273,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 30
+    "missed_scrapes": 31
   },
   {
     "id": "285ce19a4e97",
@@ -6244,7 +6298,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 30
+    "missed_scrapes": 31
   },
   {
     "id": "ac9c42e4f209",
@@ -6271,7 +6325,7 @@
     "red_flags": [
       "Academic faculty expectations may require additional teaching/research commitments"
     ],
-    "missed_scrapes": 31
+    "missed_scrapes": 32
   },
   {
     "id": "57bc854c2536",
@@ -6296,7 +6350,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 32
+    "missed_scrapes": 33
   },
   {
     "id": "d30b9106b441",
@@ -6321,7 +6375,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 32
+    "missed_scrapes": 33
   },
   {
     "id": "ba2b1aef6a43",
@@ -6346,7 +6400,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 32
+    "missed_scrapes": 33
   },
   {
     "id": "c9deb57cfcb4",
@@ -6371,7 +6425,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 32
+    "missed_scrapes": 33
   },
   {
     "id": "09c66a790c6f",
@@ -6396,6 +6450,6 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 32
+    "missed_scrapes": 33
   }
 ]
