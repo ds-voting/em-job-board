@@ -4817,11 +4817,11 @@
     "employer": "U.S. Army 2nd Medical Recruiting Battalion",
     "location": "Atlanta, GA",
     "salary": "$181,683",
-    "source_url": "https://www.adzuna.com/land/ad/5590876787?se=TMtDfOlV8RGUifme8P4dLA&utm_medium=api&utm_source=04e8e9e3&v=AFEC947AD82B58A7962A70FC378E2D5851542EE1",
+    "source_url": "https://www.adzuna.com/land/ad/5590876787?se=1hFE-6dW8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=AFEC947AD82B58A7962A70FC378E2D5851542EE1",
     "source_name": "Adzuna",
-    "rejection_reason": "Military reserve position with salary ($181,683) significantly below minimum requirement ($300,000)",
+    "rejection_reason": "This is a military reserve position with salary ($181,683) well below the minimum requirement of $300,000, and Atlanta is not in any preferred location region",
     "description_snippet": "Position information: Army Reserve Emergency Medicine Physician U.S. Army Medical Corps THE STRENGTH TO HEAL OUR NATION'S DEFENDERS. This is your chance to tackle the most unique cases and help patients who truly need your assistance. As an emergency physician and officer on the U.S. Army Reserve health care team, you'll practice in your community and serve when needed. Your colleagues will be at the top of their fields. You'll care for a diverse patient population that includes our nation's So\u2026",
-    "date_found": "2026-05-22"
+    "date_found": "2026-05-23"
   },
   {
     "id": "125e1c0a6d27",
@@ -4865,11 +4865,11 @@
     "employer": "MidState Medical Center",
     "location": "Meriden, CT",
     "salary": "$111,041",
-    "source_url": "https://www.adzuna.com/land/ad/5735066760?se=CBK9xiNV8RGwM-dyRPunmg&utm_medium=api&utm_source=04e8e9e3&v=CBB3CC10A87B8583335BBBDBF9565956CA932F5D",
+    "source_url": "https://www.adzuna.com/land/ad/5735066760?se=pqog_KdW8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=CBB3CC10A87B8583335BBBDBF9565956CA932F5D",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $111,041 is significantly below minimum requirement of $300,000, and well below $400,000 requirement for East Coast positions",
+    "rejection_reason": "Salary of $111,041 is significantly below the $300,000 minimum requirement and far below the $400,000 requirement for Other East Coast positions",
     "description_snippet": "MidState Medical Center - Central Connecticut Emergency Medicine Physician Live in Cheshire | Wallingford | Southington | West Hartford The Opportunity MidState Medical Center offers an ideal blend of modern emergency medicine and Central Connecticut lifestyle. Physicians practice in a well-supported emergency department with a sustainable clinical pace while living in some of the state's most desirable suburban communities. You'll join a provider-led emergency medicine team delivering state-of\u2026",
-    "date_found": "2026-05-21"
+    "date_found": "2026-05-23"
   },
   {
     "id": "1071b2d8e942",
@@ -4877,11 +4877,11 @@
     "employer": "Waterbury Hospital",
     "location": "Waterbury, CT",
     "salary": "$92,139",
-    "source_url": "https://www.adzuna.com/land/ad/5735067285?se=lC8be-lV8RGUifme8P4dLA&utm_medium=api&utm_source=04e8e9e3&v=DAF01E0E1B6539EBC9D3273A36CE98C99482B14F",
+    "source_url": "https://www.adzuna.com/land/ad/5735067285?se=pqog_KdW8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=DAF01E0E1B6539EBC9D3273A36CE98C99482B14F",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $92,139 is significantly below minimum requirement of $300,000, and below $400,000 threshold for Other East Coast positions",
+    "rejection_reason": "Salary of $92,139 is significantly below minimum requirement of $300,000 and far below required $400,000+ for East Coast positions",
     "description_snippet": "Waterbury Hospital - Western Connecticut Emergency Medicine Physician Highest-Acuity Site | Trauma Exposure | Advanced Clinical Practice Practice Profile Waterbury Hospital represents the most clinically intense Emergency Medicine environment within the system and is best suited for physicians seeking trauma exposure, high procedural volume, and complex pathology. This site delivers advanced emergency and trauma care with a faster pace and higher acuity than other regional locations, offering a\u2026",
-    "date_found": "2026-05-22"
+    "date_found": "2026-05-23"
   },
   {
     "id": "21f164ba8c13",
@@ -4891,9 +4891,9 @@
     "salary": "$169,362",
     "source_url": "https://www.adzuna.com/details/5708896139?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $169,362 is far below minimum requirement of $300,000, and particularly inadequate for East Coast location requiring >$400,000",
+    "rejection_reason": "Salary of $169,362 is significantly below minimum requirement of $300,000, and far below East Coast requirement of >$400,000",
     "description_snippet": "About MedCBO, Inc. MedCBO is a Colorado-based healthcare business infrastructure company that empowers independent physician groups across the United States to launch, manage, and scale their practices. We provide a comprehensive Business-in-a-Box platform that integrates revenue cycle management, accounting and finance, human resources, EHR support, payer contracting, compliance, supply-chain logistics, and data intelligence. Our unified, cloud-based system gives physicians the operational fou\u2026",
-    "date_found": "2026-05-21"
+    "date_found": "2026-05-23"
   },
   {
     "id": "6edccbd1fe5f",
@@ -4924,12 +4924,12 @@
     "title": "Emergency Medicine Physician \u2013 Independent Practice Track",
     "employer": "MedCBO, Inc",
     "location": "Baltimore, MD",
-    "salary": "$169,635",
+    "salary": "$169,635-$169,635",
     "source_url": "https://www.adzuna.com/details/5708896151?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $169,635 is significantly below the minimum requirement of $300,000",
+    "rejection_reason": "Salary of $169,635 is significantly below minimum requirement of $300,000",
     "description_snippet": "About MedCBO, Inc. MedCBO is a Colorado-based healthcare business infrastructure company that empowers independent physician groups across the United States to launch, manage, and scale their practices. We provide a comprehensive Business-in-a-Box platform that integrates revenue cycle management, accounting and finance, human resources, EHR support, payer contracting, compliance, supply-chain logistics, and data intelligence. Our unified, cloud-based system gives physicians the operational fou\u2026",
-    "date_found": "2026-05-21"
+    "date_found": "2026-05-23"
   },
   {
     "id": "559ea8139c57",
@@ -8105,11 +8105,11 @@
     "employer": "Kennedy Krieger Institute",
     "location": "Baltimore, MD",
     "salary": "$80,927",
-    "source_url": "https://www.adzuna.com/land/ad/5312100383?se=Gjo3cidR8RGNw-9vM3bulQ&utm_medium=api&utm_source=04e8e9e3&v=BC543A2904B2EC5A293ED07A8346E31236AA15F9",
+    "source_url": "https://www.adzuna.com/land/ad/5312100383?se=DnS0-qdW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=BC543A2904B2EC5A293ED07A8346E31236AA15F9",
     "source_name": "Adzuna",
-    "rejection_reason": "This is an EEG Technician position, not an Emergency Medicine Physician role. Additionally, the salary of $80,927 is far below the minimum requirement of $300,000.",
+    "rejection_reason": "This is an EEG Technician position, not an Emergency Medicine physician role. Additionally, the salary of $80,927 is far below the minimum requirement of $300,000.",
     "description_snippet": "Overview The Electroencephalographic (EEG) Technologist I completes EEG studies in the inpatient Epilepsy Monitoring Unit (EMU) and in the outpatient Sleep Electroencephalographic (EEG) Clinic. This position will perform Continuous Electroencephalographic (cEEG) monitoring; evaluations; and data analysis of patients with seizures. This staff member will edit and archive EEG video data; ensure proper documentation; provide technical assistance; follow protocols; review data; write reports; engag\u2026",
-    "date_found": "2026-05-16"
+    "date_found": "2026-05-23"
   },
   {
     "id": "ffad0b26b3f1",
@@ -18917,11 +18917,11 @@
     "employer": "Kaiser Permanente - The Permanente Medical Group, Inc.",
     "location": "Oakland, CA",
     "salary": "$316,260-$327,660",
-    "source_url": "https://www.adzuna.com/land/ad/5426346555?se=stksfulV8RGuXID0N1L6vA&utm_medium=api&utm_source=04e8e9e3&v=E0273590EDC3CA8B3B7BC730DA9EE3B9F9CB6FE3",
+    "source_url": "https://www.adzuna.com/land/ad/5426346555?se=UsH4_KdW8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=E0273590EDC3CA8B3B7BC730DA9EE3B9F9CB6FE3",
     "source_name": "Adzuna",
-    "rejection_reason": "Position is for Pediatrics Nephrologist, not Emergency Medicine Physician",
+    "rejection_reason": "Wrong medical specialty - this is a Pediatrics Nephrologist position, not Emergency Medicine",
     "description_snippet": "TPMG is seeking a full-time BE/BC Pediatrics Nephrologist to join our team in Oakland, CA. The Permanente Medical Group, Inc. (TPMG - Kaiser Permanente Northern California) is one of the largest multispecialty medical groups in the nation with over 10,000 physicians, 21 medical centers, numerous clinics throughout Northern and Central California, and an 80-year tradition of providing quality medical care. We partner exclusively with Kaiser Permanente Health Plan (KPHP) to provide comprehensive \u2026",
-    "date_found": "2026-05-22"
+    "date_found": "2026-05-23"
   },
   {
     "id": "992bef89046b",
@@ -26697,7 +26697,7 @@
     "source_name": "Adzuna",
     "rejection_reason": "Salary of $158,341 is well below the minimum requirement of $300,000",
     "description_snippet": "About MedCBO, Inc. MedCBO is a Colorado-based healthcare business infrastructure company that empowers independent physician groups across the United States to launch, manage, and scale their practices. We provide a comprehensive Business-in-a-Box platform that integrates revenue cycle management, accounting and finance, human resources, EHR support, payer contracting, compliance, supply-chain logistics, and data intelligence. Our unified, cloud-based system gives physicians the operational fou\u2026",
-    "date_found": "2026-05-20"
+    "date_found": "2026-05-23"
   },
   {
     "id": "d4d4aaa475ff",
@@ -26729,11 +26729,11 @@
     "employer": "Montclair Hospital Medical Center (Prime Healthcare)",
     "location": "Claremont, CA",
     "salary": "$143,700",
-    "source_url": "https://www.adzuna.com/details/5699099347?utm_medium=api&utm_source=04e8e9e3",
+    "source_url": "https://www.adzuna.com/land/ad/5699099347?se=UsH4_KdW8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=216805F401CE76AF4945519F56888B5869447716",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $143,700 is significantly below the minimum requirement of $300,000",
+    "rejection_reason": "Salary of $143,700 is well below the minimum requirement of $300,000",
     "description_snippet": "About the job Emergency Medicine Physician Montclair Hospital Medical Center in Montclair, CA, part of the Prime Healthcare network, is seeking a motivated and skilled Emergency Department Physician to deliver outstanding care in our community-focused facility. This is a great opportunity to practice in a collaborative and efficient emergency department. Position Details: 1099 Independent Contractor. 12 clinical shifts a month Mix of Days and Nights (mostly days) Board Certified or Board Eligib\u2026",
-    "date_found": "2026-05-13"
+    "date_found": "2026-05-23"
   },
   {
     "id": "d95a7c3e271b",
@@ -27429,7 +27429,7 @@
     "source_name": "Adzuna",
     "rejection_reason": "Salary of $160,052 is significantly below the minimum requirement of $300,000",
     "description_snippet": "About MedCBO, Inc. MedCBO is a Colorado-based healthcare business infrastructure company that empowers independent physician groups across the United States to launch, manage, and scale their practices. We provide a comprehensive Business-in-a-Box platform that integrates revenue cycle management, accounting and finance, human resources, EHR support, payer contracting, compliance, supply-chain logistics, and data intelligence. Our unified, cloud-based system gives physicians the operational fou\u2026",
-    "date_found": "2026-05-21"
+    "date_found": "2026-05-23"
   },
   {
     "id": "33e08284ca96",
@@ -30340,12 +30340,12 @@
     "title": "Emergency Medicine Physician",
     "employer": "EMrecruits (Physician-owned group)",
     "location": "Waterbury, CT",
-    "salary": "Competitive",
-    "source_url": "https://www.emcareers.org/job/999428/connecticut-emergency-medicine-physician-opening/",
-    "source_name": "emCareers",
-    "rejection_reason": "Salary not specified - East Coast positions require >$400,000 per candidate requirements",
-    "description_snippet": "Join a physician-owned and managed emergency medicine group in Connecticut - currently seeking BC/BE Emergency Medicine residency-trained physician...",
-    "date_found": "2026-05-01"
+    "salary": "$219,934",
+    "source_url": "https://www.adzuna.com/land/ad/5735066812?se=pqog_KdW8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=C269A9465CD6A3F5A1B500EDE65532E3D1D6878F",
+    "source_name": "Adzuna",
+    "rejection_reason": "Salary ($219,934) falls significantly below minimum requirement of $300,000",
+    "description_snippet": "Join a physician-owned and managed emergency medicine group in Connecticut \u2014 currently seeking BC/BE Emergency Medicine residency-trained physicians for both full-time and part-time opportunities. We are committed to quality care, innovation, and physician autonomy. Our door-to-doctor times are best in class and patient satisfaction scores rank in the top percentiles, Why this is a standout opportunity $100,000 sign-on bonus for full-time hires Competitive compensation package with productivity\u2026",
+    "date_found": "2026-05-23"
   },
   {
     "id": "cf5f96cb2373",
@@ -31012,12 +31012,12 @@
     "title": "Emergency Medicine Physician",
     "employer": "Vituity",
     "location": "Hartford, CT",
-    "salary": "$101,847",
-    "source_url": "https://www.adzuna.com/land/ad/5718230163?se=tAEfn5BT8RGI_uQJR_0NbQ&utm_medium=api&utm_source=04e8e9e3&v=14D436C783009886DF044BDB1B5532E0BA89E540",
+    "salary": "$127,384",
+    "source_url": "https://www.adzuna.com/land/ad/5732840501?se=pqog_KdW8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=FA1379C7E84D753B164ADC1B5CFEB0E2B4AF705C",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $101,847 is significantly below the minimum requirement of $300,000",
-    "description_snippet": "Job Description Hartford, CT \u2013 Seeking Emergency Medicine Physicians Join the Physician Partnership Where You Can Increase Your Impact Vituity\u2019s ownership model provides autonomy, local control, and a national system of support, so you can focus your attention where you want it to be \u2013 on your patients. Join the Vituity Team. Vituity is a 100% physician-owned partnership and is led by frontline physicians that are all equitable owners. As an equal and valued partner from day one, our ownership \u2026",
-    "date_found": "2026-05-19"
+    "rejection_reason": "Salary of $127,384 is significantly below the $300,000 minimum requirement, and location requires >$400,000 salary",
+    "description_snippet": "Hartford, CT \u2013 Seeking Emergency Medicine Physicians Join the Physician Partnership Where You Can Increase Your Impact Vituity\u2019s ownership model provides autonomy, local control, and a national system of support, so you can focus your attention where you want it to be \u2013 on your patients. Join the Vituity Team. Vituity is a 100% physician-owned partnership and is led by frontline physicians that are all equitable owners. As an equal and valued partner from day one, our ownership model provides y\u2026",
+    "date_found": "2026-05-23"
   },
   {
     "id": "eaea568e022b",
@@ -31687,9 +31687,9 @@
     "salary": "$93,446",
     "source_url": "https://www.adzuna.com/details/5717414698?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "This is a CT Technologist position, not an Emergency Medicine physician role. Candidate is seeking attending physician positions.",
+    "rejection_reason": "This is a CT Technologist position, not an Emergency Medicine Physician role",
     "description_snippet": "Immediate need for a talented CT Technologist . This is a 03months contract opportunity with potential for extension and is located in Atlanta, Georgia(Onsite) . Please review the job description below and contact me ASAP if you are interested. Job Diva ID: 26-13973 Pay Range: $65\u2212$70/hour. Employee benefits include, but are not limited to, health insurance (medical, dental, vision), 401(k) plan, and paid sick leave (depending on work location). Key Responsibilities: Shift: Night Shift (7:00 PM\u2026",
-    "date_found": "2026-05-22"
+    "date_found": "2026-05-23"
   },
   {
     "id": "2c876168bbf8",
@@ -36137,11 +36137,11 @@
     "employer": "MedStar Health",
     "location": "Baltimore, MD",
     "salary": "$261,673",
-    "source_url": "https://www.adzuna.com/details/5724064638?utm_medium=api&utm_source=04e8e9e3",
+    "source_url": "https://www.adzuna.com/land/ad/5724064638?se=DnS0-qdW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=CFAD3987FC053303CD4A6E202EA2AADE73255582",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $261,673 is below the minimum requirement of $300,000, and for Other East Coast locations the requirement is >$400,000",
+    "rejection_reason": "Salary below minimum requirement ($261,673 < $300,000) and East Coast location requires >$400,000",
     "description_snippet": "About the Job Emergency Medicine Physician Opportunities - Baltimore, MD MedStar Emergency Physicians | MedStar Health MedStar Emergency Physicians, part of the MedStar Health system, is seeking Board-Certified or Board-Eligible Emergency Medicine physicians to join our collaborative, high-performing teams in Baltimore, Maryland . We are a well-established group of Emergency Medicine Physicians and Physician Assistants/Associates serving a diverse patient population across multiple MedStar Heal\u2026",
-    "date_found": "2026-05-21"
+    "date_found": "2026-05-23"
   },
   {
     "id": "3fc93fc48300",
@@ -36160,12 +36160,12 @@
     "title": "Emergency Medicine Physician",
     "employer": "Manchester Memorial Hospital",
     "location": "Manchester, CT",
-    "salary": "$86,264-$86,264",
-    "source_url": "https://www.adzuna.com/land/ad/5734528693?se=lC8be-lV8RGUifme8P4dLA&utm_medium=api&utm_source=04e8e9e3&v=8A6805C0955AE42CDFB6F40FF886512651E33ADF",
+    "salary": "$86,264",
+    "source_url": "https://www.adzuna.com/land/ad/5734528693?se=pqog_KdW8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=8A6805C0955AE42CDFB6F40FF886512651E33ADF",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $86,264 is significantly below the minimum requirement of $300,000 and far below the $400,000 requirement for Other East Coast positions",
+    "rejection_reason": "Salary far below minimum requirement of $300,000 (only $86,264) and location requires >$400,000",
     "description_snippet": "Manchester Memorial Hospital - Greater Hartford Emergency Medicine Physician Work Near Hartford | Live in West Hartford, Glastonbury, or Farmington The Opportunity Manchester Memorial Hospital provides a dynamic Emergency Medicine setting just minutes from Hartford's most sought-after neighborhoods. This role combines a strong clinical mix with access to exceptional residential, dining, and school options. Physicians join a clinically driven emergency medicine group known for high patient satis\u2026",
-    "date_found": "2026-05-22"
+    "date_found": "2026-05-23"
   },
   {
     "id": "7f828b25f9de",
@@ -37075,9 +37075,9 @@
     "salary": "$249,600-$384,800",
     "source_url": "https://www.adzuna.com/details/5726565745?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Location not in preferred regions and salary below minimum requirement at low end",
+    "rejection_reason": "Salary below $400,000 minimum requirement for Other East Coast positions",
     "description_snippet": "A thriving healthcare group is seeking an Emergency Medicine Physician to work in New York City! Contact Raymond Stiles 843-574-8233 raymond@nowhealthcare.org About the Group: Physician-led, patient-centric network, committed to simplifying the complexities of health care. One of the nation\u2019s premier independent multispecialty medical groups, the leading urgent care provider in the New York metropolitan area This health system goes all out to make a flexible and family-friendly work-life balanc\u2026",
-    "date_found": "2026-05-22"
+    "date_found": "2026-05-23"
   },
   {
     "id": "5ff8fc9359b4",
@@ -38405,11 +38405,11 @@
     "employer": "Vituity at Greater Baltimore Medical Center",
     "location": "Towson, MD",
     "salary": "$143,720",
-    "source_url": "https://www.adzuna.com/land/ad/5732347095?se=8lXZHspS8RGcd6tq1vlDMg&utm_medium=api&utm_source=04e8e9e3&v=EE9EB98E6CC7CDE3A61DE7D87A8E67B771544685",
+    "source_url": "https://www.adzuna.com/land/ad/5732347095?se=DnS0-qdW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=EE9EB98E6CC7CDE3A61DE7D87A8E67B771544685",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $143,720 is significantly below minimum requirement of $300,000, and well below the >$400,000 requirement for Other East Coast locations",
+    "rejection_reason": "Salary of $143,720 is well below the minimum requirement of $300,000, and for Other East Coast locations, candidate requires >$400,000",
     "description_snippet": "Towson, MD \u2013 Seeking Emergency Medicine Physicians Join the Physician Partnership Where You Can Increase Your Impact Vituity\u2019s ownership model provides autonomy, local control, and a national system of support, so you can focus your attention where you want it to be \u2013 on your patients. Join the Vituity Team. Vituity is a 100% physician-owned partnership and is led by frontline physicians that are all equitable owners. As an equal and valued partner from day one, our ownership model provides you\u2026",
-    "date_found": "2026-05-18"
+    "date_found": "2026-05-23"
   },
   {
     "id": "fd99bd2fdf50",
@@ -39305,11 +39305,11 @@
     "employer": "The Inline Group / LaSante Health Center",
     "location": "Brooklyn, NY",
     "salary": "$197,938",
-    "source_url": "https://www.adzuna.com/land/ad/5595324906?se=oPeYxyNV8RGZavx5pb9cQg&utm_medium=api&utm_source=04e8e9e3&v=BDBD748B00842FB86C8D9212E4EF82C4D7B1B21A",
+    "source_url": "https://www.adzuna.com/land/ad/5595324906?se=josO-qdW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=BDBD748B00842FB86C8D9212E4EF82C4D7B1B21A",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary $197,938 is significantly below minimum requirement of $300,000",
+    "rejection_reason": "Salary of $197,938 is significantly below the minimum requirement of $300,000, and far below the $400,000+ requirement for Other East Coast locations",
     "description_snippet": "Doctor of Medicine | Emergency Medicine Location: Brooklyn, NY Employer: The Inline Group Pay: Competitive weekly pay (inquire for details) Start Date: ASAP About the Position LaSante Health Center - Part Time Employed Call Schedule: None Loan Repayment Compensation: - Starting at $125/hour and increasing based on experience Benefits: - Medical, dental, vision insurance - life insurance - 401(k) - Generous PTO and sick leave - 9 paid holidays - CME reimbursement - Commuter benefits - FSA - Depe\u2026",
-    "date_found": "2026-05-21"
+    "date_found": "2026-05-23"
   },
   {
     "id": "cf8b460b968e",
@@ -39676,24 +39676,24 @@
     "title": "Emergency Medicine Physician",
     "employer": "U.S. Army 6th Medical Recruiting Battalion",
     "location": "Glendale, CA",
-    "salary": "$145,191",
-    "source_url": "https://www.adzuna.com/land/ad/5736989728?se=qCKRe-lV8RGFi9MzAiAyiA&utm_medium=api&utm_source=04e8e9e3&v=8D9DB01EF84126F4A875093C7BE7143EC219D18C",
+    "salary": "$146,957",
+    "source_url": "https://www.adzuna.com/land/ad/5738140725?se=8OJk-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=029E28E8003F4039377FAC93532EEBAC021B12AF",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $145,191 is significantly below minimum requirement of $300,000",
-    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION\u2018S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you\u2018ll be on the frontline in treating patients who require immediate medical attention. You\u2018ll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
-    "date_found": "2026-05-22"
+    "rejection_reason": "Salary of $146,957 is significantly below minimum requirement of $300,000",
+    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION'S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you'll be on the frontline in treating patients who require immediate medical attention. You'll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
+    "date_found": "2026-05-23"
   },
   {
     "id": "06f484f9e03f",
     "title": "Emergency Medicine Physician",
     "employer": "U.S. Army 6th Medical Recruiting Battalion",
     "location": "El Segundo, CA",
-    "salary": "$169,716",
-    "source_url": "https://www.adzuna.com/land/ad/5736998738?se=qCKRe-lV8RGFi9MzAiAyiA&utm_medium=api&utm_source=04e8e9e3&v=C780D0A7331CB6AE129EA808F0912DCE8C3CB237",
+    "salary": "$171,781",
+    "source_url": "https://www.adzuna.com/land/ad/5738140759?se=8OJk-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=715BEEF96F167F9E81911AD0988864168B8E558F",
     "source_name": "Adzuna",
-    "rejection_reason": "Military physician position with salary ($169,716) significantly below minimum requirement of $300,000, and represents military service rather than civilian attending position",
-    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION\u2018S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you\u2018ll be on the frontline in treating patients who require immediate medical attention. You\u2018ll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
-    "date_found": "2026-05-22"
+    "rejection_reason": "Salary of $171,781 is significantly below minimum requirement of $300,000, and this is a military position which may not align with civilian practice expectations",
+    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION'S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you'll be on the frontline in treating patients who require immediate medical attention. You'll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
+    "date_found": "2026-05-23"
   },
   {
     "id": "308847f08de2",
@@ -39736,24 +39736,24 @@
     "title": "Emergency Medicine Physician",
     "employer": "U.S. Army 6th Medical Recruiting Battalion",
     "location": "East Long Beach, CA",
-    "salary": "$167,518",
-    "source_url": "https://www.adzuna.com/land/ad/5736998711?se=qCKRe-lV8RGFi9MzAiAyiA&utm_medium=api&utm_source=04e8e9e3&v=A248376D13837CF32B3C9522169F6A5EFA760956",
+    "salary": "$169,555",
+    "source_url": "https://www.adzuna.com/land/ad/5738140736?se=8OJk-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=52A31C867C1A5012FDD47E5B6E05BC252AB7F32F",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $167,518 is significantly below the minimum requirement of $300,000",
-    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION\u2018S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you\u2018ll be on the frontline in treating patients who require immediate medical attention. You\u2018ll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
-    "date_found": "2026-05-22"
+    "rejection_reason": "Military position with salary ($169,555) significantly below minimum requirement ($300,000)",
+    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION'S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you'll be on the frontline in treating patients who require immediate medical attention. You'll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
+    "date_found": "2026-05-23"
   },
   {
     "id": "a48788a3fd69",
     "title": "Emergency Medicine Physician",
     "employer": "U.S. Army 6th Medical Recruiting Battalion",
     "location": "Palms, Los Angeles County, CA",
-    "salary": "$182,461",
-    "source_url": "https://www.adzuna.com/land/ad/5736988477?se=qCKRe-lV8RGFi9MzAiAyiA&utm_medium=api&utm_source=04e8e9e3&v=E49F53A94E2ABFFBEB18C145A2BFD8F3CA5D8E79",
+    "salary": "$184,680",
+    "source_url": "https://www.adzuna.com/land/ad/5738140733?se=8OJk-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=13A41B37C6DBC6A962365DFB07BBA32585B5B1ED",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary $182,461 is significantly below minimum requirement of $300,000",
-    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION\u2018S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you\u2018ll be on the frontline in treating patients who require immediate medical attention. You\u2018ll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
-    "date_found": "2026-05-22"
+    "rejection_reason": "Salary $184,680 is significantly below the minimum requirement of $300,000",
+    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION'S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you'll be on the frontline in treating patients who require immediate medical attention. You'll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
+    "date_found": "2026-05-23"
   },
   {
     "id": "e1e1bd85723b",
@@ -39772,24 +39772,24 @@
     "title": "Emergency Medicine Physician",
     "employer": "U.S. Army 6th Medical Recruiting Battalion",
     "location": "Los Angeles County, CA",
-    "salary": "$179,110",
-    "source_url": "https://www.adzuna.com/land/ad/5736991598?se=qCKRe-lV8RGFi9MzAiAyiA&utm_medium=api&utm_source=04e8e9e3&v=E84E3F73A0DF4548AA535BCD2BAF413405976EE9",
+    "salary": "$181,288",
+    "source_url": "https://www.adzuna.com/land/ad/5738143287?se=8OJk-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=C9BD74DCD8891B630BA111DB98E01072DEDDA1A7",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $179,110 is significantly below minimum requirement of $300,000",
-    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION\u2018S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you\u2018ll be on the frontline in treating patients who require immediate medical attention. You\u2018ll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
-    "date_found": "2026-05-22"
+    "rejection_reason": "Salary of $181,288 is significantly below the minimum requirement of $300,000",
+    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION\u2019S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you\u2019ll be on the frontline in treating patients who require immediate medical attention. You\u2019ll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
+    "date_found": "2026-05-23"
   },
   {
     "id": "584808935dde",
     "title": "Emergency Medicine Physician",
     "employer": "U.S. Army 6th Medical Recruiting Battalion",
     "location": "Pasadena, CA",
-    "salary": "$187,486",
-    "source_url": "https://www.adzuna.com/land/ad/5736999742?se=qCKRe-lV8RGFi9MzAiAyiA&utm_medium=api&utm_source=04e8e9e3&v=A630CAA19B5E624E765A432F1E0E813EBA333DC2",
+    "salary": "$189,766",
+    "source_url": "https://www.adzuna.com/land/ad/5738140755?se=8OJk-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=E9854F635D6261FD53CA333BFDF70B6BEC421E7C",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $187,486 is significantly below minimum requirement of $300,000",
-    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION\u2018S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you\u2018ll be on the frontline in treating patients who require immediate medical attention. You\u2018ll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
-    "date_found": "2026-05-22"
+    "rejection_reason": "Salary ($189,766) significantly below minimum requirement of $300,000",
+    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION'S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you'll be on the frontline in treating patients who require immediate medical attention. You'll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
+    "date_found": "2026-05-23"
   },
   {
     "id": "94144075739d",
@@ -39808,24 +39808,24 @@
     "title": "Emergency Medicine Physician",
     "employer": "U.S. Army 6th Medical Recruiting Battalion",
     "location": "Alondra Park, Los Angeles County, CA",
-    "salary": "$177,037",
-    "source_url": "https://www.adzuna.com/land/ad/5736991661?se=qCKRe-lV8RGFi9MzAiAyiA&utm_medium=api&utm_source=04e8e9e3&v=D07FB563E0EFF170D4CC77E97DE94C8F0F0D148F",
+    "salary": "$179,190",
+    "source_url": "https://www.adzuna.com/land/ad/5738140737?se=8OJk-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=DFBBD8ABBEA3F1C7E575FD87E4CD6CA377FAED7C",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $177,037 is significantly below minimum requirement of $300,000",
-    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION\u2018S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you\u2018ll be on the frontline in treating patients who require immediate medical attention. You\u2018ll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
-    "date_found": "2026-05-22"
+    "rejection_reason": "Salary of $179,190 is significantly below minimum requirement of $300,000",
+    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION'S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you'll be on the frontline in treating patients who require immediate medical attention. You'll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
+    "date_found": "2026-05-23"
   },
   {
     "id": "6b119f28b56d",
     "title": "Emergency Medicine Physician",
     "employer": "U.S. Army 6th Medical Recruiting Battalion",
     "location": "Hawthorne, CA",
-    "salary": "$173,132",
-    "source_url": "https://www.adzuna.com/land/ad/5736988879?se=qCKRe-lV8RGFi9MzAiAyiA&utm_medium=api&utm_source=04e8e9e3&v=D5C1C3D883C3445AE10F01684FDE403E17A0D2E5",
+    "salary": "$175,238",
+    "source_url": "https://www.adzuna.com/land/ad/5738140735?se=8OJk-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=EC9CC176DFFC25DEB3E3C3F63CA19AF7276906E2",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $173,132 is significantly below minimum requirement of $300,000, and this is a military position which may not align with civilian practice goals",
-    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION\u2018S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you\u2018ll be on the frontline in treating patients who require immediate medical attention. You\u2018ll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
-    "date_found": "2026-05-22"
+    "rejection_reason": "Salary of $175,238 is significantly below minimum requirement of $300,000",
+    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION'S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you'll be on the frontline in treating patients who require immediate medical attention. You'll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
+    "date_found": "2026-05-23"
   },
   {
     "id": "44659293b0d6",
@@ -39856,24 +39856,24 @@
     "title": "Emergency Medicine Physician",
     "employer": "U.S. Army 6th Medical Recruiting Battalion",
     "location": "Montebello, CA",
-    "salary": "$161,817",
-    "source_url": "https://www.adzuna.com/land/ad/5736995909?se=qCKRe-lV8RGFi9MzAiAyiA&utm_medium=api&utm_source=04e8e9e3&v=9A1BE40254CA3A01156FE96F858D7DAB1774A722",
+    "salary": "$163,785",
+    "source_url": "https://www.adzuna.com/land/ad/5738140740?se=8OJk-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=75E676E64D2AB269D8A346BEA7E5819966FCAC14",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $161,817 is significantly below the minimum requirement of $300,000",
-    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION\u2018S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you\u2018ll be on the frontline in treating patients who require immediate medical attention. You\u2018ll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
-    "date_found": "2026-05-22"
+    "rejection_reason": "Salary of $163,785 is significantly below the minimum requirement of $300,000",
+    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION'S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you'll be on the frontline in treating patients who require immediate medical attention. You'll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
+    "date_found": "2026-05-23"
   },
   {
     "id": "72d707edfeca",
     "title": "Emergency Medicine Physician",
     "employer": "U.S. Army 6th Medical Recruiting Battalion",
     "location": "Compton, CA",
-    "salary": "$176,388",
-    "source_url": "https://www.adzuna.com/land/ad/5737213555?se=qCKRe-lV8RGFi9MzAiAyiA&utm_medium=api&utm_source=04e8e9e3&v=CCB6D7E795CBEC30318A8FA6CA5E39D2CD56B60F",
+    "salary": "$178,533",
+    "source_url": "https://www.adzuna.com/land/ad/5738140729?se=8OJk-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=60FDE5996995F6C506BA3D1930128D001C457F46",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $176,388 is significantly below minimum requirement of $300,000",
-    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION\u2018S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you\u2018ll be on the frontline in treating patients who require immediate medical attention. You\u2018ll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
-    "date_found": "2026-05-22"
+    "rejection_reason": "Salary of $178,533 is significantly below minimum requirement of $300,000",
+    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION'S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you'll be on the frontline in treating patients who require immediate medical attention. You'll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
+    "date_found": "2026-05-23"
   },
   {
     "id": "c51b68fd7b1e",
@@ -39970,5 +39970,377 @@
     "rejection_reason": "Wrong medical specialty - this is a Gastroenterology position, not Emergency Medicine",
     "description_snippet": "Job Description Career Opportunities:Gastroenterologists (Louisville, Kentucky) Thank you for your interest in the gastroenterologist opportunities. Below you will find detailed descriptions and requirements of the positions. Norton Gastroenterology Consultants of Louisville , Kentucky, is recruiting full-time board-certified or board-eligible physicians specializing in general and advanced gastroenterology to join its growing practice. Established more than 30 years ago, this group is an integ\u2026",
     "date_found": "2026-05-22"
+  },
+  {
+    "id": "5a67284871cf",
+    "title": "Locum Physician (MD/DO) - Emergency Medicine - $260 to $285 per hour in Boston, MA",
+    "employer": "Aya Locums",
+    "location": "New Town, Middlesex County",
+    "salary": "$540,800-$592,800",
+    "source_url": "https://www.adzuna.com/land/ad/5728162808?se=tK8Q-adW8RGWQvEe2bTbLw&utm_medium=api&utm_source=04e8e9e3&v=86EFAAC01AF2CF452A11D23458D8A49042DB442A",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'Locum'",
+    "description_snippet": "Doctor of Medicine | Emergency Medicine Location: Boston, MA Employer: Aya Locums Pay: $260 to $285 per hour Shift Information: 5 days x 8 hours Contract Duration: 13 Weeks Start Date: 6/15/2026 About the Position Aya Locums has an immediate opening for a locum Emergency Medicine job in Boston, MA paying $260/hour - $285/hour. Job Details: Position: Physician Specialty: Emergency Medicine Start Date: 06-15-26 Length: 13 weeks Schedule and Coverage: Shift Coverage: Scheduled  No Call Shift Sched\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "19325db281f5",
+    "title": "Physician - Emergency Medicine",
+    "employer": "UPMC North Central",
+    "location": "Newberry, Lycoming County",
+    "salary": "$100,447-$100,447",
+    "source_url": "https://www.adzuna.com/land/ad/5738143696?se=wM2u-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=989B2852D2F6C262417D3B528332EB9FAEF96CC3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Location 'Newberry, Lycoming County' not in any target region",
+    "description_snippet": "Emergency Medicine Physicians Needed in Pennsylvania Job at a Glance: Location: Pennsylvania Role: Emergency Medicine Physician Schedule: Full-time positions available Compensation: Competitive pay Description: Join a dynamic team of healthcare professionals dedicated to providing exceptional emergency care. As an Emergency Medicine Physician, you will play a crucial role in delivering Life Changing Medicine to patients in need. Work in a fast-paced, state-of-the-art environment where your expe\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "344d28cc0350",
+    "title": "Physician, Emergency Medicine - Per Diem",
+    "employer": "UPMC Central PA",
+    "location": "Carlisle Barracks, Cumberland County",
+    "salary": "$111,093-$111,093",
+    "source_url": "https://www.adzuna.com/land/ad/5738143708?se=wM2u-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=E781274FE51EC4BD337481A25161C19C0FE74097",
+    "source_name": "Adzuna",
+    "rejection_reason": "Location 'Carlisle Barracks, Cumberland County' not in any target region",
+    "description_snippet": "Hiring- UPMC -Emergency Medicine Opportunities Per-Diem Rotating Shifts, Carlisle, PA UPMC is seeking Per Diem, employed Emergency Medicine Physicians to join our team in Central Pennsylvania. Our growing team of passionate emergency medicine physicians and advanced providers put an emphasis on the \"community\" aspect of community medicine, with a leadership team that's \"all-in\" on a culture emphasizing cooperation and collegiality. Use your knowledge and expertise to evaluate and manage the eme\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "c8582ce3c660",
+    "title": "UPMC Emergency Medicine Opportunities Mechanicsburg, PA",
+    "employer": "UPMC Central PA",
+    "location": "Goodhope, Cumberland County",
+    "salary": "$93,842-$93,842",
+    "source_url": "https://www.adzuna.com/land/ad/5738143857?se=wM2u-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=7D077DDC96E536637A51E623E6D93652A527C9FD",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'PA'",
+    "description_snippet": "UPMC Hiring Emergency Medicine Physician West Shore, Mechanicsburg, PA About the Position: UPMC is seeking dedicated Emergency Medicine Physicians to join our team in Central Pennsylvania. Our team emphasizes the \"community\" aspect of community medicine, fostering a culture of cooperation and collegiality. Utilize your expertise to manage emergency department processes and collaborate with other departments to achieve shared goals. Enjoy your work and make a difference in the community. What We\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "3ffa4b1d0f3d",
+    "title": "Emergency Medicine Locum - UPMC Altoona",
+    "employer": "UPMC West Central PA",
+    "location": "Altoona, Blair County",
+    "salary": "$173,491-$173,491",
+    "source_url": "https://www.adzuna.com/land/ad/5738143669?se=wM2u-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=239989856222D5BFD087EA412C9641B46DD110C4",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'Locum'",
+    "description_snippet": "Emergency Medicine Locum Opportunity in Altoona, PA Job at a Glance: Location: Coverage needed at both Altoona and Bedford, Pennsylvania Role: Emergency Medicine Physician Schedule: Altoona - 10-hour shifts (6a-4p, 8a-6p, 11a-9p, 1p-11p, 3p-1a, 5p-3a or 9p-7a); Bedford - 12-hour shifts (7a-7p or 7p-7a) Description: Join a dynamic team of healthcare professionals as an Emergency Medicine Physician in Altoona and Bedford, PA. This locum position offers the opportunity to provide critical care in \u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "de0c20ee7024",
+    "title": "Emergency Medicine- UPMC Somerset-Competitive Salary",
+    "employer": "UPMC West Central PA",
+    "location": "Somerset, Somerset County",
+    "salary": "$61,057-$61,057",
+    "source_url": "https://www.adzuna.com/land/ad/5738392990?se=wM2u-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=4404683DC0D2D2F6A3412C67E66EA41623BA23C5",
+    "source_name": "Adzuna",
+    "rejection_reason": "Location 'Somerset, Somerset County' not in any target region",
+    "description_snippet": "UPMC Somerset is currently seeking a qualified Emergency Medicine Physician to join our team! The Department of Emergency Medicine provides emergency care by a trained, board-certified emergency physician 24 hours a day. This space is staffed with critical care trained; ACLS and PALS certified nursing staff. Emergency care at these facilities includes the immediate treatment of any medical or surgical emergency, the initiation of life-saving procedures in all types of emergency situations and t\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "362fd36d4ea0",
+    "title": "Practice as an Anesthesiologist at UPMC in Bedford, PA",
+    "employer": "UPMC West Central PA",
+    "location": "Everett, Bedford County",
+    "salary": "$124,352-$124,352",
+    "source_url": "https://www.adzuna.com/land/ad/5738143649?se=wM2u-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=D58E029B3CA1E058E3EC4033BFCBA842B05080D1",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'PA'",
+    "description_snippet": "The University of Pittsburgh Medical Center (UPMC) Department of Anesthesiology and Perioperative Medicine is seeking highly talented anesthesiologists to provide anesthesia care at UPMC Bedford in Everett, PA. Candidates must be board-certified or board-eligible in anesthesiology and possess or qualify for an unrestricted medical license in the Commonwealth of Pennsylvania. General/pediatric position Competitive pay A three-day, daylight-only schedule (Mon-Tue-Wed, 6:30a - 5:30p) No call Hospi\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "ee14f79ea2bb",
+    "title": "EMERGENCY MEDICINE PHYSICIAN",
+    "employer": "U.S. Army Medical Recruiting Brigade",
+    "location": "Mount Rainier, Prince George's County",
+    "salary": "$242,173-$242,173",
+    "source_url": "https://www.adzuna.com/land/ad/5738143426?se=DnS0-qdW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=19309B99D08420FB9A5571FBA30C04BBB3418A9B",
+    "source_name": "Adzuna",
+    "rejection_reason": "Location 'Mount Rainier, Prince George's County' not in any target region",
+    "description_snippet": "THE STRENGTH TO HEAL OUR NATION'S DEFENDERS. This is your chance to tackle the most unique cases and help patients who truly need your assistance. As an emergency physician and officer on the U.S. Army Reserve health care team, you'll practice in your community and serve when needed. Your colleagues will be at the top of their fields. You'll care for a diverse patient population that includes our nation's Soldiers and their families. Benefits include: - Health Professional Special Pay of $75,00\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "775911340c76",
+    "title": "Locum Physician (MD/DO) - Emergency Medicine in Clinton, NC",
+    "employer": "ConnectHealth",
+    "location": "Clinton, Sampson County",
+    "salary": "$200,320-$200,320",
+    "source_url": "https://www.adzuna.com/land/ad/5738648591?se=wtQD-6dW8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=BF6349A6028B40D7CE0010F20112C723A6642BBD",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'Locum'",
+    "description_snippet": "Doctor of Medicine | Emergency Medicine Location: Clinton, NC Employer: ConnectHealth Pay: Competitive weekly pay (inquire for details) Shift Information: Days - 3 days x 12 hours Start Date: ASAP About the Position Locum Tenens Opportunity - Emergency Medicine Physician Location: Clinton Coverage Dates: August 1 - August 29 We are seeking an Emergency Medicine Physician for a locum tenens opportunity in Clinton, NC. This assignment offers consistent daytime coverage in a community-focused emer\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "d676e7eed0a2",
+    "title": "Urgent Care Physician",
+    "employer": "Bayview Physicians Group",
+    "location": "South Norfolk, Chesapeake City",
+    "salary": "$126,208-$126,208",
+    "source_url": "https://www.adzuna.com/land/ad/5738143601?se=iAzY-6dW8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=1F05CEDBF75BC7A86BF395895C58F3A507DAE423",
+    "source_name": "Adzuna",
+    "rejection_reason": "Location 'South Norfolk, Chesapeake City' not in any target region",
+    "description_snippet": "Physician \u2013 NowCare Urgent Care Bayview Physicians Group is a progressive, independent, multi-specialty physician group serving the Hampton Roads region of southeast coastal Virginia. We are currently seeking a Board-Certified/Board Eligible Family Medicine, Urgent Care, or Emergency Medicine Physician to join our team of experienced and collegial urgent care professionals through our NowCare Urgent Care Centers. NowCare operates seven convenient locations across South Hampton Roads, all open d\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "d4e031965edd",
+    "title": "Physician",
+    "employer": "AMN Healthcare",
+    "location": "Lebanon, Russell County",
+    "salary": "$108,303-$108,303",
+    "source_url": "https://www.adzuna.com/land/ad/5735241620?se=iAzY-6dW8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=553AF63DBED9D8AC5FBB0D0E38047C69049AA2A5",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded employer: 'HCA'",
+    "description_snippet": "Job Description & Requirements Physician StartDate: ASAP Available Shifts: Regular Pay Rate: $194.00 - $210.00 This facility is seeking an Emergency Medicine Physician locums tenens support as they look to fill a current need. Details & requirements for this opportunity: Schedule: 7a-7p, 7p-7a Setting: Emergency Types of Case: Emergency Credentialing timeframe: 60 days Job Benefits AMN Healthcare typically arranges medical or dental malpractice insurance for the contractor providers we match to\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "dd0b25dfc73c",
+    "title": "Ophthalmologist - Ukiah, CA",
+    "employer": "Adventist Health",
+    "location": "Ukiah, Mendocino County",
+    "salary": "$82,914-$82,914",
+    "source_url": "https://www.adzuna.com/land/ad/5738143720?se=UsH4_KdW8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=0E2E610D3674C886BDF941C4104E55E12A29F720",
+    "source_name": "Adzuna",
+    "rejection_reason": "Location 'Ukiah, Mendocino County' not in any target region",
+    "description_snippet": "Adventist Health Ukiah Valley is seeking an experienced Surgical Ophthalmologist to join our team in stunning Mendocino County of Northern CA. This is a rare opportunity to work near the redwoods and Northern Coastline just north of San Francisco in Ukiah, CA. This is a full-time opportunity in a hospital-based outpatient clinic across from Adventist Health Ukiah Valley Hospital. Well-trained, efficient office personnel with a fully equipped office Built-in referral system, you will be sure to \u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "583d246e3ae1",
+    "title": "General Cardiologist - Ukiah, CA",
+    "employer": "Adventist Health",
+    "location": "Ukiah, Mendocino County",
+    "salary": "$101,650-$101,650",
+    "source_url": "https://www.adzuna.com/land/ad/5738143722?se=UsH4_KdW8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=5A6A240EFE183A37F6A027AD50BB637EA40AD8AC",
+    "source_name": "Adzuna",
+    "rejection_reason": "Location 'Ukiah, Mendocino County' not in any target region",
+    "description_snippet": "Adventist Health Ukiah Valley is seeking a General Cardiologist to join our team in stunning Mendocino County of Northern CA. This is a rare opportunity to work near the redwoods and Northern Coastline just north of San Francisco in Ukiah, CA. Adventist Health Ukiah Valley is a teaching hospital, with a Full Spectrum Rural Family Medicine residency program Adventist Health Ukiah Valley (ahfamilyresidency.org). Medical Staff are invited and expected to support the training of residents through D\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "1c5efe0685aa",
+    "title": "Pediatrician - Ukiah, CA",
+    "employer": "Adventist Health",
+    "location": "Ukiah, Mendocino County",
+    "salary": "$115,171-$115,171",
+    "source_url": "https://www.adzuna.com/land/ad/5738143748?se=UsH4_KdW8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=4F227A0E75BF500C4DE6A6E2B0FED9E7697F78D9",
+    "source_name": "Adzuna",
+    "rejection_reason": "Location 'Ukiah, Mendocino County' not in any target region",
+    "description_snippet": "Adventist Health Ukiah Valley is actively seeking multiple Pediatricians to join our team in stunning Mendocino County. This is a rare opportunity to work near the redwoods and Northern Coastline just north of San Francisco in Ukiah, CA. Adventist Health Ukiah Valley is a teaching hospital, with a Full Spectrum Rural Family Medicine residency program Adventist Health Ukiah Valley (ahfamilyresidency.org). Medical Staff are invited and expected to support the training of residents through Didacti\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "278cac32730f",
+    "title": "Family Medicine with OB Core Faculty - Ukiah, CA",
+    "employer": "Adventist Health",
+    "location": "Ukiah, Mendocino County",
+    "salary": "$116,406-$116,406",
+    "source_url": "https://www.adzuna.com/land/ad/5738142327?se=UsH4_KdW8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=947D0167E76848F15842C819CEF3439D8F121299",
+    "source_name": "Adzuna",
+    "rejection_reason": "Location 'Ukiah, Mendocino County' not in any target region",
+    "description_snippet": "Adventist Health Ukiah Valley is seeking a Family Medicine with OB physician to join our Core Faculty team in the stunning Mendocino County. This is a rare opportunity to work near the redwoods and Northern Coastline just north of San Francisco in Ukiah, CA. This is an ideal teaching position for someone interested in working with an outstanding team, including family medicine physicians and residents through collaboration with our Rural Family Medicine residency program Adventist Health Ukiah \u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "fa3199aa0839",
+    "title": "Family Medicine Residency Associate Program Director",
+    "employer": "Adventist Health",
+    "location": "Ukiah, Mendocino County",
+    "salary": "$143,641-$143,641",
+    "source_url": "https://www.adzuna.com/land/ad/5738681107?se=UsH4_KdW8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=14674680E1FE713D18465FDF796B2DAB17199A2D",
+    "source_name": "Adzuna",
+    "rejection_reason": "Location 'Ukiah, Mendocino County' not in any target region",
+    "description_snippet": "Adventist Health Ukiah Valley is actively seeking Associate Program Director to join our team in stunning Mendocino County. This is a rare opportunity to work near the redwoods and the Northern California coastline, within driving distance of San Francisco. This is an ideal administrative & teaching position for someone interested in working with an outstanding team, including family medicine physicians and residents through collaboration with our Rural Family Medicine residency program Adventi\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "37ae1a6e112e",
+    "title": "Staff Pharmacist",
+    "employer": "Piedmont Healthcare",
+    "location": "Bogart, Oconee County",
+    "salary": "$132,000-$145,000",
+    "source_url": "https://www.adzuna.com/land/ad/5722707053?se=0Cri_qdW8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=04828661E9C28FA3DF6B9DC6D687CA081C2BE4E3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded employer: 'HCA'",
+    "description_snippet": "Piedmont Healthcare is seeking a Staff Pharmacist to join our Healthcare & Medical Services team. In this evening role, you will verify and dispense medications, perform clinical medication reviews, collaborate with physicians and nurses, and provide patient counseling to ensure safe and effective therapy. You\u2019ll support formulary management, medication safety initiatives, and regulatory compliance. Piedmont offers a culture of respect, innovation, and teamwork, with robust training and develop\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "aad6bc8ef801",
+    "title": "Physician Assistant; Nurse Practitioner",
+    "employer": "UrgenCare",
+    "location": "Hamilton, Harris County",
+    "salary": "$153,261-$153,261",
+    "source_url": "https://www.adzuna.com/details/5732188930?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'Physician Assistant'",
+    "description_snippet": "Advanced Practice Provider (APP) (Nurse Practitioner or Physician Assistant) Position Summary The Advanced Practice Provider (APP) provides high-quality, patient-centered urgent care services to patients of all ages. The APP evaluates, diagnoses, treats, and manages acute illnesses and minor injuries in a fast-paced urgent care setting. This role requires strong clinical judgment, procedural skills, and the ability to work both independently and collaboratively with physicians and clinical staf\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "46662f3aad7a",
+    "title": "Emergency Department Physician",
+    "employer": "Essential Healthcare Solutions LLC",
+    "location": "Norfolk, Norfolk City",
+    "salary": "$122,682-$122,682",
+    "source_url": "https://www.adzuna.com/land/ad/5738429730?se=AAFK_6dW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=04e8e9e3&v=A711E7C4828A1273AC75116D3213ED156DDE3965",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'PA'",
+    "description_snippet": "Job Description Job Description Emergency Department Physician Location: Hampton, VA Position Overview Essential HealthCare Solutions, LLC (\u201cEHS\u201d) is actively pursuing an ER Physician to provide on-site Emergency Department services at the Hampton, VA Medical Center. The Emergency Department Physician will provide comprehensive emergency medical care to eligible Department of Veterans Affairs (VA) beneficiaries. Services will be delivered in accordance with VA policies, federal regulations, and\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "1c138471ca9b",
+    "title": "Emergency Department Tech - Labor Pool - EMT-I, AEMT, or Paramedic Required",
+    "employer": "Riverside Hospital",
+    "location": "Onancock, Accomack County",
+    "salary": "$94,490-$94,490",
+    "source_url": "https://www.adzuna.com/details/5738665439?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'PA'",
+    "description_snippet": "Onancock, Virginia Overview Works under the supervision of the Registered Nurse, Charge Nurse, and the medical direction of the Emergency Department Physician. Responsible for providing assistance to physicians and RN in the delivery of patient care to include invasive and non-invasive procedures: EKG's, IVs, phlebotomy. Demonstrates knowledge and skills necessary to provide care appropriate to age of the patient served in assigned department. Demonstrates knowledge of the principles of growth \u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "7c2ee9e7486c",
+    "title": "Registered Nurse (RN) - Trauma ER - Emergency Room",
+    "employer": "APN Healthcare Services Inc",
+    "location": "Manchester, Hartford County",
+    "salary": "$94,286-$94,286",
+    "source_url": "https://www.adzuna.com/land/ad/5737704795?se=RIiI_6dW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=903B61A9468BDB72A456A8047DC0624088E5A684",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded employer: 'HCA'",
+    "description_snippet": "Job Description APN Healthcare Services Inc is seeking a Registered Nurse (RN) Trauma ER - Emergency Room for a nursing job in Manchester, New Hampshire. Job Description & Requirements Specialty: Trauma ER - Emergency Room Discipline: RN Duration: Ongoing 40 hours per week Shift: 8 hours, days Employment Type: Staff RN Manager Trauma Program Manchester, NH Schedule Full-time \u2022 Days (No Weekends) Job Responsibilities Developing, implementing and maintaining a cost-effective system of care for tr\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "90cccb624296",
+    "title": "Nocturnist Emergency Medicine Opportunity in Nags Head, NC",
+    "employer": "Outer Banks Health Hospital",
+    "location": "Nags Head, NC",
+    "salary": "Not listed",
+    "source_url": "https://jobs.practicelink.com/jobs/1574204/emergency-medicine/physician/north-carolina/outer-banks-health-hospital/",
+    "source_name": "PracticeLink",
+    "rejection_reason": "Location 'Nags Head, NC' not in any target region",
+    "description_snippet": "NC | Employer Direct | Nocturnist Emergency Medicine Opportunity in Nags Head, NC | Outer Banks Health Hospital | part of | ECU Health | Nags Head, NC | Physician-Emergency Medicine | Full-Time | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. ",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "e30af9ba2039",
+    "title": "Emergency Medicine Physician",
+    "employer": "U.S. Army 6th Medical Recruiting Battalion",
+    "location": "Magnolia Park, Los Angeles County",
+    "salary": "$149,134",
+    "source_url": "https://www.adzuna.com/land/ad/5738140745?se=8OJk-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=5B9776314394A7E3004F1C5A4035340107B7D288",
+    "source_name": "Adzuna",
+    "rejection_reason": "Salary of $149,134 is significantly below minimum requirement of $300,000",
+    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION'S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you'll be on the frontline in treating patients who require immediate medical attention. You'll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "28a2f1b3d182",
+    "title": "Emergency Medicine Physician",
+    "employer": "U.S. Army Medical Corps",
+    "location": "Paramount, CA",
+    "salary": "$192,087",
+    "source_url": "https://www.adzuna.com/land/ad/5738391408?se=8OJk-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=71D85E943E56F064A25F84926F4FBF16AA668472",
+    "source_name": "Adzuna",
+    "rejection_reason": "Salary of $192,087 is significantly below minimum requirement of $300,000",
+    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION'S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you'll be on the frontline in treating patients who require immediate medical attention. You'll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "ba1f63c7c18e",
+    "title": "Emergency Medicine Physician",
+    "employer": "U.S. Army Medical Corps",
+    "location": "Gardena, CA",
+    "salary": "$183,092",
+    "source_url": "https://www.adzuna.com/land/ad/5738140730?se=8OJk-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=13CB6DE24791A40C415FAFDF69EB85B349538D7A",
+    "source_name": "Adzuna",
+    "rejection_reason": "Salary of $183,092 is significantly below the minimum requirement of $300,000",
+    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION'S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you'll be on the frontline in treating patients who require immediate medical attention. You'll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "9111cb3c7560",
+    "title": "Emergency Medicine Physician",
+    "employer": "U.S. Army 6th Medical Recruiting Battalion",
+    "location": "Briggs, Los Angeles County",
+    "salary": "$210,375",
+    "source_url": "https://www.adzuna.com/land/ad/5738140742?se=8OJk-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=845D3311652DD3ED0DAA9B2C2C90C0BB72069367",
+    "source_name": "Adzuna",
+    "rejection_reason": "Salary of $210,375 is significantly below the minimum requirement of $300,000",
+    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION'S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you'll be on the frontline in treating patients who require immediate medical attention. You'll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "2bfa22234a17",
+    "title": "Emergency Medicine Physician",
+    "employer": "U.S. Army 6th Medical Recruiting Battalion",
+    "location": "Preuss, Los Angeles County",
+    "salary": "$177,289",
+    "source_url": "https://www.adzuna.com/land/ad/5738140722?se=8OJk-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=6F837CA8F30BDC3BEC1A813C0337D8331DF6E37E",
+    "source_name": "Adzuna",
+    "rejection_reason": "Salary of $177,289 is significantly below the minimum requirement of $300,000",
+    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION'S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you'll be on the frontline in treating patients who require immediate medical attention. You'll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "6e517eaff0f5",
+    "title": "Emergency Medicine Physician",
+    "employer": "U.S. Army Medical Corps",
+    "location": "Inglewood, CA",
+    "salary": "$169,561",
+    "source_url": "https://www.adzuna.com/land/ad/5738140743?se=8OJk-adW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=5C9CB39619E9863B6984DB3418BFCEECC236F0B3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Salary of $169,561 is significantly below the minimum requirement of $300,000",
+    "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION'S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you'll be on the frontline in treating patients who require immediate medical attention. You'll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "3dd43e9af712",
+    "title": "Emergency Medicine Physician",
+    "employer": "Union Community Health Center, Inc. (The Inline Group)",
+    "location": "Bronx, NY",
+    "salary": "$250,183",
+    "source_url": "https://www.adzuna.com/land/ad/4919339439?se=josO-qdW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=9D52F24168D2F640FBB69D5BD15776C8BB7A0D46",
+    "source_name": "Adzuna",
+    "rejection_reason": "Salary below minimum requirement ($250,183 vs $300,000 minimum) and location not in preferred regions",
+    "description_snippet": "Doctor of Medicine | Emergency Medicine Location: Bronx, NY Employer: The Inline Group Pay: Competitive weekly pay (inquire for details) Start Date: ASAP About the Position Union Community Health Center, Inc. - Full Time Employed New Graduates Welcome to Apply Average Patients seen: 2 - 3 per hour Loan Repayment Compensation: - Competitive Base Salary - Negotiable Based on Experience Benefits: 4 weeks PTO | Health | Vision | Dental | Retirement | 403b | Short Term Disability | Long Term Disabil\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "99704f17c500",
+    "title": "Emergency Medicine Physician",
+    "employer": "Physician-owned EM group (Baptist Health EDs)",
+    "location": "Lexington, KY",
+    "salary": "$172,130",
+    "source_url": "https://www.adzuna.com/land/ad/5735067297?se=iAzY-6dW8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=A965DF7DDB02DA492571DD314AE352E2F8038281",
+    "source_name": "Adzuna",
+    "rejection_reason": "Salary significantly below minimum requirement ($172,130 vs $300,000 minimum)",
+    "description_snippet": "Location: Lexington, Kentucky Metro Area Employment Type: Full-Time, Emergency Medicine (BC/BE) Compensation: Competitive physician-owned compensation model with long-term ownership upside Join one of the few remaining truly independent, democratic emergency medicine groups in Kentucky. This physician-owned practice staffs multiple Baptist Health emergency departments and offers a long-term career path centered around physician autonomy, transparency, and leadership. This opportunity is based a\u2026",
+    "date_found": "2026-05-23"
+  },
+  {
+    "id": "1af2d374a36b",
+    "title": "Physician - Emergency Medicine - Nocturnist",
+    "employer": "Vituity (Saint Mary's Hospital)",
+    "location": "Waterbury, CT",
+    "salary": "$93,067",
+    "source_url": "https://www.adzuna.com/land/ad/5732834654?se=pqog_KdW8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=0CECFDBB904A3A5B4B37F541081EC8C99FC7F907",
+    "source_name": "Adzuna",
+    "rejection_reason": "Position is exclusively nocturnist shifts and salary ($93,067) is significantly below minimum requirement of $300,000",
+    "description_snippet": "Waterbury, CT \u2013 Seeking Emergency Medicine Physicians Join the Physician Partnership Where You Can Increase Your Impact Vituity\u2019s ownership model provides autonomy, local control, and a national system of support, so you can focus your attention where you want it to be \u2013 on your patients. Join the Vituity Team. Vituity is a 100% physician-owned partnership and is led by frontline physicians that are all equitable owners. As an equal and valued partner from day one, our ownership model provides \u2026",
+    "date_found": "2026-05-23"
   }
 ]
