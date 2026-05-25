@@ -4817,11 +4817,11 @@
     "employer": "U.S. Army 2nd Medical Recruiting Battalion",
     "location": "Atlanta, GA",
     "salary": "$181,683",
-    "source_url": "https://www.adzuna.com/land/ad/5590876787?se=JKGNBXFX8RGWQvEe2bTbLw&utm_medium=api&utm_source=04e8e9e3&v=AFEC947AD82B58A7962A70FC378E2D5851542EE1",
+    "source_url": "https://www.adzuna.com/land/ad/5590876787?se=3mOpMUdY8RGWQvEe2bTbLw&utm_medium=api&utm_source=04e8e9e3&v=AFEC947AD82B58A7962A70FC378E2D5851542EE1",
     "source_name": "Adzuna",
-    "rejection_reason": "Military Reserve position with salary ($181,683) significantly below minimum requirement ($300,000)",
+    "rejection_reason": "Military Reserve position with salary ($181,683) significantly below minimum requirement ($300,000), and location not in preferred regions",
     "description_snippet": "Position information: Army Reserve Emergency Medicine Physician U.S. Army Medical Corps THE STRENGTH TO HEAL OUR NATION'S DEFENDERS. This is your chance to tackle the most unique cases and help patients who truly need your assistance. As an emergency physician and officer on the U.S. Army Reserve health care team, you'll practice in your community and serve when needed. Your colleagues will be at the top of their fields. You'll care for a diverse patient population that includes our nation's So\u2026",
-    "date_found": "2026-05-24"
+    "date_found": "2026-05-25"
   },
   {
     "id": "125e1c0a6d27",
@@ -4865,11 +4865,11 @@
     "employer": "MidState Medical Center",
     "location": "Meriden, CT",
     "salary": "$111,041",
-    "source_url": "https://www.adzuna.com/land/ad/5735066760?se=OocuBHFX8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=CBB3CC10A87B8583335BBBDBF9565956CA932F5D",
+    "source_url": "https://www.adzuna.com/land/ad/5735066760?se=0gwxMEdY8RGvjPD20Sc1wQ&utm_medium=api&utm_source=04e8e9e3&v=CBB3CC10A87B8583335BBBDBF9565956CA932F5D",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary significantly below minimum requirement of $300,000",
+    "rejection_reason": "Salary of $111,041 is significantly below minimum requirement of $300,000, and well below $400,000 threshold for East Coast positions",
     "description_snippet": "MidState Medical Center - Central Connecticut Emergency Medicine Physician Live in Cheshire | Wallingford | Southington | West Hartford The Opportunity MidState Medical Center offers an ideal blend of modern emergency medicine and Central Connecticut lifestyle. Physicians practice in a well-supported emergency department with a sustainable clinical pace while living in some of the state's most desirable suburban communities. You'll join a provider-led emergency medicine team delivering state-of\u2026",
-    "date_found": "2026-05-24"
+    "date_found": "2026-05-25"
   },
   {
     "id": "1071b2d8e942",
@@ -4891,9 +4891,9 @@
     "salary": "$169,362",
     "source_url": "https://www.adzuna.com/details/5708896139?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $169,362 is significantly below the $300,000 minimum requirement and far below the $400,000 threshold for East Coast positions",
+    "rejection_reason": "Salary $169,362 is significantly below minimum requirement of $300,000, and for East Coast location requires >$400,000",
     "description_snippet": "About MedCBO, Inc. MedCBO is a Colorado-based healthcare business infrastructure company that empowers independent physician groups across the United States to launch, manage, and scale their practices. We provide a comprehensive Business-in-a-Box platform that integrates revenue cycle management, accounting and finance, human resources, EHR support, payer contracting, compliance, supply-chain logistics, and data intelligence. Our unified, cloud-based system gives physicians the operational fou\u2026",
-    "date_found": "2026-05-24"
+    "date_found": "2026-05-25"
   },
   {
     "id": "6edccbd1fe5f",
@@ -4927,9 +4927,9 @@
     "salary": "$169,635",
     "source_url": "https://www.adzuna.com/details/5708896151?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $169,635 is significantly below minimum requirement of $300,000, and for East Coast locations candidate requires >$400,000",
+    "rejection_reason": "Salary of $169,635 is significantly below the minimum requirement of $300,000, and for Other East Coast locations requires >$400,000",
     "description_snippet": "About MedCBO, Inc. MedCBO is a Colorado-based healthcare business infrastructure company that empowers independent physician groups across the United States to launch, manage, and scale their practices. We provide a comprehensive Business-in-a-Box platform that integrates revenue cycle management, accounting and finance, human resources, EHR support, payer contracting, compliance, supply-chain logistics, and data intelligence. Our unified, cloud-based system gives physicians the operational fou\u2026",
-    "date_found": "2026-05-24"
+    "date_found": "2026-05-25"
   },
   {
     "id": "559ea8139c57",
@@ -8105,11 +8105,11 @@
     "employer": "Kennedy Krieger Institute",
     "location": "Baltimore, MD",
     "salary": "$80,927",
-    "source_url": "https://www.adzuna.com/land/ad/5312100383?se=DnS0-qdW8RGJxKyp5kHyhA&utm_medium=api&utm_source=04e8e9e3&v=BC543A2904B2EC5A293ED07A8346E31236AA15F9",
+    "source_url": "https://www.adzuna.com/land/ad/5312100383?se=HMIzM0dY8RGvjPD20Sc1wQ&utm_medium=api&utm_source=04e8e9e3&v=BC543A2904B2EC5A293ED07A8346E31236AA15F9",
     "source_name": "Adzuna",
-    "rejection_reason": "This is an EEG Technician position, not an Emergency Medicine physician role. Additionally, the salary of $80,927 is far below the minimum requirement of $300,000.",
+    "rejection_reason": "This is an EEG Technician position, not an Emergency Medicine Physician role, and the salary ($80,927) is far below the minimum requirement of $300,000",
     "description_snippet": "Overview The Electroencephalographic (EEG) Technologist I completes EEG studies in the inpatient Epilepsy Monitoring Unit (EMU) and in the outpatient Sleep Electroencephalographic (EEG) Clinic. This position will perform Continuous Electroencephalographic (cEEG) monitoring; evaluations; and data analysis of patients with seizures. This staff member will edit and archive EEG video data; ensure proper documentation; provide technical assistance; follow protocols; review data; write reports; engag\u2026",
-    "date_found": "2026-05-23"
+    "date_found": "2026-05-25"
   },
   {
     "id": "ffad0b26b3f1",
@@ -16445,11 +16445,11 @@
     "employer": "Waterbury Hospital",
     "location": "Waterbury, CT",
     "salary": "$92,139",
-    "source_url": "https://www.adzuna.com/land/ad/5735067285?se=CBK9xiNV8RGwM-dyRPunmg&utm_medium=api&utm_source=04e8e9e3&v=DAF01E0E1B6539EBC9D3273A36CE98C99482B14F",
+    "source_url": "https://www.adzuna.com/land/ad/5735067285?se=0gwxMEdY8RGvjPD20Sc1wQ&utm_medium=api&utm_source=04e8e9e3&v=DAF01E0E1B6539EBC9D3273A36CE98C99482B14F",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $92,139 is significantly below the minimum requirement of $300,000, and for East Coast positions requires >$400,000",
+    "rejection_reason": "Salary of $92,139 is significantly below the minimum requirement of $300,000, and for East Coast positions outside priority regions, requires >$400,000",
     "description_snippet": "Waterbury Hospital - Western Connecticut Emergency Medicine Physician Highest-Acuity Site | Trauma Exposure | Advanced Clinical Practice Practice Profile Waterbury Hospital represents the most clinically intense Emergency Medicine environment within the system and is best suited for physicians seeking trauma exposure, high procedural volume, and complex pathology. This site delivers advanced emergency and trauma care with a faster pace and higher acuity than other regional locations, offering a\u2026",
-    "date_found": "2026-05-21"
+    "date_found": "2026-05-25"
   },
   {
     "id": "7bcee24adf8b",
@@ -18917,11 +18917,11 @@
     "employer": "Kaiser Permanente - The Permanente Medical Group, Inc.",
     "location": "Oakland, CA",
     "salary": "$316,260-$327,660",
-    "source_url": "https://www.adzuna.com/land/ad/5426346555?se=UsH4_KdW8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=E0273590EDC3CA8B3B7BC730DA9EE3B9F9CB6FE3",
+    "source_url": "https://www.adzuna.com/land/ad/5426346555?se=VGabNUdY8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=E0273590EDC3CA8B3B7BC730DA9EE3B9F9CB6FE3",
     "source_name": "Adzuna",
-    "rejection_reason": "Wrong medical specialty - this is a Pediatrics Nephrologist position, not Emergency Medicine",
+    "rejection_reason": "Position is for Pediatrics Nephrologist, not Emergency Medicine Physician",
     "description_snippet": "TPMG is seeking a full-time BE/BC Pediatrics Nephrologist to join our team in Oakland, CA. The Permanente Medical Group, Inc. (TPMG - Kaiser Permanente Northern California) is one of the largest multispecialty medical groups in the nation with over 10,000 physicians, 21 medical centers, numerous clinics throughout Northern and Central California, and an 80-year tradition of providing quality medical care. We partner exclusively with Kaiser Permanente Health Plan (KPHP) to provide comprehensive \u2026",
-    "date_found": "2026-05-23"
+    "date_found": "2026-05-25"
   },
   {
     "id": "992bef89046b",
@@ -20285,11 +20285,11 @@
     "employer": "U.S. Army 6th Medical Recruiting Battalion",
     "location": "Los Angeles, CA",
     "salary": "$163,428",
-    "source_url": "https://www.adzuna.com/land/ad/5702132832?se=Wu0aBXFX8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=3BE18522EADD7BE7377329533C55D3C0B8D982A1",
+    "source_url": "https://www.adzuna.com/land/ad/5702132832?se=lO74MkdY8RGvjPD20Sc1wQ&utm_medium=api&utm_source=04e8e9e3&v=3BE18522EADD7BE7377329533C55D3C0B8D982A1",
     "source_name": "Adzuna",
     "rejection_reason": "Salary of $163,428 is significantly below the minimum requirement of $300,000",
     "description_snippet": "U.S. Army Medical Corps PLAY A VITAL ROLE IN THE LIVES OF OUR NATION'S DEFENDERS As an Emergency Medicine Physician on the U.S. Army health care team, you'll be on the frontline in treating patients who require immediate medical attention. You'll may even have the opportunity to command a medical unit, perform staff functions in health support, participate in the education and training of personnel and examine, diagnose and treat the initial phase of disease or injury. When you join the Army Me\u2026",
-    "date_found": "2026-05-24"
+    "date_found": "2026-05-25"
   },
   {
     "id": "487de0b042a1",
@@ -22507,9 +22507,9 @@
     "salary": "Not listed",
     "source_url": "https://www.emcareers.org/job/987567/emergency-medicine-physician-per-diem-28522-/",
     "source_name": "emCareers",
-    "rejection_reason": "Per diem position does not meet full-time attending physician requirement, and location is outside all preferred regions",
+    "rejection_reason": "Per diem position rather than full-time attending role, and salary information needed to evaluate East Coast position requirements",
     "description_snippet": "Description Physician Affiliate Group of New York (PAGNY) is adding an Emergency Medicine Physician to the group at NYC Health + Hospitals/South Br...",
-    "date_found": "2026-04-20"
+    "date_found": "2026-05-25"
   },
   {
     "id": "aab608699843",
@@ -23032,12 +23032,12 @@
     "title": "Advanced Provider - Emergency Medicine",
     "employer": "Vituity",
     "location": "Bakersfield, CA",
-    "salary": "$121,489",
-    "source_url": "https://www.adzuna.com/land/ad/5685350680?se=dqdqB3FX8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=667AF50F175774BAFA13CE00647066C38677F898",
+    "salary": "$120,029",
+    "source_url": "https://www.adzuna.com/land/ad/5725500509?se=VGabNUdY8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=B8D9FFA43EE6ACC18D8AA995943B58AE141967CF",
     "source_name": "Adzuna",
-    "rejection_reason": "Position is for Advanced Provider (PA/NP), not physician attending role",
+    "rejection_reason": "Position is for Advanced Provider (PA/NP), not physician role",
     "description_snippet": "Bakersfield, CA \u2013 Seeking Emergency Medicine Advanced Providers Become a Valued Member of Your Emergency Team As an Advanced Provider, you play a critical role in our mission to improve lives in the Emergency Department and are a valued member of the full care team. At Vituity we know the impact you can have. Join the Vituity Team. At Vituity we\u2019ve cultivated an environment where passion thrives, and success comes through shared purpose. We were founded in a culture that values team accomplishm\u2026",
-    "date_found": "2026-05-24"
+    "date_found": "2026-05-25"
   },
   {
     "id": "8463ea8c4995",
@@ -25843,9 +25843,9 @@
     "salary": "$111,707",
     "source_url": "https://www.adzuna.com/details/3804741223?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $111,707 is significantly below minimum requirement of $300,000, and position requires pediatric emergency medicine specialization",
+    "rejection_reason": "Pediatric Emergency Medicine specialty position and salary ($111,707) significantly below minimum requirement ($300,000)",
     "description_snippet": "Emergency Medicine Specialists of Orange County (EMSOC), a democratic Emergency Medicine medical group, is seeking a board certified/eligible pediatric emergency medicine physicians to join our Pediatric Emergency Medicine program. Our group provides services to Children's Hospital of Orange County(CHOC). It is a 279 bed, State of the Art, Regional Tertiary Care Hospital with 24-hour, in-house pediatric critical care specialists, a pediatric mental health inpatient center, and all major pediatr\u2026",
-    "date_found": "2026-05-24"
+    "date_found": "2026-05-25"
   },
   {
     "id": "24d10b0f56d8",
@@ -26697,7 +26697,7 @@
     "source_name": "Adzuna",
     "rejection_reason": "Salary of $158,341 is significantly below minimum requirement of $300,000",
     "description_snippet": "About MedCBO, Inc. MedCBO is a Colorado-based healthcare business infrastructure company that empowers independent physician groups across the United States to launch, manage, and scale their practices. We provide a comprehensive Business-in-a-Box platform that integrates revenue cycle management, accounting and finance, human resources, EHR support, payer contracting, compliance, supply-chain logistics, and data intelligence. Our unified, cloud-based system gives physicians the operational fou\u2026",
-    "date_found": "2026-05-24"
+    "date_found": "2026-05-25"
   },
   {
     "id": "d4d4aaa475ff",
@@ -26719,9 +26719,9 @@
     "salary": "$167,301",
     "source_url": "https://www.adzuna.com/details/5708896167?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $167,301 is significantly below the minimum requirement of $300,000",
+    "rejection_reason": "Salary of $167,301 is significantly below minimum requirement of $300,000",
     "description_snippet": "About MedCBO, Inc. MedCBO is a Colorado-based healthcare business infrastructure company that empowers independent physician groups across the United States to launch, manage, and scale their practices. We provide a comprehensive Business-in-a-Box platform that integrates revenue cycle management, accounting and finance, human resources, EHR support, payer contracting, compliance, supply-chain logistics, and data intelligence. Our unified, cloud-based system gives physicians the operational fou\u2026",
-    "date_found": "2026-05-24"
+    "date_found": "2026-05-25"
   },
   {
     "id": "b0c99cf1d89b",
@@ -29129,11 +29129,11 @@
     "employer": "EMrecruits",
     "location": "Waterbury, CT",
     "salary": "$219,934",
-    "source_url": "https://www.adzuna.com/land/ad/5735066812?se=CBK9xiNV8RGwM-dyRPunmg&utm_medium=api&utm_source=04e8e9e3&v=C269A9465CD6A3F5A1B500EDE65532E3D1D6878F",
+    "source_url": "https://www.adzuna.com/land/ad/5735066812?se=0gwxMEdY8RGvjPD20Sc1wQ&utm_medium=api&utm_source=04e8e9e3&v=C269A9465CD6A3F5A1B500EDE65532E3D1D6878F",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary below minimum requirement of $300,000",
+    "rejection_reason": "Salary of $219,934 is significantly below minimum requirement of $300,000",
     "description_snippet": "Join a physician-owned and managed emergency medicine group in Connecticut \u2014 currently seeking BC/BE Emergency Medicine residency-trained physicians for both full-time and part-time opportunities. We are committed to quality care, innovation, and physician autonomy. Our door-to-doctor times are best in class and patient satisfaction scores rank in the top percentiles, Why this is a standout opportunity $100,000 sign-on bonus for full-time hires Competitive compensation package with productivity\u2026",
-    "date_found": "2026-05-21"
+    "date_found": "2026-05-25"
   },
   {
     "id": "4df678cd8931",
@@ -30305,11 +30305,11 @@
     "employer": "CHRISTUS Health St. Elizabeth",
     "location": "Beaumont, TX",
     "salary": "$40,120",
-    "source_url": "https://www.adzuna.com/land/ad/5724061413?se=dqdqB3FX8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=86C5A3D434F686939ECC108B49B1E00C08E56C71",
+    "source_url": "https://www.adzuna.com/land/ad/5724061413?se=VGabNUdY8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=86C5A3D434F686939ECC108B49B1E00C08E56C71",
     "source_name": "Adzuna",
-    "rejection_reason": "Administrative Physician Advisor role (not clinical Emergency Medicine) and salary ($40,120) far below minimum requirement ($300,000)",
+    "rejection_reason": "Administrative Physician Advisor role (not clinical Emergency Medicine) with salary far below minimum requirement ($40,120 vs $300,000 minimum)",
     "description_snippet": "Description Recruiter Contact Information: Keely Peirce keely.peirce@christushealth.org CHRISTUS Health St. Elizabeth is seeking a full time, in-person Physician Advisor to join the team in Beaumont, TX! Roles and Responsibilities Overview The Physician Advisor is an administrative physician role serving CHRISTUS St. Elizabeth hospital and its affiliates through teaching, consulting, and advising both the Care Management Department and the medical staff on matters regarding physician practice p\u2026",
-    "date_found": "2026-05-24"
+    "date_found": "2026-05-25"
   },
   {
     "id": "fc9a34559321",
@@ -31565,11 +31565,11 @@
     "employer": "Union Community Health Center, Inc. (via The Inline Group)",
     "location": "Bronx, NY",
     "salary": "$250,183",
-    "source_url": "https://www.adzuna.com/land/ad/4919339439?se=FscksllU8RG8Dpg80W0a8g&utm_medium=api&utm_source=04e8e9e3&v=9D52F24168D2F640FBB69D5BD15776C8BB7A0D46",
+    "source_url": "https://www.adzuna.com/land/ad/4919339439?se=SG7vMEdY8RGWQvEe2bTbLw&utm_medium=api&utm_source=04e8e9e3&v=9D52F24168D2F640FBB69D5BD15776C8BB7A0D46",
     "source_name": "Adzuna",
     "rejection_reason": "Salary of $250,183 is below the minimum requirement of $300,000",
     "description_snippet": "Doctor of Medicine | Emergency Medicine Location: Bronx, NY Employer: The Inline Group Pay: Competitive weekly pay (inquire for details) Start Date: ASAP About the Position Union Community Health Center, Inc. - Full Time Employed New Graduates Welcome to Apply Average Patients seen: 2 - 3 per hour Loan Repayment Compensation: - Competitive Base Salary - Negotiable Based on Experience Benefits: 4 weeks PTO | Health | Vision | Dental | Retirement | 403b | Short Term Disability | Long Term Disabil\u2026",
-    "date_found": "2026-05-20"
+    "date_found": "2026-05-25"
   },
   {
     "id": "f855e181f0cc",
@@ -31684,12 +31684,12 @@
     "title": "CT Technologist",
     "employer": "Unknown",
     "location": "Atlanta, GA",
-    "salary": "$93,446",
+    "salary": "$93,446-$93,446",
     "source_url": "https://www.adzuna.com/details/5717414698?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "This is a CT Technologist position, not an Emergency Medicine Physician role",
+    "rejection_reason": "This is a CT Technologist position, not an Emergency Medicine physician role",
     "description_snippet": "Immediate need for a talented CT Technologist . This is a 03months contract opportunity with potential for extension and is located in Atlanta, Georgia(Onsite) . Please review the job description below and contact me ASAP if you are interested. Job Diva ID: 26-13973 Pay Range: $65\u2212$70/hour. Employee benefits include, but are not limited to, health insurance (medical, dental, vision), 401(k) plan, and paid sick leave (depending on work location). Key Responsibilities: Shift: Night Shift (7:00 PM\u2026",
-    "date_found": "2026-05-23"
+    "date_found": "2026-05-25"
   },
   {
     "id": "2c876168bbf8",
@@ -35515,9 +35515,9 @@
     "salary": "$160,052",
     "source_url": "https://www.adzuna.com/details/5708896083?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $160,052 is significantly below minimum requirement of $300,000",
+    "rejection_reason": "Salary of $160,052 is significantly below the minimum requirement of $300,000",
     "description_snippet": "About MedCBO, Inc. MedCBO is a Colorado-based healthcare business infrastructure company that empowers independent physician groups across the United States to launch, manage, and scale their practices. We provide a comprehensive Business-in-a-Box platform that integrates revenue cycle management, accounting and finance, human resources, EHR support, payer contracting, compliance, supply-chain logistics, and data intelligence. Our unified, cloud-based system gives physicians the operational fou\u2026",
-    "date_found": "2026-05-16"
+    "date_found": "2026-05-25"
   },
   {
     "id": "4417b1fb1070",
@@ -35753,11 +35753,11 @@
     "employer": "Vituity / Greater Baltimore Medical Center",
     "location": "Towson, MD",
     "salary": "$143,720",
-    "source_url": "https://www.adzuna.com/land/ad/5719509425?se=zNlYtJtP8RGXuPRUp3NDpw&utm_medium=api&utm_source=04e8e9e3&v=E6B38EE34A7EB7E56BF0D6F5E170F1A3773D1C6E",
+    "source_url": "https://www.adzuna.com/land/ad/5729287846?se=HMIzM0dY8RGvjPD20Sc1wQ&utm_medium=api&utm_source=04e8e9e3&v=A571726DB91BFCAF6F2FF4795B80AA05C99B81FE",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary significantly below minimum requirement ($143,720 vs $300,000 minimum)",
+    "rejection_reason": "Salary of $143,720 is significantly below the $300,000 minimum requirement, and below the $400,000 threshold required for Other East Coast locations",
     "description_snippet": "Towson, MD \u2013 Seeking Emergency Medicine Physicians Join the Physician Partnership Where You Can Increase Your Impact Vituity\u2019s ownership model provides autonomy, local control, and a national system of support, so you can focus your attention where you want it to be \u2013 on your patients. Join the Vituity Team. Vituity is a 100% physician-owned partnership and is led by frontline physicians that are all equitable owners. As an equal and valued partner from day one, our ownership model provides you\u2026",
-    "date_found": "2026-05-14"
+    "date_found": "2026-05-25"
   },
   {
     "id": "00e33cec666b",
@@ -36137,11 +36137,11 @@
     "employer": "MedStar Health",
     "location": "Baltimore, MD",
     "salary": "$261,673",
-    "source_url": "https://www.adzuna.com/land/ad/5724064638?se=RhlTBXFX8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=CFAD3987FC053303CD4A6E202EA2AADE73255582",
+    "source_url": "https://www.adzuna.com/land/ad/5724064638?se=HMIzM0dY8RGvjPD20Sc1wQ&utm_medium=api&utm_source=04e8e9e3&v=CFAD3987FC053303CD4A6E202EA2AADE73255582",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $261,673 is significantly below the minimum requirement of $300,000 for East Coast positions (which require >$400,000)",
+    "rejection_reason": "Salary of $261,673 is below the minimum requirement of $300,000, and significantly below the $400,000 requirement for Other East Coast positions",
     "description_snippet": "About the Job Emergency Medicine Physician Opportunities - Baltimore, MD MedStar Emergency Physicians | MedStar Health MedStar Emergency Physicians, part of the MedStar Health system, is seeking Board-Certified or Board-Eligible Emergency Medicine physicians to join our collaborative, high-performing teams in Baltimore, Maryland . We are a well-established group of Emergency Medicine Physicians and Physician Assistants/Associates serving a diverse patient population across multiple MedStar Heal\u2026",
-    "date_found": "2026-05-24"
+    "date_found": "2026-05-25"
   },
   {
     "id": "3fc93fc48300",
@@ -36160,12 +36160,12 @@
     "title": "Emergency Medicine Physician",
     "employer": "Manchester Memorial Hospital",
     "location": "Manchester, CT",
-    "salary": "$86,264",
-    "source_url": "https://www.adzuna.com/land/ad/5734528693?se=OocuBHFX8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=8A6805C0955AE42CDFB6F40FF886512651E33ADF",
+    "salary": "$86,264-$86,264",
+    "source_url": "https://www.adzuna.com/land/ad/5734528693?se=0gwxMEdY8RGvjPD20Sc1wQ&utm_medium=api&utm_source=04e8e9e3&v=8A6805C0955AE42CDFB6F40FF886512651E33ADF",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $86,264 is significantly below minimum requirement of $300,000",
+    "rejection_reason": "Salary significantly below minimum requirement ($86,264 vs $300,000 minimum)",
     "description_snippet": "Manchester Memorial Hospital - Greater Hartford Emergency Medicine Physician Work Near Hartford | Live in West Hartford, Glastonbury, or Farmington The Opportunity Manchester Memorial Hospital provides a dynamic Emergency Medicine setting just minutes from Hartford's most sought-after neighborhoods. This role combines a strong clinical mix with access to exceptional residential, dining, and school options. Physicians join a clinically driven emergency medicine group known for high patient satis\u2026",
-    "date_found": "2026-05-24"
+    "date_found": "2026-05-25"
   },
   {
     "id": "7f828b25f9de",
@@ -36881,11 +36881,11 @@
     "employer": "Kaiser Permanente",
     "location": "Santa Clara, CA",
     "salary": "$187,498",
-    "source_url": "https://www.adzuna.com/land/ad/5718738967?se=dqdqB3FX8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=30319F4AECFE1C68445842A20E2404917380D37D",
+    "source_url": "https://www.adzuna.com/land/ad/5728100888?se=VGabNUdY8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=1F3F0FD6FC384451340B47D9E300517CACDC9568",
     "source_name": "Adzuna",
-    "rejection_reason": "This is a Licensed Clinical Social Worker position, not an Emergency Medicine physician role",
+    "rejection_reason": "This is a Licensed Clinical Social Worker position in oncology, not an Emergency Medicine physician role",
     "description_snippet": "Description: Job Summary: Provides mental health assessment, diagnosis, treatment and crisis intervention services for adult and/or child members who present themselves from psychiatric evaluation with a broad range of mental health needs. Collaborates with treating physician, psychiatric and allied health professional team to plan and direct each individual members treatment program. Essential Responsibilities: Assesses, develops and coordinates a clinical treatment program for Health Plan mem\u2026",
-    "date_found": "2026-05-24"
+    "date_found": "2026-05-25"
   },
   {
     "id": "ed948da8ddb5",
@@ -37075,9 +37075,9 @@
     "salary": "$249,600-$384,800",
     "source_url": "https://www.adzuna.com/details/5726565745?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary below $400,000 minimum requirement for Other East Coast locations",
+    "rejection_reason": "Multiple concerns: NYC location not in preferred areas, employer name suggests APP focus, described as urgent care provider rather than emergency department, and salary range starts below minimum requirement",
     "description_snippet": "A thriving healthcare group is seeking an Emergency Medicine Physician to work in New York City! Contact Raymond Stiles 843-574-8233 raymond@nowhealthcare.org About the Group: Physician-led, patient-centric network, committed to simplifying the complexities of health care. One of the nation\u2019s premier independent multispecialty medical groups, the leading urgent care provider in the New York metropolitan area This health system goes all out to make a flexible and family-friendly work-life balanc\u2026",
-    "date_found": "2026-05-24"
+    "date_found": "2026-05-25"
   },
   {
     "id": "5ff8fc9359b4",
@@ -37171,9 +37171,9 @@
     "salary": "Not listed",
     "source_url": "https://www.emcareers.org/job/1000651/em-physician-ft-wfep-gcr/",
     "source_name": "emCareers",
-    "rejection_reason": "Location not in preferred regions and insufficient job details provided",
+    "rejection_reason": "Location not in preferred regions and salary not disclosed",
     "description_snippet": "Department: 04100 WFBMG Emergency Providers: AH University City Main - Emergency Medicine Status: Full time Benefits Eligible: Yes Hou rs Per Week:...",
-    "date_found": "2026-05-13"
+    "date_found": "2026-05-25"
   },
   {
     "id": "adfce782201b",
@@ -37795,9 +37795,9 @@
     "salary": "Competitive",
     "source_url": "https://www.emcareers.org/job/1001123/pediatric-emergency-medicine-physician-needed-northern-virginia/",
     "source_name": "emCareers",
-    "rejection_reason": "Position is specifically for Pediatric Emergency Medicine, which may not align with general Emergency Medicine residency training",
+    "rejection_reason": "Position specifically requires Pediatric Emergency Medicine specialization, which doesn't match candidate's general Emergency Medicine training",
     "description_snippet": "Location: Leesburg, Virginia (Inova Loudoun Hospital) Employment Type: Full-Time Organization: Commonwealth Emergency Physicians (CEP) - Independen...",
-    "date_found": "2026-05-15"
+    "date_found": "2026-05-25"
   },
   {
     "id": "661703a48cb4",
@@ -38392,12 +38392,12 @@
     "title": "Urgent Care Emergency Medicine Physician",
     "employer": "Harvard Medical Faculty Physicians at Beth Israel Deaconess Medical Center",
     "location": "Worcester, MA",
-    "salary": "$228,727",
-    "source_url": "https://www.adzuna.com/land/ad/5732864437?se=Hm0QHcpS8RG2Tr7n9lAkkw&utm_medium=api&utm_source=04e8e9e3&v=C7A7C12F5F8008824E9FA0D2122659946470B3BA",
+    "salary": "$207,797",
+    "source_url": "https://www.adzuna.com/land/ad/5732864437?se=eB-3MkdY8RGWQvEe2bTbLw&utm_medium=api&utm_source=04e8e9e3&v=C7A7C12F5F8008824E9FA0D2122659946470B3BA",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary below minimum requirement of $300,000",
-    "description_snippet": "Job Description Job Description The Emergency Department within our organization is on the lookout for emergency physicians to fill full-time roles at our urgent care facilities. We are broadening our Advanced Urgent Care services across Massachusetts, which includes locations such as the Chestnut Hill Urgent Care Center, Chelsea Urgent Care, Quincy Urgent Care, Dedham Urgent Care, and Watertown Urgent Care. Our team is committed to delivering exceptional care to both adult and pediatric patien\u2026",
-    "date_found": "2026-05-18"
+    "rejection_reason": "Salary of $207,797 is significantly below minimum requirement of $300,000",
+    "description_snippet": "Job Description Job Description Job Opportunity: Emergency Physicians for Urgent Care Our organization is actively looking for dedicated emergency physicians to fill full-time roles at our urgent care facilities. We are expanding our Advanced Urgent Care services across Massachusetts, which includes locations such as: Beth Israel Deaconess Healthcare Chestnut Hill Urgent Care Center Beth Israel Deaconess Urgent Care at Chelsea Beth Israel Lahey Health Urgent Care - Quincy Beth Israel Lahey Heal\u2026",
+    "date_found": "2026-05-25"
   },
   {
     "id": "76ad57bacf40",
@@ -38417,11 +38417,11 @@
     "employer": "Vituity / Saint Mary's Hospital",
     "location": "Waterbury, CT",
     "salary": "$93,067",
-    "source_url": "https://www.adzuna.com/land/ad/5732834654?se=OocuBHFX8RGTDdJK-7cL6w&utm_medium=api&utm_source=04e8e9e3&v=0CECFDBB904A3A5B4B37F541081EC8C99FC7F907",
+    "source_url": "https://www.adzuna.com/land/ad/5732834654?se=0gwxMEdY8RGvjPD20Sc1wQ&utm_medium=api&utm_source=04e8e9e3&v=0CECFDBB904A3A5B4B37F541081EC8C99FC7F907",
     "source_name": "Adzuna",
-    "rejection_reason": "Position is exclusively nocturnist shifts (candidate rejects nocturnist-only) and salary of $93,067 is significantly below minimum requirement of $300,000",
+    "rejection_reason": "Position is exclusively nocturnist shifts AND salary ($93,067) is significantly below minimum requirement of $300,000",
     "description_snippet": "Waterbury, CT \u2013 Seeking Emergency Medicine Physicians Join the Physician Partnership Where You Can Increase Your Impact Vituity\u2019s ownership model provides autonomy, local control, and a national system of support, so you can focus your attention where you want it to be \u2013 on your patients. Join the Vituity Team. Vituity is a 100% physician-owned partnership and is led by frontline physicians that are all equitable owners. As an equal and valued partner from day one, our ownership model provides \u2026",
-    "date_found": "2026-05-24"
+    "date_found": "2026-05-25"
   },
   {
     "id": "628cd318192a",
@@ -40594,5 +40594,245 @@
     "rejection_reason": "Salary of $250,183 is below the minimum requirement of $300,000",
     "description_snippet": "Doctor of Medicine | Emergency Medicine Location: Bronx, NY Employer: The Inline Group Pay: Competitive weekly pay (inquire for details) Start Date: ASAP About the Position Union Community Health Center, Inc. - Full Time Employed New Graduates Welcome to Apply Average Patients seen: 2 - 3 per hour Loan Repayment Compensation: - Competitive Base Salary - Negotiable Based on Experience Benefits: 4 weeks PTO | Health | Vision | Dental | Retirement | 403b | Short Term Disability | Long Term Disabil\u2026",
     "date_found": "2026-05-24"
+  },
+  {
+    "id": "06ecb9c2cbb1",
+    "title": "Locums Job Opportunity in MA for Emergency Medicine Physician",
+    "employer": "CompHealth",
+    "location": "Canton, Hartford County",
+    "salary": "$148,117-$148,117",
+    "source_url": "https://www.adzuna.com/land/ad/5732859300?se=0gwxMEdY8RGvjPD20Sc1wQ&utm_medium=api&utm_source=04e8e9e3&v=8DA3F8F798AD00F4268F79BB483232A7E339AB15",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'Locum'",
+    "description_snippet": "Job Description Job Description Join Our Team as a Healthcare Provider At our organization, we prioritize your needs by offering complimentary services. Let us manage the complexities of credentialing, travel arrangements, housing, and much more. With our leading staffing agency by your side, you can focus on achieving greater success with reduced stress. Our unmatched capabilities and extensive reach enable us to address the details that are important to you. Key Responsibilities Work 10 to 15\u2026",
+    "date_found": "2026-05-25"
+  },
+  {
+    "id": "b484ef05c1ce",
+    "title": "Emergency Medicine Physician - Bloomsburg, PA",
+    "employer": "Vohra Physicians",
+    "location": "Bloomsburg, Columbia County",
+    "salary": "$144,689-$144,689",
+    "source_url": "https://www.adzuna.com/land/ad/5739844592?se=qK9DMUdY8RGvjPD20Sc1wQ&utm_medium=api&utm_source=04e8e9e3&v=AE18ED3934F202A23854A132F58D8A106DD985D2",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'PA'",
+    "description_snippet": "Job Description Job Description Emergency Medicine Physician Position with National Wound Physician Group Clinical satisfaction, autonomy and flexibility, work-life balance No Nights, No Call, No Weekend Clinical Responsibilities Become an expert in wound management , learn from highly qualified wound-certified physician trainers and Fellowship Directors. Utilize cutting-edge clinical technologies and the latest wound care modalities. \u2022Our physicians provide bedside wound care in over 3,200 fac\u2026",
+    "date_found": "2026-05-25"
+  },
+  {
+    "id": "0d4aa17c0d1c",
+    "title": "Emergency Medicine Physician - Bedford, PA",
+    "employer": "Vohra Physicians",
+    "location": "Bedford, Bedford County",
+    "salary": "$118,379-$118,379",
+    "source_url": "https://www.adzuna.com/land/ad/5739832460?se=qK9DMUdY8RGvjPD20Sc1wQ&utm_medium=api&utm_source=04e8e9e3&v=3927DCD173B6F2F57E785A3FA9596CF7BFD27395",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'PA'",
+    "description_snippet": "Job Description Job Description Emergency Medicine Physician Position with National Wound Physician Group Clinical satisfaction, autonomy and flexibility, work-life balance No Nights, No Call, No Weekend Clinical Responsibilities Become an expert in wound management , learn from highly qualified wound-certified physician trainers and Fellowship Directors. Utilize cutting-edge clinical technologies and the latest wound care modalities. \u2022Our physicians provide bedside wound care in over 3,200 fac\u2026",
+    "date_found": "2026-05-25"
+  },
+  {
+    "id": "b9cdc809e006",
+    "title": "BC/BE Emergency Medicine Physician",
+    "employer": "Colorado West Healthcare System",
+    "location": "Grand Junction, Mesa County",
+    "salary": "$88,795-$88,795",
+    "source_url": "https://www.adzuna.com/land/ad/5740232888?se=dBovMkdY8RGWQvEe2bTbLw&utm_medium=api&utm_source=04e8e9e3&v=639C519631F0FB484C84720E955900ABFE3E9A88",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded employer: 'HCA'",
+    "description_snippet": "Job Description Job Description Community Hospital is a full-service, acute-care hospital, licensed for 60 beds. We are an independently owned hospital that serves the Grand Valley of Colorado, which is the largest metropolitan area between Denver and Salt Lake City. In 2024, Community Hospital earned the prestigious 5-star quality rating from Centers for Medicare and Medicaid Services (CMS) and was recognized by Becker\u2019s Healthcare as one of Colorado\u2019s top recommended hospitals. In 2025, Commu\u2026",
+    "date_found": "2026-05-25"
+  },
+  {
+    "id": "8fe5b3082a85",
+    "title": "An Oregon Facility Needs a Locums Emergency Medicine Physician",
+    "employer": "CompHealth",
+    "location": "San Diego, San Diego County",
+    "salary": "$199,546-$199,546",
+    "source_url": "https://www.adzuna.com/land/ad/5740113191?se=lO74MkdY8RGvjPD20Sc1wQ&utm_medium=api&utm_source=04e8e9e3&v=9E1659EC55CFE58C0964F99C3735E0EB38BCE3D1",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'Locum'",
+    "description_snippet": "Job Description Job Description Join Our Team as a Locum Tenens Provider At our organization, we strive to simplify the locum tenens experience. We not only assist in finding positions that align with your preferences but also manage all logistical aspects such as credentialing, accommodation, travel arrangements, and much more. Focus on what you do best\u2014caring for patients\u2014while we take care of the rest. Key Responsibilities Work 4 to 6 shifts each month, primarily during nighttime hours. Mana\u2026",
+    "date_found": "2026-05-25"
+  },
+  {
+    "id": "317a9bf27207",
+    "title": "Locum Tenens Emergency Medicine Physician Is Needed in Oregon",
+    "employer": "CompHealth",
+    "location": "Parkfield, San Luis Obispo County",
+    "salary": "$112,745-$112,745",
+    "source_url": "https://www.adzuna.com/land/ad/5740370226?se=lO74MkdY8RGvjPD20Sc1wQ&utm_medium=api&utm_source=04e8e9e3&v=2D6B632ED153FA194B5CE06F5E3DE919166C369B",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'Locum'",
+    "description_snippet": "Job Description Job Description Locum Tenens Opportunities Our organization offers a variety of locum assignments, ranging from just a single day to several years. Whether you're seeking opportunities close to home or in distant locations, we provide genuine prospects rather than mere listings. We go beyond a typical job board by offering expert advice tailored to your unique career stage and requirements. Position Details Shifts: 7 to 8 shifts per month with flexible scheduling options Patient\u2026",
+    "date_found": "2026-05-25"
+  },
+  {
+    "id": "32d7ea0a254a",
+    "title": "Travel Nurse RN - Emergency Room (ER) / Trauma - $1,876 per week in Albemarle, NC",
+    "employer": "TravelNurseSource",
+    "location": "North Albemarle, Stanly County",
+    "salary": "$7,504-$7,504",
+    "source_url": "https://www.adzuna.com/details/5739450587?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Location 'North Albemarle, Stanly County' not in any target region",
+    "description_snippet": "Registered Nurse (RN) | Emergency Room (ER) / Trauma Location: Albemarle, NC Agency: Cynet Health Pay: $1,876 per week Shift Information: Nights - 3 days x 12 hours Contract Duration: 13 Weeks Start Date: 6/15/2026 About the Position TravelNurseSource is working with Cynet Health to find a qualified ER/Trauma RN in Albemarle, North Carolina, 28001! Job Title: Emergency Department Registered Nurse Profession: RN Specialty: Emergency Department Duration: 13 weeks Shift: 12hr Night Shift Hours per\u2026",
+    "date_found": "2026-05-25"
+  },
+  {
+    "id": "957038e062ab",
+    "title": "Orthopedic Surgery | $700K Base Guarantee | $100K Bonus | $20K Relo | Minnesota",
+    "employer": "Jackson Physician Search",
+    "location": "Duluth, Gwinnett County",
+    "salary": "$85,781-$85,781",
+    "source_url": "https://www.adzuna.com/land/ad/5740120193?se=4rq0NEdY8RGvjPD20Sc1wQ&utm_medium=api&utm_source=04e8e9e3&v=9301D1A0BE12B132AEFEF387A6C92CF7068561C3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Location 'Duluth, Gwinnett County' not in any target region",
+    "description_snippet": "Job Description Job Description Job Overview Join our comprehensive orthopedic service line, where you will engage in a variety of cases, including joint replacements, sports medicine, and orthopedic trauma. Team Structure Collaborate with a dedicated team comprising one full-time orthopedic surgeon, one casual orthopedic surgeon, and four skilled Advanced Practice Providers (APPs). Experience a favorable on-call arrangement, with APPs handling primary orthopedic calls while surgeons cover seco\u2026",
+    "date_found": "2026-05-25"
+  },
+  {
+    "id": "2a97d07f961f",
+    "title": "Emergency Medicine Physician \u2013 Strong Support, Balanced Schedule, Level II Trauma | $100K Bonus",
+    "employer": "Mercy",
+    "location": "Saint Louis, Missouri",
+    "salary": "Highly competitive hourly rate",
+    "source_url": "https://www.emcareers.org/job/1001900/emergency-medicine-physician-strong-support-balanced-schedule-level-ii-trauma-100k-bonus/?LinkSource=TopJob",
+    "source_name": "emCareers",
+    "rejection_reason": "Location 'Saint Louis, Missouri' not in any target region",
+    "description_snippet": "Mercy is seeking a board-certified or board-eligible Emergency Medicine physician to join our dynamic, high-acuity team",
+    "date_found": "2026-05-25"
+  },
+  {
+    "id": "5537e8ac2513",
+    "title": "Emergency Medicine Physician Locum Opportunity - Central NC area",
+    "employer": "Odyssey Locums",
+    "location": "Haymount, NC",
+    "salary": "Not listed",
+    "source_url": "https://www.emcareers.org/job/1002357/emergency-medicine-physician-locum-opportunity-central-nc-area/",
+    "source_name": "emCareers",
+    "rejection_reason": "Excluded title keyword: 'Locum'",
+    "description_snippet": "Locum Emergency Medicine Physician needed near Fayetteville, NC. MD Shift Hours 7a-7p 3p-1a 7p-7a NPPA Shift Hours7a-5p 10a-8p 2p-12a 8p-6a MD Requ...",
+    "date_found": "2026-05-25"
+  },
+  {
+    "id": "d09d371ffdd8",
+    "title": "Physician - MD/DO - Emergency Medicine",
+    "employer": "SSM Health",
+    "location": "Saint Louis, MO",
+    "salary": "Commensurate with Experience",
+    "source_url": "https://www.emcareers.org/job/1002164/physician-md-do-emergency-medicine/?LinkSource=TopJob",
+    "source_name": "emCareers",
+    "rejection_reason": "Location 'Saint Louis, MO' not in any target region",
+    "description_snippet": "1 Emergency Medicine Physician, Full-Time employment with SSM Health Saint Louis University Hospital SSM Health Saint Louis University Hospital is...",
+    "date_found": "2026-05-25"
+  },
+  {
+    "id": "93f1d977dd87",
+    "title": "Locum Physician (MD/DO) - Emergency Medicine in New York",
+    "employer": "Consilium Staffing",
+    "location": "New York City, NY",
+    "salary": "Not listed",
+    "source_url": "https://www.emcareers.org/job/1002515/locum-physician-md-do-emergency-medicine-in-new-york/",
+    "source_name": "emCareers",
+    "rejection_reason": "Excluded title keyword: 'Locum'",
+    "description_snippet": "Doctor of Medicine | Emergency Medicine Location: New York Employer: Consilium Staffing Pay: Competitive weekly pay (inquire for details) Start Dat...",
+    "date_found": "2026-05-25"
+  },
+  {
+    "id": "7abdc120bd97",
+    "title": "BC/BE Emergency Medicine Physician",
+    "employer": "Colorado West Healthcare System",
+    "location": "Grand Junction, CO",
+    "salary": "Not listed",
+    "source_url": "https://www.emcareers.org/job/1002846/bc-be-emergency-medicine-physician/",
+    "source_name": "emCareers",
+    "rejection_reason": "Excluded employer: 'HCA'",
+    "description_snippet": "Job DescriptionJob Description Community Hospital is a full-service, acute-care hospital, licensed for 60 beds. We are an independently owned hospi...",
+    "date_found": "2026-05-25"
+  },
+  {
+    "id": "55d2c7df48d1",
+    "title": "Emergency Medicine Physician Locum Opportunity - South TX area",
+    "employer": "Odyssey Locums",
+    "location": "San Antonio, CO",
+    "salary": "Not listed",
+    "source_url": "https://www.emcareers.org/job/1002148/emergency-medicine-physician-locum-opportunity-south-tx-area/",
+    "source_name": "emCareers",
+    "rejection_reason": "Excluded title keyword: 'Locum'",
+    "description_snippet": "Locum Emergency Medicine Physician needed in the south TX area. Physicians work 7a-7p and 7p-7a; NPPA works 12p-12a Annual Volume: 23,600 Average e...",
+    "date_found": "2026-05-25"
+  },
+  {
+    "id": "dcab3e343ed9",
+    "title": "Emergency Physician",
+    "employer": "Emergency Medicine Physician Associates",
+    "location": "Jeffersonville, Indiana",
+    "salary": "$450,000-$500,000",
+    "source_url": "https://www.emcareers.org/job/1002578/emergency-physician/?LinkSource=TopJob",
+    "source_name": "emCareers",
+    "rejection_reason": "Location 'Jeffersonville, Indiana' not in any target region",
+    "description_snippet": "Private EM physician group seeking an emergency physician just 5 minutes from Louisville, KY",
+    "date_found": "2026-05-25"
+  },
+  {
+    "id": "c1a3f0e001ed",
+    "title": "Emergency Medicine Physician Locum Opportunity - North CA area",
+    "employer": "Odyssey Locums",
+    "location": "Florin, CA",
+    "salary": "Not listed",
+    "source_url": "https://www.emcareers.org/job/1002240/emergency-medicine-physician-locum-opportunity-north-ca-area/",
+    "source_name": "emCareers",
+    "rejection_reason": "Excluded title keyword: 'Locum'",
+    "description_snippet": "Locum Emergency Medicine Physicians needed to start ASAP and work ongoing in the north CA area. Must have an active CA license. Shifts: 6a-2p, 8a-4...",
+    "date_found": "2026-05-25"
+  },
+  {
+    "id": "86d6b0a37c7f",
+    "title": "Emergency Medicine Physician Locum Opportunity - North CA area",
+    "employer": "Odyssey Locums",
+    "location": "Sacramento, CA",
+    "salary": "Not listed",
+    "source_url": "https://www.emcareers.org/job/1002149/emergency-medicine-physician-locum-opportunity-north-ca-area/",
+    "source_name": "emCareers",
+    "rejection_reason": "Excluded title keyword: 'Locum'",
+    "description_snippet": "Locum Emergency Medicine Physicians needed to start ASAP and work ongoing in the north CA area. Must have an active CA license. Shifts: 6a-2p, 8a-4...",
+    "date_found": "2026-05-25"
+  },
+  {
+    "id": "45faf43571a7",
+    "title": "Emergency Medicine Physician",
+    "employer": "Physician-owned EM group (Baptist Health facilities)",
+    "location": "Lexington, KY",
+    "salary": "$172,130",
+    "source_url": "https://www.adzuna.com/land/ad/5735067297?se=xNKAMkdY8RGWQvEe2bTbLw&utm_medium=api&utm_source=04e8e9e3&v=A965DF7DDB02DA492571DD314AE352E2F8038281",
+    "source_name": "Adzuna",
+    "rejection_reason": "Salary significantly below minimum requirement ($300,000) and location not in preferred regions",
+    "description_snippet": "Location: Lexington, Kentucky Metro Area Employment Type: Full-Time, Emergency Medicine (BC/BE) Compensation: Competitive physician-owned compensation model with long-term ownership upside Join one of the few remaining truly independent, democratic emergency medicine groups in Kentucky. This physician-owned practice staffs multiple Baptist Health emergency departments and offers a long-term career path centered around physician autonomy, transparency, and leadership. This opportunity is based a\u2026",
+    "date_found": "2026-05-25"
+  },
+  {
+    "id": "f1d5cc41d620",
+    "title": "Emergency Medicine Physician",
+    "employer": "Clinton Regional Hospital / TriHealth system",
+    "location": "Wilmington, Ohio",
+    "salary": "$132,927",
+    "source_url": "https://www.adzuna.com/land/ad/5735067165?se=lO74MkdY8RGvjPD20Sc1wQ&utm_medium=api&utm_source=04e8e9e3&v=958044EAAF8A835CCCFFD7D0FF4E3B91BAE28442",
+    "source_name": "Adzuna",
+    "rejection_reason": "Salary significantly below minimum requirement ($132,927 vs $300,000 minimum) and location not in preferred regions",
+    "description_snippet": "Clinton Regional Hospital - Wilmington, Ohio - $50,000 Sign-On Emergency Medicine Physician - Easy Access to Cincinnati, Dayton, and Columbus The Opportunity Clinton Regional Hospital offers a community-focused emergency medicine practice within the TriHealth system, ideal for physicians seeking a sustainable clinical pace, strong local relationships, and the stability of a regional health system-without the pressures of a high-volume tertiary center. You'll practice with a physician-led emerge\u2026",
+    "date_found": "2026-05-25"
+  },
+  {
+    "id": "e8ff834be11e",
+    "title": "Emergency Medicine Physician",
+    "employer": "Alameda Health System",
+    "location": "Oakland/Alameda, CA",
+    "salary": "$274,827",
+    "source_url": "https://www.adzuna.com/land/ad/5492366801?se=lO74MkdY8RGvjPD20Sc1wQ&utm_medium=api&utm_source=04e8e9e3&v=1BA98A651AD1ECAD8D80A76A5528F2ABCE3CDC06",
+    "source_name": "Adzuna",
+    "rejection_reason": "Salary of $274,827 is below the minimum requirement of $300,000",
+    "description_snippet": "Emergency Medicine Physician  Oakland, CA  Highland General Hospital  HGH ER Providers  Full Time - Varies  Physicians & Dentists  174.75 - 185.26  Req :43176-32082  FTE:1  Posted:October 24, 2025 Summary Alameda Health System (AHS) is seeking Full-Time and Services-As-Needed Emergency Medicine Physicians to staff San Leandro and Alameda Hospitals in the Division of Community Emergency Medicine. AHS is an integrated public health system spanning 5 facilities, 4 ambulatory sites and 800 beds pro\u2026",
+    "date_found": "2026-05-25"
   }
 ]
