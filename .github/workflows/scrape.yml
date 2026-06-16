@@ -1,9 +1,10 @@
 name: Daily Job Scrape
 
 on:
-  schedule:
-    # Run daily at 12:00 UTC (7:00 AM CT)
-    - cron: "0 12 * * *"
+  # PAUSED 2026-06-16 — API keys being rotated / usage pattern under review
+  # schedule:
+  #   # Run daily at 12:00 UTC (7:00 AM CT)
+  #   - cron: "0 12 * * *"
   workflow_dispatch: # Allow manual trigger from GitHub UI
 
 jobs:

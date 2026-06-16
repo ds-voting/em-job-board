@@ -1,19 +1,24 @@
 # EM Job Board — Session Handoff
 
-**Last session:** 2026-04-11
-**Status:** Phase 1 + Phase 2 complete + GitHub Actions cron validated, Phase 3 not started
+**Last session:** 2026-06-16
+**Status:** Phase 1 + Phase 2 complete. Cron PAUSED 2026-06-16 — API keys being rotated and usage pattern under review.
 
 ---
 
-## ✅ Cron Pipeline — VALIDATED (2026-04-11)
+## ⏸️ Cron Pipeline — PAUSED (2026-06-16)
 
-**The GitHub Actions cron is now confirmed working end-to-end.** No immediate action required next session — just verify today's 7am CT run succeeded as a sanity check.
+**The daily cron schedule has been disabled.** The `schedule` trigger in `.github/workflows/scrape.yml` is commented out. `workflow_dispatch` remains active so you can run it manually from GitHub UI at any time.
 
-**Quick sanity check (optional at start of next session):**
-```bash
-gh run list --workflow=scrape.yml --limit 5
-```
-Expected: top entry `completed / success` from the scheduled run.
+**To re-enable:** uncomment the `schedule` block in `.github/workflows/scrape.yml`, commit, and push.
+
+**Why paused:** API keys (ANTHROPIC_API_KEY, SERPAPI_KEY, ADZUNA_APP_ID/KEY) need rotation and usage pattern is under review.
+
+**Before re-enabling, do:**
+1. Rotate any stale API keys and update GitHub Actions secrets + Vercel env vars
+2. Decide whether to keep the daily schedule or switch to on-demand / less frequent runs
+3. Run a manual `workflow_dispatch` to confirm the pipeline still works with new keys
+
+**Previously validated (2026-04-11):** cron ran end-to-end successfully after the `permissions: contents: write` fix.
 
 ### What broke + what was fixed (2026-04-11)
 
