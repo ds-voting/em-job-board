@@ -8,6 +8,8 @@ interface JobFiltersProps {
   onConfidenceChange: (confidence: string) => void;
   selectedInstitution: string;
   onInstitutionChange: (institution: string) => void;
+  showFilled: boolean;
+  onShowFilledChange: (show: boolean) => void;
 }
 
 const SELECT_CLASS =
@@ -21,6 +23,8 @@ export default function JobFilters({
   onConfidenceChange,
   selectedInstitution,
   onInstitutionChange,
+  showFilled,
+  onShowFilledChange,
 }: JobFiltersProps) {
   const hasFilters = selectedRegion || selectedConfidence || selectedInstitution;
 
@@ -79,6 +83,16 @@ export default function JobFilters({
           Clear filters
         </button>
       )}
+
+      <label className="flex items-center gap-2 px-3 py-2 text-sm text-slate-600 cursor-pointer select-none ml-auto">
+        <input
+          type="checkbox"
+          checked={showFilled}
+          onChange={(e) => onShowFilledChange(e.target.checked)}
+          className="h-4 w-4 rounded border-slate-300 text-rose-500 focus:ring-2 focus:ring-rose-500/30"
+        />
+        Show possibly filled
+      </label>
     </div>
   );
 }

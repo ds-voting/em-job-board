@@ -14,6 +14,7 @@ export default function HomePage() {
   const [region, setRegion] = useState("");
   const [confidence, setConfidence] = useState("");
   const [institution, setInstitution] = useState("");
+  const [showFilled, setShowFilled] = useState(true);
 
   useEffect(() => {
     fetch("/api/jobs")
@@ -33,15 +34,26 @@ export default function HomePage() {
     [jobs]
   );
 
+  // Jobs shown in the list: active always; possibly-filled when the toggle is on.
+  const visibleJobs = useMemo(
+    () =>
+      showFilled
+        ? jobs.filter(
+            (j) => j.status === "active" || j.status === "possibly_filled"
+          )
+        : activeJobs,
+    [jobs, activeJobs, showFilled]
+  );
+
   const regions = useMemo(
     () =>
-      [...new Set(activeJobs.map((j) => j.location_region).filter(Boolean))]
+      [...new Set(visibleJobs.map((j) => j.location_region).filter(Boolean))]
         .sort(),
-    [activeJobs]
+    [visibleJobs]
   );
 
   const filtered = useMemo(() => {
-    let result = activeJobs;
+    let result = visibleJobs;
 
     if (search) {
       const q = search.toLowerCase();
@@ -58,8 +70,13 @@ export default function HomePage() {
     if (institution)
       result = result.filter((j) => j.institution_type === institution);
 
-    // Sort: New first within confidence tiers, then by location priority
+    // Sort: active before possibly-filled, then New first within confidence
+    // tiers, then by location priority.
     return [...result].sort((a, b) => {
+      const statusRank = (s: string) => (s === "active" ? 0 : 1);
+      const statusDiff = statusRank(a.status) - statusRank(b.status);
+      if (statusDiff !== 0) return statusDiff;
+
       const confOrder: Record<string, number> = { High: 0, Medium: 1, Low: 2 };
       const confDiff =
         (confOrder[a.match_confidence] ?? 3) -
@@ -73,7 +90,7 @@ export default function HomePage() {
       if (priDiff !== 0) return priDiff;
       return b.date_found.localeCompare(a.date_found);
     });
-  }, [activeJobs, search, region, confidence, institution]);
+  }, [visibleJobs, search, region, confidence, institution]);
 
   const stats = useMemo(() => {
     const byRegion: Record<string, number> = {};
@@ -132,11 +149,14 @@ export default function HomePage() {
         onConfidenceChange={setConfidence}
         selectedInstitution={institution}
         onInstitutionChange={setInstitution}
+        showFilled={showFilled}
+        onShowFilledChange={setShowFilled}
       />
 
       <div className="text-sm text-slate-500 mb-4 font-medium">
         Showing <span className="text-slate-900 font-bold">{filtered.length}</span> of{" "}
-        <span className="text-slate-900 font-bold">{activeJobs.length}</span> active jobs
+        <span className="text-slate-900 font-bold">{visibleJobs.length}</span>{" "}
+        {showFilled ? "jobs (incl. possibly filled)" : "active jobs"}
       </div>
 
       <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
