@@ -24,7 +24,7 @@ cp .env.example .env
 
 You need:
 - **ANTHROPIC_API_KEY** — Get from [console.anthropic.com](https://console.anthropic.com/)
-- **SERPAPI_KEY** — Get from [serpapi.com](https://serpapi.com/) (free tier: 100 searches/month)
+- **SERPAPI_KEY_1**, **SERPAPI_KEY_2**, … — One or more keys from [serpapi.com](https://serpapi.com/) (free tier: 250 searches/month each). The scraper rotates across them, falling back to the next key when one hits its monthly cap, so multiple free keys ≈ a larger monthly budget. (A single legacy `SERPAPI_KEY` is also accepted.)
 - **ADZUNA_APP_ID** and **ADZUNA_APP_KEY** — Get from [developer.adzuna.com](https://developer.adzuna.com/)
 
 ### 3. Run the scraper
@@ -64,11 +64,11 @@ After editing, run `python run_scraper.py` again.
 
 ## Automated Daily Scraping
 
-The GitHub Actions workflow (`.github/workflows/scrape.yml`) runs the scraper daily at 7:00 AM CT. To enable it:
+The GitHub Actions workflow (`.github/workflows/scrape.yml`) runs the scraper on weekdays (Mon–Fri) at 7:00 AM CT. To enable it:
 
 1. Push to GitHub
 2. Go to Settings > Secrets and variables > Actions
-3. Add these secrets: `ANTHROPIC_API_KEY`, `SERPAPI_KEY`, `ADZUNA_APP_ID`, `ADZUNA_APP_KEY`
+3. Add these secrets: `ANTHROPIC_API_KEY`, `SERPAPI_KEY_1` (+ `SERPAPI_KEY_2`, `SERPAPI_KEY_3`, … for rotation), `ADZUNA_APP_ID`, `ADZUNA_APP_KEY`
 4. The scraper will run automatically and commit updated data
 
 You can also trigger a manual run from the Actions tab.

@@ -1,7 +1,7 @@
 # EM Job Board — Session Handoff
 
 **Last session:** 2026-06-29
-**Status:** Phase 1 + Phase 2 complete. **Cron LIVE again (re-enabled 2026-06-29).** Classifier model bug found + fixed (was calling a retired Claude model), then **hardened to fail closed + fail loud**. Contaminated data cleaned (272 → 191). Dashboard now **shows possibly-filled jobs** (toggle, default on). All live and verified.
+**Status:** Phase 1 + Phase 2 complete. **Cron LIVE again (re-enabled 2026-06-29).** Classifier model bug found + fixed (was calling a retired Claude model), then **hardened to fail closed + fail loud**. Contaminated data cleaned (272 → 191). Dashboard now **shows possibly-filled jobs** (toggle, default on). **SerpAPI multi-key rotation** added (3 free keys ≈ 750/mo); cron moved to **weekdays only**. All live and verified.
 
 ---
 
@@ -32,8 +32,13 @@ The ~81 `classification_error` entries from the 2026-05-05 transient outage were
 
 `dashboard/app/page.tsx` previously listed `status==="active"` only, so after the pause the board looked empty. Added a "Show possibly filled" toggle (default **on**) in `JobFilters.tsx`; active jobs sort above possibly-filled. StatsBar "Active Matches" still counts active only. Commit `9f8d763`. Verified live: 191 cards render, toggle works. Design doc: `docs/superpowers/specs/2026-06-29-harden-classifier-and-show-possibly-filled.md`.
 
-### Other notes from this session
-- **SerpAPI cost — alternatives researched (no code change yet).** Free plan = 250 searches/mo; the scraper does ~720/mo (3 queries × 8 regions, daily), so it exhausts mid-month → key rotations. Cheapest entry paid tier is $25/mo (1,000 searches). Better options: **JSearch** (RapidAPI, free 200/mo or $25/mo for 10k — drop-in Google-Jobs data), **DataForSEO Google Jobs** (~$0.50–1.50/mo, but $50 prepaid min), or a **$0 free stack** (trim the 8-location fan-out + keep Adzuna + add USAJobs/Jooble/Careerjet). The volume lever — consolidating the 8 per-region searches — is the highest-leverage change and could fit free tiers. Decide before integrating; coverage overlap between aggregators must be tested.
+### SerpAPI multi-key rotation (built 2026-06-29)
+
+Instead of paying, we run **3 free-tier keys** (`SERPAPI_KEY_1/2/3` in `.env` and as GH secrets) = ~750 searches/mo. `scraper/sources/serpapi_google.py` rotates: it uses one key until SerpAPI reports it's out (HTTP 429 or "ran out" JSON error), then advances to the next; if all are exhausted it stops gracefully. Keys load via `get_serpapi_keys()` in `config_loader.py` (reads `SERPAPI_KEY_<n>` in order + legacy `SERPAPI_KEY`, sanitizing trailing `.env` notes).
+
+**Cadence math:** ~24 searches/run (3 queries × 8 regions). The cron is now **weekdays only** (`0 12 * * 1-5`, ~22 runs/mo ≈ 528 searches) to stay under 750 with margin for manual re-runs. Daily (744/750) would fit but with ~no buffer.
+
+**Note:** the 3 keys reset on *staggered* monthly dates (separate accounts), so it's ~750/mo capacity, not a single calendar-month bucket — the rotator's fallback handles that. If we ever outgrow this, the researched paid options are JSearch ($25/mo, 10k) or DataForSEO (~$1/mo, $50 prepaid); the cheaper lever is consolidating the 8 per-region searches.
 - After cleanup, the 191 jobs are all `possibly_filled` (now visible on the board). The "Active Matches" stat reads 0 until the daily cron re-confirms still-open postings over the next few days. Expected, not a bug.
 
 **Previously validated (2026-04-11):** cron ran end-to-end successfully after the `permissions: contents: write` fix.
@@ -106,7 +111,7 @@ A manual re-run immediately after the fix completed successfully (9m5s). Tomorro
 
 ### Operations
 - `.github/workflows/scrape.yml` — Daily GitHub Actions cron with secrets
-- GitHub Actions secrets set: `ANTHROPIC_API_KEY`, `SERPAPI_KEY`, `ADZUNA_APP_ID`, `ADZUNA_APP_KEY`
+- GitHub Actions secrets set: `ANTHROPIC_API_KEY`, `SERPAPI_KEY_1/2/3` (rotated), `ADZUNA_APP_ID`, `ADZUNA_APP_KEY` (legacy single `SERPAPI_KEY` secret still present but unused)
 - Vercel environment variables set (same 4 keys, encrypted)
 - Vercel project linked to GitHub repo for auto-deploys on push
 
