@@ -1,1031 +1,5 @@
 [
   {
-    "id": "95d376fb362e",
-    "title": "West Hartford - MidState Medical Center - Emergency Medicine Physician Job",
-    "employer": "EMrecruits",
-    "location": "Meriden, New Haven County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$111,041-$111,041",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmXwSVvTSBupL3cPVb9'}",
-    "source_url": "https://www.adzuna.com/land/ad/5768046727?se=CsOSssxz8RG5wqNxUkLhAA&utm_medium=api&utm_source=04e8e9e3&v=44277D5AE4A7C019875A4E0274A7060D662B0CAF",
-    "source_name": "Adzuna",
-    "description_snippet": "MidState Medical Center - Central Connecticut Emergency Medicine Physician Live in Cheshire | Wallingford | Southington | West Hartford The Opportunity MidState Medical Center offers an ideal blend of modern emergency medicine and Central Connecticut lifestyle. Physicians practice in a well-supported emergency department with a sustainable clinical pace while living in some of the state's most desirable suburban communities. You'll join a provider-led emergency medicine team delivering state-of\u2026",
-    "full_description": "MidState Medical Center - Central Connecticut Emergency Medicine Physician Live in Cheshire | Wallingford | Southington | West Hartford The Opportunity MidState Medical Center offers an ideal blend of modern emergency medicine and Central Connecticut lifestyle. Physicians practice in a well-supported emergency department with a sustainable clinical pace while living in some of the state's most desirable suburban communities. You'll join a provider-led emergency medicine team delivering state-of\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "36bbe31d9d90",
-    "title": "Physician Emergency Medicine - Competitive Salary",
-    "employer": "The Provider Finder",
-    "location": "New Haven, New Haven County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$150,788-$150,788",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmXxyGeyo9D22sqfnjj'}",
-    "source_url": "https://www.adzuna.com/land/ad/5667632952?se=CsOSssxz8RG5wqNxUkLhAA&utm_medium=api&utm_source=04e8e9e3&v=E8B292736100B84561F1FECC98AB5F9B840AAF81",
-    "source_name": "Adzuna",
-    "description_snippet": "Job Description This opportunity is with a well-established, privately owned urgent care organization serving the New Haven, Connecticut area . The organization is seeking multiple Board-Certified or Board-Eligible Family Medicine or Emergency Medicine Physicians to join its Urgent Care team in the New Haven, CT area . Physicians will rotate between six local locations , all within 35 minutes of each other , and provide comprehensive urgent care services to patients of all ages. This role offer\u2026",
-    "full_description": "Job Description This opportunity is with a well-established, privately owned urgent care organization serving the New Haven, Connecticut area . The organization is seeking multiple Board-Certified or Board-Eligible Family Medicine or Emergency Medicine Physicians to join its Urgent Care team in the New Haven, CT area . Physicians will rotate between six local locations , all within 35 minutes of each other , and provide comprehensive urgent care services to patients of all ages. This role offer\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "f6b4da0fb6fe",
-    "title": "Physician Emergency Medicine - Competitive Salary",
-    "employer": "SourceMD",
-    "location": "Hartford, Hartford County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$139,149-$139,149",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmXyz3Mckzb2UA8SQFZ'}",
-    "source_url": "https://www.adzuna.com/land/ad/5667593749?se=CsOSssxz8RG5wqNxUkLhAA&utm_medium=api&utm_source=04e8e9e3&v=A937CD812F5B0B2351262477D728C0B8E6F4AA89",
-    "source_name": "Adzuna",
-    "description_snippet": "Job Description High volume ED with 106,000 visits and 110 ED beds in a state of the art facility. Professional, team oriented and democratic, with very low MD and RN turnover. Highly satisfying work environment includes teaching with hard working residents who provide outstanding care to the patients . Competent, experienced Advanced Practitioners augment the residents and work extremely well within the framework of patient care and teaching. Our nursing, secretarial, and other staff are skill\u2026",
-    "full_description": "Job Description High volume ED with 106,000 visits and 110 ED beds in a state of the art facility. Professional, team oriented and democratic, with very low MD and RN turnover. Highly satisfying work environment includes teaching with hard working residents who provide outstanding care to the patients . Competent, experienced Advanced Practitioners augment the residents and work extremely well within the framework of patient care and teaching. Our nursing, secretarial, and other staff are skill\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "a183af779395",
-    "title": "Physician Emergency Medicine - Competitive Salary",
-    "employer": "Summit Recruiting Group",
-    "location": "Hartford, Hartford County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$113,361-$113,361",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmY114N1hZBJ6n6Ro1z'}",
-    "source_url": "https://www.adzuna.com/land/ad/5667538097?se=CsOSssxz8RG5wqNxUkLhAA&utm_medium=api&utm_source=04e8e9e3&v=735BD27F444BD2B54E6F5E5755E2E9928C9FF551",
-    "source_name": "Adzuna",
-    "description_snippet": "Job Description Cardiac Critical Care opening - Hartford, CT Position Details Full-time, permanent Team of collegial and highly trained Cardiac ICU staff Care for patients with complex cardiovascular disease which can include pre- and postoperative care, heart transplant and/or a Ventricular Assist Devices (VAD), and acute mechanical circulatory support (ECMO and intra-aortic balloon pumps) and cardiogenic shock Successful candidate will be able to place chest tubes and perform bronchoscopy Cri\u2026",
-    "full_description": "Job Description Cardiac Critical Care opening - Hartford, CT Position Details Full-time, permanent Team of collegial and highly trained Cardiac ICU staff Care for patients with complex cardiovascular disease which can include pre- and postoperative care, heart transplant and/or a Ventricular Assist Devices (VAD), and acute mechanical circulatory support (ECMO and intra-aortic balloon pumps) and cardiogenic shock Successful candidate will be able to place chest tubes and perform bronchoscopy Cri\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "ecab7de1d87c",
-    "title": "Seeking a Full Time Pediatric Emergency Medicine Physician, Cohen Children\u2019s Medical Center",
-    "employer": "Northwell Health Physician Partners",
-    "location": "Queens, New York City",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$137,992-$137,992",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmY1UbBmAfq6aMtkAXc'}",
-    "source_url": "https://www.adzuna.com/land/ad/5765127204?se=SkrQssxz8RG1Ec3-_UvSsA&utm_medium=api&utm_source=04e8e9e3&v=62047AF4B9780331E0CE70175A1D4ABBDBA4E91C",
-    "source_name": "Adzuna",
-    "description_snippet": "The Division of Pediatric Emergency Medicine at Steven and Alexandra Cohen Children's Medical Center (CCMC) of Northwell Health and the Donald and Barbara Zucker School of Medicine at Hofstra/Northwell is recruiting a full-time Board-certified or Board-eligible Pediatric Emergency Medicine physician to join our family. Candidates with a research and point of care ultrasound interest will be looked upon favorably. Our Pediatric Emergency Medicine team consists of 30 PEM attendings, 4 general ped\u2026",
-    "full_description": "The Division of Pediatric Emergency Medicine at Steven and Alexandra Cohen Children's Medical Center (CCMC) of Northwell Health and the Donald and Barbara Zucker School of Medicine at Hofstra/Northwell is recruiting a full-time Board-certified or Board-eligible Pediatric Emergency Medicine physician to join our family. Candidates with a research and point of care ultrasound interest will be looked upon favorably. Our Pediatric Emergency Medicine team consists of 30 PEM attendings, 4 general ped\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "024360448eed",
-    "title": "Pediatric Emergency Medicine Physician (30200)",
-    "employer": "Physician Affiliate Group of New York",
-    "location": "High Bridge and Morrisania, Bronx",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$284,678-$290,063",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmY1wNWs87rtCpLiUxv'}",
-    "source_url": "https://www.adzuna.com/details/5778721496?utm_medium=api&utm_source=04e8e9e3",
-    "source_name": "Adzuna",
-    "description_snippet": "Description Physician Affiliate Group of New York (PAGNY) is adding a Pediatric Emergency Medicine Physician to the group at NYC Health  Hospitals/Lincoln. Lincoln Medical Center is a designated Level I Trauma and Stroke Center and has Centers of Excellence in all medical specialties, including its award-winning Cancer and Breast Centers. Today, Lincoln stands as a leader in the transformation in healthcare in the Downtown Bronx community. The hospital maintains a strong academic affiliation wi\u2026",
-    "full_description": "Description Physician Affiliate Group of New York (PAGNY) is adding a Pediatric Emergency Medicine Physician to the group at NYC Health  Hospitals/Lincoln. Lincoln Medical Center is a designated Level I Trauma and Stroke Center and has Centers of Excellence in all medical specialties, including its award-winning Cancer and Breast Centers. Today, Lincoln stands as a leader in the transformation in healthcare in the Downtown Bronx community. The hospital maintains a strong academic affiliation wi\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "5a593df82818",
-    "title": "Emergency Medicine Physician - Earn 185/HR!",
-    "employer": "NP Now",
-    "location": "New York City, New York",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$249,600-$384,800",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmY2Re7qDoTvbSj5UPQ'}",
-    "source_url": "https://www.adzuna.com/details/5726565745?utm_medium=api&utm_source=04e8e9e3",
-    "source_name": "Adzuna",
-    "description_snippet": "A thriving healthcare group is seeking an Emergency Medicine Physician to work in New York City! Contact Raymond Stiles 843-574-8233 raymond@nowhealthcare.org About the Group: Physician-led, patient-centric network, committed to simplifying the complexities of health care. One of the nation\u2019s premier independent multispecialty medical groups, the leading urgent care provider in the New York metropolitan area This health system goes all out to make a flexible and family-friendly work-life balanc\u2026",
-    "full_description": "A thriving healthcare group is seeking an Emergency Medicine Physician to work in New York City! Contact Raymond Stiles 843-574-8233 raymond@nowhealthcare.org About the Group: Physician-led, patient-centric network, committed to simplifying the complexities of health care. One of the nation\u2019s premier independent multispecialty medical groups, the leading urgent care provider in the New York metropolitan area This health system goes all out to make a flexible and family-friendly work-life balanc\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "d27455ac22e8",
-    "title": "Emergency Medicine Physician \u2013 Physician Practice Leadership Opportunity",
-    "employer": "MedCBO, Inc",
-    "location": "Chelsea and Clinton, Manhattan",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$199,920-$199,920",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmY2wPyyT8gFFEkDxVG'}",
-    "source_url": "https://www.adzuna.com/details/5778534660?utm_medium=api&utm_source=04e8e9e3",
-    "source_name": "Adzuna",
-    "description_snippet": "About MedCBO, Inc. MedCBO is a Colorado-based healthcare business infrastructure company that empowers independent physician groups across the United States to launch, manage, and scale their practices. We provide a comprehensive Business-in-a-Box platform that integrates revenue cycle management, accounting and finance, human resources, EHR support, payer contracting, compliance, supply-chain logistics, and data intelligence. Our unified, cloud-based system gives physicians the operational fou\u2026",
-    "full_description": "About MedCBO, Inc. MedCBO is a Colorado-based healthcare business infrastructure company that empowers independent physician groups across the United States to launch, manage, and scale their practices. We provide a comprehensive Business-in-a-Box platform that integrates revenue cycle management, accounting and finance, human resources, EHR support, payer contracting, compliance, supply-chain logistics, and data intelligence. Our unified, cloud-based system gives physicians the operational fou\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "31776671cdb4",
-    "title": "Emergency Medicine Physician",
-    "employer": "Boston Medical Center",
-    "location": "Brockton, Plymouth County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$103,953-$103,953",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmY3UtWx2GGu9CauYNj'}",
-    "source_url": "https://www.adzuna.com/details/5780176507?utm_medium=api&utm_source=04e8e9e3",
-    "source_name": "Adzuna",
-    "description_snippet": "Boston Medical Center \u2013 South - Emergency Medicine Full-time, Part-time, or Per diem Boston Medical Center \u2013 South in Brockton, MA, is seeking a Board BC/BE Emergency Physician to join our expanding team. Boston Medical Center \u2013 South is an acute care full-service community hospital located 25 minutes south of Boston. BMC - South treats 71,000 patients annually and is the only Level 3 Trauma center in Region 5 of Massachusetts. BMC - South Emergency Medicine highlights: Newly constructed, state\u2026",
-    "full_description": "Boston Medical Center \u2013 South - Emergency Medicine Full-time, Part-time, or Per diem Boston Medical Center \u2013 South in Brockton, MA, is seeking a Board BC/BE Emergency Physician to join our expanding team. Boston Medical Center \u2013 South is an acute care full-service community hospital located 25 minutes south of Boston. BMC - South treats 71,000 patients annually and is the only Level 3 Trauma center in Region 5 of Massachusetts. BMC - South Emergency Medicine highlights: Newly constructed, state\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "26e41050ef45",
-    "title": "Emergency Medicine Physician | CA | DirectShifts",
-    "employer": "DirectShifts",
-    "location": "Sacramento, Sacramento County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$105,332-$105,332",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmY4QT3HWBaNJFuYPL4'}",
-    "source_url": "https://www.adzuna.com/land/ad/5667548865?se=UjG9s8xz8RG5wqNxUkLhAA&utm_medium=api&utm_source=04e8e9e3&v=352B298F889BBF246D492C469ED988015D0A6039",
-    "source_name": "Adzuna",
-    "description_snippet": "Job Description DirectShifts is seeking a highly skilled and adaptable Emergency Medicine Physician to join our team in providing critical care to patients in the fast-paced environment of Sacramento, CA emergency rooms. Job Description: Evaluate, diagnose, and treat patients with a wide range of acute and life-threatening conditions. Provide immediate medical attention to patients experiencing trauma, heart attacks, strokes, respiratory distress, and other emergencies. Perform rapid assessment\u2026",
-    "full_description": "Job Description DirectShifts is seeking a highly skilled and adaptable Emergency Medicine Physician to join our team in providing critical care to patients in the fast-paced environment of Sacramento, CA emergency rooms. Job Description: Evaluate, diagnose, and treat patients with a wide range of acute and life-threatening conditions. Provide immediate medical attention to patients experiencing trauma, heart attacks, strokes, respiratory distress, and other emergencies. Perform rapid assessment\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "5333d0fb2af3",
-    "title": "Emergency Medicine Physician - Columbus, Ohio access",
-    "employer": "EMrecruits",
-    "location": "Wilmington, Los Angeles County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$132,927-$132,927",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmY4uxRvREcfEuFnYbK'}",
-    "source_url": "https://www.adzuna.com/land/ad/5735067165?se=UjG9s8xz8RG5wqNxUkLhAA&utm_medium=api&utm_source=04e8e9e3&v=958044EAAF8A835CCCFFD7D0FF4E3B91BAE28442",
-    "source_name": "Adzuna",
-    "description_snippet": "Clinton Regional Hospital - Wilmington, Ohio - $50,000 Sign-On Emergency Medicine Physician - Easy Access to Cincinnati, Dayton, and Columbus The Opportunity Clinton Regional Hospital offers a community-focused emergency medicine practice within the TriHealth system, ideal for physicians seeking a sustainable clinical pace, strong local relationships, and the stability of a regional health system-without the pressures of a high-volume tertiary center. You'll practice with a physician-led emerge\u2026",
-    "full_description": "Clinton Regional Hospital - Wilmington, Ohio - $50,000 Sign-On Emergency Medicine Physician - Easy Access to Cincinnati, Dayton, and Columbus The Opportunity Clinton Regional Hospital offers a community-focused emergency medicine practice within the TriHealth system, ideal for physicians seeking a sustainable clinical pace, strong local relationships, and the stability of a regional health system-without the pressures of a high-volume tertiary center. You'll practice with a physician-led emerge\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "837294e9ba63",
-    "title": "Seeking Emergency Medicine Physician at Southern CA VA",
-    "employer": "Department of Veterans Affairs",
-    "location": "Loma Linda, San Bernardino County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$90,558-$90,558",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmY5PjMr1escv87Y6ji'}",
-    "source_url": "https://www.adzuna.com/land/ad/5764504634?se=UjG9s8xz8RG5wqNxUkLhAA&utm_medium=api&utm_source=04e8e9e3&v=87ED7A8B5C0E2F79AEC05471EBED826A32F47228",
-    "source_name": "Adzuna",
-    "description_snippet": "The Loma Linda VA has an opening for an energetic, driven, and compassionate Emergency Medicine Physician . The Position: VA Loma Linda Healthcare System is seeking an Emergency Medicine physician at the Department of Veterans Affairs (VA) who will provide urgent and potentially life-saving medical care to Veterans who come to the VA Medical Center Emergency Department. 1. Assessment and Stabilization: * Rapidly assess and stabilize Veterans with acute illnesses, injuries, or exacerbations of c\u2026",
-    "full_description": "The Loma Linda VA has an opening for an energetic, driven, and compassionate Emergency Medicine Physician . The Position: VA Loma Linda Healthcare System is seeking an Emergency Medicine physician at the Department of Veterans Affairs (VA) who will provide urgent and potentially life-saving medical care to Veterans who come to the VA Medical Center Emergency Department. 1. Assessment and Stabilization: * Rapidly assess and stabilize Veterans with acute illnesses, injuries, or exacerbations of c\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "e0dc1cd11a61",
-    "title": "Emergency Medicine Physician",
-    "employer": "Alameda Health System",
-    "location": "Philatelic, Alameda County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$325,133-$325,133",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmY5sWAZjc515j5hzAJ'}",
-    "source_url": "https://www.adzuna.com/details/5760133562?utm_medium=api&utm_source=04e8e9e3",
-    "source_name": "Adzuna",
-    "description_snippet": "Alameda Health System (AHS) is seeking Full-Time and Services-As-Needed Emergency Medicine Physicians to staff San Leandro and Alameda Hospitals in the Division of Community Emergency Medicine. AHS is an integrated public health system spanning 5 facilities, 4 ambulatory sites and 800 beds providing primary, specialty, Stroke, STEMI, and Level 1 Trauma in addition to supporting several residency programs. Our safety net system is dedicated to serving our surrounding communities with safe, equit\u2026",
-    "full_description": "Alameda Health System (AHS) is seeking Full-Time and Services-As-Needed Emergency Medicine Physicians to staff San Leandro and Alameda Hospitals in the Division of Community Emergency Medicine. AHS is an integrated public health system spanning 5 facilities, 4 ambulatory sites and 800 beds providing primary, specialty, Stroke, STEMI, and Level 1 Trauma in addition to supporting several residency programs. Our safety net system is dedicated to serving our surrounding communities with safe, equit\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "67967ac53770",
-    "title": "Emergency Medicine Physician | GA | DirectShifts",
-    "employer": "DirectShifts",
-    "location": "Atlanta, Fulton County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$95,849-$95,849",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmY6Jo7YCAFBB2BzvtC'}",
-    "source_url": "https://www.adzuna.com/land/ad/5667567954?se=knj-s8xz8RGz8Id6GTrixg&utm_medium=api&utm_source=04e8e9e3&v=CBDD680B979D283971FD2743F2FF9C26FB018740",
-    "source_name": "Adzuna",
-    "description_snippet": "Job Description DirectShifts is seeking a highly skilled and adaptable Emergency Medicine Physician to join our team in providing critical care to patients in the fast-paced environment of Atlanta, GA emergency rooms. Job Description: Evaluate, diagnose, and treat patients with a wide range of acute and life-threatening conditions. Provide immediate medical attention to patients experiencing trauma, heart attacks, strokes, respiratory distress, and other emergencies. Perform rapid assessments, \u2026",
-    "full_description": "Job Description DirectShifts is seeking a highly skilled and adaptable Emergency Medicine Physician to join our team in providing critical care to patients in the fast-paced environment of Atlanta, GA emergency rooms. Job Description: Evaluate, diagnose, and treat patients with a wide range of acute and life-threatening conditions. Provide immediate medical attention to patients experiencing trauma, heart attacks, strokes, respiratory distress, and other emergencies. Perform rapid assessments, \u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "ad643945c65d",
-    "title": "EMERGENCY MEDICINE PHYSICIAN",
-    "employer": "U.S. Army 2nd Medical Recruiting Battalion",
-    "location": "Atlanta, Fulton County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$181,683-$181,683",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmY6wVrgmAhX9ywM6uD'}",
-    "source_url": "https://www.adzuna.com/land/ad/5590876787?se=knj-s8xz8RGz8Id6GTrixg&utm_medium=api&utm_source=04e8e9e3&v=AFEC947AD82B58A7962A70FC378E2D5851542EE1",
-    "source_name": "Adzuna",
-    "description_snippet": "Position information: Army Reserve Emergency Medicine Physician U.S. Army Medical Corps THE STRENGTH TO HEAL OUR NATION'S DEFENDERS. This is your chance to tackle the most unique cases and help patients who truly need your assistance. As an emergency physician and officer on the U.S. Army Reserve health care team, you'll practice in your community and serve when needed. Your colleagues will be at the top of their fields. You'll care for a diverse patient population that includes our nation's So\u2026",
-    "full_description": "Position information: Army Reserve Emergency Medicine Physician U.S. Army Medical Corps THE STRENGTH TO HEAL OUR NATION'S DEFENDERS. This is your chance to tackle the most unique cases and help patients who truly need your assistance. As an emergency physician and officer on the U.S. Army Reserve health care team, you'll practice in your community and serve when needed. Your colleagues will be at the top of their fields. You'll care for a diverse patient population that includes our nation's So\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "b01863745460",
-    "title": "Emergency Medicine Physician",
-    "employer": "Thomas Jefferson University",
-    "location": "Torresdale South, Philadelphia County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$121,124-$121,124",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmY7qa5W3EGA2NWvTUS'}",
-    "source_url": "https://www.adzuna.com/details/5756947178?utm_medium=api&utm_source=04e8e9e3",
-    "source_name": "Adzuna",
-    "description_snippet": "Job Details Jefferson Health is seeking a Board Certified/Board Eligible Emergency Medicine Physician to join our growing team at Thomas Jefferson University Hospital in Center City and Methodist Hospital. Job Description Position Highlights Full-time clinical role across two dynamic, high-acuity emergency departments. Opportunities to practice in Center City Philadelphia\u2019s academic medical center and community-based Methodist Hospital, providing a diverse patient population and practice enviro\u2026",
-    "full_description": "Job Details Jefferson Health is seeking a Board Certified/Board Eligible Emergency Medicine Physician to join our growing team at Thomas Jefferson University Hospital in Center City and Methodist Hospital. Job Description Position Highlights Full-time clinical role across two dynamic, high-acuity emergency departments. Opportunities to practice in Center City Philadelphia\u2019s academic medical center and community-based Methodist Hospital, providing a diverse patient population and practice enviro\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "d6b9ba23ea8b",
-    "title": "Emergency Medicine Physician \u2013 Physician Practice Leadership Opportunity",
-    "employer": "MedCBO, Inc",
-    "location": "Washington, D.C., US",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$188,357-$188,357",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmY8MaMz7nNTqoyeU5H'}",
-    "source_url": "https://www.adzuna.com/details/5778534662?utm_medium=api&utm_source=04e8e9e3",
-    "source_name": "Adzuna",
-    "description_snippet": "About MedCBO, Inc. MedCBO is a Colorado-based healthcare business infrastructure company that empowers independent physician groups across the United States to launch, manage, and scale their practices. We provide a comprehensive Business-in-a-Box platform that integrates revenue cycle management, accounting and finance, human resources, EHR support, payer contracting, compliance, supply-chain logistics, and data intelligence. Our unified, cloud-based system gives physicians the operational fou\u2026",
-    "full_description": "About MedCBO, Inc. MedCBO is a Colorado-based healthcare business infrastructure company that empowers independent physician groups across the United States to launch, manage, and scale their practices. We provide a comprehensive Business-in-a-Box platform that integrates revenue cycle management, accounting and finance, human resources, EHR support, payer contracting, compliance, supply-chain logistics, and data intelligence. Our unified, cloud-based system gives physicians the operational fou\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "28718037d39d",
-    "title": "Physician (MD/DO) - Emergency Medicine - $190 to $224 per hour in Washington",
-    "employer": "Lancesoft Inc",
-    "location": "Washington, Washington, D.C.",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$395,200-$465,920",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmY8rM273Z1CkKsKSaK'}",
-    "source_url": "https://www.adzuna.com/details/5768934670?utm_medium=api&utm_source=04e8e9e3",
-    "source_name": "Adzuna",
-    "description_snippet": "Doctor of Medicine | Emergency Medicine Location: Washington Employer: Lancesoft Inc Pay: $190 to $224 per hour Start Date: ASAP About the Position Are you an Emergency Medicine Physician looking for a rewarding opportunity where you can practice broad-spectrum medicine, enjoy physician autonomy, and make a meaningful impact in a close-knit community? Join a growing rural healthcare organization dedicated to providing exceptional emergency and acute care services in the beautiful Pacific Northw\u2026",
-    "full_description": "Doctor of Medicine | Emergency Medicine Location: Washington Employer: Lancesoft Inc Pay: $190 to $224 per hour Start Date: ASAP About the Position Are you an Emergency Medicine Physician looking for a rewarding opportunity where you can practice broad-spectrum medicine, enjoy physician autonomy, and make a meaningful impact in a close-knit community? Join a growing rural healthcare organization dedicated to providing exceptional emergency and acute care services in the beautiful Pacific Northw\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "6b609e2efe3e",
-    "title": "Physician Emergency Medicine - Competitive Salary",
-    "employer": "Archway Physician Recruitment",
-    "location": "Louisville, Boulder County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$104,437-$104,437",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmYBLfRCPL8vT93dq2k'}",
-    "source_url": "https://www.adzuna.com/land/ad/5756049235?se=tFEMtcxz8RG1Ec3-_UvSsA&utm_medium=api&utm_source=04e8e9e3&v=AA7643A833E307311B63A23395F82F468554EF13",
-    "source_name": "Adzuna",
-    "description_snippet": "Job Description Emergency Medicine Opening in Louisville, KY -Full-Time; Permanent position.-Board certified or board eligible in emergency medicine.-Open to Primary Care physicians with at least 5 years emergency medicine experience. -New grads accepted.Excellent opportunity for an emergency medicine physician to join our emergency department team in Louisville, Kentucky. Join our incredible emergency medicine team and further your clinical career in emergency medicine. The hospital has an ann\u2026",
-    "full_description": "Job Description Emergency Medicine Opening in Louisville, KY -Full-Time; Permanent position.-Board certified or board eligible in emergency medicine.-Open to Primary Care physicians with at least 5 years emergency medicine experience. -New grads accepted.Excellent opportunity for an emergency medicine physician to join our emergency department team in Louisville, Kentucky. Join our incredible emergency medicine team and further your clinical career in emergency medicine. The hospital has an ann\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "be6199a835fe",
-    "title": "Physician Emergency Medicine - Competitive Salary",
-    "employer": "The Curare Group, Inc",
-    "location": "Baltimore, Baltimore County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$101,453-$101,453",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmYCZajEjCYk1dnefsC'}",
-    "source_url": "https://www.adzuna.com/land/ad/5751230841?se=aKtxtcxz8RG1Ec3-_UvSsA&utm_medium=api&utm_source=04e8e9e3&v=A1786BE98F9E7C25DF531ACC5D9ED602B847CC62",
-    "source_name": "Adzuna",
-    "description_snippet": "Job Description National Emergency Medicine organization has several opening in Baltimore, MD. There are several opportunities in the area to choose from. Enjoy the opportunity to be near the DC area, as well as all that Maryland has to offer - several nearby airports, over 200 diverse neighborhoods, world class museums and attractions, fine cuisine, sporting events and all of the amenities. Submit your CV to connect! ED volume will range from 16K to 47K (depending on location). Shifts may vary\u2026",
-    "full_description": "Job Description National Emergency Medicine organization has several opening in Baltimore, MD. There are several opportunities in the area to choose from. Enjoy the opportunity to be near the DC area, as well as all that Maryland has to offer - several nearby airports, over 200 diverse neighborhoods, world class museums and attractions, fine cuisine, sporting events and all of the amenities. Submit your CV to connect! ED volume will range from 16K to 47K (depending on location). Shifts may vary\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "3ec28db91c23",
-    "title": "Physician Emergency Medicine - Competitive Salary",
-    "employer": "Summit Recruiting Group",
-    "location": "Baltimore, Baltimore County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$113,285-$113,285",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmYDAoDVuuNMFJsVMGw'}",
-    "source_url": "https://www.adzuna.com/land/ad/5667508049?se=aKtxtcxz8RG1Ec3-_UvSsA&utm_medium=api&utm_source=04e8e9e3&v=7F590CA618D9C1B7B89BAD9BD8530D00D44FE85E",
-    "source_name": "Adzuna",
-    "description_snippet": "Job Description 2026 Nocturnal Intensivist opening in Baltimore, MD Baltimore, MD - Carroll County, Baltimore County, Frederick County, MD Position Details: Full-time - Evening/Night shifts - Hours Vary Seeking a full-time, Nocturnal Intensivist physician to join a Critical Care team. Summer, 2026 Nocturnal Intensivist Approximately 13 to 14 twelve-hour shifts monthly Well-established Critical Care Division presently consists of 11 full-time Critical Care Intensivists and 8 full-time Critical C\u2026",
-    "full_description": "Job Description 2026 Nocturnal Intensivist opening in Baltimore, MD Baltimore, MD - Carroll County, Baltimore County, Frederick County, MD Position Details: Full-time - Evening/Night shifts - Hours Vary Seeking a full-time, Nocturnal Intensivist physician to join a Critical Care team. Summer, 2026 Nocturnal Intensivist Approximately 13 to 14 twelve-hour shifts monthly Well-established Critical Care Division presently consists of 11 full-time Critical Care Intensivists and 8 full-time Critical C\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "a534ba6c0d27",
-    "title": "Emergency Medicine Physician \u2013 Physician Practice Leadership Opportunity",
-    "employer": "MedCBO, Inc",
-    "location": "Baltimore, Baltimore County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$203,030-$203,030",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmYDvCCKG3mVdiX2ZgH'}",
-    "source_url": "https://www.adzuna.com/details/5778534424?utm_medium=api&utm_source=04e8e9e3",
-    "source_name": "Adzuna",
-    "description_snippet": "About MedCBO, Inc. MedCBO is a Colorado-based healthcare business infrastructure company that empowers independent physician groups across the United States to launch, manage, and scale their practices. We provide a comprehensive Business-in-a-Box platform that integrates revenue cycle management, accounting and finance, human resources, EHR support, payer contracting, compliance, supply-chain logistics, and data intelligence. Our unified, cloud-based system gives physicians the operational fou\u2026",
-    "full_description": "About MedCBO, Inc. MedCBO is a Colorado-based healthcare business infrastructure company that empowers independent physician groups across the United States to launch, manage, and scale their practices. We provide a comprehensive Business-in-a-Box platform that integrates revenue cycle management, accounting and finance, human resources, EHR support, payer contracting, compliance, supply-chain logistics, and data intelligence. Our unified, cloud-based system gives physicians the operational fou\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "79de4f600db6",
-    "title": "Physician Emergency Medicine - Competitive Salary",
-    "employer": "Source Medical, LLC.",
-    "location": "Oakland, Garrett County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$84,443-$84,443",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmYEjJuxT3pDsCxyjkQ'}",
-    "source_url": "https://www.adzuna.com/details/5781010034?utm_medium=api&utm_source=04e8e9e3",
-    "source_name": "Adzuna",
-    "description_snippet": "Job Description Emergency Medicine opening in MarylandLocated in Oakland, MD - Pittsburgh 100mFull-time, permanent positionSeeking BC/BE Overview:* The state\u2019s largest health system and largest private employer comprises 18 hospitals throughout the state and bordering states. In addition, it includes five institutes, as well as providing management services for other local hospitals through affiliate agreements.* Critical Access Hospital serving Garrett County and surrounding rural communities*\u2026",
-    "full_description": "Job Description Emergency Medicine opening in MarylandLocated in Oakland, MD - Pittsburgh 100mFull-time, permanent positionSeeking BC/BE Overview:* The state\u2019s largest health system and largest private employer comprises 18 hospitals throughout the state and bordering states. In addition, it includes five institutes, as well as providing management services for other local hospitals through affiliate agreements.* Critical Access Hospital serving Garrett County and surrounding rural communities*\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "d9533849b35e",
-    "title": "Ancillary Support Assoc",
-    "employer": "Northwell Health",
-    "location": "Staten Island, New York City",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$60,923-$60,923",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmYFDaGwGreZ4qR3HN6'}",
-    "source_url": "https://www.adzuna.com/details/5778545951?utm_medium=api&utm_source=04e8e9e3",
-    "source_name": "Adzuna",
-    "description_snippet": "Req Number 189033 Job Description Interviews incoming patients or representatives to obtain identifying information and other data required for admission. Performs a variety of clerical duties supporting Emergency Room registration. Job Responsibility  * Greets, interviews and registers Emergency Room patients or representative.  * Verifies all patient, guarantor, subscriber and insurance information and enters same into department computer system. Uses Pacific Interpreter phone or Pocket Talke\u2026",
-    "full_description": "Req Number 189033 Job Description Interviews incoming patients or representatives to obtain identifying information and other data required for admission. Performs a variety of clerical duties supporting Emergency Room registration. Job Responsibility  * Greets, interviews and registers Emergency Room patients or representative.  * Verifies all patient, guarantor, subscriber and insurance information and enters same into department computer system. Uses Pacific Interpreter phone or Pocket Talke\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "f8ad82f965d1",
-    "title": "Rheumatologist",
-    "employer": "Boston Medical Center",
-    "location": "Brockton, Plymouth County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$255,004-$300,000",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmYFrGxBDMqpwayAAtZ'}",
-    "source_url": "https://www.adzuna.com/details/5779889861?utm_medium=api&utm_source=04e8e9e3",
-    "source_name": "Adzuna",
-    "description_snippet": "Rheumatologist Department of Medicine Boston Medical Center South Boston Medical Center Health System Position Overview Boston Medical Center South, a member of the Boston Medical Center Health System, is seeking a full-time Board Certified/Board Eligible Rheumatologist to join our growing Department of Medicine. The ideal candidate will be a collaborative physician with excellent clinical skills, a commitment to patient-centered care, and a passion for serving a diverse community. This is an o\u2026",
-    "full_description": "Rheumatologist Department of Medicine Boston Medical Center South Boston Medical Center Health System Position Overview Boston Medical Center South, a member of the Boston Medical Center Health System, is seeking a full-time Board Certified/Board Eligible Rheumatologist to join our growing Department of Medicine. The ideal candidate will be a collaborative physician with excellent clinical skills, a commitment to patient-centered care, and a passion for serving a diverse community. This is an o\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "e50f535835e1",
-    "title": "Pediatrics Nephrologist",
-    "employer": "Kaiser Permanente - The Permanente Medical Group, Inc. -Northern California",
-    "location": "Philatelic, Alameda County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$173,738-$173,738",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmYGTFDbSEEG6ZtyeVn'}",
-    "source_url": "https://www.adzuna.com/land/ad/5770764034?se=Cj93tsxz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=04e8e9e3&v=A32808EC06D6CB4F9A3E7035B24313EC3F1896B7",
-    "source_name": "Adzuna",
-    "description_snippet": "TPMG is seeking a full-time BE/BC Pediatrics Nephrologist to join our team in Oakland, CA. The Permanente Medical Group, Inc. (TPMG - Kaiser Permanente Northern California) is one of the largest multispecialty medical groups in the nation with over 10,000 physicians, 21 medical centers, numerous clinics throughout Northern and Central California, and an 80-year tradition of providing quality medical care. We partner exclusively with Kaiser Permanente Health Plan (KPHP) to provide comprehensive \u2026",
-    "full_description": "TPMG is seeking a full-time BE/BC Pediatrics Nephrologist to join our team in Oakland, CA. The Permanente Medical Group, Inc. (TPMG - Kaiser Permanente Northern California) is one of the largest multispecialty medical groups in the nation with over 10,000 physicians, 21 medical centers, numerous clinics throughout Northern and Central California, and an 80-year tradition of providing quality medical care. We partner exclusively with Kaiser Permanente Health Plan (KPHP) to provide comprehensive \u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "7727f0b04f90",
-    "title": "Pediatrics Nephrologist",
-    "employer": "Kaiser Permanente - The Permanente Medical Group, Inc. -Northern California",
-    "location": "Oakland, Oakland County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$316,260-$327,660",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmYGvX5CxosS4VCgyks'}",
-    "source_url": "https://www.adzuna.com/land/ad/5426346555?se=Cj93tsxz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=04e8e9e3&v=E0273590EDC3CA8B3B7BC730DA9EE3B9F9CB6FE3",
-    "source_name": "Adzuna",
-    "description_snippet": "TPMG is seeking a full-time BE/BC Pediatrics Nephrologist to join our team in Oakland, CA. The Permanente Medical Group, Inc. (TPMG - Kaiser Permanente Northern California) is one of the largest multispecialty medical groups in the nation with over 10,000 physicians, 21 medical centers, numerous clinics throughout Northern and Central California, and an 80-year tradition of providing quality medical care. We partner exclusively with Kaiser Permanente Health Plan (KPHP) to provide comprehensive \u2026",
-    "full_description": "TPMG is seeking a full-time BE/BC Pediatrics Nephrologist to join our team in Oakland, CA. The Permanente Medical Group, Inc. (TPMG - Kaiser Permanente Northern California) is one of the largest multispecialty medical groups in the nation with over 10,000 physicians, 21 medical centers, numerous clinics throughout Northern and Central California, and an 80-year tradition of providing quality medical care. We partner exclusively with Kaiser Permanente Health Plan (KPHP) to provide comprehensive \u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "a9883dd43764",
-    "title": "Physician Emergency Medicine - Competitive Salary",
-    "employer": "NHR",
-    "location": "Sacramento, Sacramento County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$89,536-$89,536",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmYHSXaBDQrxnsfMETx'}",
-    "source_url": "https://www.adzuna.com/land/ad/5667607460?se=Cj93tsxz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=04e8e9e3&v=B733333358C6F7E72DC5E13F2960E2682A907A85",
-    "source_name": "Adzuna",
-    "description_snippet": "Job Description Emergency Medicine Physicians needed in Central Valley, CA area A dynamic physician owned Emergency Medicine group in CA is recruiting for several Board Eligible and Board Certified Emergency Medicine physicians. The Physicians will be based at one Medical Center with 70,000 annual Emergency Department visits. The Physicians work 13 shifts or more for full time employment. The ER has double physician coverage for peak hours and Physician Assistants helping staff. The Hospital is\u2026",
-    "full_description": "Job Description Emergency Medicine Physicians needed in Central Valley, CA area A dynamic physician owned Emergency Medicine group in CA is recruiting for several Board Eligible and Board Certified Emergency Medicine physicians. The Physicians will be based at one Medical Center with 70,000 annual Emergency Department visits. The Physicians work 13 shifts or more for full time employment. The ER has double physician coverage for peak hours and Physician Assistants helping staff. The Hospital is\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "988248102ca0",
-    "title": "Physician Advisor",
-    "employer": "Christus Health",
-    "location": "Beaumont, Riverside County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$40,120-$40,120",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmYHuJuHqVgWe3UvSB7'}",
-    "source_url": "https://www.adzuna.com/land/ad/5752829326?se=Cj93tsxz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=04e8e9e3&v=15FD6EC4845AAC9CEA79633B75A39001002F8EE3",
-    "source_name": "Adzuna",
-    "description_snippet": "Description Recruiter Contact Information: Keely Peirce keely.peirce@christushealth.org CHRISTUS Health St. Elizabeth is seeking a full time, in-person Physician Advisor to join the team in Beaumont, TX! Roles and Responsibilities Overview The Physician Advisor is an administrative physician role serving CHRISTUS St. Elizabeth hospital and its affiliates through teaching, consulting, and advising both the Care Management Department and the medical staff on matters regarding physician practice p\u2026",
-    "full_description": "Description Recruiter Contact Information: Keely Peirce keely.peirce@christushealth.org CHRISTUS Health St. Elizabeth is seeking a full time, in-person Physician Advisor to join the team in Beaumont, TX! Roles and Responsibilities Overview The Physician Advisor is an administrative physician role serving CHRISTUS St. Elizabeth hospital and its affiliates through teaching, consulting, and advising both the Care Management Department and the medical staff on matters regarding physician practice p\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "44ad0d8f8b55",
-    "title": "Physician Emergency Medicine - Competitive Salary",
-    "employer": "The Curare Group, Inc",
-    "location": "Quincy, Plumas County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$181,619-$181,619",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmYJQpStUE26AMMrThr'}",
-    "source_url": "https://www.adzuna.com/land/ad/5751187873?se=Cj93tsxz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=04e8e9e3&v=585F41D63900EE502008603A35CD96FE0D810A6C",
-    "source_name": "Adzuna",
-    "description_snippet": "Job Description Western Illinois hospital is seeking an Emergency Medicine physician to join their nocturnist team. Enjoy low cost of living and excellent schools in this welcoming community overlooking the Mississippi River and recently ranked in the top 10 best hometowns in America. 1504 hours per year. 10p-8a shift. Four days on and four days off for a 32-day cycle followed by eight days off. The Emergency Department is supported by attending physicians in all major specialty and sub-special\u2026",
-    "full_description": "Job Description Western Illinois hospital is seeking an Emergency Medicine physician to join their nocturnist team. Enjoy low cost of living and excellent schools in this welcoming community overlooking the Mississippi River and recently ranked in the top 10 best hometowns in America. 1504 hours per year. 10p-8a shift. Four days on and four days off for a 32-day cycle followed by eight days off. The Emergency Department is supported by attending physicians in all major specialty and sub-special\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "f93eb3a47399",
-    "title": "Physician Emergency Medicine - Competitive Salary",
-    "employer": "Enterprise Medical Recruiting",
-    "location": "Boston, Thomas County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$129,055-$129,055",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmYJzYABv6nJHoDunSZ'}",
-    "source_url": "https://www.adzuna.com/land/ad/5667600750?se=opuvtsxz8RG1Ec3-_UvSsA&utm_medium=api&utm_source=04e8e9e3&v=67908F5F10FB51B27122BD22D3ACAB2B3FA0042A",
-    "source_name": "Adzuna",
-    "description_snippet": "Job Description An independent, community-owned healthcare system serving north central Massachusetts and southern New Hampshire is adding an Emergency Medicine Physician. The health system comprises a 134-bed non-profit hospital, a 25-bed not-for-profit Critical Access Hospital, and a Medical Group with six locations. About the Opportunity: 12-hour shifts at two local hospitals 7 am \u2013 7 pm and 7 pm \u2013 7 am at the 134-bed hospital 8 am \u2013 8 pm and 8 pm \u2013 8 am at 25-bed critical access hospital Em\u2026",
-    "full_description": "Job Description An independent, community-owned healthcare system serving north central Massachusetts and southern New Hampshire is adding an Emergency Medicine Physician. The health system comprises a 134-bed non-profit hospital, a 25-bed not-for-profit Critical Access Hospital, and a Medical Group with six locations. About the Opportunity: 12-hour shifts at two local hospitals 7 am \u2013 7 pm and 7 pm \u2013 7 am at the 134-bed hospital 8 am \u2013 8 pm and 8 pm \u2013 8 am at 25-bed critical access hospital Em\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "0b0b2a2d76f0",
-    "title": "Clinic Mental Health - $34-51 per hour",
-    "employer": "UCHealth ",
-    "location": "Aurora, Arapahoe County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$70,720-$106,080",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmYKWYjmTJBWWJ8FneB'}",
-    "source_url": "https://www.adzuna.com/land/ad/5756358840?se=2OiKt8xz8RGz8Id6GTrixg&utm_medium=api&utm_source=04e8e9e3&v=8EC705564BF5CB6AAAA834B4EB9C3B453B9ADF01",
-    "source_name": "Adzuna",
-    "description_snippet": "UCHealth (Colorado) is seeking a Clinic Mental Health for a job in Aurora, Colorado. Job Description & Requirements Specialty: Mental Health Discipline: Therapy Duration: Ongoing 40 hours per week Employment Type: Staff Description Location: UCHealth Anschutz Inpt Pavilion, CO,Aurora Department: Virtual Behavioral Health Ctr Work Schedule: PRN, 0.00 hours per pay period (2 weeks) Shift: Day and Night Rotation Pay: $33.82 - $50.73 / hour. Pay is dependent on applicant's relevant experience This \u2026",
-    "full_description": "UCHealth (Colorado) is seeking a Clinic Mental Health for a job in Aurora, Colorado. Job Description & Requirements Specialty: Mental Health Discipline: Therapy Duration: Ongoing 40 hours per week Employment Type: Staff Description Location: UCHealth Anschutz Inpt Pavilion, CO,Aurora Department: Virtual Behavioral Health Ctr Work Schedule: PRN, 0.00 hours per pay period (2 weeks) Shift: Day and Night Rotation Pay: $33.82 - $50.73 / hour. Pay is dependent on applicant's relevant experience This \u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "e5cf31683e2a",
-    "title": "Registered Nurse Emergency Room",
-    "employer": "CommonSpirit Health",
-    "location": "Westminster, Adams County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$129,141-$129,141",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmYKyaFq43SrqJrnKQn'}",
-    "source_url": "https://www.adzuna.com/details/5778522660?utm_medium=api&utm_source=04e8e9e3",
-    "source_name": "Adzuna",
-    "description_snippet": "Job Summary and Responsibilities Depending on your location, you may be eligible for up to $8,000 in relocation assistance Nurses are at the heartbeat of our organization and your time will be spent in a supportive, team environment with resources to help you flourish and leaders who care about your success. We offer Certification pay and a Clinical Career Ladder to help you grow and recognize your contributions to clinical excellence! Here, you will help advance modern nursing by providing you\u2026",
-    "full_description": "Job Summary and Responsibilities Depending on your location, you may be eligible for up to $8,000 in relocation assistance Nurses are at the heartbeat of our organization and your time will be spent in a supportive, team environment with resources to help you flourish and leaders who care about your success. We offer Certification pay and a Clinical Career Ladder to help you grow and recognize your contributions to clinical excellence! Here, you will help advance modern nursing by providing you\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "37dca0464815",
-    "title": "Critical Care Tech",
-    "employer": "CommonSpirit Health",
-    "location": "Westminster, Adams County",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "$80,094-$80,094",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmYLSrDrkLkgGKdyXHu'}",
-    "source_url": "https://www.adzuna.com/details/5761208096?utm_medium=api&utm_source=04e8e9e3",
-    "source_name": "Adzuna",
-    "description_snippet": "Transformed from the original 84th Avenue St. Anthony North Hospital location, 84th Avenue Neighborhood Health Center opened as a primary care and crisis care facility in 2015 to serve the surrounding community with an ER, primary care, crisis care and specialty physician practices. The Emergency Department at our 84th Avenue Neighborhood Health Center is a freestanding, Level IV trauma ED, with 16 beds and approximately 48 patients per day. Here, nurses can broaden their skills. A fair portion\u2026",
-    "full_description": "Transformed from the original 84th Avenue St. Anthony North Hospital location, 84th Avenue Neighborhood Health Center opened as a primary care and crisis care facility in 2015 to serve the surrounding community with an ER, primary care, crisis care and specialty physician practices. The Emergency Department at our 84th Avenue Neighborhood Health Center is a freestanding, Level IV trauma ED, with 16 beds and approximately 48 patients per day. Here, nurses can broaden their skills. A fair portion\u2026",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "be969e50d056",
-    "title": "Emergency Medicine Physician in Oceanside, CA",
-    "employer": "Tri-City Medical Center",
-    "location": "Oceanside, CA",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "Not listed",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmYLx7bQ1owXESniYJK'}",
-    "source_url": "https://jobs.practicelink.com/jobs/1583805/emergency-medicine/physician/california/tri-city-medical-center/",
-    "source_name": "PracticeLink",
-    "description_snippet": "CA | Employer Direct | Emergency Medicine Physician in Oceanside, CA | Tri-City Medical Center | part of | TeamHealth | Oceanside, CA | Physician-Emergency Medicine | Other | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to Pr",
-    "full_description": "CA | Employer Direct | Emergency Medicine Physician in Oceanside, CA | Tri-City Medical Center | part of | TeamHealth | Oceanside, CA | Physician-Emergency Medicine | Other | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1583805 | Emergency Medicine Physician in Oceanside, CA | Tri-City Medical Center | Oceanside, CA | Undo",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "707c2f4d2ca3",
-    "title": "Emergency Medicine- Atlanta, GA",
-    "employer": "Piedmont Atlanta Hospital",
-    "location": "Atlanta, GA",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "Not listed",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmYMTNnQnJx8Q14vQyo'}",
-    "source_url": "https://jobs.practicelink.com/jobs/1527074/emergency-medicine/physician/georgia/piedmont-atlanta-hospital/",
-    "source_name": "PracticeLink",
-    "description_snippet": "GA | Employer Direct | Emergency Medicine- Atlanta, GA | Piedmont Atlanta Hospital | part of | Piedmont  Healthcare - GA | Atlanta, GA | Physician-Emergency Medicine | Full-Time | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New ",
-    "full_description": "GA | Employer Direct | Emergency Medicine- Atlanta, GA | Piedmont Atlanta Hospital | part of | Piedmont  Healthcare - GA | Atlanta, GA | Physician-Emergency Medicine | Full-Time | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1527074 | Emergency Medicine- Atlanta, GA | Piedmont Atlanta Hospital | Atlanta, GA | Undo",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "c792984b09d3",
-    "title": "Join a Private Practice, Independent Emergency Medicine group less than 1 hour from Atlanta, GA with Carrollton Emergency Physicians",
-    "employer": "Tanner Medical Center/Carrollton",
-    "location": "Atlanta, GA",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "Not listed",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmYMvQ9ubxbVwBFPt33'}",
-    "source_url": "https://jobs.practicelink.com/jobs/1580881/emergency-medicine/physician/georgia/tanner-medical-center-carrollton/",
-    "source_name": "PracticeLink",
-    "description_snippet": "GA | Employer Direct | Join a Private Practice, Independent Emergency Medicine group less than 1 hour from Atlanta, GA with Carrollton Emergency Physicians | Tanner Medical Center/Carrollton | part of | Tanner Health | Carrollton, GA | Physician-Emergency Medicine | Full-Time | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activ",
-    "full_description": "GA | Employer Direct | Join a Private Practice, Independent Emergency Medicine group less than 1 hour from Atlanta, GA with Carrollton Emergency Physicians | Tanner Medical Center/Carrollton | part of | Tanner Health | Carrollton, GA | Physician-Emergency Medicine | Full-Time | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1580881 | Join a Private Practice, Independent Emergency Medicine group less than 1 hour from Atlanta, GA with Carrollton Emergency Physicians | Tanner Medical Center/Carrollton | Carrollton, GA | Undo",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
-    "id": "d926f9403c14",
-    "title": "Emergency Medicine Physician Job Charlotte, NC",
-    "employer": "Vohra Wound Physicians - Charlotte, NC",
-    "location": "Physician Job Charlotte, NC",
-    "location_region": "Unknown",
-    "location_priority": 99,
-    "salary": "Not listed",
-    "salary_numeric": null,
-    "institution_type": "Unknown",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Low",
-    "analysis_notes": "Classification error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CcXmYNcpStCzLTF4C9Sy4'}",
-    "source_url": "https://jobs.practicelink.com/jobs/1581562/emergency-medicine/physician/north-carolina/vohra-wound-physicians-charlotte-nc/",
-    "source_name": "PracticeLink",
-    "description_snippet": "NC | Employer Direct | Emergency Medicine Physician Job Charlotte, NC | Vohra Wound Physicians - Charlotte, NC | part of | Vohra Wound Physicians | Charlotte, NC | Physician-Emergency Medicine | Full-Time | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to b",
-    "full_description": "NC | Employer Direct | Emergency Medicine Physician Job Charlotte, NC | Vohra Wound Physicians - Charlotte, NC | part of | Vohra Wound Physicians | Charlotte, NC | Physician-Emergency Medicine | Full-Time | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1581562 | Emergency Medicine Physician Job Charlotte, NC | Vohra Wound Physicians - Charlotte, NC | Charlotte, NC | Undo",
-    "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29",
-    "status": "active",
-    "is_new": true,
-    "red_flags": [
-      "classification_error"
-    ],
-    "missed_scrapes": 0
-  },
-  {
     "id": "f309f27509e3",
     "title": "Emergency Medicine Physician",
     "employer": "Emergent Medical Associates",
@@ -1048,7 +22,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 3
   },
   {
     "id": "59883caf181d",
@@ -1073,7 +47,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 3
   },
   {
     "id": "2c973c6ee338",
@@ -1098,7 +72,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 4
+    "missed_scrapes": 3
   },
   {
     "id": "5176897e1d12",
@@ -1123,7 +97,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 6
+    "missed_scrapes": 5
   },
   {
     "id": "29452fbac450",
@@ -1148,7 +122,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 6
   },
   {
     "id": "d08779a29fbe",
@@ -1173,7 +147,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 7
+    "missed_scrapes": 6
   },
   {
     "id": "7dfc65576787",
@@ -1198,7 +172,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 11
+    "missed_scrapes": 10
   },
   {
     "id": "c69d2ad35d31",
@@ -1223,7 +197,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 12
+    "missed_scrapes": 11
   },
   {
     "id": "0f6e9e0f5520",
@@ -1248,7 +222,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 12
+    "missed_scrapes": 11
   },
   {
     "id": "a815ed8c7cde",
@@ -1273,7 +247,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 13
+    "missed_scrapes": 12
   },
   {
     "id": "3304dbb50824",
@@ -1298,7 +272,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 13
+    "missed_scrapes": 12
   },
   {
     "id": "a2c5edbbabd7",
@@ -1323,7 +297,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 13
+    "missed_scrapes": 12
   },
   {
     "id": "3353575e44b0",
@@ -1348,7 +322,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 19
+    "missed_scrapes": 18
   },
   {
     "id": "8c468486217e",
@@ -1373,7 +347,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 20
+    "missed_scrapes": 19
   },
   {
     "id": "f9d34a7138c7",
@@ -1400,7 +374,7 @@
     "red_flags": [
       "Listed as 'Urgent Care' but description suggests Emergency Medicine"
     ],
-    "missed_scrapes": 26
+    "missed_scrapes": 25
   },
   {
     "id": "fe3d9200d3f0",
@@ -1427,7 +401,7 @@
     "red_flags": [
       "Possible Urgent Care position rather than Emergency Medicine"
     ],
-    "missed_scrapes": 27
+    "missed_scrapes": 26
   },
   {
     "id": "df16a0eea8ac",
@@ -1452,7 +426,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 27
+    "missed_scrapes": 26
   },
   {
     "id": "ce25ff788f7d",
@@ -1479,7 +453,7 @@
     "red_flags": [
       "Labeled as 'Urgent Care' in description despite Emergency Medicine title"
     ],
-    "missed_scrapes": 27
+    "missed_scrapes": 26
   },
   {
     "id": "c15b00aab80e",
@@ -1506,7 +480,7 @@
     "red_flags": [
       "Possibly Urgent Care disguised as Emergency Medicine"
     ],
-    "missed_scrapes": 28
+    "missed_scrapes": 27
   },
   {
     "id": "48febad6757f",
@@ -1533,7 +507,7 @@
     "red_flags": [
       "Possible Urgent Care position rather than Emergency Medicine"
     ],
-    "missed_scrapes": 28
+    "missed_scrapes": 27
   },
   {
     "id": "ae362bb1fd33",
@@ -1560,7 +534,7 @@
     "red_flags": [
       "Urgent Care position - may not be true Emergency Medicine"
     ],
-    "missed_scrapes": 28
+    "missed_scrapes": 27
   },
   {
     "id": "d696af035fdd",
@@ -1585,7 +559,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 29
+    "missed_scrapes": 28
   },
   {
     "id": "95a548db328f",
@@ -1610,7 +584,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 29
+    "missed_scrapes": 28
   },
   {
     "id": "d465f4da0a91",
@@ -1637,7 +611,7 @@
     "red_flags": [
       "Position appears to be Urgent Care rather than Emergency Medicine"
     ],
-    "missed_scrapes": 29
+    "missed_scrapes": 28
   },
   {
     "id": "055fdaf9d5fb",
@@ -1664,7 +638,7 @@
     "red_flags": [
       "Salary below minimum requirement of $300K at lower end"
     ],
-    "missed_scrapes": 29
+    "missed_scrapes": 28
   },
   {
     "id": "df633ac3b8b9",
@@ -1691,7 +665,7 @@
     "red_flags": [
       "Listed as 'Urgent Care' in description, not traditional Emergency Medicine"
     ],
-    "missed_scrapes": 29
+    "missed_scrapes": 28
   },
   {
     "id": "7c6fa7b9d417",
@@ -1716,7 +690,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 30
+    "missed_scrapes": 29
   },
   {
     "id": "ffaad8e39402",
@@ -1743,7 +717,7 @@
     "red_flags": [
       "Listed as Emergency Medicine but described as Urgent Care position"
     ],
-    "missed_scrapes": 31
+    "missed_scrapes": 30
   },
   {
     "id": "f4634121801e",
@@ -1770,7 +744,7 @@
     "red_flags": [
       "Urgent Care position - not traditional Emergency Medicine"
     ],
-    "missed_scrapes": 32
+    "missed_scrapes": 31
   },
   {
     "id": "3aee46871dea",
@@ -1797,7 +771,7 @@
     "red_flags": [
       "Appears to be Urgent Care rather than Emergency Medicine"
     ],
-    "missed_scrapes": 34
+    "missed_scrapes": 33
   },
   {
     "id": "688eab8c2c65",
@@ -1824,7 +798,7 @@
     "red_flags": [
       "May be Urgent Care position rather than true Emergency Medicine"
     ],
-    "missed_scrapes": 34
+    "missed_scrapes": 33
   },
   {
     "id": "74326d8cec40",
@@ -1851,7 +825,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 35
+    "missed_scrapes": 34
   },
   {
     "id": "25f3940f3fe9",
@@ -1878,7 +852,7 @@
     "red_flags": [
       "Listed salary range $285K-$340K may be below target range"
     ],
-    "missed_scrapes": 35
+    "missed_scrapes": 34
   },
   {
     "id": "2a560cc994d2",
@@ -1905,7 +879,7 @@
     "red_flags": [
       "Potential urgent care position - may not be traditional emergency medicine"
     ],
-    "missed_scrapes": 35
+    "missed_scrapes": 34
   },
   {
     "id": "35c336184e46",
@@ -1932,7 +906,7 @@
     "red_flags": [
       "Urgent Care position - not traditional Emergency Medicine"
     ],
-    "missed_scrapes": 36
+    "missed_scrapes": 35
   },
   {
     "id": "c1548481ac41",
@@ -1959,7 +933,7 @@
     "red_flags": [
       "Position appears to be Urgent Care rather than traditional Emergency Medicine"
     ],
-    "missed_scrapes": 37
+    "missed_scrapes": 36
   },
   {
     "id": "de3c6a11ba55",
@@ -1984,7 +958,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 38
+    "missed_scrapes": 37
   },
   {
     "id": "65da9d9cabf9",
@@ -2009,7 +983,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 38
+    "missed_scrapes": 37
   },
   {
     "id": "dc7947e53f7e",
@@ -2034,7 +1008,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 38
+    "missed_scrapes": 37
   },
   {
     "id": "c842e6458d36",
@@ -2059,7 +1033,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 38
+    "missed_scrapes": 37
   },
   {
     "id": "f6ae7e7a05a1",
@@ -2084,7 +1058,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 38
+    "missed_scrapes": 37
   },
   {
     "id": "dd9bc9858ed0",
@@ -2109,7 +1083,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 38
+    "missed_scrapes": 37
   },
   {
     "id": "bbb3aefbbfd9",
@@ -2134,7 +1108,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 39
+    "missed_scrapes": 38
   },
   {
     "id": "994d22268f6d",
@@ -2159,7 +1133,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 39
+    "missed_scrapes": 38
   },
   {
     "id": "5d3ab1172a00",
@@ -2184,7 +1158,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 39
+    "missed_scrapes": 38
   },
   {
     "id": "c4b6e03658a1",
@@ -2209,7 +1183,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 39
+    "missed_scrapes": 38
   },
   {
     "id": "29c6bbc5ff2c",
@@ -2234,7 +1208,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 39
+    "missed_scrapes": 38
   },
   {
     "id": "8482ccb945a4",
@@ -2259,7 +1233,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 39
+    "missed_scrapes": 38
   },
   {
     "id": "4707fe0954c2",
@@ -2284,7 +1258,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 39
+    "missed_scrapes": 38
   },
   {
     "id": "35561c6e5e04",
@@ -2309,7 +1283,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 39
+    "missed_scrapes": 38
   },
   {
     "id": "ce599959efec",
@@ -2334,7 +1308,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 39
+    "missed_scrapes": 38
   },
   {
     "id": "6608e664b409",
@@ -2359,7 +1333,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 39
+    "missed_scrapes": 38
   },
   {
     "id": "f8b0b4d40769",
@@ -2384,7 +1358,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 40
+    "missed_scrapes": 39
   },
   {
     "id": "08eb44b01d65",
@@ -2409,7 +1383,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 40
+    "missed_scrapes": 39
   },
   {
     "id": "a294a15c767a",
@@ -2434,7 +1408,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 40
+    "missed_scrapes": 39
   },
   {
     "id": "c2c16b1d34a4",
@@ -2459,7 +1433,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 40
+    "missed_scrapes": 39
   },
   {
     "id": "85582c648d9d",
@@ -2484,7 +1458,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 40
+    "missed_scrapes": 39
   },
   {
     "id": "4654e563542f",
@@ -2509,7 +1483,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 40
+    "missed_scrapes": 39
   },
   {
     "id": "2e68f9196b2a",
@@ -2534,7 +1508,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 40
+    "missed_scrapes": 39
   },
   {
     "id": "bdb83bcae688",
@@ -2559,7 +1533,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 41
+    "missed_scrapes": 40
   },
   {
     "id": "529166ff7ff4",
@@ -2584,7 +1558,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 41
+    "missed_scrapes": 40
   },
   {
     "id": "b74c7e45574f",
@@ -2609,7 +1583,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 41
+    "missed_scrapes": 40
   },
   {
     "id": "c9ad1643da5a",
@@ -2634,7 +1608,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 41
+    "missed_scrapes": 40
   },
   {
     "id": "55f99fefad9d",
@@ -2663,7 +1637,7 @@
       "Requires security clearance",
       "Government employment"
     ],
-    "missed_scrapes": 41
+    "missed_scrapes": 40
   },
   {
     "id": "0e8f1b6c96ff",
@@ -2688,7 +1662,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 41
+    "missed_scrapes": 40
   },
   {
     "id": "83eb444c2e07",
@@ -2713,7 +1687,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 41
+    "missed_scrapes": 40
   },
   {
     "id": "4d22ba3d8e38",
@@ -2738,7 +1712,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 41
+    "missed_scrapes": 40
   },
   {
     "id": "86dde03423c0",
@@ -2763,7 +1737,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "c365ab37d373",
@@ -2788,7 +1762,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "7d96541f76c8",
@@ -2813,7 +1787,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "4f922f1e2bfe",
@@ -2838,7 +1812,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "fadf87d4bcdb",
@@ -2863,7 +1837,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "14d75e971136",
@@ -2888,7 +1862,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "bbcf38e9c8ab",
@@ -2915,7 +1889,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "de9f998ea2b5",
@@ -2942,7 +1916,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "d68f2b612626",
@@ -2969,7 +1943,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "4226f10a0828",
@@ -2996,7 +1970,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "5d4061b16acb",
@@ -3023,7 +1997,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "17d0d7f3e4c6",
@@ -3050,7 +2024,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "35d02704fc5d",
@@ -3077,7 +2051,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "c917b2c5b1d1",
@@ -3104,7 +2078,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "b4b37307e13f",
@@ -3131,7 +2105,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "2c0b02b2ea00",
@@ -3158,7 +2132,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "72d9f2fd1929",
@@ -3185,7 +2159,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "6e7471a00d61",
@@ -3212,7 +2186,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "58e910e2a1bf",
@@ -3239,7 +2213,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "8e96e4dccaea",
@@ -3266,7 +2240,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "8223d07ec1d3",
@@ -3293,7 +2267,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "48117f9f793e",
@@ -3320,7 +2294,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "c9e948e801c1",
@@ -3347,7 +2321,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "3e7299b2d585",
@@ -3374,7 +2348,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "dd95d1d02f4a",
@@ -3401,7 +2375,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "09886d2fabd7",
@@ -3428,7 +2402,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "41948b13ad8e",
@@ -3455,7 +2429,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "1afd0c0b2301",
@@ -3482,7 +2456,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "12d8ee30b6e2",
@@ -3509,7 +2483,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "6ce8cb6599c4",
@@ -3536,7 +2510,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "f1aff801224e",
@@ -3563,7 +2537,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "81bc21742893",
@@ -3590,7 +2564,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "98dddbf0d279",
@@ -3617,7 +2591,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "d60f44d74d74",
@@ -3644,7 +2618,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "c86acdfa7672",
@@ -3671,7 +2645,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "ec7c1918b290",
@@ -3698,7 +2672,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "f94c825ec0be",
@@ -3725,7 +2699,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "528fa565925e",
@@ -3752,7 +2726,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "e77e28806cd5",
@@ -3779,7 +2753,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "e6c73124235c",
@@ -3806,7 +2780,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "b26f4aad516b",
@@ -3833,7 +2807,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "4db6076e5033",
@@ -3860,7 +2834,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "710f5ee46a50",
@@ -3887,7 +2861,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "d8ddb18a85ea",
@@ -3914,7 +2888,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "53918e88a930",
@@ -3941,7 +2915,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "6cb385831452",
@@ -3968,7 +2942,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "1ff9ebe97479",
@@ -3995,7 +2969,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "610dc4b4e7b1",
@@ -4022,7 +2996,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "8332ad3ca59a",
@@ -4049,7 +3023,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "828655d61437",
@@ -4076,7 +3050,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "b4595992d738",
@@ -4103,7 +3077,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "8b872935877d",
@@ -4130,7 +3104,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "2444be3499fb",
@@ -4157,7 +3131,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "318ad3758e15",
@@ -4184,7 +3158,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "9301f1c2ad6f",
@@ -4211,7 +3185,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "230f66060e1e",
@@ -4238,7 +3212,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "6737d4a68d33",
@@ -4265,7 +3239,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "6229f899f4fd",
@@ -4292,7 +3266,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "8b17209c5a58",
@@ -4319,7 +3293,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "a70f2e35bef6",
@@ -4346,7 +3320,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "b65fea12f910",
@@ -4373,7 +3347,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "b314e6194766",
@@ -4400,7 +3374,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "605cf2401384",
@@ -4427,7 +3401,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "c14070508fea",
@@ -4454,7 +3428,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "e7aa2da31ba0",
@@ -4481,7 +3455,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "4751a8327ee5",
@@ -4508,7 +3482,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "7118646c7451",
@@ -4535,7 +3509,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "c81ba0de0c81",
@@ -4562,7 +3536,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "02761c996a6c",
@@ -4589,7 +3563,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "9da552835b03",
@@ -4616,7 +3590,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "7992300d8c5f",
@@ -4643,7 +3617,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "ad95122841e5",
@@ -4670,7 +3644,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "47eac8aa54ca",
@@ -4697,7 +3671,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "3335a8e266f6",
@@ -4724,7 +3698,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "c7be128fd6be",
@@ -4751,7 +3725,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "9da54953af9b",
@@ -4778,7 +3752,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "4a72db19afc7",
@@ -4805,7 +3779,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "9bb8eb6a7dcf",
@@ -4832,7 +3806,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "20eeb65cbbba",
@@ -4859,7 +3833,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "19ede0e2a830",
@@ -4886,7 +3860,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "402dfbf25612",
@@ -4913,7 +3887,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "a11a2a15b821",
@@ -4940,7 +3914,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "355cbb4adc86",
@@ -4967,7 +3941,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "982324d29696",
@@ -4994,7 +3968,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "24148b4fc284",
@@ -5021,7 +3995,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "780dd8620877",
@@ -5048,7 +4022,7 @@
     "red_flags": [
       "classification_error"
     ],
-    "missed_scrapes": 42
+    "missed_scrapes": 41
   },
   {
     "id": "4d884d33d47b",
@@ -5073,7 +4047,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 43
+    "missed_scrapes": 42
   },
   {
     "id": "01961943cac6",
@@ -5098,7 +4072,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 43
+    "missed_scrapes": 42
   },
   {
     "id": "076e4ccf8d68",
@@ -5123,7 +4097,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 43
+    "missed_scrapes": 42
   },
   {
     "id": "b396fba08d3e",
@@ -5148,7 +4122,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 43
+    "missed_scrapes": 42
   },
   {
     "id": "77c5fd1d3fd8",
@@ -5173,7 +4147,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 43
+    "missed_scrapes": 42
   },
   {
     "id": "8ee4ed5175c9",
@@ -5198,7 +4172,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 43
+    "missed_scrapes": 42
   },
   {
     "id": "266e2ab00795",
@@ -5223,7 +4197,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 43
+    "missed_scrapes": 42
   },
   {
     "id": "73dbbbf07f1d",
@@ -5248,7 +4222,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 43
+    "missed_scrapes": 42
   },
   {
     "id": "29247b874210",
@@ -5273,7 +4247,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 43
+    "missed_scrapes": 42
   },
   {
     "id": "9d9b8fae846b",
@@ -5298,7 +4272,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 43
+    "missed_scrapes": 42
   },
   {
     "id": "603f22f422fc",
@@ -5323,7 +4297,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 43
+    "missed_scrapes": 42
   },
   {
     "id": "0a26f145928f",
@@ -5348,7 +4322,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 43
+    "missed_scrapes": 42
   },
   {
     "id": "5d2324d9ee36",
@@ -5373,7 +4347,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 43
+    "missed_scrapes": 42
   },
   {
     "id": "6228687c9b1d",
@@ -5398,7 +4372,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 43
+    "missed_scrapes": 42
   },
   {
     "id": "4fa24c58eb5c",
@@ -5423,7 +4397,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 43
+    "missed_scrapes": 42
   },
   {
     "id": "0ef0af571fcf",
@@ -5448,7 +4422,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 43
+    "missed_scrapes": 42
   },
   {
     "id": "4a4bee2471d9",
@@ -5473,7 +4447,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 43
+    "missed_scrapes": 42
   },
   {
     "id": "937de2a51aa5",
@@ -5498,7 +4472,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 43
+    "missed_scrapes": 42
   },
   {
     "id": "2d205212c023",
@@ -5523,7 +4497,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 43
+    "missed_scrapes": 42
   },
   {
     "id": "df3470dd02b7",
@@ -5548,7 +4522,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 44
+    "missed_scrapes": 43
   },
   {
     "id": "d8084bc78b41",
@@ -5577,7 +4551,7 @@
       "Security clearance required",
       "Mission essential designation"
     ],
-    "missed_scrapes": 44
+    "missed_scrapes": 43
   },
   {
     "id": "743eadd7ad44",
@@ -5602,7 +4576,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 44
+    "missed_scrapes": 43
   },
   {
     "id": "e5bf30e00dda",
@@ -5627,7 +4601,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 44
+    "missed_scrapes": 43
   },
   {
     "id": "5bbae10a9e53",
@@ -5654,7 +4628,7 @@
     "red_flags": [
       "Part-time position may not meet full-time requirement"
     ],
-    "missed_scrapes": 44
+    "missed_scrapes": 43
   },
   {
     "id": "61335f927772",
@@ -5679,7 +4653,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 44
+    "missed_scrapes": 43
   },
   {
     "id": "0bd384e4a55a",
@@ -5704,7 +4678,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 45
+    "missed_scrapes": 44
   },
   {
     "id": "710ca0f1c7a3",
@@ -5729,7 +4703,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 45
+    "missed_scrapes": 44
   },
   {
     "id": "ab25b16ba222",
@@ -5754,7 +4728,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 45
+    "missed_scrapes": 44
   },
   {
     "id": "1071b2d8e942",
@@ -5779,7 +4753,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 45
+    "missed_scrapes": 44
   },
   {
     "id": "692b89eb2422",
@@ -5804,7 +4778,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 45
+    "missed_scrapes": 44
   },
   {
     "id": "62d476447c49",
@@ -5829,7 +4803,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 45
+    "missed_scrapes": 44
   },
   {
     "id": "8853e28cf59b",
@@ -5854,7 +4828,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 45
+    "missed_scrapes": 44
   },
   {
     "id": "6a8e3e062566",
@@ -5879,7 +4853,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 45
+    "missed_scrapes": 44
   },
   {
     "id": "a808c3253c22",
@@ -5904,7 +4878,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 45
+    "missed_scrapes": 44
   },
   {
     "id": "a8d09853ea24",
@@ -5931,7 +4905,7 @@
     "red_flags": [
       "Leadership role - may be disguised Medical Director position"
     ],
-    "missed_scrapes": 46
+    "missed_scrapes": 45
   },
   {
     "id": "9b0abea31c7f",
@@ -5956,7 +4930,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 46
+    "missed_scrapes": 45
   },
   {
     "id": "315810a303c1",
@@ -5981,7 +4955,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 46
+    "missed_scrapes": 45
   },
   {
     "id": "39fc57c339c0",
@@ -6006,7 +4980,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 46
+    "missed_scrapes": 45
   },
   {
     "id": "1fa9f03e7362",
@@ -6031,7 +5005,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 46
+    "missed_scrapes": 45
   },
   {
     "id": "45eb155df3f7",
@@ -6056,7 +5030,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 46
+    "missed_scrapes": 45
   },
   {
     "id": "f5d53fe049bb",
@@ -6081,7 +5055,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 47
+    "missed_scrapes": 46
   },
   {
     "id": "9fcf363e5375",
@@ -6106,7 +5080,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 47
+    "missed_scrapes": 46
   },
   {
     "id": "e006d60369f4",
@@ -6131,7 +5105,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 47
+    "missed_scrapes": 46
   },
   {
     "id": "d840c19fa995",
@@ -6156,7 +5130,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 47
+    "missed_scrapes": 46
   },
   {
     "id": "d560ef77a24f",
@@ -6181,7 +5155,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 47
+    "missed_scrapes": 46
   },
   {
     "id": "3eed6ed98ac5",
@@ -6206,7 +5180,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 47
+    "missed_scrapes": 46
   },
   {
     "id": "3a9a8943beee",
@@ -6231,7 +5205,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 47
+    "missed_scrapes": 46
   },
   {
     "id": "0598084124f6",
@@ -6256,7 +5230,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 47
+    "missed_scrapes": 46
   },
   {
     "id": "d4cbfa1d699e",
@@ -6281,7 +5255,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 49
+    "missed_scrapes": 48
   },
   {
     "id": "f32fca09eb0f",
@@ -6306,7 +5280,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 49
+    "missed_scrapes": 48
   },
   {
     "id": "27d207f5bc9a",
@@ -6331,7 +5305,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 49
+    "missed_scrapes": 48
   },
   {
     "id": "c96575e5c89a",
@@ -6356,7 +5330,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 49
+    "missed_scrapes": 48
   },
   {
     "id": "5ab2f498b1c8",
@@ -6381,7 +5355,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 49
+    "missed_scrapes": 48
   },
   {
     "id": "5a399cfec917",
@@ -6406,7 +5380,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 50
+    "missed_scrapes": 49
   },
   {
     "id": "efa053c2f6ed",
@@ -6431,7 +5405,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 50
+    "missed_scrapes": 49
   },
   {
     "id": "a56628eac1f8",
@@ -6456,7 +5430,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 50
+    "missed_scrapes": 49
   },
   {
     "id": "f3280af2e39d",
@@ -6481,7 +5455,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 50
+    "missed_scrapes": 49
   },
   {
     "id": "aab608699843",
@@ -6506,7 +5480,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 50
+    "missed_scrapes": 49
   },
   {
     "id": "e54444056706",
@@ -6531,7 +5505,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 50
+    "missed_scrapes": 49
   },
   {
     "id": "1cdbd74ed43c",
@@ -6556,7 +5530,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 51
+    "missed_scrapes": 50
   },
   {
     "id": "e82721e8f611",
@@ -6581,7 +5555,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 51
+    "missed_scrapes": 50
   },
   {
     "id": "0e9b2b079b94",
@@ -6606,7 +5580,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 51
+    "missed_scrapes": 50
   },
   {
     "id": "96664c566ebf",
@@ -6631,7 +5605,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 51
+    "missed_scrapes": 50
   },
   {
     "id": "799f14622f17",
@@ -6656,7 +5630,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 51
+    "missed_scrapes": 50
   },
   {
     "id": "8ad2bfe2d4e4",
@@ -6681,7 +5655,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 51
+    "missed_scrapes": 50
   },
   {
     "id": "751d29a86340",
@@ -6706,7 +5680,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 51
+    "missed_scrapes": 50
   },
   {
     "id": "62bddec0fb7d",
@@ -6731,7 +5705,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 52
+    "missed_scrapes": 51
   },
   {
     "id": "a557e855c92e",
@@ -6756,7 +5730,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 52
+    "missed_scrapes": 51
   },
   {
     "id": "12a79f625c5c",
@@ -6781,7 +5755,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 52
+    "missed_scrapes": 51
   },
   {
     "id": "1eb5d53557a3",
@@ -6806,7 +5780,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 52
+    "missed_scrapes": 51
   },
   {
     "id": "d74fbf6507c1",
@@ -6831,7 +5805,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 52
+    "missed_scrapes": 51
   },
   {
     "id": "592ba5008ca8",
@@ -6856,7 +5830,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 52
+    "missed_scrapes": 51
   },
   {
     "id": "435c9979cf36",
@@ -6881,7 +5855,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 52
+    "missed_scrapes": 51
   },
   {
     "id": "d54fd74d3db3",
@@ -6906,7 +5880,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 53
+    "missed_scrapes": 52
   },
   {
     "id": "c3cea9d64dfd",
@@ -6931,7 +5905,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 53
+    "missed_scrapes": 52
   },
   {
     "id": "bced4e29dd95",
@@ -6960,7 +5934,7 @@
       "No salary information provided",
       "Vague job description"
     ],
-    "missed_scrapes": 53
+    "missed_scrapes": 52
   },
   {
     "id": "411b09969840",
@@ -6985,7 +5959,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 53
+    "missed_scrapes": 52
   },
   {
     "id": "b977b2ccbb85",
@@ -7010,7 +5984,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 54
+    "missed_scrapes": 53
   },
   {
     "id": "da881ffc56b0",
@@ -7035,7 +6009,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 54
+    "missed_scrapes": 53
   },
   {
     "id": "42cf998cc7d0",
@@ -7060,7 +6034,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 54
+    "missed_scrapes": 53
   },
   {
     "id": "4dd5d35fb7a7",
@@ -7085,7 +6059,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 54
+    "missed_scrapes": 53
   },
   {
     "id": "236d7e3af646",
@@ -7114,7 +6088,7 @@
       "Requires security clearance",
       "Mission Essential designation"
     ],
-    "missed_scrapes": 55
+    "missed_scrapes": 54
   },
   {
     "id": "26d34bebf18b",
@@ -7139,7 +6113,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 55
+    "missed_scrapes": 54
   },
   {
     "id": "bcef70d10735",
@@ -7164,7 +6138,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 56
+    "missed_scrapes": 55
   },
   {
     "id": "c58c06eb7fb8",
@@ -7189,7 +6163,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 57
+    "missed_scrapes": 56
   },
   {
     "id": "5c029ba295b3",
@@ -7217,7 +6191,7 @@
       "Vague job description",
       "May be urgent care rather than emergency medicine"
     ],
-    "missed_scrapes": 58
+    "missed_scrapes": 57
   },
   {
     "id": "3c0a0655c69c",
@@ -7242,7 +6216,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 58
+    "missed_scrapes": 57
   },
   {
     "id": "e19db5b4b68a",
@@ -7267,7 +6241,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 58
+    "missed_scrapes": 57
   },
   {
     "id": "86d2f90992d3",
@@ -7292,7 +6266,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 58
+    "missed_scrapes": 57
   },
   {
     "id": "8bce84296009",
@@ -7317,7 +6291,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 58
+    "missed_scrapes": 57
   },
   {
     "id": "900dab2d66bc",
@@ -7342,7 +6316,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 59
+    "missed_scrapes": 58
   },
   {
     "id": "65ec272c89dc",
@@ -7367,7 +6341,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 59
+    "missed_scrapes": 58
   },
   {
     "id": "2ef91debd5a7",
@@ -7392,7 +6366,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 60
+    "missed_scrapes": 59
   },
   {
     "id": "c741fdd25e2a",
@@ -7417,7 +6391,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 60
+    "missed_scrapes": 59
   },
   {
     "id": "575cd4a502f7",
@@ -7442,7 +6416,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 60
+    "missed_scrapes": 59
   },
   {
     "id": "d37b077b77ee",
@@ -7469,7 +6443,7 @@
     "red_flags": [
       "Below target salary range"
     ],
-    "missed_scrapes": 60
+    "missed_scrapes": 59
   },
   {
     "id": "06f93eb079f2",
@@ -7494,7 +6468,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 61
+    "missed_scrapes": 60
   },
   {
     "id": "0ca2d7aa1052",
@@ -7519,7 +6493,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 61
+    "missed_scrapes": 60
   },
   {
     "id": "473067c4cf6f",
@@ -7544,7 +6518,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 62
+    "missed_scrapes": 61
   },
   {
     "id": "4b51be291167",
@@ -7569,7 +6543,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 62
+    "missed_scrapes": 61
   },
   {
     "id": "27875e89794a",
@@ -7594,7 +6568,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 62
+    "missed_scrapes": 61
   },
   {
     "id": "fabcead7dfa2",
@@ -7619,7 +6593,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 62
+    "missed_scrapes": 61
   },
   {
     "id": "dd901932d44d",
@@ -7644,7 +6618,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 63
+    "missed_scrapes": 62
   },
   {
     "id": "b4705beefc35",
@@ -7669,7 +6643,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 63
+    "missed_scrapes": 62
   },
   {
     "id": "ef3c44fd20b4",
@@ -7694,7 +6668,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 64
+    "missed_scrapes": 63
   },
   {
     "id": "85ba457bfaf0",
@@ -7719,7 +6693,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 64
+    "missed_scrapes": 63
   },
   {
     "id": "f01c85ba0f13",
@@ -7744,7 +6718,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 64
+    "missed_scrapes": 63
   },
   {
     "id": "780c55891f31",
@@ -7769,7 +6743,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 64
   },
   {
     "id": "17c9f39b2b8e",
@@ -7794,7 +6768,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 64
   },
   {
     "id": "d95a7c3e271b",
@@ -7819,7 +6793,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 64
   },
   {
     "id": "602703c2f9c1",
@@ -7844,7 +6818,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 66
+    "missed_scrapes": 65
   },
   {
     "id": "858808046b40",
@@ -7869,7 +6843,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 66
+    "missed_scrapes": 65
   },
   {
     "id": "285ce19a4e97",
@@ -7894,7 +6868,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 66
+    "missed_scrapes": 65
   },
   {
     "id": "ac9c42e4f209",
@@ -7921,7 +6895,7 @@
     "red_flags": [
       "Academic faculty expectations may require additional teaching/research commitments"
     ],
-    "missed_scrapes": 67
+    "missed_scrapes": 66
   },
   {
     "id": "57bc854c2536",
@@ -7946,7 +6920,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 68
+    "missed_scrapes": 67
   },
   {
     "id": "d30b9106b441",
@@ -7971,7 +6945,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 68
+    "missed_scrapes": 67
   },
   {
     "id": "ba2b1aef6a43",
@@ -7996,7 +6970,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 68
+    "missed_scrapes": 67
   },
   {
     "id": "c9deb57cfcb4",
@@ -8021,7 +6995,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 68
+    "missed_scrapes": 67
   },
   {
     "id": "09c66a790c6f",
@@ -8046,6 +7020,6 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 68
+    "missed_scrapes": 67
   }
 ]
