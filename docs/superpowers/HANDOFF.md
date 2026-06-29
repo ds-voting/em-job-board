@@ -7,7 +7,7 @@
 
 ## ✅ Cron Pipeline — LIVE (re-enabled 2026-06-29)
 
-The daily `schedule` trigger (`0 12 * * *` UTC / 7 AM CT) is active again in `.github/workflows/scrape.yml`, and the workflow is enabled at the GitHub platform level. `workflow_dispatch` also still works for manual runs.
+The `schedule` trigger is active again in `.github/workflows/scrape.yml` and the workflow is enabled at the GitHub platform level. It now runs **weekdays only** (`0 12 * * 1-5` UTC / 7 AM CT) — changed from daily so SerpAPI usage stays under the 3-key free budget (see the rotation section below). `workflow_dispatch` also still works for manual runs.
 
 **Verified before re-enabling:** all 3 API providers healthy (SerpAPI 250 searches left/0 used this month, Anthropic key valid + funded, Adzuna OK), and two manual `workflow_dispatch` runs confirmed the pipeline end-to-end (zero classification errors, sensible rejections, no junk committed).
 
@@ -39,7 +39,7 @@ Instead of paying, we run **3 free-tier keys** (`SERPAPI_KEY_1/2/3` in `.env` an
 **Cadence math:** ~24 searches/run (3 queries × 8 regions). The cron is now **weekdays only** (`0 12 * * 1-5`, ~22 runs/mo ≈ 528 searches) to stay under 750 with margin for manual re-runs. Daily (744/750) would fit but with ~no buffer.
 
 **Note:** the 3 keys reset on *staggered* monthly dates (separate accounts), so it's ~750/mo capacity, not a single calendar-month bucket — the rotator's fallback handles that. If we ever outgrow this, the researched paid options are JSearch ($25/mo, 10k) or DataForSEO (~$1/mo, $50 prepaid); the cheaper lever is consolidating the 8 per-region searches.
-- After cleanup, the 191 jobs are all `possibly_filled` (now visible on the board). The "Active Matches" stat reads 0 until the daily cron re-confirms still-open postings over the next few days. Expected, not a bug.
+- After cleanup the matched set is mostly `possibly_filled` (192 matched as of 2026-06-29: 1 active + 191 possibly-filled, all visible on the board). The "Active Matches" stat stays low until the weekday cron re-confirms still-open postings over the coming days. Expected, not a bug.
 
 **Previously validated (2026-04-11):** cron ran end-to-end successfully after the `permissions: contents: write` fix.
 
@@ -69,18 +69,18 @@ A manual re-run immediately after the fix completed successfully (9m5s). Tomorro
 - **GitHub repo:** https://github.com/ds-voting/em-job-board (public)
 - **Local working dir:** `c:\Users\ryan\OneDrive\Desktop\Playground\JOBS`
 - **Vercel project:** `ryan-7315s-projects/em-job-board`
-- **GitHub Actions cron:** Runs daily at 12:00 UTC (7:00 AM CT)
+- **GitHub Actions cron:** Runs weekdays (Mon–Fri) at 12:00 UTC (7:00 AM CT)
 
-### Job Stats (as of last scrape)
-- **32 total matched jobs** across all 7 target regions
-- **22 active matches** (10 marked "possibly_filled" from older scrapes)
-- **1,123 rejected jobs** (most filtered for free by pre-filter, never sent to Claude)
-- **Sources contributing:** Google Jobs (SerpApi), Adzuna, emCareers, PracticeLink
+### Job Stats (as of 2026-06-29)
+- **192 total matched jobs** — 1 active, 191 possibly_filled (all `possibly_filled` after the 2-week pause; will re-activate as the weekday cron re-confirms them)
+- **4,373 rejected jobs** (most filtered for free by pre-filter, never sent to Claude)
+- **Matched by source:** Google Jobs (SerpApi) 104, emCareers 35, PracticeLink 27, Adzuna 26 — SerpApi is the top *matched* source, so the key rotation matters
+- **Sources contributing:** Google Jobs (SerpApi, multi-key rotation), Adzuna, emCareers (0 from CI — IP-blocked), PracticeLink
 
 ### API Spend Summary
 - **Total spent so far:** ~$4.69 across multiple runs (one was a duplicate-process accident)
 - **Per-run cost now:** ~$0.30-$0.70 depending on new postings found
-- **Remaining budget:** ~$5 in Anthropic key after most recent top-up
+- **Remaining budget:** Anthropic key confirmed *funded* as of 2026-06-29 (a billed validation call succeeded); exact balance not checked. The model fix + skip-existing keep per-run cost low.
 - **Optimization in place:** Pre-filter applies hard rules + skips already-classified postings BEFORE calling Claude. Cuts API costs by ~90% (e.g., 432 raw postings → only 30 needing Claude classification on first run, 700+ → 60-70 on subsequent runs).
 
 ---
@@ -91,10 +91,10 @@ A manual re-run immediately after the fix completed successfully (9m5s). Tomorro
 - `run_scraper.py` — Single-command entry point
 - `scraper/models.py` — Job, RejectedJob, RawPosting dataclasses
 - `scraper/config_loader.py` — YAML config + location matching + hard filters
-- `scraper/classifier.py` — Claude Sonnet 4 classification with full system prompt
+- `scraper/classifier.py` — Claude classification (model `claude-sonnet-4-6`); fails closed + raises `SystemicClassificationError` on systemic failure
 - `scraper/deduplicator.py` — Dedup logic + merge with existing data + possibly_filled tracking
 - `scraper/runner.py` — Pipeline orchestration with cost guard prompt
-- `scraper/sources/serpapi_google.py` — Google Jobs via SerpApi
+- `scraper/sources/serpapi_google.py` — Google Jobs via SerpApi, with multi-key rotation (`get_serpapi_keys()`)
 - `scraper/sources/adzuna.py` — Adzuna physician job API
 - `scraper/sources/emcareers.py` — ACEP/EMRA HTML scraper
 - `scraper/sources/practicelink.py` — PracticeLink HTML scraper with regex city/salary extraction
@@ -110,9 +110,9 @@ A manual re-run immediately after the fix completed successfully (9m5s). Tomorro
 - `dashboard/data/` — Committed alongside dashboard so Vercel can see it
 
 ### Operations
-- `.github/workflows/scrape.yml` — Daily GitHub Actions cron with secrets
+- `.github/workflows/scrape.yml` — Weekday (Mon–Fri) GitHub Actions cron with secrets
 - GitHub Actions secrets set: `ANTHROPIC_API_KEY`, `SERPAPI_KEY_1/2/3` (rotated), `ADZUNA_APP_ID`, `ADZUNA_APP_KEY` (legacy single `SERPAPI_KEY` secret still present but unused)
-- Vercel environment variables set (same 4 keys, encrypted)
+- **Vercel needs NO API keys** — it only hosts the static dashboard, which reads the JSON committed by the Action. All secrets live in GitHub, not Vercel.
 - Vercel project linked to GitHub repo for auto-deploys on push
 
 ### Configuration
@@ -147,7 +147,7 @@ python run_scraper.py
 ### How Data Flows
 1. Scraper writes to `data/` (canonical) AND `dashboard/data/` (for Vercel)
 2. When you `git push`, Vercel auto-deploys the dashboard with fresh `dashboard/data/`
-3. GitHub Actions cron does the same thing automatically every day at 7am CT
+3. GitHub Actions cron does the same thing automatically on weekdays at 7am CT
 
 ---
 
@@ -225,7 +225,7 @@ These are documented in the spec but not implemented:
 
 In priority order, pick whichever feels right:
 
-1. **Quick cron sanity check.** Run `gh run list --workflow=scrape.yml --limit 5` and confirm the most recent scheduled run is `success`. The pipeline was validated on 2026-04-11 so this should be a formality — if it failed again, check the logs for a new issue.
+1. **Quick cron sanity check.** Run `gh run list --workflow=scrape.yml --limit 5` and confirm the most recent *scheduled* (weekday) run is `success`. Fully verified 2026-06-29 (classifier + rotator). If a run goes red, that's now intentional fail-loud behavior — check the "Run scraper" log for `SystemicClassificationError` (model/key problem) before assuming a flake.
 
 2. **Add Phase 3 salary intelligence.** Both salary estimation and competitiveness analysis are achievable in 1-2 hours and would be huge wins for her decision-making. She'd be able to instantly see which "Not listed" jobs are likely above $400k and which listed salaries are below market.
 
