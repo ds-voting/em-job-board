@@ -5,6 +5,17 @@ from scraper.models import RawPosting, Job, RejectedJob
 from scraper.config_loader import get_api_key, passes_hard_filters, match_location
 
 
+class SystemicClassificationError(RuntimeError):
+    """Raised when classification fails for a large fraction of postings.
+
+    Signals a systemic problem (a retired model, a bad API key, a provider
+    outage) rather than one bad posting. It propagates out of the run so
+    run_scraper.py exits non-zero and the CI "commit and push" step is
+    skipped — we fail loudly instead of silently committing misclassified
+    data, which is exactly what hid the 2026-06-29 model-deprecation outage.
+    """
+
+
 def build_system_prompt(config: dict) -> str:
     """Build the system prompt for Claude with the full job criteria."""
     locations_desc = "\n".join(
@@ -118,30 +129,13 @@ DESCRIPTION:
 
     try:
         result = json.loads(response_text)
-    except json.JSONDecodeError:
-        # If Claude's response isn't valid JSON, treat as low confidence
-        return Job(
-            id=Job.generate_id(raw.employer, raw.location, raw.title),
-            title=raw.title,
-            employer=raw.employer,
-            location=raw.location,
-            location_region="Unknown",
-            location_priority=99,
-            salary=raw.salary_text,
-            salary_numeric=None,
-            institution_type="Unknown",
-            schedule_type="Unclear",
-            is_nocturnist_only=False,
-            match_confidence="Low",
-            analysis_notes="Failed to parse Claude classification response",
-            source_url=raw.source_url,
-            source_name=raw.source_name,
-            description_snippet=raw.description[:500] if raw.description else "",
-            full_description=raw.description,
-            date_found=today,
-            date_last_seen=today,
-            red_flags=["classification_error"],
-        )
+    except json.JSONDecodeError as e:
+        # Fail closed: don't fabricate a "matched" job from an unparseable
+        # response. Raise so classify_batch drops it (retried next run) and
+        # counts it toward the systemic-failure guard.
+        raise ValueError(
+            f"Claude returned unparseable JSON for '{raw.title}': {response_text[:200]}"
+        ) from e
 
     # Step 3: Check if Claude says to reject
     if result.get("rejection_reason"):
@@ -228,6 +222,7 @@ def classify_batch(raw_postings: list[RawPosting], config: dict) -> tuple[list[J
     jobs = []
     rejected = []
 
+    errors = 0
     for i, raw in enumerate(raw_postings):
         print(f"  Classifying {i+1}/{len(raw_postings)}: {raw.title} at {raw.employer}...")
         try:
@@ -237,30 +232,26 @@ def classify_batch(raw_postings: list[RawPosting], config: dict) -> tuple[list[J
             else:
                 rejected.append(result)
         except Exception as e:
-            print(f"  ERROR classifying posting: {e}")
-            today = date.today().isoformat()
-            jobs.append(Job(
-                id=Job.generate_id(raw.employer, raw.location, raw.title),
-                title=raw.title,
-                employer=raw.employer,
-                location=raw.location,
-                location_region="Unknown",
-                location_priority=99,
-                salary=raw.salary_text,
-                salary_numeric=None,
-                institution_type="Unknown",
-                schedule_type="Unclear",
-                is_nocturnist_only=False,
-                match_confidence="Low",
-                analysis_notes=f"Classification error: {e}",
-                source_url=raw.source_url,
-                source_name=raw.source_name,
-                description_snippet=raw.description[:500] if raw.description else "",
-                full_description=raw.description,
-                date_found=today,
-                date_last_seen=today,
-                red_flags=["classification_error"],
-            ))
+            # Fail closed: never default an errored posting to "matched".
+            # Drop it (logged) so it is retried on the next run instead of
+            # polluting the board with an unclassified job.
+            errors += 1
+            print(f"  ERROR classifying posting (skipped, will retry next run): {e}")
 
-    print(f"Classification complete: {len(jobs)} matched, {len(rejected)} rejected")
+    attempted = len(raw_postings)
+    print(
+        f"Classification complete: {len(jobs)} matched, {len(rejected)} rejected, "
+        f"{errors} errored/skipped"
+    )
+
+    # Fail loud on systemic failure (retired model, bad key, provider outage):
+    # abort before the caller can write/commit data, so the CI job goes red
+    # instead of silently shipping misclassified results.
+    if errors >= 2 and errors * 2 >= attempted:
+        raise SystemicClassificationError(
+            f"{errors}/{attempted} classification attempts failed - aborting before "
+            f"writing data. Check the model id in classifier.py against the live "
+            f"Anthropic model list (GET /v1/models) and verify ANTHROPIC_API_KEY."
+        )
+
     return jobs, rejected
