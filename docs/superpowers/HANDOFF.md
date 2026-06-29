@@ -1,22 +1,29 @@
 # EM Job Board — Session Handoff
 
-**Last session:** 2026-06-16
-**Status:** Phase 1 + Phase 2 complete. Cron PAUSED 2026-06-16 — API keys being rotated and usage pattern under review.
+**Last session:** 2026-06-29
+**Status:** Phase 1 + Phase 2 complete. **Cron LIVE again (re-enabled 2026-06-29).** Classifier model bug found + fixed (was calling a retired Claude model). Dashboard live and serving clean data.
 
 ---
 
-## ⏸️ Cron Pipeline — PAUSED (2026-06-16)
+## ✅ Cron Pipeline — LIVE (re-enabled 2026-06-29)
 
-**The daily cron schedule has been disabled.** The `schedule` trigger in `.github/workflows/scrape.yml` is commented out. `workflow_dispatch` remains active so you can run it manually from GitHub UI at any time.
+The daily `schedule` trigger (`0 12 * * *` UTC / 7 AM CT) is active again in `.github/workflows/scrape.yml`, and the workflow is enabled at the GitHub platform level. `workflow_dispatch` also still works for manual runs.
 
-**To re-enable:** uncomment the `schedule` block in `.github/workflows/scrape.yml`, commit, and push.
+**Verified before re-enabling:** all 3 API providers healthy (SerpAPI 250 searches left/0 used this month, Anthropic key valid + funded, Adzuna OK), and two manual `workflow_dispatch` runs confirmed the pipeline end-to-end (zero classification errors, sensible rejections, no junk committed).
 
-**Why paused:** API keys (ANTHROPIC_API_KEY, SERPAPI_KEY, ADZUNA_APP_ID/KEY) need rotation and usage pattern is under review.
+### 🐛 Incident fixed this session — classifier was calling a retired model
 
-**Before re-enabling, do:**
-1. Rotate any stale API keys and update GitHub Actions secrets + Vercel env vars
-2. Decide whether to keep the daily schedule or switch to on-demand / less frequent runs
-3. Run a manual `workflow_dispatch` to confirm the pipeline still works with new keys
+The cron was paused 2026-06-16 over a vague "keys need rotation" concern, but the keys were fine. The real, latent problem: **`scraper/classifier.py` hard-coded `model="claude-sonnet-4-20250514"`, which Anthropic retired sometime after 2026-06-15.** Every classification call started returning `404 not_found_error`.
+
+Worse, the classifier **fails open**: on a classification exception (`classifier.py:239-263`) it appends the posting to the *matched* list with a `classification_error` flag instead of dropping it. So the first manual run this session silently committed **38 misclassified postings** (RNs, techs, a rheumatologist) to the live board as "matched" — and a green workflow status hid it.
+
+**Fix (commit `c5731b7`):** updated the model to `claude-sonnet-4-6` (current Sonnet) and reverted the polluted data to the clean pre-run baseline. Re-enable commit: `de96a8f`. A corrective run (`28383418643`) then logged **0 classification errors** and correctly rejected today's batch.
+
+> ⚠️ **Top follow-up — the fail-open behavior is the real risk.** The model fix stops the systematic case, but a *transient* API error on the now-unattended daily cron will again silently mark postings as matched-junk (this already happened once before: ~81 entries dated 2026-05-05 carry `classification_error` from an earlier transient incident — they're real-ish EM jobs, all `possibly_filled`, left in place, NOT deleted). Consider changing `classify_batch` to fail *closed* (drop/queue errored postings) or at least exclude `classification_error` jobs from the active board.
+
+### Other notes from this session
+- **SerpAPI is on the Free Plan (250 searches/month).** The scraper burns ~20+ searches/run, so the daily cron will likely exhaust it partway through each month → recurring key rotations (matches the history in `.env`). Decide if a paid tier or less-frequent schedule is worth it.
+- All 272 baseline jobs are `possibly_filled` after the 2-week pause; the dashboard's "active" count (status==="active" only, see `dashboard/lib/jobs.ts` `getStats`) will read sparse until the daily cron re-confirms jobs over the next few days. Expected, not a bug.
 
 **Previously validated (2026-04-11):** cron ran end-to-end successfully after the `permissions: contents: write` fix.
 
