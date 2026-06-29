@@ -1,5 +1,6 @@
 import yaml
 import os
+import re
 from dotenv import load_dotenv
 
 
@@ -68,3 +69,36 @@ def get_api_key(key_name: str) -> str:
     if not value:
         print(f"WARNING: {key_name} not set in environment")
     return value
+
+
+def get_serpapi_keys() -> list[str]:
+    """Return all configured SerpAPI keys, in order, for round-robin rotation.
+
+    Reads SERPAPI_KEY_1, SERPAPI_KEY_2, ... (numeric order) plus a legacy plain
+    SERPAPI_KEY if present. Each value is sanitized to its leading token, so
+    trailing notes in .env (e.g. ``abc123 (maxxed out)``) are ignored. Duplicates
+    and blanks are dropped.
+
+    Having several free-tier keys lets the scraper rotate when one hits its
+    monthly search cap instead of going dark.
+    """
+    numbered = []
+    for name, value in os.environ.items():
+        m = re.fullmatch(r"SERPAPI_KEY_(\d+)", name)
+        if m and value.strip():
+            numbered.append((int(m.group(1)), value))
+    numbered.sort(key=lambda t: t[0])
+
+    raw_values = [v for _, v in numbered]
+    legacy = os.environ.get("SERPAPI_KEY", "")
+    if legacy.strip():
+        raw_values.append(legacy)
+
+    keys: list[str] = []
+    seen = set()
+    for v in raw_values:
+        token = v.strip().split()[0]  # drop trailing notes like "(maxxed out)"
+        if token and token not in seen:
+            seen.add(token)
+            keys.append(token)
+    return keys

@@ -2,8 +2,9 @@ name: Daily Job Scrape
 
 on:
   schedule:
-    # Run daily at 12:00 UTC (7:00 AM CT)
-    - cron: "0 12 * * *"
+    # Run weekdays (Mon-Fri) at 12:00 UTC (7:00 AM CT). ~22 runs/mo at ~24
+    # SerpAPI searches/run stays under the 3-key free budget (~750/mo) with margin.
+    - cron: "0 12 * * 1-5"
   workflow_dispatch: # Allow manual trigger from GitHub UI
 
 jobs:
@@ -26,7 +27,9 @@ jobs:
       - name: Run scraper
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+          SERPAPI_KEY_1: ${{ secrets.SERPAPI_KEY_1 }}
+          SERPAPI_KEY_2: ${{ secrets.SERPAPI_KEY_2 }}
+          SERPAPI_KEY_3: ${{ secrets.SERPAPI_KEY_3 }}
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
         run: python run_scraper.py
