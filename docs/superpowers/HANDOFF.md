@@ -1,7 +1,7 @@
 # EM Job Board — Session Handoff
 
 **Last session:** 2026-06-29
-**Status:** Phase 1 + Phase 2 complete. **Cron LIVE again (re-enabled 2026-06-29).** Classifier model bug found + fixed (was calling a retired Claude model). Dashboard live and serving clean data.
+**Status:** Phase 1 + Phase 2 complete. **Cron LIVE again (re-enabled 2026-06-29).** Classifier model bug found + fixed (was calling a retired Claude model), then **hardened to fail closed + fail loud**. Contaminated data cleaned (272 → 191). Dashboard now **shows possibly-filled jobs** (toggle, default on). All live and verified.
 
 ---
 
@@ -19,11 +19,22 @@ Worse, the classifier **fails open**: on a classification exception (`classifier
 
 **Fix (commit `c5731b7`):** updated the model to `claude-sonnet-4-6` (current Sonnet) and reverted the polluted data to the clean pre-run baseline. Re-enable commit: `de96a8f`. A corrective run (`28383418643`) then logged **0 classification errors** and correctly rejected today's batch.
 
-> ⚠️ **Top follow-up — the fail-open behavior is the real risk.** The model fix stops the systematic case, but a *transient* API error on the now-unattended daily cron will again silently mark postings as matched-junk (this already happened once before: ~81 entries dated 2026-05-05 carry `classification_error` from an earlier transient incident — they're real-ish EM jobs, all `possibly_filled`, left in place, NOT deleted). Consider changing `classify_batch` to fail *closed* (drop/queue errored postings) or at least exclude `classification_error` jobs from the active board.
+### ✅ Hardening done this session (the fail-open fix)
+
+The fail-open behavior was the real risk — a transient API error on the unattended daily cron would again silently mark postings as matched-junk. Now fixed (commit `42917cc`):
+- **Fail closed:** `classify_batch` drops an errored posting (logged, retried next run) instead of defaulting it to "matched". `classify_posting` raises on unparseable JSON instead of fabricating a job.
+- **Fail loud:** if ≥ half of classification attempts fail (min 2), it raises `SystemicClassificationError` → `run_scraper.py` exits non-zero → CI step goes red → commit/push is skipped. A dead model/bad key now fails visibly instead of shipping junk.
+- Verified with a mock-client test (systemic→raise+no-commit; lone error→dropped; all-good→unaffected).
+
+The ~81 `classification_error` entries from the 2026-05-05 transient outage were **removed** (commit `8d8821a`, 272 → 191). Still-open ones will be re-found and properly classified.
+
+### Dashboard change this session — possibly-filled now visible
+
+`dashboard/app/page.tsx` previously listed `status==="active"` only, so after the pause the board looked empty. Added a "Show possibly filled" toggle (default **on**) in `JobFilters.tsx`; active jobs sort above possibly-filled. StatsBar "Active Matches" still counts active only. Commit `9f8d763`. Verified live: 191 cards render, toggle works. Design doc: `docs/superpowers/specs/2026-06-29-harden-classifier-and-show-possibly-filled.md`.
 
 ### Other notes from this session
-- **SerpAPI is on the Free Plan (250 searches/month).** The scraper burns ~20+ searches/run, so the daily cron will likely exhaust it partway through each month → recurring key rotations (matches the history in `.env`). Decide if a paid tier or less-frequent schedule is worth it.
-- All 272 baseline jobs are `possibly_filled` after the 2-week pause; the dashboard's "active" count (status==="active" only, see `dashboard/lib/jobs.ts` `getStats`) will read sparse until the daily cron re-confirms jobs over the next few days. Expected, not a bug.
+- **SerpAPI cost — alternatives researched (no code change yet).** Free plan = 250 searches/mo; the scraper does ~720/mo (3 queries × 8 regions, daily), so it exhausts mid-month → key rotations. Cheapest entry paid tier is $25/mo (1,000 searches). Better options: **JSearch** (RapidAPI, free 200/mo or $25/mo for 10k — drop-in Google-Jobs data), **DataForSEO Google Jobs** (~$0.50–1.50/mo, but $50 prepaid min), or a **$0 free stack** (trim the 8-location fan-out + keep Adzuna + add USAJobs/Jooble/Careerjet). The volume lever — consolidating the 8 per-region searches — is the highest-leverage change and could fit free tiers. Decide before integrating; coverage overlap between aggregators must be tested.
+- After cleanup, the 191 jobs are all `possibly_filled` (now visible on the board). The "Active Matches" stat reads 0 until the daily cron re-confirms still-open postings over the next few days. Expected, not a bug.
 
 **Previously validated (2026-04-11):** cron ran end-to-end successfully after the `permissions: contents: write` fix.
 
