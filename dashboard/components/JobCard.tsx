@@ -1,42 +1,37 @@
 import Link from "next/link";
 import { Job } from "@/lib/types";
-import { getPriorityColor, getConfidenceColor } from "@/lib/utils";
+import { NEUTRAL_TAG, getConfidenceColor, getStatusStripeColor } from "@/lib/utils";
 
 interface JobCardProps {
   job: Job;
 }
 
 export default function JobCard({ job }: JobCardProps) {
-  const isHigh = job.match_confidence === "High";
   const hasSalary = job.salary && job.salary !== "Not listed";
 
   return (
     <Link
       href={`/job/${job.id}`}
-      className={`group block bg-white rounded-xl border ${
-        isHigh ? "border-emerald-200" : "border-slate-200"
-      } p-5 hover:shadow-lg hover:border-slate-300 transition-all duration-150 relative overflow-hidden`}
+      className="group flex bg-white rounded-lg border border-slate-200 hover:border-ink/30 hover:shadow-md transition-all duration-150 overflow-hidden"
     >
-      {isHigh && (
-        <div className="absolute top-0 right-0 w-24 h-24 bg-gradient-to-br from-emerald-50 to-transparent rounded-bl-full pointer-events-none" />
-      )}
+      <div className={`w-[3px] shrink-0 ${getStatusStripeColor(job.status)}`} />
 
-      <div className="relative">
+      <div className="flex-1 min-w-0 p-5">
         <div className="flex items-start justify-between gap-3 mb-2">
           <div className="flex-1 min-w-0">
             <div className="flex items-center gap-1.5 flex-wrap mb-1">
               {job.is_new && (
-                <span className="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold tracking-wide uppercase bg-emerald-500 text-white">
+                <span className="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold tracking-wide uppercase bg-ink text-white">
                   New
                 </span>
               )}
               {job.status === "possibly_filled" && (
-                <span className="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold tracking-wide uppercase bg-orange-100 text-orange-700">
+                <span className="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold tracking-wide uppercase bg-slate-100 text-slate-500">
                   Possibly Filled
                 </span>
               )}
             </div>
-            <h3 className="font-semibold text-slate-900 leading-snug group-hover:text-rose-600 transition-colors">
+            <h3 className="font-display font-semibold text-ink leading-snug group-hover:text-signal transition-colors">
               {job.title}
             </h3>
             <p className="text-sm text-slate-600 mt-0.5 truncate">
@@ -44,21 +39,15 @@ export default function JobCard({ job }: JobCardProps) {
             </p>
           </div>
           <span
-            className={`shrink-0 inline-flex items-center px-2 py-1 rounded-md text-xs font-semibold ${getConfidenceColor(job.match_confidence)}`}
+            className={`shrink-0 inline-flex items-center px-2 py-1 rounded-md text-xs font-semibold tabular-nums ${getConfidenceColor(job.match_confidence)}`}
           >
             {job.match_confidence}
           </span>
         </div>
 
         <div className="flex flex-wrap gap-1.5 mt-3">
-          <span
-            className={`inline-flex items-center gap-1 px-2.5 py-1 rounded-md text-xs font-medium ${getPriorityColor(job.location_priority)}`}
-          >
-            <svg
-              className="w-3 h-3"
-              fill="currentColor"
-              viewBox="0 0 20 20"
-            >
+          <span className={`inline-flex items-center gap-1 px-2.5 py-1 rounded-md text-xs font-medium ${NEUTRAL_TAG}`}>
+            <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 20 20">
               <path
                 fillRule="evenodd"
                 d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z"
@@ -68,17 +57,11 @@ export default function JobCard({ job }: JobCardProps) {
             {job.location}
           </span>
           <span
-            className={`inline-flex items-center gap-1 px-2.5 py-1 rounded-md text-xs font-medium ${
-              hasSalary
-                ? "bg-emerald-50 text-emerald-700 border border-emerald-100"
-                : "bg-slate-100 text-slate-500"
+            className={`inline-flex items-center gap-1 px-2.5 py-1 rounded-md text-xs font-medium tabular-nums ${
+              hasSalary ? NEUTRAL_TAG : "text-slate-500 italic"
             }`}
           >
-            <svg
-              className="w-3 h-3"
-              fill="currentColor"
-              viewBox="0 0 20 20"
-            >
+            <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 20 20">
               <path d="M8.433 7.418c.155-.103.346-.196.567-.267v1.698a2.305 2.305 0 01-.567-.267C8.07 8.34 8 8.114 8 8c0-.114.07-.34.433-.582zM11 12.849v-1.698c.22.071.412.164.567.267.364.243.433.468.433.582 0 .114-.07.34-.433.582a2.305 2.305 0 01-.567.267z" />
               <path
                 fillRule="evenodd"
@@ -89,7 +72,7 @@ export default function JobCard({ job }: JobCardProps) {
             {job.salary}
           </span>
           {job.institution_type && job.institution_type !== "Unknown" && (
-            <span className="inline-flex items-center px-2.5 py-1 rounded-md text-xs font-medium bg-violet-50 text-violet-700 border border-violet-100">
+            <span className={`inline-flex items-center px-2.5 py-1 rounded-md text-xs font-medium ${NEUTRAL_TAG}`}>
               {job.institution_type}
             </span>
           )}
@@ -100,17 +83,24 @@ export default function JobCard({ job }: JobCardProps) {
             {job.red_flags.map((flag) => (
               <span
                 key={flag}
-                className="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-medium bg-red-50 text-red-700 border border-red-100"
+                className="inline-flex items-center gap-1 px-2 py-0.5 rounded text-[10px] font-medium bg-caution-50 text-caution border border-caution/20"
               >
-                ⚠ {flag}
+                <svg className="w-2.5 h-2.5 shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                  <path
+                    fillRule="evenodd"
+                    d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l6.28 11.18c.75 1.334-.213 2.987-1.742 2.987H3.72c-1.53 0-2.493-1.653-1.743-2.987l6.28-11.18zM11 14a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V7a1 1 0 00-1-1z"
+                    clipRule="evenodd"
+                  />
+                </svg>
+                {flag}
               </span>
             ))}
           </div>
         )}
 
-        <div className="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs text-slate-400">
+        <div className="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs text-slate-500">
           <span className="font-medium">{job.source_name}</span>
-          <span>Found {job.date_found}</span>
+          <span className="tabular-nums">Found {job.date_found}</span>
         </div>
       </div>
     </Link>

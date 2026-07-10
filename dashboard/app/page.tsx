@@ -113,7 +113,7 @@ export default function HomePage() {
   if (loading) {
     return (
       <div className="text-center py-20">
-        <div className="inline-block w-8 h-8 border-2 border-rose-500 border-t-transparent rounded-full animate-spin" />
+        <div className="inline-block w-8 h-8 border-2 border-signal border-t-transparent rounded-full animate-spin" />
         <p className="text-sm text-slate-500 mt-3">Loading jobs...</p>
       </div>
     );
@@ -121,9 +121,8 @@ export default function HomePage() {
 
   if (jobs.length === 0) {
     return (
-      <div className="text-center py-20 bg-white rounded-2xl border border-slate-200">
-        <div className="text-5xl mb-3">🔍</div>
-        <h2 className="text-xl font-bold text-slate-900 mb-2">
+      <div className="text-center py-20 bg-white rounded-lg border border-slate-200">
+        <h2 className="font-display text-xl font-bold text-ink mb-2">
           No jobs found yet
         </h2>
         <p className="text-sm text-slate-500">
@@ -153,9 +152,9 @@ export default function HomePage() {
         onShowFilledChange={setShowFilled}
       />
 
-      <div className="text-sm text-slate-500 mb-4 font-medium">
-        Showing <span className="text-slate-900 font-bold">{filtered.length}</span> of{" "}
-        <span className="text-slate-900 font-bold">{visibleJobs.length}</span>{" "}
+      <div className="text-sm text-slate-500 mb-4 font-medium tabular-nums">
+        Showing <span className="text-ink font-bold">{filtered.length}</span> of{" "}
+        <span className="text-ink font-bold">{visibleJobs.length}</span>{" "}
         {showFilled ? "jobs (incl. possibly filled)" : "active jobs"}
       </div>
 
@@ -166,7 +165,7 @@ export default function HomePage() {
       </div>
 
       {filtered.length === 0 && (
-        <div className="text-center py-16 bg-white rounded-2xl border border-slate-200">
+        <div className="text-center py-16 bg-white rounded-lg border border-slate-200">
           <p className="text-slate-500">
             No jobs match your current filters.
           </p>
