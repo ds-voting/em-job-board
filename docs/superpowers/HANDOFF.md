@@ -1,7 +1,28 @@
 # EM Job Board — Session Handoff
 
 **Last session:** 2026-07-10
-**Status:** Cron running weekdays as expected (verified data commits through 07-10). Dashboard **visual redesign shipped and live** on Vercel — consistent color system, real typography, contrast fixes. No data/scraper changes this session.
+**Status:** Dashboard sort-by-date-captured shipped and live. Pipeline audit found Google Jobs (SerpAPI) has returned **zero raw postings since 2026-05-12** — smoke-tested and confirmed to be a Google-side issue (not our keys/quota/code); user independently confirmed it's not SF-specific. Decision: sit tight, no scraper changes, revisit ~2026-07-17.
+
+---
+
+## 2026-07-10 — Sort control + Google Jobs pipeline audit
+
+**Accomplished**
+- Added a "Sort" control to the dashboard (Best Match / Newest Captured / Oldest Captured, keyed on `date_found`) in `JobFilters.tsx`/`page.tsx`. Verified in-browser in all 3 modes, merged to master (`1c1fe81`), confirmed live on Vercel production.
+- Dispatched an Opus subagent to audit pipeline health (cron runs, classifier model pin, SerpAPI key rotation/validity) without spending scrape/classification budget. Found: this week's Anthropic billing outage (07-08/07-09) self-resolved and the fail-loud guard worked correctly (no bad data committed); all 3 SerpAPI keys healthy/valid; classifier model pin current (not retired).
+- Ran 8 live SerpAPI smoke-test calls (2 batches against one key, ~242/250 left on it after) to diagnose why the Google Jobs source has contributed nothing since 2026-05-12. Confirmed root cause: SerpAPI/Google returns "Fully empty" for every EM-physician phrasing tried (5 variants: the 3 configured `search_queries` plus "ER Physician" / "Emergency Room Physician" / "Emergency Medicine Doctor") in a metro (SF Bay Area) where a generic `q="Physician"` control query returns 10 real results — so it's not a wording, key, or config issue. User independently confirmed via manual browser search that the collapse isn't SF-specific — it's a Google-side problem, not local to our setup.
+
+**Decisions**
+- Sit tight: no scraper code changes (not disabling/short-circuiting the Google Jobs source). The waste (~24 credits/run × 5 weekday runs ≈ 120/week going to a dead source) is bounded and harmless — total usage (~528/mo) stays well under the ~750/mo pooled 3-key budget even with it included, so there's no risk of exhausting keys while waiting.
+- Revisit around **2026-07-17** by reading the next weekday cron run's log for the `[Google Jobs] Fetched N raw postings` line — costs zero additional SerpAPI credits, since the cron sends the same queries every run regardless of whether anyone's watching.
+- Did not investigate the separate, unconfirmed concern surfaced during the audit — that `runner.py` may skip re-classifying postings already present in `jobs.json`, making the "re-found → active" path in `deduplicator.py` dead code (everything would drift to `possibly_filled` after 2 misses regardless of whether it was actually re-found). Flagged for a future session.
+
+**Open questions**
+- Is the Google Jobs collapse permanent (Google changing/deprecating the Jobs vertical for this query family) or temporary? Unknown — that's what the 2026-07-17 check is for.
+- Does the `runner.py`/`deduplicator.py` re-classification skip actually happen as suspected? Plausible from a read-through during the audit, not confirmed by a test.
+
+**Next step**
+- Around 2026-07-17 (or whenever next picked up), run `gh run list --workflow=scrape.yml --limit 5` then `gh run view <latest-weekday-run-id> --log` and check the `[Google Jobs] Fetched N raw postings` line. If still 0, decide whether to pause the Google Jobs source or keep monitoring; if recovered, no action needed. Full smoke-test evidence and reasoning is in memory `project_google_jobs_zero_results`.
 
 ---
 
