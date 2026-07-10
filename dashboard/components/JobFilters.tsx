@@ -10,6 +10,8 @@ interface JobFiltersProps {
   onInstitutionChange: (institution: string) => void;
   showFilled: boolean;
   onShowFilledChange: (show: boolean) => void;
+  sortBy: string;
+  onSortChange: (sort: string) => void;
 }
 
 const SELECT_CLASS =
@@ -25,6 +27,8 @@ export default function JobFilters({
   onInstitutionChange,
   showFilled,
   onShowFilledChange,
+  sortBy,
+  onSortChange,
 }: JobFiltersProps) {
   const hasFilters = selectedRegion || selectedConfidence || selectedInstitution;
 
@@ -72,6 +76,17 @@ export default function JobFilters({
         <option value="Trauma Level III">Trauma Level III</option>
         <option value="Private Hospital Group">Private Hospital Group</option>
         <option value="Community Hospital">Community Hospital</option>
+      </select>
+
+      <select
+        value={sortBy}
+        onChange={(e) => onSortChange(e.target.value)}
+        className={SELECT_CLASS}
+        aria-label="Sort jobs"
+      >
+        <option value="match">Sort: Best Match</option>
+        <option value="newest">Sort: Newest Captured</option>
+        <option value="oldest">Sort: Oldest Captured</option>
       </select>
 
       {hasFilters && (
