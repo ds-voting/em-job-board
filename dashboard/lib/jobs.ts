@@ -1,7 +1,6 @@
 import { Job, RejectedJob } from "./types";
 import fs from "fs";
 import path from "path";
-export { getPriorityColor, getConfidenceColor } from "./utils";
 
 // Look for data in multiple locations:
 // 1. ./data/ (Vercel deploys, dashboard/data/ is committed alongside)

@@ -13,7 +13,7 @@ interface JobFiltersProps {
 }
 
 const SELECT_CLASS =
-  "px-3 py-2 border border-slate-200 rounded-lg text-sm bg-white shadow-sm focus:ring-2 focus:ring-rose-500/30 focus:border-rose-500 cursor-pointer";
+  "px-3 py-2 border border-slate-200 rounded-lg text-sm bg-white focus:ring-2 focus:ring-signal/30 focus:border-signal cursor-pointer";
 
 export default function JobFilters({
   regions,
@@ -78,7 +78,7 @@ export default function JobFilters({
         <button
           type="button"
           onClick={clearAll}
-          className="px-3 py-2 text-sm text-slate-600 hover:text-slate-900 font-medium"
+          className="px-3 py-2 text-sm text-slate-600 hover:text-signal font-medium transition-colors"
         >
           Clear filters
         </button>
@@ -89,7 +89,7 @@ export default function JobFilters({
           type="checkbox"
           checked={showFilled}
           onChange={(e) => onShowFilledChange(e.target.checked)}
-          className="h-4 w-4 rounded border-slate-300 text-rose-500 focus:ring-2 focus:ring-rose-500/30"
+          className="h-4 w-4 rounded border-slate-300 text-signal focus:ring-2 focus:ring-signal/30"
         />
         Show possibly filled
       </label>
