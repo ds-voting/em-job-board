@@ -15,6 +15,7 @@ export default function HomePage() {
   const [confidence, setConfidence] = useState("");
   const [institution, setInstitution] = useState("");
   const [showFilled, setShowFilled] = useState(true);
+  const [sortBy, setSortBy] = useState<"match" | "newest" | "oldest">("match");
 
   useEffect(() => {
     fetch("/api/jobs")
@@ -70,9 +71,13 @@ export default function HomePage() {
     if (institution)
       result = result.filter((j) => j.institution_type === institution);
 
-    // Sort: active before possibly-filled, then New first within confidence
-    // tiers, then by location priority.
+    // "Best Match" (default): active before possibly-filled, then New first
+    // within confidence tiers, then by location priority. The other two
+    // modes sort purely by the date each job was first captured.
     return [...result].sort((a, b) => {
+      if (sortBy === "newest") return b.date_found.localeCompare(a.date_found);
+      if (sortBy === "oldest") return a.date_found.localeCompare(b.date_found);
+
       const statusRank = (s: string) => (s === "active" ? 0 : 1);
       const statusDiff = statusRank(a.status) - statusRank(b.status);
       if (statusDiff !== 0) return statusDiff;
@@ -90,7 +95,7 @@ export default function HomePage() {
       if (priDiff !== 0) return priDiff;
       return b.date_found.localeCompare(a.date_found);
     });
-  }, [visibleJobs, search, region, confidence, institution]);
+  }, [visibleJobs, search, region, confidence, institution, sortBy]);
 
   const stats = useMemo(() => {
     const byRegion: Record<string, number> = {};
@@ -150,6 +155,8 @@ export default function HomePage() {
         onInstitutionChange={setInstitution}
         showFilled={showFilled}
         onShowFilledChange={setShowFilled}
+        sortBy={sortBy}
+        onSortChange={(v) => setSortBy(v as "match" | "newest" | "oldest")}
       />
 
       <div className="text-sm text-slate-500 mb-4 font-medium tabular-nums">
