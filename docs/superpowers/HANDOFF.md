@@ -1,7 +1,30 @@
 # EM Job Board — Session Handoff
 
-**Last session:** 2026-06-29
-**Status:** Phase 1 + Phase 2 complete. **Cron LIVE again (re-enabled 2026-06-29).** Classifier model bug found + fixed (was calling a retired Claude model), then **hardened to fail closed + fail loud**. Contaminated data cleaned (272 → 191). Dashboard now **shows possibly-filled jobs** (toggle, default on). **SerpAPI multi-key rotation** added (3 free keys ≈ 750/mo); cron moved to **weekdays only**. All live and verified.
+**Last session:** 2026-07-10
+**Status:** Cron running weekdays as expected (verified data commits through 07-10). Dashboard **visual redesign shipped and live** on Vercel — consistent color system, real typography, contrast fixes. No data/scraper changes this session.
+
+---
+
+## 2026-07-10 — Dashboard visual redesign (colors, type, layout)
+
+**Accomplished**
+- Redesigned the dashboard's visual system end-to-end on a feature branch, purely frontend (no data/scraper/classifier changes): a 3-accent semantic color system replaces the old 8-color arbitrary badge palette — signal red (`#be123c`) used *only* for interactive elements (brand mark, links, CTAs, focus rings), vital teal (`#0b6e64`) used *only* for High-confidence matches, caution amber (`#8a5a0b`) used *only* for red-flag warnings; everything else (location, salary, institution, status) is neutral ink/slate.
+- Replaced unstyled fallback Arial with Space Grotesk (display) + Inter (body) via `next/font/google`.
+- Fixed several real sub-AA-contrast text colors (`text-slate-400` captions, `text-ink/50` header subtitle) that were part of the user's "hard to read text" complaint — bumped to `slate-500`+ (~4.6:1+).
+- Swapped emoji icons for consistent inline SVGs; removed the decorative gradient corner blob on cards and the 4-tier priority color-coding (priority still drives sort order, just doesn't need its own hue).
+- Verified with `tsc --noEmit`, `eslint`, `next build`, and live Chrome DevTools screenshots (desktop + mobile, all 3 pages: matches, job detail, rejected) before merge.
+- Merged `design/dashboard-refresh-2026-07-10` → `master`, reconciling with 7 days of unrelated weekday-cron data commits (2026-06-30 through 2026-07-10, zero file overlap) that landed on `origin/master` mid-session. Pushed; Vercel auto-deployed and was confirmed live at https://em-job-board.vercel.app showing both the new design and current data (193 possibly-filled, last updated 2026-07-10).
+
+**Decisions**
+- `/advisor` (opus) was unavailable this session; used an opus subagent as the fallback second-opinion reviewer instead, per user instruction.
+- That review caught that my first palette draft overloaded red/teal with multiple meanings (interactive vs. data-semantic) and had two accent colors that would've failed contrast — revised to a strict one-hue-one-meaning rule before writing any code.
+- Deliberately avoided the editorial/cream/serif direction rejected in an earlier session (see memory `feedback_jobs_dashboard_aesthetic`) — stayed utilitarian/fast-scanning per that standing feedback, took the "restraint" risk (quiet neutral UI, color only where it's earned) rather than a loud one.
+
+**Open questions**
+- None blocking — design was reviewed and explicitly approved by the user before merge.
+
+**Next step**
+- No specific thread was left mid-flight. Resume from the "Suggested Next Session Starting Points" list further down this file (cron sanity check, Phase 3 salary intelligence, more job sources, Mayo alumni research spike, or a rejected-jobs review pass) — none of those were touched this session.
 
 ---
 
