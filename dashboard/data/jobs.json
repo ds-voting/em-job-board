@@ -18,13 +18,13 @@
     "description_snippet": "Emergency Physician Positions The Department of Emergency Medicine in the Boston Medical Center Health System (BMCHS) and Boston University Chobanian & Avedisian School of Medicine (BUCAMED) is seeking applications for outstanding Emergency Physicians to join our group. Department of Emergency Medicine The Department has over 75 faculty and fellows and over 35 APPs who practice across the three emergency departments. The BMC EM residency program is a 4-year training program. It was the first pr\u2026",
     "full_description": "Emergency Physician Positions The Department of Emergency Medicine in the Boston Medical Center Health System (BMCHS) and Boston University Chobanian & Avedisian School of Medicine (BUCAMED) is seeking applications for outstanding Emergency Physicians to join our group. Department of Emergency Medicine The Department has over 75 faculty and fellows and over 35 APPs who practice across the three emergency departments. The BMC EM residency program is a 4-year training program. It was the first pr\u2026",
     "date_found": "2026-06-29",
-    "date_last_seen": "2026-07-15",
+    "date_last_seen": "2026-07-17",
     "status": "active",
     "is_new": false,
     "red_flags": [
       "Salary listed as $78,749 is almost certainly a data error or partial/hourly figure \u2014 true compensation likely much higher for an academic EM attending"
     ],
-    "missed_scrapes": 1
+    "missed_scrapes": 0
   },
   {
     "id": "fc26a7e400ae",
@@ -52,7 +52,7 @@
       "Salary not specified - listed as negotiable",
       "EMS Operations focus may imply administrative/medical director duties"
     ],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "2c973c6ee338",
@@ -77,7 +77,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "38713f5d6656",
@@ -104,7 +104,7 @@
     "red_flags": [
       "Salary not disclosed \u2014 listed only as 'competitive'"
     ],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "4bbcf947950e",
@@ -133,7 +133,7 @@
       "Palmdale is inland suburban LA, not coastal CA \u2014 borderline Priority 2 match",
       "Truncated job description limits full assessment"
     ],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "50fc3d5eb62a",
@@ -161,7 +161,7 @@
       "Salary not listed \u2014 'competitive' only",
       "Truncated job description \u2014 full details unavailable"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "32cffd76d76b",
@@ -189,7 +189,7 @@
       "Salary not listed",
       "Private EM group staffing model \u2014 unclear compensation structure"
     ],
-    "missed_scrapes": 4
+    "missed_scrapes": 5
   },
   {
     "id": "8cd3b02a6ce7",
@@ -214,7 +214,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 9
+    "missed_scrapes": 10
   },
   {
     "id": "b166a8a65aa1",
@@ -243,7 +243,7 @@
       "Employer is a staffing/recruiting firm \u2014 actual facility unknown",
       "Truncated description limits full assessment"
     ],
-    "missed_scrapes": 10
+    "missed_scrapes": 11
   },
   {
     "id": "3eed6ed98ac5",
@@ -268,7 +268,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 10
+    "missed_scrapes": 11
   },
   {
     "id": "2375a04681ab",
@@ -296,7 +296,7 @@
       "EMS Operations focus may imply Medical Director or administrative duties",
       "Salary not listed"
     ],
-    "missed_scrapes": 10
+    "missed_scrapes": 11
   },
   {
     "id": "f309f27509e3",
@@ -321,7 +321,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 16
+    "missed_scrapes": 17
   },
   {
     "id": "59883caf181d",
@@ -346,7 +346,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 16
+    "missed_scrapes": 17
   },
   {
     "id": "5176897e1d12",
@@ -371,7 +371,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 18
+    "missed_scrapes": 19
   },
   {
     "id": "29452fbac450",
@@ -396,7 +396,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 19
+    "missed_scrapes": 20
   },
   {
     "id": "d08779a29fbe",
@@ -421,7 +421,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 19
+    "missed_scrapes": 20
   },
   {
     "id": "7dfc65576787",
@@ -446,7 +446,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 23
+    "missed_scrapes": 24
   },
   {
     "id": "c69d2ad35d31",
@@ -471,7 +471,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 24
+    "missed_scrapes": 25
   },
   {
     "id": "0f6e9e0f5520",
@@ -496,7 +496,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 24
+    "missed_scrapes": 25
   },
   {
     "id": "a815ed8c7cde",
@@ -521,7 +521,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 25
+    "missed_scrapes": 26
   },
   {
     "id": "3304dbb50824",
@@ -546,7 +546,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 25
+    "missed_scrapes": 26
   },
   {
     "id": "a2c5edbbabd7",
@@ -571,7 +571,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 25
+    "missed_scrapes": 26
   },
   {
     "id": "3353575e44b0",
@@ -596,7 +596,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 31
+    "missed_scrapes": 32
   },
   {
     "id": "8c468486217e",
@@ -621,7 +621,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 32
+    "missed_scrapes": 33
   },
   {
     "id": "f9d34a7138c7",
@@ -648,7 +648,7 @@
     "red_flags": [
       "Listed as 'Urgent Care' but description suggests Emergency Medicine"
     ],
-    "missed_scrapes": 38
+    "missed_scrapes": 39
   },
   {
     "id": "fe3d9200d3f0",
@@ -675,7 +675,7 @@
     "red_flags": [
       "Possible Urgent Care position rather than Emergency Medicine"
     ],
-    "missed_scrapes": 39
+    "missed_scrapes": 40
   },
   {
     "id": "df16a0eea8ac",
@@ -700,7 +700,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 39
+    "missed_scrapes": 40
   },
   {
     "id": "ce25ff788f7d",
@@ -727,7 +727,7 @@
     "red_flags": [
       "Labeled as 'Urgent Care' in description despite Emergency Medicine title"
     ],
-    "missed_scrapes": 39
+    "missed_scrapes": 40
   },
   {
     "id": "c15b00aab80e",
@@ -754,7 +754,7 @@
     "red_flags": [
       "Possibly Urgent Care disguised as Emergency Medicine"
     ],
-    "missed_scrapes": 40
+    "missed_scrapes": 41
   },
   {
     "id": "48febad6757f",
@@ -781,7 +781,7 @@
     "red_flags": [
       "Possible Urgent Care position rather than Emergency Medicine"
     ],
-    "missed_scrapes": 40
+    "missed_scrapes": 41
   },
   {
     "id": "ae362bb1fd33",
@@ -808,7 +808,7 @@
     "red_flags": [
       "Urgent Care position - may not be true Emergency Medicine"
     ],
-    "missed_scrapes": 40
+    "missed_scrapes": 41
   },
   {
     "id": "d696af035fdd",
@@ -833,7 +833,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 41
+    "missed_scrapes": 42
   },
   {
     "id": "95a548db328f",
@@ -858,7 +858,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 41
+    "missed_scrapes": 42
   },
   {
     "id": "d465f4da0a91",
@@ -885,7 +885,7 @@
     "red_flags": [
       "Position appears to be Urgent Care rather than Emergency Medicine"
     ],
-    "missed_scrapes": 41
+    "missed_scrapes": 42
   },
   {
     "id": "055fdaf9d5fb",
@@ -912,7 +912,7 @@
     "red_flags": [
       "Salary below minimum requirement of $300K at lower end"
     ],
-    "missed_scrapes": 41
+    "missed_scrapes": 42
   },
   {
     "id": "df633ac3b8b9",
@@ -939,7 +939,7 @@
     "red_flags": [
       "Listed as 'Urgent Care' in description, not traditional Emergency Medicine"
     ],
-    "missed_scrapes": 41
+    "missed_scrapes": 42
   },
   {
     "id": "7c6fa7b9d417",
@@ -964,7 +964,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 42
+    "missed_scrapes": 43
   },
   {
     "id": "ffaad8e39402",
@@ -991,7 +991,7 @@
     "red_flags": [
       "Listed as Emergency Medicine but described as Urgent Care position"
     ],
-    "missed_scrapes": 43
+    "missed_scrapes": 44
   },
   {
     "id": "f4634121801e",
@@ -1018,7 +1018,7 @@
     "red_flags": [
       "Urgent Care position - not traditional Emergency Medicine"
     ],
-    "missed_scrapes": 44
+    "missed_scrapes": 45
   },
   {
     "id": "3aee46871dea",
@@ -1045,7 +1045,7 @@
     "red_flags": [
       "Appears to be Urgent Care rather than Emergency Medicine"
     ],
-    "missed_scrapes": 46
+    "missed_scrapes": 47
   },
   {
     "id": "688eab8c2c65",
@@ -1072,7 +1072,7 @@
     "red_flags": [
       "May be Urgent Care position rather than true Emergency Medicine"
     ],
-    "missed_scrapes": 46
+    "missed_scrapes": 47
   },
   {
     "id": "25f3940f3fe9",
@@ -1099,7 +1099,7 @@
     "red_flags": [
       "Listed salary range $285K-$340K may be below target range"
     ],
-    "missed_scrapes": 47
+    "missed_scrapes": 48
   },
   {
     "id": "2a560cc994d2",
@@ -1126,7 +1126,7 @@
     "red_flags": [
       "Potential urgent care position - may not be traditional emergency medicine"
     ],
-    "missed_scrapes": 47
+    "missed_scrapes": 48
   },
   {
     "id": "35c336184e46",
@@ -1153,7 +1153,7 @@
     "red_flags": [
       "Urgent Care position - not traditional Emergency Medicine"
     ],
-    "missed_scrapes": 48
+    "missed_scrapes": 49
   },
   {
     "id": "c1548481ac41",
@@ -1180,7 +1180,7 @@
     "red_flags": [
       "Position appears to be Urgent Care rather than traditional Emergency Medicine"
     ],
-    "missed_scrapes": 49
+    "missed_scrapes": 50
   },
   {
     "id": "de3c6a11ba55",
@@ -1205,7 +1205,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 50
+    "missed_scrapes": 51
   },
   {
     "id": "65da9d9cabf9",
@@ -1230,7 +1230,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 50
+    "missed_scrapes": 51
   },
   {
     "id": "dc7947e53f7e",
@@ -1255,7 +1255,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 50
+    "missed_scrapes": 51
   },
   {
     "id": "c842e6458d36",
@@ -1280,7 +1280,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 50
+    "missed_scrapes": 51
   },
   {
     "id": "f6ae7e7a05a1",
@@ -1305,7 +1305,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 50
+    "missed_scrapes": 51
   },
   {
     "id": "dd9bc9858ed0",
@@ -1330,7 +1330,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 50
+    "missed_scrapes": 51
   },
   {
     "id": "bbb3aefbbfd9",
@@ -1355,7 +1355,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 51
+    "missed_scrapes": 52
   },
   {
     "id": "994d22268f6d",
@@ -1380,7 +1380,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 51
+    "missed_scrapes": 52
   },
   {
     "id": "5d3ab1172a00",
@@ -1405,7 +1405,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 51
+    "missed_scrapes": 52
   },
   {
     "id": "c4b6e03658a1",
@@ -1430,7 +1430,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 51
+    "missed_scrapes": 52
   },
   {
     "id": "29c6bbc5ff2c",
@@ -1455,7 +1455,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 51
+    "missed_scrapes": 52
   },
   {
     "id": "8482ccb945a4",
@@ -1480,7 +1480,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 51
+    "missed_scrapes": 52
   },
   {
     "id": "4707fe0954c2",
@@ -1505,7 +1505,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 51
+    "missed_scrapes": 52
   },
   {
     "id": "35561c6e5e04",
@@ -1530,7 +1530,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 51
+    "missed_scrapes": 52
   },
   {
     "id": "ce599959efec",
@@ -1555,7 +1555,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 51
+    "missed_scrapes": 52
   },
   {
     "id": "6608e664b409",
@@ -1580,7 +1580,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 51
+    "missed_scrapes": 52
   },
   {
     "id": "f8b0b4d40769",
@@ -1605,7 +1605,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 52
+    "missed_scrapes": 53
   },
   {
     "id": "08eb44b01d65",
@@ -1630,7 +1630,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 52
+    "missed_scrapes": 53
   },
   {
     "id": "a294a15c767a",
@@ -1655,7 +1655,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 52
+    "missed_scrapes": 53
   },
   {
     "id": "c2c16b1d34a4",
@@ -1680,7 +1680,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 52
+    "missed_scrapes": 53
   },
   {
     "id": "85582c648d9d",
@@ -1705,7 +1705,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 52
+    "missed_scrapes": 53
   },
   {
     "id": "4654e563542f",
@@ -1730,7 +1730,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 52
+    "missed_scrapes": 53
   },
   {
     "id": "2e68f9196b2a",
@@ -1755,7 +1755,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 52
+    "missed_scrapes": 53
   },
   {
     "id": "bdb83bcae688",
@@ -1780,7 +1780,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 53
+    "missed_scrapes": 54
   },
   {
     "id": "529166ff7ff4",
@@ -1805,7 +1805,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 53
+    "missed_scrapes": 54
   },
   {
     "id": "b74c7e45574f",
@@ -1830,7 +1830,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 53
+    "missed_scrapes": 54
   },
   {
     "id": "c9ad1643da5a",
@@ -1855,7 +1855,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 53
+    "missed_scrapes": 54
   },
   {
     "id": "55f99fefad9d",
@@ -1884,7 +1884,7 @@
       "Requires security clearance",
       "Government employment"
     ],
-    "missed_scrapes": 53
+    "missed_scrapes": 54
   },
   {
     "id": "0e8f1b6c96ff",
@@ -1909,7 +1909,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 53
+    "missed_scrapes": 54
   },
   {
     "id": "83eb444c2e07",
@@ -1934,7 +1934,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 53
+    "missed_scrapes": 54
   },
   {
     "id": "4d22ba3d8e38",
@@ -1959,7 +1959,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 53
+    "missed_scrapes": 54
   },
   {
     "id": "86dde03423c0",
@@ -1984,7 +1984,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 54
+    "missed_scrapes": 55
   },
   {
     "id": "c365ab37d373",
@@ -2009,7 +2009,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 54
+    "missed_scrapes": 55
   },
   {
     "id": "7d96541f76c8",
@@ -2034,7 +2034,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 54
+    "missed_scrapes": 55
   },
   {
     "id": "4f922f1e2bfe",
@@ -2059,7 +2059,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 54
+    "missed_scrapes": 55
   },
   {
     "id": "fadf87d4bcdb",
@@ -2084,7 +2084,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 54
+    "missed_scrapes": 55
   },
   {
     "id": "14d75e971136",
@@ -2109,7 +2109,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 54
+    "missed_scrapes": 55
   },
   {
     "id": "4d884d33d47b",
@@ -2134,7 +2134,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 55
+    "missed_scrapes": 56
   },
   {
     "id": "01961943cac6",
@@ -2159,7 +2159,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 55
+    "missed_scrapes": 56
   },
   {
     "id": "076e4ccf8d68",
@@ -2184,7 +2184,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 55
+    "missed_scrapes": 56
   },
   {
     "id": "b396fba08d3e",
@@ -2209,7 +2209,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 55
+    "missed_scrapes": 56
   },
   {
     "id": "77c5fd1d3fd8",
@@ -2234,7 +2234,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 55
+    "missed_scrapes": 56
   },
   {
     "id": "8ee4ed5175c9",
@@ -2259,7 +2259,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 55
+    "missed_scrapes": 56
   },
   {
     "id": "266e2ab00795",
@@ -2284,7 +2284,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 55
+    "missed_scrapes": 56
   },
   {
     "id": "73dbbbf07f1d",
@@ -2309,7 +2309,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 55
+    "missed_scrapes": 56
   },
   {
     "id": "29247b874210",
@@ -2334,7 +2334,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 55
+    "missed_scrapes": 56
   },
   {
     "id": "9d9b8fae846b",
@@ -2359,7 +2359,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 55
+    "missed_scrapes": 56
   },
   {
     "id": "603f22f422fc",
@@ -2384,7 +2384,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 55
+    "missed_scrapes": 56
   },
   {
     "id": "0a26f145928f",
@@ -2409,7 +2409,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 55
+    "missed_scrapes": 56
   },
   {
     "id": "5d2324d9ee36",
@@ -2434,7 +2434,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 55
+    "missed_scrapes": 56
   },
   {
     "id": "6228687c9b1d",
@@ -2459,7 +2459,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 55
+    "missed_scrapes": 56
   },
   {
     "id": "4fa24c58eb5c",
@@ -2484,7 +2484,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 55
+    "missed_scrapes": 56
   },
   {
     "id": "0ef0af571fcf",
@@ -2509,7 +2509,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 55
+    "missed_scrapes": 56
   },
   {
     "id": "4a4bee2471d9",
@@ -2534,7 +2534,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 55
+    "missed_scrapes": 56
   },
   {
     "id": "937de2a51aa5",
@@ -2559,7 +2559,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 55
+    "missed_scrapes": 56
   },
   {
     "id": "2d205212c023",
@@ -2584,7 +2584,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 55
+    "missed_scrapes": 56
   },
   {
     "id": "df3470dd02b7",
@@ -2609,7 +2609,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 56
+    "missed_scrapes": 57
   },
   {
     "id": "d8084bc78b41",
@@ -2638,7 +2638,7 @@
       "Security clearance required",
       "Mission essential designation"
     ],
-    "missed_scrapes": 56
+    "missed_scrapes": 57
   },
   {
     "id": "743eadd7ad44",
@@ -2663,7 +2663,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 56
+    "missed_scrapes": 57
   },
   {
     "id": "e5bf30e00dda",
@@ -2688,7 +2688,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 56
+    "missed_scrapes": 57
   },
   {
     "id": "5bbae10a9e53",
@@ -2715,7 +2715,7 @@
     "red_flags": [
       "Part-time position may not meet full-time requirement"
     ],
-    "missed_scrapes": 56
+    "missed_scrapes": 57
   },
   {
     "id": "61335f927772",
@@ -2740,7 +2740,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 56
+    "missed_scrapes": 57
   },
   {
     "id": "0bd384e4a55a",
@@ -2765,7 +2765,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 57
+    "missed_scrapes": 58
   },
   {
     "id": "710ca0f1c7a3",
@@ -2790,7 +2790,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 57
+    "missed_scrapes": 58
   },
   {
     "id": "ab25b16ba222",
@@ -2815,7 +2815,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 57
+    "missed_scrapes": 58
   },
   {
     "id": "1071b2d8e942",
@@ -2840,7 +2840,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 57
+    "missed_scrapes": 58
   },
   {
     "id": "692b89eb2422",
@@ -2865,7 +2865,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 57
+    "missed_scrapes": 58
   },
   {
     "id": "62d476447c49",
@@ -2890,7 +2890,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 57
+    "missed_scrapes": 58
   },
   {
     "id": "8853e28cf59b",
@@ -2915,7 +2915,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 57
+    "missed_scrapes": 58
   },
   {
     "id": "6a8e3e062566",
@@ -2940,7 +2940,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 57
+    "missed_scrapes": 58
   },
   {
     "id": "a808c3253c22",
@@ -2965,7 +2965,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 57
+    "missed_scrapes": 58
   },
   {
     "id": "a8d09853ea24",
@@ -2992,7 +2992,7 @@
     "red_flags": [
       "Leadership role - may be disguised Medical Director position"
     ],
-    "missed_scrapes": 58
+    "missed_scrapes": 59
   },
   {
     "id": "9b0abea31c7f",
@@ -3017,7 +3017,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 58
+    "missed_scrapes": 59
   },
   {
     "id": "315810a303c1",
@@ -3042,7 +3042,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 58
+    "missed_scrapes": 59
   },
   {
     "id": "39fc57c339c0",
@@ -3067,7 +3067,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 58
+    "missed_scrapes": 59
   },
   {
     "id": "1fa9f03e7362",
@@ -3092,7 +3092,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 58
+    "missed_scrapes": 59
   },
   {
     "id": "45eb155df3f7",
@@ -3117,7 +3117,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 58
+    "missed_scrapes": 59
   },
   {
     "id": "f5d53fe049bb",
@@ -3142,7 +3142,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 59
+    "missed_scrapes": 60
   },
   {
     "id": "9fcf363e5375",
@@ -3167,7 +3167,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 59
+    "missed_scrapes": 60
   },
   {
     "id": "e006d60369f4",
@@ -3192,7 +3192,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 59
+    "missed_scrapes": 60
   },
   {
     "id": "d840c19fa995",
@@ -3217,7 +3217,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 59
+    "missed_scrapes": 60
   },
   {
     "id": "d560ef77a24f",
@@ -3242,7 +3242,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 59
+    "missed_scrapes": 60
   },
   {
     "id": "3a9a8943beee",
@@ -3267,7 +3267,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 59
+    "missed_scrapes": 60
   },
   {
     "id": "0598084124f6",
@@ -3292,7 +3292,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 59
+    "missed_scrapes": 60
   },
   {
     "id": "d4cbfa1d699e",
@@ -3317,7 +3317,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 61
+    "missed_scrapes": 62
   },
   {
     "id": "f32fca09eb0f",
@@ -3342,7 +3342,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 61
+    "missed_scrapes": 62
   },
   {
     "id": "27d207f5bc9a",
@@ -3367,7 +3367,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 61
+    "missed_scrapes": 62
   },
   {
     "id": "c96575e5c89a",
@@ -3392,7 +3392,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 61
+    "missed_scrapes": 62
   },
   {
     "id": "5ab2f498b1c8",
@@ -3417,7 +3417,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 61
+    "missed_scrapes": 62
   },
   {
     "id": "5a399cfec917",
@@ -3442,7 +3442,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 62
+    "missed_scrapes": 63
   },
   {
     "id": "efa053c2f6ed",
@@ -3467,7 +3467,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 62
+    "missed_scrapes": 63
   },
   {
     "id": "a56628eac1f8",
@@ -3492,7 +3492,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 62
+    "missed_scrapes": 63
   },
   {
     "id": "f3280af2e39d",
@@ -3517,7 +3517,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 62
+    "missed_scrapes": 63
   },
   {
     "id": "aab608699843",
@@ -3542,7 +3542,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 62
+    "missed_scrapes": 63
   },
   {
     "id": "e54444056706",
@@ -3567,7 +3567,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 62
+    "missed_scrapes": 63
   },
   {
     "id": "1cdbd74ed43c",
@@ -3592,7 +3592,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 63
+    "missed_scrapes": 64
   },
   {
     "id": "e82721e8f611",
@@ -3617,7 +3617,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 63
+    "missed_scrapes": 64
   },
   {
     "id": "0e9b2b079b94",
@@ -3642,7 +3642,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 63
+    "missed_scrapes": 64
   },
   {
     "id": "96664c566ebf",
@@ -3667,7 +3667,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 63
+    "missed_scrapes": 64
   },
   {
     "id": "799f14622f17",
@@ -3692,7 +3692,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 63
+    "missed_scrapes": 64
   },
   {
     "id": "8ad2bfe2d4e4",
@@ -3717,7 +3717,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 63
+    "missed_scrapes": 64
   },
   {
     "id": "751d29a86340",
@@ -3742,7 +3742,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 63
+    "missed_scrapes": 64
   },
   {
     "id": "62bddec0fb7d",
@@ -3767,7 +3767,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 64
+    "missed_scrapes": 65
   },
   {
     "id": "a557e855c92e",
@@ -3792,7 +3792,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 64
+    "missed_scrapes": 65
   },
   {
     "id": "12a79f625c5c",
@@ -3817,7 +3817,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 64
+    "missed_scrapes": 65
   },
   {
     "id": "1eb5d53557a3",
@@ -3842,7 +3842,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 64
+    "missed_scrapes": 65
   },
   {
     "id": "d74fbf6507c1",
@@ -3867,7 +3867,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 64
+    "missed_scrapes": 65
   },
   {
     "id": "592ba5008ca8",
@@ -3892,7 +3892,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 64
+    "missed_scrapes": 65
   },
   {
     "id": "435c9979cf36",
@@ -3917,7 +3917,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 64
+    "missed_scrapes": 65
   },
   {
     "id": "d54fd74d3db3",
@@ -3942,7 +3942,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "c3cea9d64dfd",
@@ -3967,7 +3967,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "bced4e29dd95",
@@ -3996,7 +3996,7 @@
       "No salary information provided",
       "Vague job description"
     ],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "411b09969840",
@@ -4021,7 +4021,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "b977b2ccbb85",
@@ -4046,7 +4046,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 66
+    "missed_scrapes": 67
   },
   {
     "id": "da881ffc56b0",
@@ -4071,7 +4071,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 66
+    "missed_scrapes": 67
   },
   {
     "id": "42cf998cc7d0",
@@ -4096,7 +4096,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 66
+    "missed_scrapes": 67
   },
   {
     "id": "4dd5d35fb7a7",
@@ -4121,7 +4121,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 66
+    "missed_scrapes": 67
   },
   {
     "id": "236d7e3af646",
@@ -4150,7 +4150,7 @@
       "Requires security clearance",
       "Mission Essential designation"
     ],
-    "missed_scrapes": 67
+    "missed_scrapes": 68
   },
   {
     "id": "26d34bebf18b",
@@ -4175,7 +4175,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 67
+    "missed_scrapes": 68
   },
   {
     "id": "bcef70d10735",
@@ -4200,7 +4200,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 68
+    "missed_scrapes": 69
   },
   {
     "id": "c58c06eb7fb8",
@@ -4225,7 +4225,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 69
+    "missed_scrapes": 70
   },
   {
     "id": "5c029ba295b3",
@@ -4253,7 +4253,7 @@
       "Vague job description",
       "May be urgent care rather than emergency medicine"
     ],
-    "missed_scrapes": 70
+    "missed_scrapes": 71
   },
   {
     "id": "3c0a0655c69c",
@@ -4278,7 +4278,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 70
+    "missed_scrapes": 71
   },
   {
     "id": "e19db5b4b68a",
@@ -4303,7 +4303,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 70
+    "missed_scrapes": 71
   },
   {
     "id": "86d2f90992d3",
@@ -4328,7 +4328,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 70
+    "missed_scrapes": 71
   },
   {
     "id": "8bce84296009",
@@ -4353,7 +4353,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 70
+    "missed_scrapes": 71
   },
   {
     "id": "900dab2d66bc",
@@ -4378,7 +4378,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 71
+    "missed_scrapes": 72
   },
   {
     "id": "65ec272c89dc",
@@ -4403,7 +4403,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 71
+    "missed_scrapes": 72
   },
   {
     "id": "2ef91debd5a7",
@@ -4428,7 +4428,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 72
+    "missed_scrapes": 73
   },
   {
     "id": "c741fdd25e2a",
@@ -4453,7 +4453,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 72
+    "missed_scrapes": 73
   },
   {
     "id": "575cd4a502f7",
@@ -4478,7 +4478,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 72
+    "missed_scrapes": 73
   },
   {
     "id": "d37b077b77ee",
@@ -4505,7 +4505,7 @@
     "red_flags": [
       "Below target salary range"
     ],
-    "missed_scrapes": 72
+    "missed_scrapes": 73
   },
   {
     "id": "06f93eb079f2",
@@ -4530,7 +4530,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 73
+    "missed_scrapes": 74
   },
   {
     "id": "0ca2d7aa1052",
@@ -4555,7 +4555,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 73
+    "missed_scrapes": 74
   },
   {
     "id": "473067c4cf6f",
@@ -4580,7 +4580,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 74
+    "missed_scrapes": 75
   },
   {
     "id": "4b51be291167",
@@ -4605,7 +4605,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 74
+    "missed_scrapes": 75
   },
   {
     "id": "27875e89794a",
@@ -4630,7 +4630,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 74
+    "missed_scrapes": 75
   },
   {
     "id": "fabcead7dfa2",
@@ -4655,7 +4655,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 74
+    "missed_scrapes": 75
   },
   {
     "id": "dd901932d44d",
@@ -4680,7 +4680,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 75
+    "missed_scrapes": 76
   },
   {
     "id": "b4705beefc35",
@@ -4705,7 +4705,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 75
+    "missed_scrapes": 76
   },
   {
     "id": "ef3c44fd20b4",
@@ -4730,7 +4730,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 76
+    "missed_scrapes": 77
   },
   {
     "id": "85ba457bfaf0",
@@ -4755,7 +4755,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 76
+    "missed_scrapes": 77
   },
   {
     "id": "f01c85ba0f13",
@@ -4780,7 +4780,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 76
+    "missed_scrapes": 77
   },
   {
     "id": "780c55891f31",
@@ -4805,7 +4805,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 77
+    "missed_scrapes": 78
   },
   {
     "id": "17c9f39b2b8e",
@@ -4830,7 +4830,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 77
+    "missed_scrapes": 78
   },
   {
     "id": "d95a7c3e271b",
@@ -4855,7 +4855,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 77
+    "missed_scrapes": 78
   },
   {
     "id": "602703c2f9c1",
@@ -4880,7 +4880,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 78
+    "missed_scrapes": 79
   },
   {
     "id": "858808046b40",
@@ -4905,7 +4905,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 78
+    "missed_scrapes": 79
   },
   {
     "id": "285ce19a4e97",
@@ -4930,7 +4930,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 78
+    "missed_scrapes": 79
   },
   {
     "id": "ac9c42e4f209",
@@ -4957,7 +4957,7 @@
     "red_flags": [
       "Academic faculty expectations may require additional teaching/research commitments"
     ],
-    "missed_scrapes": 79
+    "missed_scrapes": 80
   },
   {
     "id": "57bc854c2536",
@@ -4982,7 +4982,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 80
+    "missed_scrapes": 81
   },
   {
     "id": "d30b9106b441",
@@ -5007,7 +5007,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 80
+    "missed_scrapes": 81
   },
   {
     "id": "ba2b1aef6a43",
@@ -5032,7 +5032,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 80
+    "missed_scrapes": 81
   },
   {
     "id": "c9deb57cfcb4",
@@ -5057,7 +5057,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 80
+    "missed_scrapes": 81
   },
   {
     "id": "09c66a790c6f",
@@ -5082,6 +5082,6 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 80
+    "missed_scrapes": 81
   }
 ]
