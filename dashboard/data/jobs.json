@@ -13,14 +13,14 @@
     "is_nocturnist_only": false,
     "match_confidence": "Medium",
     "analysis_notes": "Alameda Health System is a public safety-net health system in the Bay Area, which is a Priority 1 location for this candidate. The salary of $315,629 is above the $300,000 minimum but well below the $350,000-$400,000 target range, which is a concern. The position appears to be a standard EM attending role with no red flags regarding employer exclusions, and the schedule is not described as nocturnist-only.",
-    "source_url": "https://www.adzuna.com/land/ad/5790413766?se=bPUtQNSQ8RGUoOdiQsob_Q&utm_medium=api&utm_source=04e8e9e3&v=40A8423D60F0E55BBD2A68C148F052EF6304703E",
+    "source_url": "https://www.adzuna.com/land/ad/5790413766?se=VuiEGp2R8RGtO7q9CFSDuA&utm_medium=api&utm_source=04e8e9e3&v=40A8423D60F0E55BBD2A68C148F052EF6304703E",
     "source_name": "Adzuna",
     "description_snippet": "Job Description Summary \\n \\n \\n SUMMARY : The Emergency Medicine Physician will provide emergency medicine services for Alameda Health System. The Emergency Medicine Physician is responsible for the expert provision of safe, efficient, patient-centered, and cost-effective care within the Emergency Department and for responding to in-house emergencies at the Hospital. This position reports to the Medical Directors of the Department of Emergency Medicine, with ultimate responsibility to the Chai\u2026",
     "full_description": "Job Description Summary \\n \\n \\n SUMMARY : The Emergency Medicine Physician will provide emergency medicine services for Alameda Health System. The Emergency Medicine Physician is responsible for the expert provision of safe, efficient, patient-centered, and cost-effective care within the Emergency Department and for responding to in-house emergencies at the Hospital. This position reports to the Medical Directors of the Department of Emergency Medicine, with ultimate responsibility to the Chai\u2026",
     "date_found": "2026-08-05",
-    "date_last_seen": "2026-08-05",
+    "date_last_seen": "2026-08-06",
     "status": "active",
-    "is_new": true,
+    "is_new": false,
     "red_flags": [
       "Salary at low end of acceptable range ($315,629 is above minimum but below target)",
       "Salary appears fixed rather than a range, which may indicate limited negotiability"
@@ -41,14 +41,39 @@
     "is_nocturnist_only": false,
     "match_confidence": "High",
     "analysis_notes": "Highland Hospital is a well-known safety-net academic medical center and Level II Trauma Center in Oakland/Alameda County, making this an excellent institutional fit. The role explicitly includes clinical EM services, teaching, and scholarly work \u2014 a classic academic faculty position. Salary of $346,124 meets the minimum requirement and falls within the lower end of the target range, and the Bay Area location is a top priority for the candidate.",
-    "source_url": "https://www.adzuna.com/land/ad/5790415506?se=bPUtQNSQ8RGUoOdiQsob_Q&utm_medium=api&utm_source=04e8e9e3&v=22BAB4BAA8940EB25510918C87E072D64CB38A41",
+    "source_url": "https://www.adzuna.com/land/ad/5790415506?se=VuiEGp2R8RGtO7q9CFSDuA&utm_medium=api&utm_source=04e8e9e3&v=22BAB4BAA8940EB25510918C87E072D64CB38A41",
     "source_name": "Adzuna",
     "description_snippet": "Job Description Summary \\n \\n SUMMARY : The Highland Emergency Core Faculty will provide clinical emergency medicine services, teaching and scholarly work for Alameda Health System. Services will be on-site at Highland Hospital. \\n DUTIES & ESSENTIAL JOB FUNCTIONS : NOTE: Following are the duties performed by employees in this classification. However, employees may perform other related duties at an equivalent level. Not all duties listed are necessarily performed by each individual in the clas\u2026",
     "full_description": "Job Description Summary \\n \\n SUMMARY : The Highland Emergency Core Faculty will provide clinical emergency medicine services, teaching and scholarly work for Alameda Health System. Services will be on-site at Highland Hospital. \\n DUTIES & ESSENTIAL JOB FUNCTIONS : NOTE: Following are the duties performed by employees in this classification. However, employees may perform other related duties at an equivalent level. Not all duties listed are necessarily performed by each individual in the clas\u2026",
     "date_found": "2026-08-05",
-    "date_last_seen": "2026-08-05",
+    "date_last_seen": "2026-08-06",
     "status": "active",
-    "is_new": true,
+    "is_new": false,
+    "red_flags": [],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "8cd3b02a6ce7",
+    "title": "Emergency Medicine Physician",
+    "employer": "Alameda Health System",
+    "location": "Alameda County, CA",
+    "location_region": "Bay Area, CA",
+    "location_priority": 1,
+    "salary": "$325,133",
+    "salary_numeric": 325133,
+    "institution_type": "Trauma Level I",
+    "schedule_type": "Unclear",
+    "is_nocturnist_only": false,
+    "match_confidence": "High",
+    "analysis_notes": "Alameda Health System is a public integrated health system in the Bay Area with Level 1 Trauma designation and multiple residency programs, making it a strong institutional fit. The salary of $325,133 meets the minimum threshold but falls below the target range of $350,000-$400,000. The posting mentions both Full-Time and Services-As-Needed roles across San Leandro and Alameda Hospitals, which aligns well with the candidate's interest in full-time attending positions.",
+    "source_url": "https://www.adzuna.com/details/5760133562?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "description_snippet": "Alameda Health System (AHS) is seeking Full-Time and Services-As-Needed Emergency Medicine Physicians to staff San Leandro and Alameda Hospitals in the Division of Community Emergency Medicine. AHS is an integrated public health system spanning 5 facilities, 4 ambulatory sites and 800 beds providing primary, specialty, Stroke, STEMI, and Level 1 Trauma in addition to supporting several residency programs. Our safety net system is dedicated to serving our surrounding communities with safe, equit\u2026",
+    "full_description": "Alameda Health System (AHS) is seeking Full-Time and Services-As-Needed Emergency Medicine Physicians to staff San Leandro and Alameda Hospitals in the Division of Community Emergency Medicine. AHS is an integrated public health system spanning 5 facilities, 4 ambulatory sites and 800 beds providing primary, specialty, Stroke, STEMI, and Level 1 Trauma in addition to supporting several residency programs. Our safety net system is dedicated to serving our surrounding communities with safe, equit\u2026",
+    "date_found": "2026-06-30",
+    "date_last_seen": "2026-08-06",
+    "status": "active",
+    "is_new": false,
     "red_flags": [],
     "missed_scrapes": 0
   },
@@ -71,7 +96,7 @@
     "description_snippet": "Emergency Physician Positions The Department of Emergency Medicine in the Boston Medical Center Health System (BMCHS) and Boston University Chobanian & Avedisian School of Medicine (BUCAMED) is seeking applications for outstanding Emergency Physicians to join our group. Department of Emergency Medicine The Department has over 75 faculty and fellows and over 35 APPs who practice across the three emergency departments. The BMC EM residency program is a 4-year training program. It was the first pr\u2026",
     "full_description": "Emergency Physician Positions The Department of Emergency Medicine in the Boston Medical Center Health System (BMCHS) and Boston University Chobanian & Avedisian School of Medicine (BUCAMED) is seeking applications for outstanding Emergency Physicians to join our group. Department of Emergency Medicine The Department has over 75 faculty and fellows and over 35 APPs who practice across the three emergency departments. The BMC EM residency program is a 4-year training program. It was the first pr\u2026",
     "date_found": "2026-06-29",
-    "date_last_seen": "2026-08-05",
+    "date_last_seen": "2026-08-06",
     "status": "active",
     "is_new": false,
     "red_flags": [
@@ -98,13 +123,66 @@
     "description_snippet": "CA | Employer Direct | Physician - Emergency Medicine - Up to $100K Sign On Bonus! - Adventist Health Bakersfield | Adventist Health Bakersfield | part of | Vituity | Bakersfield, CA | Physician-Emergency Medicine | Other | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Accou",
     "full_description": "CA | Employer Direct | Physician - Emergency Medicine - Up to $100K Sign On Bonus! - Adventist Health Bakersfield | Adventist Health Bakersfield | part of | Vituity | Bakersfield, CA | Physician-Emergency Medicine | Other | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1597680 | Physician - Emergency Medicine - Up to $100K Sign On Bonus! - Adventist Health Bakersfield | Adventist Health Bakersfield | Bakersfield, CA | Undo",
     "date_found": "2026-08-03",
-    "date_last_seen": "2026-08-05",
+    "date_last_seen": "2026-08-06",
     "status": "active",
     "is_new": false,
     "red_flags": [
       "Salary not listed",
       "Staffed by Vituity (third-party group)"
     ],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "be00f655939f",
+    "title": "Physician - Emergency Medicine",
+    "employer": "Vituity (Community Hospital of San Bernardino)",
+    "location": "San Bernardino, CA",
+    "location_region": "California Coast",
+    "location_priority": 2,
+    "salary": "Not listed",
+    "salary_numeric": null,
+    "institution_type": "Community Hospital",
+    "schedule_type": "Unclear",
+    "is_nocturnist_only": false,
+    "match_confidence": "Medium",
+    "analysis_notes": "This is an EM physician role at a community hospital in San Bernardino, CA staffed through Vituity, a large physician-owned group not on the excluded employer list. San Bernardino is inland Southern California \u2014 not a coastal location, so it is a marginal match for the California Coast priority region, but it is still within California. Salary is not listed, which is a concern given the $300,000 minimum requirement; follow-up would be needed to confirm compensation meets the threshold.",
+    "source_url": "https://jobs.practicelink.com/jobs/1597682/emergency-medicine/physician/california/community-hospital-of-san-bernardino/",
+    "source_name": "PracticeLink",
+    "description_snippet": "CA | Employer Direct | Physician - Emergency Medicine - Community Hospital of San Bernardino | Community Hospital of San Bernardino | part of | Vituity | San Bernardino, CA | Physician-Emergency Medicine | Other | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign ",
+    "full_description": "CA | Employer Direct | Physician - Emergency Medicine - Community Hospital of San Bernardino | Community Hospital of San Bernardino | part of | Vituity | San Bernardino, CA | Physician-Emergency Medicine | Other | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1597682 | Physician - Emergency Medicine - Community Hospital of San Bernardino | Community Hospital of San Bernardino | San Bernardino, CA | Undo",
+    "date_found": "2026-08-06",
+    "date_last_seen": "2026-08-06",
+    "status": "active",
+    "is_new": true,
+    "red_flags": [
+      "Salary not listed",
+      "San Bernardino is inland California, not strictly California Coast"
+    ],
+    "missed_scrapes": 0
+  },
+  {
+    "id": "85f116e03d9b",
+    "title": "Physician - Emergency Medicine",
+    "employer": "Sacramento VA Medical Center / Veterans Health Administration",
+    "location": "Mather, CA (Sacramento Area)",
+    "location_region": "California Coast",
+    "location_priority": 2,
+    "salary": "$300,000-$400,000",
+    "salary_numeric": 350000,
+    "institution_type": "Academic Medical Center",
+    "schedule_type": "Unclear",
+    "is_nocturnist_only": false,
+    "match_confidence": "Medium",
+    "analysis_notes": "Sacramento VA Medical Center is a federal VA facility affiliated with UC Davis, giving it an academic/teaching character and solid institutional reputation. The salary range of $300K-$400K aligns well with the candidate's target range. Sacramento is not a Priority 1 or 2 coastal city, but does fall within California and is plausible as a Priority 2 California Coast adjacent posting; schedule details are not specified in this sparse listing and should be clarified before applying.",
+    "source_url": "https://jobs.practicelink.com/jobs/1594034/emergency-medicine/physician/california/sacramento-va-medical-center-sacramento-ca-/",
+    "source_name": "PracticeLink",
+    "description_snippet": "CA | Employer Direct | Physician - Emergency Medicine Position in Sacramento, CA! | Sacramento VA Medical Center (Sacramento, CA) | part of | Veterans Health Administration | Mather, CA | Physician-Emergency Medicine | Full-Time | Salary Range: $300,000 - $400,000 a year | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. ",
+    "full_description": "CA | Employer Direct | Physician - Emergency Medicine Position in Sacramento, CA! | Sacramento VA Medical Center (Sacramento, CA) | part of | Veterans Health Administration | Mather, CA | Physician-Emergency Medicine | Full-Time | Salary Range: $300,000 - $400,000 a year | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1594034 | Physician - Emergency Medicine Position in Sacramento, CA! | Sacramento VA Medical Center (Sacramento, CA) | Mather, CA | Undo",
+    "date_found": "2026-07-22",
+    "date_last_seen": "2026-08-06",
+    "status": "active",
+    "is_new": false,
+    "red_flags": [],
     "missed_scrapes": 0
   },
   {
@@ -128,13 +206,13 @@
     "date_found": "2026-08-05",
     "date_last_seen": "2026-08-05",
     "status": "active",
-    "is_new": true,
+    "is_new": false,
     "red_flags": [
       "Salary not listed",
       "Community hospital (not trauma center)",
       "San Bernardino is inland \u2014 not coastal California"
     ],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "db64e949a523",
@@ -157,9 +235,9 @@
     "date_found": "2026-08-05",
     "date_last_seen": "2026-08-05",
     "status": "active",
-    "is_new": true,
+    "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "d74fbf6507c1",
@@ -184,7 +262,7 @@
     "status": "active",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 0
+    "missed_scrapes": 1
   },
   {
     "id": "3c68858de527",
@@ -206,13 +284,13 @@
     "full_description": "CA | Employer Direct | Physician - Emergency Medicine - Community Hospital of San Bernardino | Community Hospital of San Bernardino | part of | Vituity | San Bernardino, CA | Physician-Emergency Medicine | Other | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1597682 | Physician - Emergency Medicine - Community Hospital of San Bernardino | Community Hospital of San Bernardino | San Bernardino, CA | Undo",
     "date_found": "2026-08-04",
     "date_last_seen": "2026-08-04",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [
       "Salary not listed",
       "Inland location \u2014 San Bernardino is not coastal CA"
     ],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "5f1c88947282",
@@ -234,10 +312,10 @@
     "full_description": "CA | Employer Direct | Physician - Emergency Medicine Position in Sacramento, CA! | Sacramento VA Medical Center (Sacramento, CA) | part of | Veterans Health Administration | Mather, CA | Physician-Emergency Medicine | Full-Time | Salary Range: $300,000 - $400,000 a year | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1594034 | Physician - Emergency Medicine Position in Sacramento, CA! | Sacramento VA Medical Center (Sacramento, CA) | Mather, CA | Undo",
     "date_found": "2026-07-24",
     "date_last_seen": "2026-08-04",
-    "status": "active",
+    "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 1
+    "missed_scrapes": 2
   },
   {
     "id": "2341acc58f12",
@@ -262,7 +340,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "aad0bdbeb988",
@@ -290,7 +368,7 @@
       "Salary not listed",
       "Community hospital rather than academic/trauma center"
     ],
-    "missed_scrapes": 2
+    "missed_scrapes": 3
   },
   {
     "id": "7856f9f0643f",
@@ -312,31 +390,6 @@
     "full_description": "CA | Employer Direct | Physician - Emergency Medicine Position in Sacramento, CA! | Sacramento VA Medical Center (Sacramento, CA) | part of | Veterans Health Administration | Mather, CA | Physician-Emergency Medicine | Full-Time | Salary Range: $300,000 - $400,000 a year | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1594034 | Physician - Emergency Medicine Position in Sacramento, CA! | Sacramento VA Medical Center (Sacramento, CA) | Mather, CA | Undo",
     "date_found": "2026-08-03",
     "date_last_seen": "2026-08-03",
-    "status": "possibly_filled",
-    "is_new": false,
-    "red_flags": [],
-    "missed_scrapes": 2
-  },
-  {
-    "id": "85f116e03d9b",
-    "title": "Physician - Emergency Medicine",
-    "employer": "Sacramento VA Medical Center / Veterans Health Administration",
-    "location": "Mather, CA (Sacramento Area)",
-    "location_region": "California Coast",
-    "location_priority": 2,
-    "salary": "$300,000-$400,000",
-    "salary_numeric": 350000,
-    "institution_type": "Academic Medical Center",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "Medium",
-    "analysis_notes": "Sacramento VA Medical Center is a federal VA facility affiliated with UC Davis, giving it an academic/teaching character and solid institutional reputation. The salary range of $300K-$400K aligns well with the candidate's target range. Sacramento is not a Priority 1 or 2 coastal city, but does fall within California and is plausible as a Priority 2 California Coast adjacent posting; schedule details are not specified in this sparse listing and should be clarified before applying.",
-    "source_url": "https://jobs.practicelink.com/jobs/1594034/emergency-medicine/physician/california/sacramento-va-medical-center-sacramento-ca-/",
-    "source_name": "PracticeLink",
-    "description_snippet": "CA | Employer Direct | Physician - Emergency Medicine Position in Sacramento, CA! | Sacramento VA Medical Center (Sacramento, CA) | part of | Veterans Health Administration | Mather, CA | Physician-Emergency Medicine | Full-Time | Salary Range: $300,000 - $400,000 a year | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. ",
-    "full_description": "CA | Employer Direct | Physician - Emergency Medicine Position in Sacramento, CA! | Sacramento VA Medical Center (Sacramento, CA) | part of | Veterans Health Administration | Mather, CA | Physician-Emergency Medicine | Full-Time | Salary Range: $300,000 - $400,000 a year | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | Sign In | New to PracticeLink? | Create an Account | Sign in to save jobs. | Sign In | New to PracticeLink? | Create an Account | JobId- 1594034 | Physician - Emergency Medicine Position in Sacramento, CA! | Sacramento VA Medical Center (Sacramento, CA) | Mather, CA | Undo",
-    "date_found": "2026-07-22",
-    "date_last_seen": "2026-07-27",
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
@@ -367,7 +420,7 @@
     "red_flags": [
       "Salary listed as $82,781 \u2014 almost certainly a data error or partial figure from job aggregator; true compensation likely far higher for an attending EM physician at a major academic center"
     ],
-    "missed_scrapes": 7
+    "missed_scrapes": 8
   },
   {
     "id": "fc26a7e400ae",
@@ -395,7 +448,7 @@
       "Salary not specified - listed as negotiable",
       "EMS Operations focus may imply administrative/medical director duties"
     ],
-    "missed_scrapes": 12
+    "missed_scrapes": 13
   },
   {
     "id": "2c973c6ee338",
@@ -420,7 +473,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 12
+    "missed_scrapes": 13
   },
   {
     "id": "38713f5d6656",
@@ -447,7 +500,7 @@
     "red_flags": [
       "Salary not disclosed \u2014 listed only as 'competitive'"
     ],
-    "missed_scrapes": 12
+    "missed_scrapes": 13
   },
   {
     "id": "4bbcf947950e",
@@ -476,7 +529,7 @@
       "Palmdale is inland suburban LA, not coastal CA \u2014 borderline Priority 2 match",
       "Truncated job description limits full assessment"
     ],
-    "missed_scrapes": 12
+    "missed_scrapes": 13
   },
   {
     "id": "50fc3d5eb62a",
@@ -504,7 +557,7 @@
       "Salary not listed \u2014 'competitive' only",
       "Truncated job description \u2014 full details unavailable"
     ],
-    "missed_scrapes": 14
+    "missed_scrapes": 15
   },
   {
     "id": "32cffd76d76b",
@@ -532,32 +585,7 @@
       "Salary not listed",
       "Private EM group staffing model \u2014 unclear compensation structure"
     ],
-    "missed_scrapes": 14
-  },
-  {
-    "id": "8cd3b02a6ce7",
-    "title": "Emergency Medicine Physician",
-    "employer": "Alameda Health System",
-    "location": "Alameda County, CA",
-    "location_region": "Bay Area, CA",
-    "location_priority": 1,
-    "salary": "$325,133",
-    "salary_numeric": 325133,
-    "institution_type": "Trauma Level I",
-    "schedule_type": "Unclear",
-    "is_nocturnist_only": false,
-    "match_confidence": "High",
-    "analysis_notes": "Alameda Health System is a public integrated health system in the Bay Area with Level 1 Trauma designation and multiple residency programs, making it a strong institutional fit. The salary of $325,133 meets the minimum threshold but falls below the target range of $350,000-$400,000. The posting mentions both Full-Time and Services-As-Needed roles across San Leandro and Alameda Hospitals, which aligns well with the candidate's interest in full-time attending positions.",
-    "source_url": "https://www.adzuna.com/details/5760133562?utm_medium=api&utm_source=04e8e9e3",
-    "source_name": "Adzuna",
-    "description_snippet": "Alameda Health System (AHS) is seeking Full-Time and Services-As-Needed Emergency Medicine Physicians to staff San Leandro and Alameda Hospitals in the Division of Community Emergency Medicine. AHS is an integrated public health system spanning 5 facilities, 4 ambulatory sites and 800 beds providing primary, specialty, Stroke, STEMI, and Level 1 Trauma in addition to supporting several residency programs. Our safety net system is dedicated to serving our surrounding communities with safe, equit\u2026",
-    "full_description": "Alameda Health System (AHS) is seeking Full-Time and Services-As-Needed Emergency Medicine Physicians to staff San Leandro and Alameda Hospitals in the Division of Community Emergency Medicine. AHS is an integrated public health system spanning 5 facilities, 4 ambulatory sites and 800 beds providing primary, specialty, Stroke, STEMI, and Level 1 Trauma in addition to supporting several residency programs. Our safety net system is dedicated to serving our surrounding communities with safe, equit\u2026",
-    "date_found": "2026-06-30",
-    "date_last_seen": "2026-07-01",
-    "status": "possibly_filled",
-    "is_new": false,
-    "red_flags": [],
-    "missed_scrapes": 19
+    "missed_scrapes": 15
   },
   {
     "id": "b166a8a65aa1",
@@ -586,7 +614,7 @@
       "Employer is a staffing/recruiting firm \u2014 actual facility unknown",
       "Truncated description limits full assessment"
     ],
-    "missed_scrapes": 20
+    "missed_scrapes": 21
   },
   {
     "id": "3eed6ed98ac5",
@@ -611,7 +639,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 20
+    "missed_scrapes": 21
   },
   {
     "id": "2375a04681ab",
@@ -639,7 +667,7 @@
       "EMS Operations focus may imply Medical Director or administrative duties",
       "Salary not listed"
     ],
-    "missed_scrapes": 20
+    "missed_scrapes": 21
   },
   {
     "id": "f309f27509e3",
@@ -664,7 +692,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 26
+    "missed_scrapes": 27
   },
   {
     "id": "59883caf181d",
@@ -689,7 +717,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 26
+    "missed_scrapes": 27
   },
   {
     "id": "5176897e1d12",
@@ -714,7 +742,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 28
+    "missed_scrapes": 29
   },
   {
     "id": "29452fbac450",
@@ -739,7 +767,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 29
+    "missed_scrapes": 30
   },
   {
     "id": "d08779a29fbe",
@@ -764,7 +792,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 29
+    "missed_scrapes": 30
   },
   {
     "id": "7dfc65576787",
@@ -789,7 +817,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 33
+    "missed_scrapes": 34
   },
   {
     "id": "c69d2ad35d31",
@@ -814,7 +842,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 34
+    "missed_scrapes": 35
   },
   {
     "id": "0f6e9e0f5520",
@@ -839,7 +867,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 34
+    "missed_scrapes": 35
   },
   {
     "id": "a815ed8c7cde",
@@ -864,7 +892,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 35
+    "missed_scrapes": 36
   },
   {
     "id": "3304dbb50824",
@@ -889,7 +917,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 35
+    "missed_scrapes": 36
   },
   {
     "id": "a2c5edbbabd7",
@@ -914,7 +942,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 35
+    "missed_scrapes": 36
   },
   {
     "id": "3353575e44b0",
@@ -939,7 +967,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 41
+    "missed_scrapes": 42
   },
   {
     "id": "8c468486217e",
@@ -964,7 +992,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 42
+    "missed_scrapes": 43
   },
   {
     "id": "f9d34a7138c7",
@@ -991,7 +1019,7 @@
     "red_flags": [
       "Listed as 'Urgent Care' but description suggests Emergency Medicine"
     ],
-    "missed_scrapes": 48
+    "missed_scrapes": 49
   },
   {
     "id": "fe3d9200d3f0",
@@ -1018,7 +1046,7 @@
     "red_flags": [
       "Possible Urgent Care position rather than Emergency Medicine"
     ],
-    "missed_scrapes": 49
+    "missed_scrapes": 50
   },
   {
     "id": "df16a0eea8ac",
@@ -1043,7 +1071,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 49
+    "missed_scrapes": 50
   },
   {
     "id": "ce25ff788f7d",
@@ -1070,7 +1098,7 @@
     "red_flags": [
       "Labeled as 'Urgent Care' in description despite Emergency Medicine title"
     ],
-    "missed_scrapes": 49
+    "missed_scrapes": 50
   },
   {
     "id": "c15b00aab80e",
@@ -1097,7 +1125,7 @@
     "red_flags": [
       "Possibly Urgent Care disguised as Emergency Medicine"
     ],
-    "missed_scrapes": 50
+    "missed_scrapes": 51
   },
   {
     "id": "48febad6757f",
@@ -1124,7 +1152,7 @@
     "red_flags": [
       "Possible Urgent Care position rather than Emergency Medicine"
     ],
-    "missed_scrapes": 50
+    "missed_scrapes": 51
   },
   {
     "id": "ae362bb1fd33",
@@ -1151,7 +1179,7 @@
     "red_flags": [
       "Urgent Care position - may not be true Emergency Medicine"
     ],
-    "missed_scrapes": 50
+    "missed_scrapes": 51
   },
   {
     "id": "d696af035fdd",
@@ -1176,7 +1204,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 51
+    "missed_scrapes": 52
   },
   {
     "id": "95a548db328f",
@@ -1201,7 +1229,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 51
+    "missed_scrapes": 52
   },
   {
     "id": "d465f4da0a91",
@@ -1228,7 +1256,7 @@
     "red_flags": [
       "Position appears to be Urgent Care rather than Emergency Medicine"
     ],
-    "missed_scrapes": 51
+    "missed_scrapes": 52
   },
   {
     "id": "055fdaf9d5fb",
@@ -1255,7 +1283,7 @@
     "red_flags": [
       "Salary below minimum requirement of $300K at lower end"
     ],
-    "missed_scrapes": 51
+    "missed_scrapes": 52
   },
   {
     "id": "df633ac3b8b9",
@@ -1282,7 +1310,7 @@
     "red_flags": [
       "Listed as 'Urgent Care' in description, not traditional Emergency Medicine"
     ],
-    "missed_scrapes": 51
+    "missed_scrapes": 52
   },
   {
     "id": "7c6fa7b9d417",
@@ -1307,7 +1335,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 52
+    "missed_scrapes": 53
   },
   {
     "id": "ffaad8e39402",
@@ -1334,7 +1362,7 @@
     "red_flags": [
       "Listed as Emergency Medicine but described as Urgent Care position"
     ],
-    "missed_scrapes": 53
+    "missed_scrapes": 54
   },
   {
     "id": "f4634121801e",
@@ -1361,7 +1389,7 @@
     "red_flags": [
       "Urgent Care position - not traditional Emergency Medicine"
     ],
-    "missed_scrapes": 54
+    "missed_scrapes": 55
   },
   {
     "id": "3aee46871dea",
@@ -1388,7 +1416,7 @@
     "red_flags": [
       "Appears to be Urgent Care rather than Emergency Medicine"
     ],
-    "missed_scrapes": 56
+    "missed_scrapes": 57
   },
   {
     "id": "688eab8c2c65",
@@ -1415,7 +1443,7 @@
     "red_flags": [
       "May be Urgent Care position rather than true Emergency Medicine"
     ],
-    "missed_scrapes": 56
+    "missed_scrapes": 57
   },
   {
     "id": "25f3940f3fe9",
@@ -1442,7 +1470,7 @@
     "red_flags": [
       "Listed salary range $285K-$340K may be below target range"
     ],
-    "missed_scrapes": 57
+    "missed_scrapes": 58
   },
   {
     "id": "2a560cc994d2",
@@ -1469,7 +1497,7 @@
     "red_flags": [
       "Potential urgent care position - may not be traditional emergency medicine"
     ],
-    "missed_scrapes": 57
+    "missed_scrapes": 58
   },
   {
     "id": "35c336184e46",
@@ -1496,7 +1524,7 @@
     "red_flags": [
       "Urgent Care position - not traditional Emergency Medicine"
     ],
-    "missed_scrapes": 58
+    "missed_scrapes": 59
   },
   {
     "id": "c1548481ac41",
@@ -1523,7 +1551,7 @@
     "red_flags": [
       "Position appears to be Urgent Care rather than traditional Emergency Medicine"
     ],
-    "missed_scrapes": 59
+    "missed_scrapes": 60
   },
   {
     "id": "de3c6a11ba55",
@@ -1548,7 +1576,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 60
+    "missed_scrapes": 61
   },
   {
     "id": "65da9d9cabf9",
@@ -1573,7 +1601,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 60
+    "missed_scrapes": 61
   },
   {
     "id": "dc7947e53f7e",
@@ -1598,7 +1626,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 60
+    "missed_scrapes": 61
   },
   {
     "id": "c842e6458d36",
@@ -1623,7 +1651,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 60
+    "missed_scrapes": 61
   },
   {
     "id": "f6ae7e7a05a1",
@@ -1648,7 +1676,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 60
+    "missed_scrapes": 61
   },
   {
     "id": "dd9bc9858ed0",
@@ -1673,7 +1701,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 60
+    "missed_scrapes": 61
   },
   {
     "id": "bbb3aefbbfd9",
@@ -1698,7 +1726,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 61
+    "missed_scrapes": 62
   },
   {
     "id": "994d22268f6d",
@@ -1723,7 +1751,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 61
+    "missed_scrapes": 62
   },
   {
     "id": "5d3ab1172a00",
@@ -1748,7 +1776,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 61
+    "missed_scrapes": 62
   },
   {
     "id": "c4b6e03658a1",
@@ -1773,7 +1801,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 61
+    "missed_scrapes": 62
   },
   {
     "id": "29c6bbc5ff2c",
@@ -1798,7 +1826,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 61
+    "missed_scrapes": 62
   },
   {
     "id": "8482ccb945a4",
@@ -1823,7 +1851,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 61
+    "missed_scrapes": 62
   },
   {
     "id": "4707fe0954c2",
@@ -1848,7 +1876,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 61
+    "missed_scrapes": 62
   },
   {
     "id": "35561c6e5e04",
@@ -1873,7 +1901,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 61
+    "missed_scrapes": 62
   },
   {
     "id": "ce599959efec",
@@ -1898,7 +1926,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 61
+    "missed_scrapes": 62
   },
   {
     "id": "6608e664b409",
@@ -1923,7 +1951,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 61
+    "missed_scrapes": 62
   },
   {
     "id": "f8b0b4d40769",
@@ -1948,7 +1976,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 62
+    "missed_scrapes": 63
   },
   {
     "id": "08eb44b01d65",
@@ -1973,7 +2001,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 62
+    "missed_scrapes": 63
   },
   {
     "id": "a294a15c767a",
@@ -1998,7 +2026,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 62
+    "missed_scrapes": 63
   },
   {
     "id": "c2c16b1d34a4",
@@ -2023,7 +2051,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 62
+    "missed_scrapes": 63
   },
   {
     "id": "85582c648d9d",
@@ -2048,7 +2076,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 62
+    "missed_scrapes": 63
   },
   {
     "id": "4654e563542f",
@@ -2073,7 +2101,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 62
+    "missed_scrapes": 63
   },
   {
     "id": "2e68f9196b2a",
@@ -2098,7 +2126,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 62
+    "missed_scrapes": 63
   },
   {
     "id": "bdb83bcae688",
@@ -2123,7 +2151,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 63
+    "missed_scrapes": 64
   },
   {
     "id": "529166ff7ff4",
@@ -2148,7 +2176,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 63
+    "missed_scrapes": 64
   },
   {
     "id": "b74c7e45574f",
@@ -2173,7 +2201,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 63
+    "missed_scrapes": 64
   },
   {
     "id": "c9ad1643da5a",
@@ -2198,7 +2226,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 63
+    "missed_scrapes": 64
   },
   {
     "id": "55f99fefad9d",
@@ -2227,7 +2255,7 @@
       "Requires security clearance",
       "Government employment"
     ],
-    "missed_scrapes": 63
+    "missed_scrapes": 64
   },
   {
     "id": "0e8f1b6c96ff",
@@ -2252,7 +2280,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 63
+    "missed_scrapes": 64
   },
   {
     "id": "83eb444c2e07",
@@ -2277,7 +2305,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 63
+    "missed_scrapes": 64
   },
   {
     "id": "4d22ba3d8e38",
@@ -2302,7 +2330,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 63
+    "missed_scrapes": 64
   },
   {
     "id": "86dde03423c0",
@@ -2327,7 +2355,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 64
+    "missed_scrapes": 65
   },
   {
     "id": "c365ab37d373",
@@ -2352,7 +2380,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 64
+    "missed_scrapes": 65
   },
   {
     "id": "7d96541f76c8",
@@ -2377,7 +2405,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 64
+    "missed_scrapes": 65
   },
   {
     "id": "4f922f1e2bfe",
@@ -2402,7 +2430,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 64
+    "missed_scrapes": 65
   },
   {
     "id": "fadf87d4bcdb",
@@ -2427,7 +2455,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 64
+    "missed_scrapes": 65
   },
   {
     "id": "14d75e971136",
@@ -2452,7 +2480,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 64
+    "missed_scrapes": 65
   },
   {
     "id": "4d884d33d47b",
@@ -2477,7 +2505,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "01961943cac6",
@@ -2502,7 +2530,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "076e4ccf8d68",
@@ -2527,7 +2555,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "b396fba08d3e",
@@ -2552,7 +2580,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "77c5fd1d3fd8",
@@ -2577,7 +2605,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "8ee4ed5175c9",
@@ -2602,7 +2630,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "266e2ab00795",
@@ -2627,7 +2655,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "73dbbbf07f1d",
@@ -2652,7 +2680,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "29247b874210",
@@ -2677,7 +2705,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "9d9b8fae846b",
@@ -2702,7 +2730,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "603f22f422fc",
@@ -2727,7 +2755,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "0a26f145928f",
@@ -2752,7 +2780,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "5d2324d9ee36",
@@ -2777,7 +2805,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "6228687c9b1d",
@@ -2802,7 +2830,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "4fa24c58eb5c",
@@ -2827,7 +2855,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "0ef0af571fcf",
@@ -2852,7 +2880,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "4a4bee2471d9",
@@ -2877,7 +2905,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "937de2a51aa5",
@@ -2902,7 +2930,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "2d205212c023",
@@ -2927,7 +2955,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 65
+    "missed_scrapes": 66
   },
   {
     "id": "df3470dd02b7",
@@ -2952,7 +2980,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 66
+    "missed_scrapes": 67
   },
   {
     "id": "d8084bc78b41",
@@ -2981,7 +3009,7 @@
       "Security clearance required",
       "Mission essential designation"
     ],
-    "missed_scrapes": 66
+    "missed_scrapes": 67
   },
   {
     "id": "743eadd7ad44",
@@ -3006,7 +3034,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 66
+    "missed_scrapes": 67
   },
   {
     "id": "e5bf30e00dda",
@@ -3031,7 +3059,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 66
+    "missed_scrapes": 67
   },
   {
     "id": "5bbae10a9e53",
@@ -3058,7 +3086,7 @@
     "red_flags": [
       "Part-time position may not meet full-time requirement"
     ],
-    "missed_scrapes": 66
+    "missed_scrapes": 67
   },
   {
     "id": "61335f927772",
@@ -3083,7 +3111,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 66
+    "missed_scrapes": 67
   },
   {
     "id": "0bd384e4a55a",
@@ -3108,7 +3136,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 67
+    "missed_scrapes": 68
   },
   {
     "id": "710ca0f1c7a3",
@@ -3133,7 +3161,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 67
+    "missed_scrapes": 68
   },
   {
     "id": "ab25b16ba222",
@@ -3158,7 +3186,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 67
+    "missed_scrapes": 68
   },
   {
     "id": "1071b2d8e942",
@@ -3183,7 +3211,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 67
+    "missed_scrapes": 68
   },
   {
     "id": "692b89eb2422",
@@ -3208,7 +3236,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 67
+    "missed_scrapes": 68
   },
   {
     "id": "62d476447c49",
@@ -3233,7 +3261,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 67
+    "missed_scrapes": 68
   },
   {
     "id": "8853e28cf59b",
@@ -3258,7 +3286,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 67
+    "missed_scrapes": 68
   },
   {
     "id": "6a8e3e062566",
@@ -3283,7 +3311,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 67
+    "missed_scrapes": 68
   },
   {
     "id": "a808c3253c22",
@@ -3308,7 +3336,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 67
+    "missed_scrapes": 68
   },
   {
     "id": "a8d09853ea24",
@@ -3335,7 +3363,7 @@
     "red_flags": [
       "Leadership role - may be disguised Medical Director position"
     ],
-    "missed_scrapes": 68
+    "missed_scrapes": 69
   },
   {
     "id": "9b0abea31c7f",
@@ -3360,7 +3388,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 68
+    "missed_scrapes": 69
   },
   {
     "id": "315810a303c1",
@@ -3385,7 +3413,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 68
+    "missed_scrapes": 69
   },
   {
     "id": "39fc57c339c0",
@@ -3410,7 +3438,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 68
+    "missed_scrapes": 69
   },
   {
     "id": "1fa9f03e7362",
@@ -3435,7 +3463,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 68
+    "missed_scrapes": 69
   },
   {
     "id": "45eb155df3f7",
@@ -3460,7 +3488,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 68
+    "missed_scrapes": 69
   },
   {
     "id": "f5d53fe049bb",
@@ -3485,7 +3513,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 69
+    "missed_scrapes": 70
   },
   {
     "id": "9fcf363e5375",
@@ -3510,7 +3538,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 69
+    "missed_scrapes": 70
   },
   {
     "id": "e006d60369f4",
@@ -3535,7 +3563,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 69
+    "missed_scrapes": 70
   },
   {
     "id": "d840c19fa995",
@@ -3560,7 +3588,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 69
+    "missed_scrapes": 70
   },
   {
     "id": "d560ef77a24f",
@@ -3585,7 +3613,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 69
+    "missed_scrapes": 70
   },
   {
     "id": "3a9a8943beee",
@@ -3610,7 +3638,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 69
+    "missed_scrapes": 70
   },
   {
     "id": "0598084124f6",
@@ -3635,7 +3663,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 69
+    "missed_scrapes": 70
   },
   {
     "id": "d4cbfa1d699e",
@@ -3660,7 +3688,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 71
+    "missed_scrapes": 72
   },
   {
     "id": "f32fca09eb0f",
@@ -3685,7 +3713,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 71
+    "missed_scrapes": 72
   },
   {
     "id": "27d207f5bc9a",
@@ -3710,7 +3738,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 71
+    "missed_scrapes": 72
   },
   {
     "id": "c96575e5c89a",
@@ -3735,7 +3763,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 71
+    "missed_scrapes": 72
   },
   {
     "id": "5ab2f498b1c8",
@@ -3760,7 +3788,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 71
+    "missed_scrapes": 72
   },
   {
     "id": "5a399cfec917",
@@ -3785,7 +3813,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 72
+    "missed_scrapes": 73
   },
   {
     "id": "efa053c2f6ed",
@@ -3810,7 +3838,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 72
+    "missed_scrapes": 73
   },
   {
     "id": "a56628eac1f8",
@@ -3835,7 +3863,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 72
+    "missed_scrapes": 73
   },
   {
     "id": "f3280af2e39d",
@@ -3860,7 +3888,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 72
+    "missed_scrapes": 73
   },
   {
     "id": "aab608699843",
@@ -3885,7 +3913,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 72
+    "missed_scrapes": 73
   },
   {
     "id": "e54444056706",
@@ -3910,7 +3938,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 72
+    "missed_scrapes": 73
   },
   {
     "id": "1cdbd74ed43c",
@@ -3935,7 +3963,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 73
+    "missed_scrapes": 74
   },
   {
     "id": "e82721e8f611",
@@ -3960,7 +3988,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 73
+    "missed_scrapes": 74
   },
   {
     "id": "0e9b2b079b94",
@@ -3985,7 +4013,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 73
+    "missed_scrapes": 74
   },
   {
     "id": "96664c566ebf",
@@ -4010,7 +4038,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 73
+    "missed_scrapes": 74
   },
   {
     "id": "799f14622f17",
@@ -4035,7 +4063,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 73
+    "missed_scrapes": 74
   },
   {
     "id": "8ad2bfe2d4e4",
@@ -4060,7 +4088,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 73
+    "missed_scrapes": 74
   },
   {
     "id": "751d29a86340",
@@ -4085,7 +4113,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 73
+    "missed_scrapes": 74
   },
   {
     "id": "62bddec0fb7d",
@@ -4110,7 +4138,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 74
+    "missed_scrapes": 75
   },
   {
     "id": "a557e855c92e",
@@ -4135,7 +4163,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 74
+    "missed_scrapes": 75
   },
   {
     "id": "12a79f625c5c",
@@ -4160,7 +4188,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 74
+    "missed_scrapes": 75
   },
   {
     "id": "1eb5d53557a3",
@@ -4185,7 +4213,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 74
+    "missed_scrapes": 75
   },
   {
     "id": "592ba5008ca8",
@@ -4210,7 +4238,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 74
+    "missed_scrapes": 75
   },
   {
     "id": "435c9979cf36",
@@ -4235,7 +4263,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 74
+    "missed_scrapes": 75
   },
   {
     "id": "d54fd74d3db3",
@@ -4260,7 +4288,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 75
+    "missed_scrapes": 76
   },
   {
     "id": "c3cea9d64dfd",
@@ -4285,7 +4313,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 75
+    "missed_scrapes": 76
   },
   {
     "id": "bced4e29dd95",
@@ -4314,7 +4342,7 @@
       "No salary information provided",
       "Vague job description"
     ],
-    "missed_scrapes": 75
+    "missed_scrapes": 76
   },
   {
     "id": "411b09969840",
@@ -4339,7 +4367,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 75
+    "missed_scrapes": 76
   },
   {
     "id": "b977b2ccbb85",
@@ -4364,7 +4392,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 76
+    "missed_scrapes": 77
   },
   {
     "id": "da881ffc56b0",
@@ -4389,7 +4417,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 76
+    "missed_scrapes": 77
   },
   {
     "id": "42cf998cc7d0",
@@ -4414,7 +4442,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 76
+    "missed_scrapes": 77
   },
   {
     "id": "4dd5d35fb7a7",
@@ -4439,7 +4467,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 76
+    "missed_scrapes": 77
   },
   {
     "id": "236d7e3af646",
@@ -4468,7 +4496,7 @@
       "Requires security clearance",
       "Mission Essential designation"
     ],
-    "missed_scrapes": 77
+    "missed_scrapes": 78
   },
   {
     "id": "26d34bebf18b",
@@ -4493,7 +4521,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 77
+    "missed_scrapes": 78
   },
   {
     "id": "bcef70d10735",
@@ -4518,7 +4546,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 78
+    "missed_scrapes": 79
   },
   {
     "id": "c58c06eb7fb8",
@@ -4543,7 +4571,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 79
+    "missed_scrapes": 80
   },
   {
     "id": "5c029ba295b3",
@@ -4571,7 +4599,7 @@
       "Vague job description",
       "May be urgent care rather than emergency medicine"
     ],
-    "missed_scrapes": 80
+    "missed_scrapes": 81
   },
   {
     "id": "3c0a0655c69c",
@@ -4596,7 +4624,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 80
+    "missed_scrapes": 81
   },
   {
     "id": "e19db5b4b68a",
@@ -4621,7 +4649,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 80
+    "missed_scrapes": 81
   },
   {
     "id": "86d2f90992d3",
@@ -4646,7 +4674,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 80
+    "missed_scrapes": 81
   },
   {
     "id": "8bce84296009",
@@ -4671,7 +4699,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 80
+    "missed_scrapes": 81
   },
   {
     "id": "900dab2d66bc",
@@ -4696,7 +4724,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 81
+    "missed_scrapes": 82
   },
   {
     "id": "65ec272c89dc",
@@ -4721,7 +4749,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 81
+    "missed_scrapes": 82
   },
   {
     "id": "2ef91debd5a7",
@@ -4746,7 +4774,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 82
+    "missed_scrapes": 83
   },
   {
     "id": "c741fdd25e2a",
@@ -4771,7 +4799,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 82
+    "missed_scrapes": 83
   },
   {
     "id": "575cd4a502f7",
@@ -4796,7 +4824,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 82
+    "missed_scrapes": 83
   },
   {
     "id": "d37b077b77ee",
@@ -4823,7 +4851,7 @@
     "red_flags": [
       "Below target salary range"
     ],
-    "missed_scrapes": 82
+    "missed_scrapes": 83
   },
   {
     "id": "06f93eb079f2",
@@ -4848,7 +4876,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 83
+    "missed_scrapes": 84
   },
   {
     "id": "0ca2d7aa1052",
@@ -4873,7 +4901,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 83
+    "missed_scrapes": 84
   },
   {
     "id": "473067c4cf6f",
@@ -4898,7 +4926,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 84
+    "missed_scrapes": 85
   },
   {
     "id": "4b51be291167",
@@ -4923,7 +4951,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 84
+    "missed_scrapes": 85
   },
   {
     "id": "27875e89794a",
@@ -4948,7 +4976,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 84
+    "missed_scrapes": 85
   },
   {
     "id": "fabcead7dfa2",
@@ -4973,7 +5001,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 84
+    "missed_scrapes": 85
   },
   {
     "id": "dd901932d44d",
@@ -4998,7 +5026,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 85
+    "missed_scrapes": 86
   },
   {
     "id": "b4705beefc35",
@@ -5023,7 +5051,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 85
+    "missed_scrapes": 86
   },
   {
     "id": "ef3c44fd20b4",
@@ -5048,7 +5076,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 86
+    "missed_scrapes": 87
   },
   {
     "id": "85ba457bfaf0",
@@ -5073,7 +5101,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 86
+    "missed_scrapes": 87
   },
   {
     "id": "f01c85ba0f13",
@@ -5098,7 +5126,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 86
+    "missed_scrapes": 87
   },
   {
     "id": "780c55891f31",
@@ -5123,7 +5151,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 87
+    "missed_scrapes": 88
   },
   {
     "id": "17c9f39b2b8e",
@@ -5148,7 +5176,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 87
+    "missed_scrapes": 88
   },
   {
     "id": "d95a7c3e271b",
@@ -5173,7 +5201,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 87
+    "missed_scrapes": 88
   },
   {
     "id": "602703c2f9c1",
@@ -5198,7 +5226,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 88
+    "missed_scrapes": 89
   },
   {
     "id": "858808046b40",
@@ -5223,7 +5251,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 88
+    "missed_scrapes": 89
   },
   {
     "id": "285ce19a4e97",
@@ -5248,7 +5276,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 88
+    "missed_scrapes": 89
   },
   {
     "id": "ac9c42e4f209",
@@ -5275,7 +5303,7 @@
     "red_flags": [
       "Academic faculty expectations may require additional teaching/research commitments"
     ],
-    "missed_scrapes": 89
+    "missed_scrapes": 90
   },
   {
     "id": "57bc854c2536",
@@ -5300,7 +5328,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 90
+    "missed_scrapes": 91
   },
   {
     "id": "d30b9106b441",
@@ -5325,7 +5353,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 90
+    "missed_scrapes": 91
   },
   {
     "id": "ba2b1aef6a43",
@@ -5350,7 +5378,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 90
+    "missed_scrapes": 91
   },
   {
     "id": "c9deb57cfcb4",
@@ -5375,7 +5403,7 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 90
+    "missed_scrapes": 91
   },
   {
     "id": "09c66a790c6f",
@@ -5400,6 +5428,6 @@
     "status": "possibly_filled",
     "is_new": false,
     "red_flags": [],
-    "missed_scrapes": 90
+    "missed_scrapes": 91
   }
 ]
