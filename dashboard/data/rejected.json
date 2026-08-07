@@ -4843,9 +4843,9 @@
     "salary": "$200,000-$350,000",
     "source_url": "https://www.adzuna.com/details/5538433869?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "This is not an Emergency Medicine physician role \u2014 it is a wound care position in post-acute/nursing facilities. Salary midpoint ($275,000) falls below the $300,000 minimum, and even the top of the range ($350,000) does not meet the >$400,000 requirement for Other East Coast locations. The candidate's goal is EM attending practice, which this role does not provide.",
+    "rejection_reason": "This is a wound care physician role, not an Emergency Medicine attending position. The candidate is seeking EM clinical work in an ED setting. Additionally, the salary midpoint of ~$275,000 is below the $300,000 minimum, and the Other East Coast location requires >$400,000. Fundamentally misaligned with the candidate's career goals.",
     "description_snippet": "Emergency Medicine Physician Position with National Wound Physician Group Clinical satisfaction, autonomy and flexibility, work-life balance No Nights, No Call, No Weekend Clinical Responsibilities Become an expert in wound management , learn from highly qualified wound-certified physician trainers and Fellowship Directors. Utilize cutting-edge clinical technologies and the latest wound care modalities. \u2022 Our physicians provide bedside wound care in over 3,200 facilities across 28 states. \u2022 We \u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "6409f049855c",
@@ -8129,11 +8129,11 @@
     "employer": "Northwell Health",
     "location": "Staten Island, NY",
     "salary": "$60,923",
-    "source_url": "https://www.adzuna.com/land/ad/5820669740?se=AsC3HZ2R8RGXFaoIbwgHQw&utm_medium=api&utm_source=04e8e9e3&v=5F60969BEA1D08B9959CDD3705CD7C0373303131",
+    "source_url": "https://www.adzuna.com/land/ad/5820669740?se=KvTdnV2S8RGvg6_5HonlUw&utm_medium=api&utm_source=04e8e9e3&v=5F60969BEA1D08B9959CDD3705CD7C0373303131",
     "source_name": "Adzuna",
-    "rejection_reason": "This is a non-physician clerical/administrative role (ER patient registration), not an Emergency Medicine Physician position. Salary of ~$61K is far below the $300,000 minimum requirement.",
+    "rejection_reason": "This is not a physician position \u2014 it is a clerical/administrative ancillary support role for ER registration. Salary of ~$61K is far below the $300,000 minimum requirement.",
     "description_snippet": "Req Number 191994 Job Description Interviews incoming patients or representatives to obtain identifying information and other data required for admission. Performs a variety of clerical duties supporting Emergency Room registration. Job Responsibility  * Greets, interviews and registers Emergency Room patients or representative.  * Verifies all patient, guarantor, subscriber and insurance information and enters same into department computer system. Uses Pacific Interpreter phone or Pocket Talke\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "6b4a7d50fd88",
@@ -8155,9 +8155,9 @@
     "salary": "$120,994",
     "source_url": "https://www.adzuna.com/details/5619802673?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Wrong specialty (Neurology, not Emergency Medicine), salary of $120,994 is far below the $300,000 minimum, and the Chief/Director-level role is not desired by the candidate.",
+    "rejection_reason": "Wrong specialty (Neurology, not Emergency Medicine); salary of $120,994 is far below the $300,000 minimum requirement; Chief/leadership role is not desired.",
     "description_snippet": "The section of General Neurology (GN) is being established at a time the importance of this field in reducing the burden of neurologic disease and promote brain health is increasingly recognized by national and international professional organizations. General neurologists are recognized as essential to ensure a rapid, accessible, cost-effective and comprehensive management of patients with neurologic disease in the community where they live. General neurologists offer the first contact for pat\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "f6ebc7bb2802",
@@ -8237,11 +8237,11 @@
     "employer": "UNC-Chapel Hill",
     "location": "Chapel Hill, NC",
     "salary": "$73,200-$76,000",
-    "source_url": "https://www.adzuna.com/land/ad/5165122713?se=uKimHJ2R8RGGYdixQDrNPA&utm_medium=api&utm_source=04e8e9e3&v=819339EC01A22151744E2C0910939FE64AA675A5",
+    "source_url": "https://www.adzuna.com/land/ad/5165122713?se=BrNbnl2S8RGjJ5ZNqGm0fg&utm_medium=api&utm_source=04e8e9e3&v=819339EC01A22151744E2C0910939FE64AA675A5",
     "source_name": "Adzuna",
-    "rejection_reason": "This is an accounting/finance staff position, not an Emergency Medicine Physician role. The salary of ~$74,600 is far below the $300,000 minimum, and the job requires no medical degree or clinical duties.",
+    "rejection_reason": "This is an accounting/finance staff position, not an Emergency Medicine physician role. Salary of ~$74,600 is far below the $300,000 minimum requirement.",
     "description_snippet": "Position Summary This Emergency Department position is primarily responsible for tracking, projecting, and analyzing clinical and academic finances as it pertains to independently calculating cFTE for all clinical providers. The duties of this position also include functions surrounding creating and tracking physician/ APP clinical shift allocation, on call pay, extra service pay \u2018shift buyout\u2019 constructing departmental compensation plans and other database tracking, and survey completion ( AAC\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "4f6f8a3ffd56",
@@ -11059,9 +11059,9 @@
     "salary": "$61,500-$89,500",
     "source_url": "https://www.adzuna.com/details/5616511716?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "This is not an Emergency Medicine Physician position. The role is a Behavioral Health Navigator requiring LMHC, LICSW, or Licensed Psychologist credentials. Additionally, it is part-time, located outside the candidate's preferred region specifics, and the salary ($61,500-$89,500) is drastically below the $300,000 minimum requirement.",
+    "rejection_reason": "This is not a physician role. The position is a part-time Behavioral Health Navigator requiring a counselor, social worker, or psychologist license \u2014 completely outside the candidate's specialty and career goals. Salary of ~$75,500 is also far below the $300,000 minimum.",
     "description_snippet": "Position: Behavioral Health Navigator - LMHC,LICSW, Licensed Psychologist Department: Behavioral Health Schedule: Part Time (20 hours, Days) JOB SUMMARY: At Boston Medical Center - South, we are committed to improving the health of our communities by delivering exceptional, personalized health care with dignity, compassion and respect. Our continued focus on the patient experience informs our caregivers on how to provide care that is respectful of and responsive to individual patient and family\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "1083538e780d",
@@ -13267,9 +13267,9 @@
     "salary": "$200,000-$350,000",
     "source_url": "https://www.adzuna.com/details/5597246471?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "This is a wound care physician role, not an Emergency Medicine attending position. The location is Aurora, IL (not a preferred region). The salary midpoint of ~$275,000 falls below the $300,000 minimum threshold.",
+    "rejection_reason": "This is a wound care physician role, not an Emergency Medicine attending position. The candidate would not be practicing EM in an ED. Additionally, the salary midpoint (~$275,000) falls below the $300,000 minimum, and the location does not match any preferred region.",
     "description_snippet": "Emergency Medicine Physician Position with National Wound Physician Group Clinical satisfaction, autonomy and flexibility, work-life balance No Nights, No Call, No Weekend Clinical Responsibilities Become an expert in wound management , learn from highly qualified wound-certified physician trainers and Fellowship Directors. Utilize cutting-edge clinical technologies and the latest wound care modalities. \u2022 Our physicians provide bedside wound care in over 3,200 facilities across 28 states. \u2022 We \u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "c8ccff4ddadd",
@@ -18931,9 +18931,9 @@
     "salary": "$166,144",
     "source_url": "https://www.adzuna.com/details/5764505333?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Wrong specialty (Psychiatrist, not Emergency Medicine physician). Salary of $166,144 is far below the $300,000 minimum requirement.",
+    "rejection_reason": "Wrong specialty (Psychiatrist, not Emergency Medicine physician). Salary of $166,144 is far below the $300,000 minimum requirement. Location in Other East Coast category also requires salary >$400,000.",
     "description_snippet": "At Bristol Health, we begin each day caring today for your tomorrow. We have been an integral part of our community for the past 100 years. We are dedicated to providing the best possible care and service to our patients, residents and families. We are committed to provide compassionate, quality care at all times and to uphold our values of Communication, Accountability, Respect and Empathy (C.A.R.E.). We are Magnet \u00ae and received the 2020 Press Ganey Leading Innovator award for our rapid adopt\u2026",
-    "date_found": "2026-08-05"
+    "date_found": "2026-08-07"
   },
   {
     "id": "ee07d7259f39",
@@ -31157,11 +31157,11 @@
     "employer": "UCHealth",
     "location": "Aurora, CO",
     "salary": "$87,893",
-    "source_url": "https://www.adzuna.com/land/ad/5766911151?se=fl0rHZ2R8RGXFaoIbwgHQw&utm_medium=api&utm_source=04e8e9e3&v=E6232D3E9F2B2927155F553BED62732FF6169D22",
+    "source_url": "https://www.adzuna.com/land/ad/5766911151?se=QuLRnl2S8RGvg6_5HonlUw&utm_medium=api&utm_source=04e8e9e3&v=E6232D3E9F2B2927155F553BED62732FF6169D22",
     "source_name": "Adzuna",
-    "rejection_reason": "This is a Behavioral Health Clinical Therapist role, not an Emergency Medicine Physician position. Salary of ~$88K is far below the $300,000 minimum. PRN/per diem, not full-time.",
+    "rejection_reason": "This is a Behavioral Health Clinical Therapist role, not an Emergency Medicine Physician position. Salary of ~$88,000 is far below the $300,000 minimum requirement.",
     "description_snippet": "Description Location: UCHealth Anschutz Inpt Pavilion, CO,Aurora Department: Virtual Behavioral Health Ctr Work Schedule: PRN, 0.00 hours per pay period (2 weeks) Shift: Day and Night Rotation Pay: $33.82 - $50.73 / hour. Pay is dependent on applicant's relevant experience This position is an onsite role and does not offer a hybrid or remote option Career Ladder: UCHealth offers a structured way for you to grow your skills, responsibilities, and pay in this position. As you gain experience and \u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "6299583ae9e1",
@@ -38083,9 +38083,9 @@
     "salary": "$181,683",
     "source_url": "https://www.adzuna.com/details/5590876787?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $181,683 is far below the $300,000 minimum requirement. Additionally, this is an Army Reserve position rather than a full-time civilian attending role, and Atlanta, GA does not match any of the candidate's preferred regions.",
+    "rejection_reason": "Salary of $181,683 is far below the $300,000 minimum requirement. This is an Army Reserve role, not a full-time civilian Emergency Medicine attending position. Location (Atlanta, GA) does not match any preferred region.",
     "description_snippet": "Position information: Army Reserve Emergency Medicine Physician U.S. Army Medical Corps THE STRENGTH TO HEAL OUR NATION'S DEFENDERS. This is your chance to tackle the most unique cases and help patients who truly need your assistance. As an emergency physician and officer on the U.S. Army Reserve health care team, you'll practice in your community and serve when needed. Your colleagues will be at the top of their fields. You'll care for a diverse patient population that includes our nation's So\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "5fc4293356fd",
@@ -42016,12 +42016,12 @@
     "title": "Emergency Medicine Physician",
     "employer": "EMrecruits (Physician-Owned EM Group)",
     "location": "Waterbury, CT",
-    "salary": "$219,934",
+    "salary": "$216,461",
     "source_url": "https://www.adzuna.com/details/5801515646?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $219,934 is far below the $300,000 minimum requirement, and as an Other East Coast location, it would need to exceed $400,000. Even accounting for the $100K sign-on bonus, the base compensation is disqualifying. Additionally, Waterbury is not the preferred Stamford area.",
-    "description_snippet": "Join a physician-owned and managed emergency medicine group in Connecticut \u2014 currently seeking BC/BE Emergency Medicine residency-trained physicians for both full-time and part-time opportunities. We are committed to quality care, innovation, and physician autonomy. Our door-to-doctor times are best in class and patient satisfaction scores rank in the top percentiles, Why this is a standout opportunity $100,000 sign-on bonus for full-time hires Competitive compensation package with productivity\u2026",
-    "date_found": "2026-08-05"
+    "rejection_reason": "Salary of $216,461 fails to meet the $300,000 minimum requirement, and falls drastically short of the $400,000+ threshold required for Other East Coast placements like Connecticut. Location is also Waterbury, CT \u2014 not the preferred Stamford, CT market.",
+    "description_snippet": "Join a physician-owned and managed emergency medicine group in Connecticut \u2014 currently seeking BC/BE Emergency Medicine residency-trained physicians for both full-time and part-time opportunities. We are committed to quality care, innovation, and physician autonomy. Our door-to-doctor times are best in class and patient satisfaction scores rank in the top percentiles, Why this is a standout opportunity $60,000 to $100,000 sign-on bonus for full-time hires Competitive compensation package with p\u2026",
+    "date_found": "2026-08-07"
   },
   {
     "id": "858cb4cba0b4",
@@ -51811,9 +51811,9 @@
     "salary": "$103,953",
     "source_url": "https://www.adzuna.com/details/5780176507?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $103,953 is drastically below the $300,000 minimum requirement. Even accounting for a possible data error, this cannot be confirmed as meeting salary requirements.",
+    "rejection_reason": "Salary of $103,953 is far below the $300,000 minimum requirement. This figure is almost certainly incorrect or represents a partial/per-diem rate, but cannot be confirmed from the posting.",
     "description_snippet": "Boston Medical Center \u2013 South - Emergency Medicine Full-time, Part-time, or Per diem Boston Medical Center \u2013 South in Brockton, MA, is seeking a Board BC/BE Emergency Physician to join our expanding team. Boston Medical Center \u2013 South is an acute care full-service community hospital located 25 minutes south of Boston. BMC - South treats 71,000 patients annually and is the only Level 3 Trauma center in Region 5 of Massachusetts. BMC - South Emergency Medicine highlights: Newly constructed, state\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "d7d87fc5d607",
@@ -51871,9 +51871,9 @@
     "salary": "$137,992",
     "source_url": "https://www.adzuna.com/details/5765127204?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Multiple disqualifying factors: (1) Salary of $137,992 is far below the $300,000 minimum and nowhere near the $400,000+ threshold required for Other East Coast positions. (2) Position is Pediatric Emergency Medicine, not general Adult/Emergency Medicine, which does not match the candidate's training. (3) Location is New York City, which falls under 'Other East Coast' and fails the salary threshold.",
+    "rejection_reason": "Multiple disqualifying factors: (1) Salary of ~$138K is far below the $300K minimum requirement. (2) Position requires Pediatric Emergency Medicine subspecialty training (PEM fellowship), which the candidate has not completed. (3) Other East Coast location would require salary >$400K per candidate preferences.",
     "description_snippet": "The Division of Pediatric Emergency Medicine at Steven and Alexandra Cohen Children's Medical Center (CCMC) of Northwell Health and the Donald and Barbara Zucker School of Medicine at Hofstra/Northwell is recruiting a full-time Board-certified or Board-eligible Pediatric Emergency Medicine physician to join our family. Candidates with a research and point of care ultrasound interest will be looked upon favorably. Our Pediatric Emergency Medicine team consists of 30 PEM attendings, 4 general ped\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "488e0d21a4a7",
@@ -51883,9 +51883,9 @@
     "salary": "$284,678-$290,063",
     "source_url": "https://www.adzuna.com/details/5778721496?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Multiple disqualifying factors: (1) Salary of ~$287,371 falls below the $300,000 minimum. (2) Position is Pediatric Emergency Medicine, not general Adult/EM. (3) Located in Bronx, NY (Other East Coast priority 7) but salary does not meet the $400,000 threshold required for that region.",
+    "rejection_reason": "Multiple disqualifying factors: (1) Salary of ~$287K is below the $300K minimum. (2) East Coast location requires salary >$400K, which this posting does not meet. (3) Position is Pediatric Emergency Medicine, which typically requires a PEM fellowship \u2014 candidate is a general EM resident.",
     "description_snippet": "Description Physician Affiliate Group of New York (PAGNY) is adding a Pediatric Emergency Medicine Physician to the group at NYC Health  Hospitals/Lincoln. Lincoln Medical Center is a designated Level I Trauma and Stroke Center and has Centers of Excellence in all medical specialties, including its award-winning Cancer and Breast Centers. Today, Lincoln stands as a leader in the transformation in healthcare in the Downtown Bronx community. The hospital maintains a strong academic affiliation wi\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "2c8023dea404",
@@ -51952,12 +51952,12 @@
     "title": "Emergency Medicine Physician",
     "employer": "MidState Medical Center (via EMrecruits)",
     "location": "Meriden, CT",
-    "salary": "$101,937",
-    "source_url": "https://www.adzuna.com/land/ad/5825269150?se=WE6spQuQ8RGmW5uJo8HUwg&utm_medium=api&utm_source=04e8e9e3&v=1CC4D7FF036FEFBA7A9D2491594FC23338923DCF",
+    "salary": "$101,213-$101,213",
+    "source_url": "https://www.adzuna.com/land/ad/5818977753?se=am7OmF2S8RGJ5Kj9wlyS3Q&utm_medium=api&utm_source=04e8e9e3&v=F7A1E96C689A3D9BA88C9DF61629072D2512DF21",
     "source_name": "Adzuna",
-    "rejection_reason": "Dual rejection: (1) Salary listed at $101,937 is far below the $300,000 minimum regardless of interpretation; (2) Location is central Connecticut (not Stamford), placing it in 'Other East Coast' category which requires salary >$400,000 \u2014 this posting fails both thresholds.",
-    "description_snippet": "MidState Medical Center - Central Connecticut Emergency Medicine Physician Live in Cheshire | Wallingford | Southington | West Hartford MidState Medical Center offers an ideal blend of modern emergency medicine and Central Connecticut lifestyle. Physicians practice in a well-supported emergency department with a sustainable clinical pace while living in some of the state's most desirable suburban communities. You'll join a provider-led emergency medicine team delivering state-of-the-art care th\u2026",
-    "date_found": "2026-08-04"
+    "rejection_reason": "Salary of $101,213 is drastically below the $300,000 minimum requirement, and even if this is a data error, the Other East Coast location requires confirmed salary >$400,000 which cannot be verified here. Location does not match Stamford, CT preference.",
+    "description_snippet": "MidState Medical Center - Central Connecticut Emergency Medicine Physician Live in Cheshire | Wallingford | Southington | West Hartford The Opportunity MidState Medical Center offers an ideal blend of modern emergency medicine and Central Connecticut lifestyle. Physicians practice in a well-supported emergency department with a sustainable clinical pace while living in some of the state's most desirable suburban communities. You'll join a provider-led emergency medicine team delivering state-of\u2026",
+    "date_found": "2026-08-07"
   },
   {
     "id": "9a621324bfab",
@@ -51991,9 +51991,9 @@
     "salary": "$255,004-$300,000",
     "source_url": "https://www.adzuna.com/details/5779889861?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Wrong specialty: this is a Rheumatology position, not Emergency Medicine. Additionally, the salary midpoint of ~$277,502 falls below the candidate's $300,000 minimum.",
+    "rejection_reason": "Wrong specialty \u2014 this is a Rheumatology position, not Emergency Medicine. Salary midpoint of ~$277,502 also falls below the $300,000 minimum requirement.",
     "description_snippet": "Rheumatologist Department of Medicine Boston Medical Center South Boston Medical Center Health System Position Overview Boston Medical Center South, a member of the Boston Medical Center Health System, is seeking a full-time Board Certified/Board Eligible Rheumatologist to join our growing Department of Medicine. The ideal candidate will be a collaborative physician with excellent clinical skills, a commitment to patient-centered care, and a passion for serving a diverse community. This is an o\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "061047e8dd88",
@@ -52159,21 +52159,21 @@
     "salary": "$249,600-$384,800",
     "source_url": "https://www.adzuna.com/details/5726565745?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Multiple disqualifying factors: (1) Other East Coast location requires salary >$400,000, but listed range tops out at ~$384,800 with a midpoint well below target; (2) employer appears to be an urgent care network, not an ED; (3) 'NP Now' branding raises concerns about APP-focused staffing.",
+    "rejection_reason": "Multiple disqualifying concerns: (1) Other East Coast location requires salary >$400,000, but the listed salary tops out at ~$384,800 with a midpoint of ~$317,200; (2) employer 'NP Now' and description as 'leading urgent care provider' strongly suggest this is an urgent care role, not a hospital-based Emergency Medicine position; (3) employer name raises concern about APP-focused staffing.",
     "description_snippet": "A thriving healthcare group is seeking an Emergency Medicine Physician to work in New York City! Contact Raymond Stiles 843-574-8233 raymond@nowhealthcare.org About the Group: Physician-led, patient-centric network, committed to simplifying the complexities of health care. One of the nation\u2019s premier independent multispecialty medical groups, the leading urgent care provider in the New York metropolitan area This health system goes all out to make a flexible and family-friendly work-life balanc\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "8e6c4b9bc4e6",
     "title": "Emergency Medicine Physician",
     "employer": "Delphi Healthcare / Olean General Hospital",
     "location": "Olean, NY",
-    "salary": "$97,105-$97,105",
-    "source_url": "https://www.adzuna.com/details/5814909406?utm_medium=api&utm_source=04e8e9e3",
+    "salary": "$102,705",
+    "source_url": "https://www.adzuna.com/details/5830917103?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $97,105 is drastically below the $300,000 minimum requirement. Additionally, the position is in Olean, NY (rural western New York), not New York City as listed, and as an Other East Coast location it would require >$400,000 salary. Multiple data integrity issues with this posting.",
+    "rejection_reason": "Salary of $102,705 is far below the $300,000 minimum (likely a data error but cannot confirm actual compensation). Even if salary were corrected, this is an Other East Coast location requiring >$400,000. Community hospital in rural upstate NY does not align with candidate's location or institution preferences.",
     "description_snippet": "Olean General Hospital \u2013 Olean, NY 12-Hour Shifts | 7a\u20137p | APP Mid-Shift Support | 26,000 Annual Visits Delphi Healthcare is seeking an experienced and dedicated Emergency Medicine Physician to join our team at Olean General Hospital in Olean, New York . This is an excellent opportunity to practice in a well-supported, community-based hospital that values teamwork, efficiency, and high-quality patient care. Position Overview: Schedule: 12-hour shifts (7a\u20137p) Coverage Model: 3 mid-shift APPs pr\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "740ad03bc584",
@@ -52301,11 +52301,11 @@
     "employer": "Mount Sinai Health System",
     "location": "Manhattan, NY",
     "salary": "$137,690",
-    "source_url": "https://www.adzuna.com/land/ad/5061404500?se=AsC3HZ2R8RGXFaoIbwgHQw&utm_medium=api&utm_source=04e8e9e3&v=C4C3A98574498DD817ACAF8B9897461F1BE4B46C",
+    "source_url": "https://www.adzuna.com/land/ad/5061404500?se=KvTdnV2S8RGvg6_5HonlUw&utm_medium=api&utm_source=04e8e9e3&v=C4C3A98574498DD817ACAF8B9897461F1BE4B46C",
     "source_name": "Adzuna",
-    "rejection_reason": "Multiple disqualifying factors: (1) This is a Hospital Medicine/Hospitalist position, not Emergency Medicine. (2) Exclusively nocturnist shifts. (3) Salary of $137,690 is drastically below the $300,000 minimum requirement. (4) East Coast location would require >$400,000.",
+    "rejection_reason": "Multiple disqualifying factors: (1) This is a Hospital Medicine/Hospitalist role, not Emergency Medicine. (2) Nocturnist-only schedule. (3) Salary of $137,690 is drastically below the $300,000 minimum. (4) Manhattan is not a preferred location and does not meet the >$400,000 East Coast salary threshold.",
     "description_snippet": "Job Description The Division of Hospital Medicine (DHM) of the Mount Sinai Health System, NY, is recruiting Nocturnists to care for patients admitted to the Medical Service. The Mount Sinai Health System is currently seeking Nocturnist physicians for Mount Sinai Hospital, Mount Sinai Queens, and Mount Sinai St. Luke's. The chosen candidate will serve as a hospitalist on the observation unit providing nighttime coverage responsible for the care of patients admitted to the observation unit throug\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "c953874211d3",
@@ -53513,11 +53513,11 @@
     "employer": "Sturdy Memorial Hospital / Sturdy Health",
     "location": "Attleboro, MA",
     "salary": "$84,675",
-    "source_url": "https://www.adzuna.com/land/ad/5713288662?se=DqRMbsWJ8RGl5tLdhaWT1w&utm_medium=api&utm_source=04e8e9e3&v=E61A0D289232B2979EC62C5166B26369B4C283AF",
+    "source_url": "https://www.adzuna.com/details/5713288662?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $84,675 is dramatically below the $300,000 minimum requirement. Additionally, the position is listed at 30 hours (likely part-time). East Coast location also requires salary >$400,000 per candidate preferences.",
+    "rejection_reason": "Salary of $84,675 is drastically below the $300,000 minimum requirement. Additionally, this is an Other East Coast location which requires salary above $400,000. The listed salary may reflect a part-time or hourly figure, but even if annualized it is unlikely to meet requirements.",
     "description_snippet": "Sturdy Memorial Hospital is seeking an Emergency Medicine Physician to join our community-based hospital in Attleboro, MA. We are a patient-focused organization and looking to grow our team with physicians who are dedicated to providing meaningful patient care. Since 1913, Sturdy Memorial Hospital has been dedicated to providing its community with a full range of inpatient and outpatient services. What started as a 15-bed facility over 100 years ago has grown to be a 142-bed facility. Our Emerg\u2026",
-    "date_found": "2026-07-27"
+    "date_found": "2026-08-07"
   },
   {
     "id": "e96d15218b24",
@@ -53572,12 +53572,12 @@
     "title": "Emergency Medicine Physician",
     "employer": "Thomas Jefferson University / Jefferson Health",
     "location": "Philadelphia, PA",
-    "salary": "$121,124-$121,124",
+    "salary": "$121,124",
     "source_url": "https://www.adzuna.com/details/5756947178?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $121,124 is far below the candidate's minimum requirement of $300,000. Even accounting for potential data errors in the listing, no clarifying information suggests actual compensation meets threshold. Additionally, Philadelphia is 'Other East Coast' requiring salary >$400,000, which this posting clearly does not meet.",
+    "rejection_reason": "Salary of $121,124 is far below the minimum requirement of $300,000. Even accounting for possible data errors, this cannot be verified as meeting salary thresholds. Additionally, Philadelphia does not meet the >$400,000 salary requirement for Other East Coast locations.",
     "description_snippet": "Job Details Jefferson Health is seeking a Board Certified/Board Eligible Emergency Medicine Physician to join our growing team at Thomas Jefferson University Hospital in Center City and Methodist Hospital. Job Description Position Highlights Full-time clinical role across two dynamic, high-acuity emergency departments. Opportunities to practice in Center City Philadelphia\u2019s academic medical center and community-based Methodist Hospital, providing a diverse patient population and practice enviro\u2026",
-    "date_found": "2026-07-03"
+    "date_found": "2026-08-07"
   },
   {
     "id": "152dab72997c",
@@ -53671,9 +53671,9 @@
     "salary": "$200,000-$350,000",
     "source_url": "https://www.adzuna.com/details/5767754735?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "This is a wound care physician role disguised under an EM title \u2014 no emergency department clinical work involved. Salary midpoint of ~$275,000 is below the $300,000 minimum. Location (Charlotte, NC) is not a preferred region and does not meet the $400,000 threshold required for non-preferred East Coast positions.",
+    "rejection_reason": "This is not an Emergency Medicine attending position \u2014 it is a wound care physician role disguised with an EM physician title. Additionally, the salary midpoint of $275,000 falls below the $300,000 minimum, and Charlotte, NC does not meet the $400,000 threshold required for non-preferred East Coast locations.",
     "description_snippet": "Emergency Medicine Physician Position with National Wound Physician Group Clinical satisfaction, autonomy and flexibility, work-life balance No Nights, No Call, No Weekend Clinical Responsibilities Become an expert in wound management , learn from highly qualified wound-certified physician trainers and Fellowship Directors. Utilize cutting-edge clinical technologies and the latest wound care modalities. \u2022 Our physicians provide bedside wound care in over 3,200 facilities across 28 states. \u2022 We \u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "34942c1e3eed",
@@ -53707,9 +53707,9 @@
     "salary": "$286,200-$346,400",
     "source_url": "https://www.adzuna.com/details/5775740745?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary range ($286,200-$346,400) falls below the minimum requirement of $300,000 at the low end and does not reach the target range of $350,000-$400,000. Additionally, the EMS Operations focus suggests a hybrid clinical/administrative role that may not align with a straightforward attending physician position.",
+    "rejection_reason": "Salary range ($286,200-$346,400) falls below the $300,000 minimum at the low end, and the midpoint of ~$316,300 is below the $350,000-$400,000 target range. Additionally, the EMS Operations designation may involve Medical Director-type administrative duties the candidate wishes to avoid.",
     "description_snippet": "We are recruiting for a mission-driven Emergency Medicine Physician (EMS Operations) to join our team! We're with you for life\u2019s journey. At Denver Health, purpose isn\u2019t just something we believe in\u2014it\u2019s something we live every day, for life\u2019s journey. Our Values Respect | Belonging | Accountability | Transparency Department Emergency Department Physician Job Summary The Department of Emergency Medicine at Denver Health, in partnership with the Denver Health Paramedic Division, is recruiting a \u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "b9807646dd03",
@@ -55709,11 +55709,11 @@
     "employer": "Mount Sinai Health System / Richmond University Medical Center",
     "location": "Staten Island, NY",
     "salary": "$87,375",
-    "source_url": "https://www.adzuna.com/land/ad/5786326506?se=7lXFGp2R8RGXFaoIbwgHQw&utm_medium=api&utm_source=04e8e9e3&v=3B68EDA9ABD7ED7DCA7FDC9659C5747280B60191",
+    "source_url": "https://www.adzuna.com/land/ad/5786326506?se=uM7Iml2S8RGjJ5ZNqGm0fg&utm_medium=api&utm_source=04e8e9e3&v=3B68EDA9ABD7ED7DCA7FDC9659C5747280B60191",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $87,375 is drastically below the $300,000 minimum requirement. Even if this is a data error or partial compensation figure, it cannot be verified from the posting and must be treated as a disqualifying data point. Location (Staten Island/NYC) is Other East Coast priority 7, which requires salary >$400,000 \u2014 making this a double disqualifier.",
+    "rejection_reason": "Salary of $87,375 is drastically below the $300,000 minimum requirement. Even accounting for possible data errors or partial salary listings, this cannot be confirmed to meet compensation thresholds. Additionally, as Other East Coast, it would require salary >$400,000 to qualify.",
     "description_snippet": "Job Description The Department of Emergency Medicine at the Icahn School of Medicine at Mount Sinai in New York City is currently recruiting a full-time physician to work at Richmond University Medical Center (RUMC). Our faculty staff the hospitals within the Mount Sinai Health System (the Mount Sinai Hospital, Mount Sinai Queens, Mount Sinai Morningside, Mount Sinai West, Mount Sinai Brooklyn, Mount Sinai South Nassau, as well as affiliated hospitals including Elmhurst Hospital Center, Queens \u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "d89cb8ab7ee3",
@@ -56563,9 +56563,9 @@
     "salary": "$86,264",
     "source_url": "https://www.adzuna.com/details/5768046555?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary listed at $86,264 is drastically below the $300,000 minimum requirement. Even if this is a data error, the Other East Coast location requires >$400,000 which cannot be confirmed. Manchester, CT does not match any preferred location region (nearest would be Stamford, CT at Priority 5, but Manchester/Hartford is a different market).",
+    "rejection_reason": "Salary as listed ($86,264) is far below the $300,000 minimum and does not approach the $400,000 threshold required for Other East Coast locations. Location is Hartford/Manchester, CT rather than the preferred Stamford, CT market.",
     "description_snippet": "Manchester Memorial Hospital - Greater Hartford Emergency Medicine Physician Work Near Hartford | Live in West Hartford, Glastonbury, or Farmington The Opportunity Manchester Memorial Hospital provides a dynamic Emergency Medicine setting just minutes from Hartford's most sought-after neighborhoods. This role combines a strong clinical mix with access to exceptional residential, dining, and school options. Physicians join a clinically driven emergency medicine group known for high patient satis\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "572885fd7c6e",
@@ -56705,11 +56705,11 @@
     "employer": "TravelNurseSource / Concentric Healthcare Staffing",
     "location": "Denver, CO",
     "salary": "$62,687",
-    "source_url": "https://www.adzuna.com/land/ad/5825973626?se=fl0rHZ2R8RGXFaoIbwgHQw&utm_medium=api&utm_source=04e8e9e3&v=9BC875512017D4D26EB31FBA15E49A7A5A0DB45E",
+    "source_url": "https://www.adzuna.com/land/ad/5825973626?se=QuLRnl2S8RGvg6_5HonlUw&utm_medium=api&utm_source=04e8e9e3&v=9BC875512017D4D26EB31FBA15E49A7A5A0DB45E",
     "source_name": "Adzuna",
-    "rejection_reason": "This is a Registered Nurse (RN) travel contract position, not an Emergency Medicine physician attending role. Salary of ~$62,687 is far below the $300,000 minimum. Role type, salary, and contract nature all disqualify this posting.",
+    "rejection_reason": "This is a Registered Nurse (RN) travel contract position, not a physician/MD role. Salary and role type are both incompatible with the candidate profile. Also a locum/travel contract, which is excluded.",
     "description_snippet": "Registered Nurse (RN) | Emergency Room (ER) / Trauma Location: Denver, CO Agency: Concentric Healthcare Staffing Pay: Competitive weekly pay (inquire for details) Contract Duration: 13 Weeks Start Date: ASAP About the Position TravelNurseSource is working with Concentric Healthcare Staffing to find a qualified ER/Trauma RN in Denver, Colorado, 80220! Job Title Travel RN \u2013 Emergency Department (Night Shift) Location Denver, Colorado Schedule / Job Type Contract | Travel | 13-Week Assignment | Ni\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "f417d2553c25",
@@ -59561,11 +59561,11 @@
     "employer": "U.S. Navy Medical Corps",
     "location": "San Diego, CA",
     "salary": "$240,805-$324,090 (total annual compensation)",
-    "source_url": "https://www.adzuna.com/land/ad/5820155154?se=bPUtQNSQ8RGUoOdiQsob_Q&utm_medium=api&utm_source=04e8e9e3&v=93FA0E2E52C54A20418DF80C6DA6B0719519A5CE",
+    "source_url": "https://www.adzuna.com/land/ad/5820155154?se=_i82ml2S8RGjJ5ZNqGm0fg&utm_medium=api&utm_source=04e8e9e3&v=93FA0E2E52C54A20418DF80C6DA6B0719519A5CE",
     "source_name": "Adzuna",
-    "rejection_reason": "Total annual compensation of $240,805\u2013$324,090 falls below the candidate's minimum salary threshold of $300,000 (midpoint ~$282k). Additionally, active-duty military service entails multi-year service commitments and constraints not aligned with a standard attending physician job search.",
+    "rejection_reason": "Total annual compensation of $240,805-$324,090 falls below the candidate's $350,000-$400,000 target range, and the midpoint of ~$282k is below the $300,000 minimum. Additionally, this is an active-duty military position requiring a service commitment, which is a fundamentally different employment structure than a standard attending physician role.",
     "description_snippet": "Emergency Medicine Physician - Active-Duty U.S. Navy Medical Corps Officer Nationwide | Full-Time In-Person | Emergency Medicine Specialty Total Annual Compensation: $240,805 to $324,090 Position Highlights: $500,000 Accession Bonus $54,000 Specialty Incentive Pay $8,000 Board Certification Pay CME Allowance Exceptional Benefits - including retirement, 30 days PTO, and more 12 Weeks Paid Maternity Leave - plus convalescent leave as needed Work-Life Balance - no production requirements, focus on\u2026",
-    "date_found": "2026-08-05"
+    "date_found": "2026-08-07"
   },
   {
     "id": "cb17d6481fe0",
@@ -59945,11 +59945,11 @@
     "employer": "MidState Medical Center / EMrecruits",
     "location": "Yalesville, CT",
     "salary": "$147,220",
-    "source_url": "https://www.adzuna.com/land/ad/5799621330?se=bAMY3OCB8RG6rJOCq2z7Sg&utm_medium=api&utm_source=04e8e9e3&v=8029F60588FA2516C3806112063C2F62096B0438",
+    "source_url": "https://www.adzuna.com/land/ad/5823990000?se=am7OmF2S8RGJ5Kj9wlyS3Q&utm_medium=api&utm_source=04e8e9e3&v=C43489B0CDB1BC0F5A13D9A65DD36D932B21C62A",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $147,220 is far below the candidate's minimum requirement of $300,000. Additionally, location is in central Connecticut (not Stamford), placing it in the lowest-priority East Coast category which requires salary >$400,000.",
+    "rejection_reason": "Salary of $147,220 is far below the $300,000 minimum requirement and well under the $400,000 threshold required for Other East Coast positions. Additionally, MidState Medical Center is a community hospital in central Connecticut, not near Stamford or Boston, making it a lower geographic priority.",
     "description_snippet": "MidState Medical Center - Central Connecticut Emergency Medicine Physician Live in Cheshire | Wallingford | Southington | West Hartford The Opportunity MidState Medical Center offers an ideal blend of modern emergency medicine and Central Connecticut lifestyle. Physicians practice in a well-supported emergency department with a sustainable clinical pace while living in some of the state's most desirable suburban communities. You'll join a provider-led emergency medicine team delivering state-of\u2026",
-    "date_found": "2026-07-17"
+    "date_found": "2026-08-07"
   },
   {
     "id": "59c6aeda3b36",
@@ -61015,9 +61015,9 @@
     "salary": "$150,888",
     "source_url": "https://www.adzuna.com/details/5806882881?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Multiple disqualifying factors: (1) PRN/part-time role, not full-time; (2) salary of $150,888 is dramatically below the $300,000 minimum and nowhere near the $400,000 required for East Coast positions; (3) location is Baltimore, MD, which is not among the candidate's preferred regions.",
+    "rejection_reason": "Multiple disqualifying factors: (1) PRN/part-time role, not full-time; (2) salary of $150,888 is drastically below the $300,000 minimum; (3) Baltimore is Other East Coast which requires salary >$400,000, which this also fails.",
     "description_snippet": "The Mid-Atlantic Permanente Medical Group (MAPMG) is a leading group of over 1,800 physicians in Maryland, Virginia, and Washington, D.C., exclusively caring for Kaiser Permanente patients. We invite applications for a part-time specialist in Emergency Medicine at our South Baltimore Medical Center. Unlike other U.S. health systems, MAPMG is built and led by physicians who earn competitive salaries, without income based on providing individual services. Our medical group comprises board-certifi\u2026",
-    "date_found": "2026-07-22"
+    "date_found": "2026-08-07"
   },
   {
     "id": "82ba4fbbdeba",
@@ -61111,9 +61111,9 @@
     "salary": "$177,425",
     "source_url": "https://www.adzuna.com/details/5786334449?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "PRN (as-needed) position, not full-time. Urgent care setting rather than Emergency Department. Salary of $177,425 is significantly below the $300,000 minimum requirement.",
+    "rejection_reason": "Multiple disqualifying factors: (1) PRN/as-needed role, not full-time; (2) Urgent Care clinic setting, not an Emergency Department; (3) Salary of $177,425 is far below the $300,000 minimum threshold.",
     "description_snippet": "Colorado Permanente Medical group has a PRN opportunity for a board certified or board eligible Emergency Medicine Physician to work in a float capacity on an as needed basis and any of our 4 urgent care clinic locations in the Denver metro area. Aurora Centrepoint, Lone Tree Medical Office, Lakewood Medical Office and Rock Creek Medical Office. Shift hours vary by location. Paid Malpractice Hourly rate $206.68/hr Access to CT, US, X-ray, full panel of labs including stat labs and an extensive \u2026",
-    "date_found": "2026-07-24"
+    "date_found": "2026-08-07"
   },
   {
     "id": "4a07ac2fd59f",
@@ -61519,9 +61519,9 @@
     "salary": "$92,139",
     "source_url": "https://www.adzuna.com/details/5801517142?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary listed ($92,139) is drastically below the $300,000 minimum \u2014 almost certainly a data error, but as posted it fails salary requirements. Additionally, Other East Coast location requires salary >$400,000, which this posting does not demonstrate even if the listed figure is erroneous.",
+    "rejection_reason": "Salary as listed ($92,139) is drastically below the $300,000 minimum requirement. Even accounting for a possible data entry error, the posting cannot be evaluated for salary fit without clarification. Location is Other East Coast (Waterbury, CT), which requires salary >$400,000 \u2014 making this a likely rejection on compensation alone.",
     "description_snippet": "Waterbury Hospital - Western Connecticut Emergency Medicine Physician Highest-Acuity Site | Trauma Exposure | Advanced Clinical Practice Practice Profile Waterbury Hospital represents the most clinically intense Emergency Medicine environment within the system and is best suited for physicians seeking trauma exposure, high procedural volume, and complex pathology. This site delivers advanced emergency and trauma care with a faster pace and higher acuity than other regional locations, offering a\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "3bcee81dff43",
@@ -62755,9 +62755,9 @@
     "salary": "$67,870-$67,870",
     "source_url": "https://www.adzuna.com/details/5816970779?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary as listed ($67,870) is far below the $300,000 minimum requirement. While this is almost certainly a data error from Adzuna, the true compensation cannot be confirmed from this posting. Additionally, this is a community hospital 20 miles south of Boston (Brockton), a lower-priority location (Priority 6), with a recruiter intermediary obscuring the actual employer.",
+    "rejection_reason": "Salary as listed ($67,870) is drastically below the $300,000 minimum requirement. Even if this is a data error, the lack of a disclosed employer and the recruiter intermediary make verification impossible without outreach. Location (Brockton, MA near Boston) is Priority 6 but salary disqualifies.",
     "description_snippet": "A Healthcare group with more than 150 employed Physicians in southeast Massachusetts has openings for Emergency Medicine Physicians. The Hospital has 217-licensed beds and an ambulatory group with 18 office locations. We have won numerous awards, including being named a top performer on Key Quality Measures by The Joint Commission, a national hospital safety score \u201cA\u201d rating by The Leapfrog Group, and a Top Hospital from U.S. News & World Report. About the Opportunity: Primarily 8.5-hour shifts\u2026",
-    "date_found": "2026-07-27"
+    "date_found": "2026-08-07"
   },
   {
     "id": "3811ac56c911",
@@ -64109,11 +64109,11 @@
     "employer": "LifeBridge Health / Sinai Hospital of Baltimore",
     "location": "Baltimore, MD",
     "salary": "$81,298",
-    "source_url": "https://www.adzuna.com/land/ad/5826565295?se=vu_4HZ2R8RGGYdixQDrNPA&utm_medium=api&utm_source=04e8e9e3&v=6FC80FB8073B0C06FFADD3EF28387B49FF11B789",
+    "source_url": "https://www.adzuna.com/land/ad/5826565295?se=6DginV2S8RGjJ5ZNqGm0fg&utm_medium=api&utm_source=04e8e9e3&v=6FC80FB8073B0C06FFADD3EF28387B49FF11B789",
     "source_name": "Adzuna",
-    "rejection_reason": "This is a Nurse Navigator (nursing/APP) role in Radiation Oncology, not an Emergency Medicine physician position. Salary of $81,298 is far below the $300,000 minimum. Location is Baltimore, MD, which does not match any preferred region. Fails on role type, specialty, salary, and location simultaneously.",
+    "rejection_reason": "This is a Nurse Navigator (nursing/APP) role, not an Emergency Medicine Physician position. Additionally, the salary of $81,298 is drastically below the $300,000 minimum, the specialty is Radiation Oncology rather than Emergency Medicine, and the location (Baltimore, MD) does not match any of the candidate's preferred regions.",
     "description_snippet": "Summary Nurse Navigator \u2013 Radiation Oncology Location: Sinai Hospital of Baltimore Address: 2401 W Belvedere Avenue, Baltimore, MD 21215 Schedule: On Site | Monday\u2013Friday | 8:00 AM \u2013 4:30 PM Employment Type: Full-Time Position Summary Sinai Hospital is seeking a compassionate and experienced Nurse Navigator \u2013 Radiation Oncology to provide community-based care navigation for high-utilizer oncology patients. This role partners closely with physicians and a multidisciplinary team\u2014including nursing\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "bf9274e67c47",
@@ -64627,9 +64627,9 @@
     "salary": "$200,000-$350,000",
     "source_url": "https://www.adzuna.com/details/5816270698?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Not an Emergency Medicine physician role \u2014 this is a wound care specialist position at post-acute/SNF facilities. Salary midpoint of $275,000 is below the $300,000 minimum. Other East Coast location requires >$400,000. The candidate's EM residency training and goals are misaligned with this position.",
+    "rejection_reason": "This is not an Emergency Medicine physician role \u2014 it is a wound care position at post-acute/nursing facilities. Additionally, the salary midpoint ($275,000) falls below the $300,000 minimum, and the Other East Coast location requires a salary exceeding $400,000, which this posting does not meet.",
     "description_snippet": "Emergency Medicine Physician Position with National Wound Physician Group Clinical satisfaction, autonomy and flexibility, work-life balance No Nights, No Call, No Weekend Clinical Responsibilities Become an expert in wound management , learn from highly qualified wound-certified physician trainers and Fellowship Directors. Utilize cutting-edge clinical technologies and the latest wound care modalities. \u2022 Our physicians provide bedside wound care in over 3,200 facilities across 28 states. \u2022 We \u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "3dbba4fc6274",
@@ -65347,9 +65347,9 @@
     "salary": "$248,420",
     "source_url": "https://www.adzuna.com/details/5827854895?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $248,420 is significantly below the candidate's minimum threshold of $300,000, and also fails to meet the >$400,000 requirement for Other East Coast locations. Double disqualification on compensation.",
+    "rejection_reason": "Salary of $248,420 falls well below the candidate's minimum threshold of $300,000, and this East Coast (non-Boston/Stamford) location requires a salary above $400,000 \u2014 this posting fails on both counts.",
     "description_snippet": "The Mid-Atlantic Permanente Medical Group (MAPMG) is a leading group of over 1,800 physicians in Maryland, Virginia, and Washington, D.C., exclusively caring for Kaiser Permanente patients. We invite applications for a full-time specialist in Emergency Medicine at our Capitol Hill Medical Center. Unlike other U.S. health systems, MAPMG is built and led by physicians who earn competitive salaries, without income based on providing individual services. Our medical group comprises board-certified \u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "42388a3bcc43",
@@ -65369,11 +65369,11 @@
     "employer": "John F. Kennedy Memorial Hospital",
     "location": "Mecca, CA",
     "salary": "$40,985",
-    "source_url": "https://www.adzuna.com/land/ad/5827029722?se=rJtzHZ2R8RGXFaoIbwgHQw&utm_medium=api&utm_source=04e8e9e3&v=8C694FFA28F5B7A991F4307419FCBA6335FB3AE1",
+    "source_url": "https://www.adzuna.com/land/ad/5827029722?se=HEtUnV2S8RGjJ5ZNqGm0fg&utm_medium=api&utm_source=04e8e9e3&v=8C694FFA28F5B7A991F4307419FCBA6335FB3AE1",
     "source_name": "Adzuna",
-    "rejection_reason": "This is a Charge Nurse (RN) position, not an Emergency Medicine Physician role. Salary ($40,985) is far below the $300,000 minimum. Location (Mecca, Riverside County) does not match any preferred region. This posting is entirely incompatible with the candidate profile.",
+    "rejection_reason": "This is a Registered Nurse / Charge Nurse position, not an Emergency Medicine Physician role. Salary of ~$41K is far below the $300K minimum. Location does not match any preferred region.",
     "description_snippet": "Job Description Job type: Full time\\n \\n \\nShift: Night\\n \\n \\nHours: 1900-0730\\n \\n \\nSchedule: 6 shifts per two week pay period. Some weekends required.\\n \\n POSITION DESCRIPTION: \\n \\n The Emergency Department Clinical Coordinator oversees the throughput of patients through the Emergency Department in a timely, efficient, and organized manner. The Clinical Coordinator promptly and fully investigates and resolves complaints of patients, visitors, staff, and physicians, advising management/adm\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "08d3561140e8",
@@ -65381,11 +65381,11 @@
     "employer": "John F. Kennedy Memorial Hospital",
     "location": "Coachella, CA",
     "salary": "$43,463",
-    "source_url": "https://www.adzuna.com/land/ad/5827022984?se=rJtzHZ2R8RGXFaoIbwgHQw&utm_medium=api&utm_source=04e8e9e3&v=E819AA7B0DF28893ABE384E1ED7901CE3E0418BC",
+    "source_url": "https://www.adzuna.com/land/ad/5827022984?se=HEtUnV2S8RGjJ5ZNqGm0fg&utm_medium=api&utm_source=04e8e9e3&v=E819AA7B0DF28893ABE384E1ED7901CE3E0418BC",
     "source_name": "Adzuna",
-    "rejection_reason": "This is a nursing (RN) role, not an Emergency Medicine physician position. Salary ($43,463) is far below the $300,000 minimum. Location does not match any preferred region.",
+    "rejection_reason": "This is a Registered Nurse position, not an Emergency Medicine Physician role. Additionally, the employer is HCA-affiliated, the salary is $43,463 (far below the $300,000 minimum), and the location does not match any preferred region.",
     "description_snippet": "Job Description Job type: Full time\\n \\n \\nShift: Night\\n \\n \\nHours: 1900-0730\\n \\n \\nSchedule: 6 shifts per two week pay period. Some weekends required.\\n \\n POSITION DESCRIPTION: \\n \\n The Emergency Department Clinical Coordinator oversees the throughput of patients through the Emergency Department in a timely, efficient, and organized manner. The Clinical Coordinator promptly and fully investigates and resolves complaints of patients, visitors, staff, and physicians, advising management/adm\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "2b39c478c9da",
@@ -65393,11 +65393,11 @@
     "employer": "John F. Kennedy Memorial Hospital",
     "location": "Cathedral City, CA",
     "salary": "$43,160",
-    "source_url": "https://www.adzuna.com/land/ad/5826986840?se=4AUtRNSQ8RGUoOdiQsob_Q&utm_medium=api&utm_source=04e8e9e3&v=101F2B0679CD8E8B83CCE84059F89DDAF44E5D8D",
+    "source_url": "https://www.adzuna.com/land/ad/5826986840?se=HEtUnV2S8RGjJ5ZNqGm0fg&utm_medium=api&utm_source=04e8e9e3&v=101F2B0679CD8E8B83CCE84059F89DDAF44E5D8D",
     "source_name": "Adzuna",
-    "rejection_reason": "This is a Charge Nurse (RN) position, not an Emergency Medicine Physician role. It is entirely incompatible with the candidate's profile as a physician seeking attending EM positions.",
+    "rejection_reason": "This is a nursing (RN) role, not an Emergency Medicine physician position. Additionally, the salary ($43,160) is far below the minimum threshold, the schedule is nights-only, and JFK Memorial Hospital in Cathedral City is an HCA-affiliated facility, which is an excluded employer.",
     "description_snippet": "Job Description Job type: Full time\\n \\n \\nShift: Night\\n \\n \\nHours: 1900-0730\\n \\n \\nSchedule: 6 shifts per two week pay period. Some weekends required.\\n \\n POSITION DESCRIPTION: \\n \\n The Emergency Department Clinical Coordinator oversees the throughput of patients through the Emergency Department in a timely, efficient, and organized manner. The Clinical Coordinator promptly and fully investigates and resolves complaints of patients, visitors, staff, and physicians, advising management/adm\u2026",
-    "date_found": "2026-08-05"
+    "date_found": "2026-08-07"
   },
   {
     "id": "39244c07b0fe",
@@ -65405,11 +65405,11 @@
     "employer": "John F. Kennedy Memorial Hospital",
     "location": "Palm Springs, CA",
     "salary": "$41,301",
-    "source_url": "https://www.adzuna.com/land/ad/5826936984?se=rJtzHZ2R8RGXFaoIbwgHQw&utm_medium=api&utm_source=04e8e9e3&v=2784FFD15AAD80D58BD25AE12FF1B82BBA3F8049",
+    "source_url": "https://www.adzuna.com/land/ad/5826936984?se=HEtUnV2S8RGjJ5ZNqGm0fg&utm_medium=api&utm_source=04e8e9e3&v=2784FFD15AAD80D58BD25AE12FF1B82BBA3F8049",
     "source_name": "Adzuna",
-    "rejection_reason": "This is a Charge Nurse (RN) position, not an Emergency Medicine Physician role. It does not meet candidate's professional level, salary requirements ($41,301 vs. $300,000 minimum), or location preferences.",
+    "rejection_reason": "This is a Charge Nurse (RN) role, not an Emergency Medicine Physician position. Salary and job function are entirely incompatible with the candidate profile.",
     "description_snippet": "Job Description Job type: Full time\\n \\n \\nShift: Night\\n \\n \\nHours: 1900-0730\\n \\n \\nSchedule: 6 shifts per two week pay period. Some weekends required.\\n \\n POSITION DESCRIPTION: \\n \\n The Emergency Department Clinical Coordinator oversees the throughput of patients through the Emergency Department in a timely, efficient, and organized manner. The Clinical Coordinator promptly and fully investigates and resolves complaints of patients, visitors, staff, and physicians, advising management/adm\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "17d85721b6d3",
@@ -65441,11 +65441,11 @@
     "employer": "John F. Kennedy Memorial Hospital",
     "location": "La Quinta, CA",
     "salary": "$42,848",
-    "source_url": "https://www.adzuna.com/land/ad/5826928427?se=rJtzHZ2R8RGXFaoIbwgHQw&utm_medium=api&utm_source=04e8e9e3&v=266560C199432A7898C5FE59A4187BB866D9425B",
+    "source_url": "https://www.adzuna.com/land/ad/5826928427?se=HEtUnV2S8RGjJ5ZNqGm0fg&utm_medium=api&utm_source=04e8e9e3&v=266560C199432A7898C5FE59A4187BB866D9425B",
     "source_name": "Adzuna",
-    "rejection_reason": "Wrong role type entirely \u2014 this is an RN/Charge Nurse position, not an Emergency Medicine Physician role. Additionally, HCA-affiliated employer, salary far below minimum, wrong location, and nursing-only credentials required.",
+    "rejection_reason": "This is a Charge Nurse (RN) position, not an Emergency Medicine physician role. It is entirely outside the candidate's scope of search regardless of location or other factors.",
     "description_snippet": "Job Description Job type: Full time\\n \\n \\nShift: Night\\n \\n \\nHours: 1900-0730\\n \\n \\nSchedule: 6 shifts per two week pay period. Some weekends required.\\n \\n POSITION DESCRIPTION: \\n \\n The Emergency Department Clinical Coordinator oversees the throughput of patients through the Emergency Department in a timely, efficient, and organized manner. The Clinical Coordinator promptly and fully investigates and resolves complaints of patients, visitors, staff, and physicians, advising management/adm\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "d6c05cfbb254",
@@ -65621,11 +65621,11 @@
     "employer": "Veterans Health Administration",
     "location": "Augusta, GA",
     "salary": "$340,000-$400,000",
-    "source_url": "https://www.adzuna.com/land/ad/5817620975?se=SGyxGJ2R8RGXFaoIbwgHQw&utm_medium=api&utm_source=04e8e9e3&v=1D1767B1DBA1D9A07E76902E692D213B58C3B556",
+    "source_url": "https://www.adzuna.com/land/ad/5817620975?se=oDaSml2S8RGjJ5ZNqGm0fg&utm_medium=api&utm_source=04e8e9e3&v=1D1767B1DBA1D9A07E76902E692D213B58C3B556",
     "source_name": "Adzuna",
-    "rejection_reason": "Augusta, GA falls in the 'Other East Coast' priority tier, which requires salary >$400,000. The listed salary range tops out at $400,000 with a midpoint of $370,000, which does not clearly meet the >$400,000 threshold for this region.",
+    "rejection_reason": "Location is Augusta, GA (Other East Coast), which requires salary >$400,000 per candidate preferences. The listed salary range tops out at $400,000 with a midpoint of $370,000, which does not meet the threshold for this lower-priority region.",
     "description_snippet": "Qualifications To qualify for this position, you must meet the basic requirements as well as any additional requirements (if applicable) listed in the job announcement. Applicants pending the completion of training or license requirements may be referred and tentatively selected but may not be hired until all requirements are met. Currently employed physician(s) in VA who met the requirements for appointment under the previous qualification standard at the time of their initial appointment are \u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "b5d105e771ec",
@@ -65668,12 +65668,12 @@
     "title": "Emergency Medicine Physician",
     "employer": "Alameda Health System \u2013 Highland General Hospital",
     "location": "Oakland, CA",
-    "salary": "$217,079",
-    "source_url": "https://www.adzuna.com/land/ad/5828380181?se=VuiEGp2R8RGtO7q9CFSDuA&utm_medium=api&utm_source=04e8e9e3&v=4B875C4F4E6C146BF1CCC8A2CB3DE1F3807EDD33",
+    "salary": "$215,658",
+    "source_url": "https://www.adzuna.com/land/ad/5828380183?se=_i82ml2S8RGjJ5ZNqGm0fg&utm_medium=api&utm_source=04e8e9e3&v=6D24ED5F022B5FF6A86871E0F006DB84417A51BC",
     "source_name": "Adzuna",
-    "rejection_reason": "Salary of $217,079 is significantly below the candidate's minimum requirement of $300,000. Additionally, the FTE is listed as 0.8, not the full-time position sought.",
-    "description_snippet": "Emergency Medicine Physician  Oakland, CA  Highland General Hospital  HGH ER Providers  Full Time - Varies  Physicians & Dentists  $175.74 - $185.26  Req :44442-33034  FTE:0.8  Posted:Yesterday Summary SUMMARY : The Emergency Medicine Physician will provide emergency medicine services for Alameda Health System. The Emergency Medicine Physician is responsible for the expert provision of safe, efficient, patient-centered, and cost-effective care within the Emergency Department and for responding \u2026",
-    "date_found": "2026-08-06"
+    "rejection_reason": "Salary of $215,658 is significantly below the candidate's minimum requirement of $300,000. Additionally, the position is listed at 0.8 FTE rather than full-time.",
+    "description_snippet": "Emergency Medicine Physician  Oakland, CA  Highland General Hospital  HGH ER Providers  Full Time - Varies  Physicians & Dentists  $174.75 - $185.26  Req :44441-33033  FTE:0.8  Posted:August 3, 2026 Summary SUMMARY : The Emergency Medicine Physician will provide emergency medicine services for Alameda Health System. The Emergency Medicine Physician is responsible for the expert provision of safe, efficient, patient-centered, and cost-effective care within the Emergency Department and for respon\u2026",
+    "date_found": "2026-08-07"
   },
   {
     "id": "98693fa7e660",
@@ -65695,9 +65695,9 @@
     "salary": "$66,195",
     "source_url": "https://www.adzuna.com/details/5827708107?utm_medium=api&utm_source=04e8e9e3",
     "source_name": "Adzuna",
-    "rejection_reason": "This is a Registered Nurse (RN) position, not an Emergency Medicine Physician/Attending role. Salary of ~$66,195 is far below the $300,000 minimum requirement.",
+    "rejection_reason": "This is a Registered Nurse (RN) position, not an Emergency Medicine Physician/Attending role. Salary of $66,195 is far below the $300,000 minimum requirement. Candidate is an MD/DO seeking physician-level employment.",
     "description_snippet": "Registered Nurse (RN) - Emergency Department Schedule This position requires a full-time commitment of 36 hours per week with shifts scheduled from 07:00 AM to 07:30 PM, including every other weekend and holiday shifts. Job Description We are seeking an experienced Registered Nurse (RN) specializing in Emergency Department services. This role involves providing high-quality patient care in a fast-paced environment, requiring strong clinical skills and the ability to handle critical situations e\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "35d95dbd2430",
@@ -65705,11 +65705,11 @@
     "employer": "John F. Kennedy Memorial Hospital",
     "location": "Desert Hot Springs, CA",
     "salary": "$41,858",
-    "source_url": "https://www.adzuna.com/land/ad/5826890426?se=rJtzHZ2R8RGXFaoIbwgHQw&utm_medium=api&utm_source=04e8e9e3&v=5F337DE6EE587CA72174C96E2A1698E5754798DA",
+    "source_url": "https://www.adzuna.com/land/ad/5826890426?se=HEtUnV2S8RGjJ5ZNqGm0fg&utm_medium=api&utm_source=04e8e9e3&v=5F337DE6EE587CA72174C96E2A1698E5754798DA",
     "source_name": "Adzuna",
-    "rejection_reason": "This is a Registered Nurse / Charge Nurse position, not an Emergency Medicine Physician role. Completely wrong job type for the candidate.",
+    "rejection_reason": "This is a Registered Nurse / Charge Nurse position, not an Emergency Medicine Physician role. Additionally, salary is $41,858 \u2014 far below the $300,000 minimum. Location is not in any preferred region.",
     "description_snippet": "Job Description Job type: Full time\\n \\n \\nShift: Night\\n \\n \\nHours: 1900-0730\\n \\n \\nSchedule: 6 shifts per two week pay period. Some weekends required.\\n \\n POSITION DESCRIPTION: \\n \\n The Emergency Department Clinical Coordinator oversees the throughput of patients through the Emergency Department in a timely, efficient, and organized manner. The Clinical Coordinator promptly and fully investigates and resolves complaints of patients, visitors, staff, and physicians, advising management/adm\u2026",
-    "date_found": "2026-08-06"
+    "date_found": "2026-08-07"
   },
   {
     "id": "38861e40e115",
@@ -65734,5 +65734,221 @@
     "rejection_reason": "Pediatric Emergency Medicine specialty likely requires fellowship training the candidate does not have (completing general EM residency). Additionally, Philadelphia falls under 'Other East Coast' (Priority 7), which requires salary >$400,000 \u2014 salary is unlisted. Specialty mismatch is the primary disqualifier.",
     "description_snippet": "PA | Employer Direct | Pediatric Emergency Medicine Physician | St. Christopher's Hospital for Children | part of | Tower Health | Philadelphia, PA | Physician-Emergency Medicine | Full-Time | Sign in to View Job Activity | Job Activity | You will be able to view how many times a recruiter has messaged you for that position and how many times a job has been viewed or shared. | GOT IT | Sign in to view job activity. | Sign In | New to PracticeLink? | Create an Account | Sign in to block jobs. | S",
     "date_found": "2026-08-06"
+  },
+  {
+    "id": "f4e61c509090",
+    "title": "Emergency Medicine Physician",
+    "employer": "Schuylkill",
+    "location": "Pottsville, Schuylkill County",
+    "salary": "$107,627-$107,627",
+    "source_url": "https://www.adzuna.com/details/5806992776?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Location 'Pottsville, Schuylkill County' not in any target region",
+    "description_snippet": "Imagine a career at one of the nation's most advanced health networks. Be part of an exceptional health care experience. Join the inspired, passionate team at Lehigh Valley Health Network, a nationally recognized, forward-thinking organization offering plenty of opportunity to do great work. LVHN has been ranked among the \"Best Hospitals\" by U.S. News & World Report for 23 consecutive years. We're a Magnet(tm) Hospital, having been honored five times with the American Nurses Credentialing Cente\u2026",
+    "date_found": "2026-08-07"
+  },
+  {
+    "id": "7b2375929c32",
+    "title": "Emergency Medicine Physician",
+    "employer": "AMI Expeditionary Healthcare",
+    "location": "Fresno, Fresno County",
+    "salary": "$156,400-$156,400",
+    "source_url": "https://www.adzuna.com/details/5820895882?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded employer: 'HCA'",
+    "description_snippet": "Emergency Department Physician (MD/DO) Long-Term Contract Opportunity | Level II Trauma Center | Caring for Our Nation's Veterans AMI Expeditionary Healthcare is seeking an Emergency Department Physician to join a collaborative, high-performing team in a modern Level II Trauma Center in Fresno, CA. This is an exceptional opportunity to provide emergency medical care to our nation's Veterans in a fast-paced clinical environment where patient safety, quality, and compassionate care are top priori\u2026",
+    "date_found": "2026-08-07"
+  },
+  {
+    "id": "dce34373cb43",
+    "title": "Emergency Medicine Physician",
+    "employer": "BAS Healthcare",
+    "location": "Carrollton, Carroll County",
+    "salary": "$268,413-$268,413",
+    "source_url": "https://www.adzuna.com/details/5831768358?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded employer: 'HCA'",
+    "description_snippet": "Emergency Medicine Physician Full Time | Carrollton , GA | Permanent Job Id: BS21220 Location: Carrollton, GA & Villa Rica, GA Job Overview: A well-established, physician-owned Emergency Medicine group is seeking a Board-Certified or Board-Eligible Emergency Medicine physician to join their team. This 24-physician private practice has proudly served the community for over 30 years and offers a clear partnership track with excellent earning potential. Compensation & Benefits: Year 1: $325,000 sa\u2026",
+    "date_found": "2026-08-07"
+  },
+  {
+    "id": "1094384995c1",
+    "title": "Emergency Medicine Physician - Gainesville, GA",
+    "employer": "Vohra Physicians",
+    "location": "Gainesville, Hall County",
+    "salary": "$200,000-$350,000",
+    "source_url": "https://www.adzuna.com/details/5806934777?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Location 'Gainesville, Hall County' not in any target region",
+    "description_snippet": "Emergency Medicine Physician Position with National Wound Physician Group Clinical satisfaction, autonomy and flexibility, work-life balance No Nights, No Call, No Weekend Clinical Responsibilities Become an expert in wound management , learn from highly qualified wound-certified physician trainers and Fellowship Directors. Utilize cutting-edge clinical technologies and the latest wound care modalities. \u2022 Our physicians provide bedside wound care in over 3,200 facilities across 28 states. \u2022 We \u2026",
+    "date_found": "2026-08-07"
+  },
+  {
+    "id": "9f61369f9cb9",
+    "title": "Emergency Medicine Physician - Macon, GA",
+    "employer": "Vohra Physicians",
+    "location": "Macon, Bibb County",
+    "salary": "$200,000-$350,000",
+    "source_url": "https://www.adzuna.com/details/5813770001?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Location 'Macon, Bibb County' not in any target region",
+    "description_snippet": "Emergency Medicine Physician Position with National Wound Physician Group Clinical satisfaction, autonomy and flexibility, work-life balance No Nights, No Call, No Weekend Clinical Responsibilities Become an expert in wound management , learn from highly qualified wound-certified physician trainers and Fellowship Directors. Utilize cutting-edge clinical technologies and the latest wound care modalities. \u2022 Our physicians provide bedside wound care in over 3,200 facilities across 28 states. \u2022 We \u2026",
+    "date_found": "2026-08-07"
+  },
+  {
+    "id": "7326351b1620",
+    "title": "Emergency Medicine Physician Assistant",
+    "employer": "Mount Sinai Health System",
+    "location": "Jamaica, Queens",
+    "salary": "$92,931-$92,931",
+    "source_url": "https://www.adzuna.com/land/ad/5814924163?se=uM7Iml2S8RGjJ5ZNqGm0fg&utm_medium=api&utm_source=04e8e9e3&v=A0185FD25FF635B85628E714CBF5D82D366E8078",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'Physician Assistant'",
+    "description_snippet": "Job Description Job Description New York City Health  Hospitals | Queens, a teaching affiliate of the Icahn School of Medicine at Mount Sinai, is one of 11 acute care municipal hospitals in New York City and is a part of the largest public hospital system in the United States. We serve an ethnically diverse patient population in a culturally rich neighborhood of Queens, New York. We are seeking highly motivated candidates for full-time Physician Assistant positions in the Department of Emergenc\u2026",
+    "date_found": "2026-08-07"
+  },
+  {
+    "id": "1b9c866ce8d1",
+    "title": "Emergency Medicine Physician Assistant | Seattle-Tacoma Region | $200K",
+    "employer": "EMrecruits",
+    "location": "Olympia, Richland County",
+    "salary": "$187,888-$187,888",
+    "source_url": "https://www.adzuna.com/details/5823147667?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'Physician Assistant'",
+    "description_snippet": "Join a physician-led emergency medicine group serving the South Puget Sound region. This is an excellent opportunity for experienced Emergency Medicine APPs seeking strong earning potential, provider autonomy, a collaborative team culture, and an outstanding Pacific Northwest lifestyle. About the Opportunity Practice across a community hospital emergency department and a growing freestanding emergency department in Olympia and Lacey, Washington. You'll treat a diverse patient population while w\u2026",
+    "date_found": "2026-08-07"
+  },
+  {
+    "id": "69d5125c0ae7",
+    "title": "Locum Physician (MD/DO) - Emergency Medicine in Henderson, NC",
+    "employer": "Echo Locum Tenens | Sound Physicians",
+    "location": "Henderson, Vance County",
+    "salary": "$336,355-$336,355",
+    "source_url": "https://www.adzuna.com/details/5706014334?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'Locum'",
+    "description_snippet": "Doctor of Medicine | Emergency Medicine Location: Henderson, NC Employer: Echo Locum Tenens | Sound Physicians Pay: Competitive weekly pay (inquire for details) Shift Information: Days - 5 days Start Date: ASAP About the Position Seeking Emergency Medicine Physicians for Maria Parham Medical Center in Henderson, North Carolina, for locum coverage. Echo Locum Tenens is a direct affiliate of Sound Physicians, offering priority scheduling ahead of other locum agencies. Enjoy flexible shifts with n\u2026",
+    "date_found": "2026-08-07"
+  },
+  {
+    "id": "ccb7e27fbd30",
+    "title": "Health Promotion Advocate, Per Diem, All Shifts, Emergency Department",
+    "employer": "Day Kimball Health",
+    "location": "Putnam, Windham County",
+    "salary": "$41,221-$41,221",
+    "source_url": "https://www.adzuna.com/details/5831668532?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'PA'",
+    "description_snippet": "Day Kimball Health is seeking a Health Promotion Advocate to join our Emergency Department in Putnam, Connecticut. If you're looking for a rewarding healthcare career with competitive pay, comprehensive benefits, and opportunities for professional growth, we'd love to hear from you. Details: Exemption Status: Non-Exempt Locations: Putnam, CT Hours: Per Diem Schedule: All Shifts Weekends: if applicable Per Diem Requirement: Per diem employees are expected to work a minimum of 32 hours per month.\u2026",
+    "date_found": "2026-08-07"
+  },
+  {
+    "id": "42a6fab1b21f",
+    "title": "Addiction Therapist (40 hrs)(Temple-Episcopal Campus)",
+    "employer": "Temple University",
+    "location": "Elkins Park, Montgomery County",
+    "salary": "$105,599-$105,599",
+    "source_url": "https://www.adzuna.com/details/5819129319?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'PA'",
+    "description_snippet": "Addiction Therapist (40 Hrs) (Temple-Episcopal Campus) The Addiction Therapist provides emotional or mental health therapy or counseling in an outpatient setting, facilitates therapy sessions for patients, assesses mental or emotional disorders, gathers and interprets social, personal, environmental and health information, develops treatment plans and individual goals, and modifies plans over time in response to patient progress. Education: Bachelor's Degree in Human Services, Psychology or Soc\u2026",
+    "date_found": "2026-08-07"
+  },
+  {
+    "id": "0d78dafa6237",
+    "title": "Locum Physician Assistant (PA) in Frederick, MD",
+    "employer": "Rhino Medical",
+    "location": "Frederick, Frederick County",
+    "salary": "$124,690-$124,690",
+    "source_url": "https://www.adzuna.com/details/5750793600?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'Physician Assistant'",
+    "description_snippet": "Physician Assistant | Other Location: Frederick, MD Employer: Rhino Medical Pay: Competitive weekly pay (inquire for details) Contract Duration: 2 Weeks Start Date: ASAP About the Position Frederick, Maryland Emergency Medicine NP/PA Locum Tenens Adult Emergency Department \u2022 Approximately 60,000 Annual Visits \u2022 Supplemental Monthly Coverage Rhino Medical is leading the charge seeking an experienced Acute Care Nurse Practitioner or Physician Assistant for an ongoing Emergency Medicine locum tene\u2026",
+    "date_found": "2026-08-07"
+  },
+  {
+    "id": "9ccbd32b3dbb",
+    "title": "Locum Physician Assistant (PA) in Frederick, MD",
+    "employer": "Rhino Medical",
+    "location": "Hood College, Frederick County",
+    "salary": "$160,501-$160,501",
+    "source_url": "https://www.adzuna.com/details/5750854583?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'Physician Assistant'",
+    "description_snippet": "Physician Assistant | Other Location: Frederick, MD Employer: Rhino Medical Pay: Competitive weekly pay (inquire for details) Contract Duration: 2 Weeks Start Date: ASAP About the Position Frederick, Maryland Emergency Medicine NP/PA Locum Tenens Adult Emergency Department \u2022 Approximately 60,000 Annual Visits \u2022 Supplemental Monthly Coverage Rhino Medical is leading the charge seeking an experienced Acute Care Nurse Practitioner or Physician Assistant for an ongoing Emergency Medicine locum tene\u2026",
+    "date_found": "2026-08-07"
+  },
+  {
+    "id": "5e295750cf39",
+    "title": "Locum Physician Assistant (PA) in Frederick, MD",
+    "employer": "LocumJobsOnline",
+    "location": "Frederick, Frederick County",
+    "salary": "$169,258-$169,258",
+    "source_url": "https://www.adzuna.com/details/5750793611?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'Physician Assistant'",
+    "description_snippet": "Physician Assistant | Other Location: Frederick, MD Employer: Rhino Medical Pay: Competitive weekly pay (inquire for details) Contract Duration: 2 Weeks Start Date: ASAP About the Position LocumJobsOnline is working with Rhino Medical to find a qualified Other PA in Frederick, Maryland, 21701! Frederick, Maryland Emergency Medicine NP/PA Locum Tenens Adult Emergency Department \u2022 Approximately 60,000 Annual Visits \u2022 Supplemental Monthly Coverage Rhino Medical is leading the charge seeking an exp\u2026",
+    "date_found": "2026-08-07"
+  },
+  {
+    "id": "71384cfe9901",
+    "title": "Locum Physician Assistant (PA) in Frederick, MD",
+    "employer": "LocumJobsNetwork",
+    "location": "Frederick, Frederick County",
+    "salary": "$135,950-$135,950",
+    "source_url": "https://www.adzuna.com/details/5750793613?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'Physician Assistant'",
+    "description_snippet": "Physician Assistant | Other Location: Frederick, MD Employer: Rhino Medical Pay: Competitive weekly pay (inquire for details) Contract Duration: 2 Weeks Start Date: ASAP About the Position LocumJobsNetwork is working with Rhino Medical to find a qualified Other PA in Frederick, Maryland, 21701! Frederick, Maryland Emergency Medicine NP/PA Locum Tenens Adult Emergency Department \u2022 Approximately 60,000 Annual Visits \u2022 Supplemental Monthly Coverage Rhino Medical is leading the charge seeking an ex\u2026",
+    "date_found": "2026-08-07"
+  },
+  {
+    "id": "f5cad982179e",
+    "title": "Travel Nurse RN - ED - Emergency Department - $2,120 per week",
+    "employer": "Cross Country Nurses",
+    "location": "San Luis Obispo, San Luis Obispo County",
+    "salary": "Up to $110,240",
+    "source_url": "https://www.adzuna.com/land/ad/5819317202?se=HEtUnV2S8RGjJ5ZNqGm0fg&utm_medium=api&utm_source=04e8e9e3&v=5EC66E0596FD2899276BEB06F005DD5C49B5C5A2",
+    "source_name": "Adzuna",
+    "rejection_reason": "Excluded title keyword: 'PA'",
+    "description_snippet": "Cross Country Nurses is seeking a travel nurse RN ED - Emergency Department for a travel nursing job in San Luis Obispo, California. Job Description & Requirements Specialty: ED - Emergency Department Discipline: RN Start Date: 08/17/2026 Duration: 13 weeks 36 hours per week Shift: 12 hours, nights Employment Type: Travel Job Summary: Emergency Room Nurse San Luis Obispo, California. This emergency nursing position involves providing triage, treatment, and discharge care for patients across all\u2026",
+    "date_found": "2026-08-07"
+  },
+  {
+    "id": "255a0de9d21b",
+    "title": "Travel Nurse RN - Emergency Room (ER) / Trauma - $1,822 per week in Spruce Pine, NC",
+    "employer": "TravelNurseSource",
+    "location": "Spruce Pine, Mitchell County",
+    "salary": "$7,288-$7,288",
+    "source_url": "https://www.adzuna.com/details/5816299896?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Location 'Spruce Pine, Mitchell County' not in any target region",
+    "description_snippet": "Registered Nurse (RN) | Emergency Room (ER) / Trauma Location: Spruce Pine, NC Agency: Cynet Health Pay: $1,822 per week Shift Information: Nights - 3 days x 12 hours Contract Duration: 13 Weeks Start Date: 8/10/2026 About the Position TravelNurseSource is working with Cynet Health to find a qualified ER/Trauma RN in Spruce Pine, North Carolina, 28777! Job Title: Registered Nurse Profession: RN Specialty: Emergency Department Duration: 13 weeks Shift: Night Hours per Shift: 12 Experience: Minim\u2026",
+    "date_found": "2026-08-07"
+  },
+  {
+    "id": "7ec5d7b7fecc",
+    "title": "Emergency Medicine Physician",
+    "employer": "Loma Linda University Faculty Medical Group",
+    "location": "Loma Linda, CA",
+    "salary": "$260,000-$305,000",
+    "source_url": "https://www.adzuna.com/details/5763530900?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "rejection_reason": "Salary range of $260,000-$305,000 falls below the candidate's minimum requirement of $300,000. Even the top of the range barely meets the floor, and the midpoint is well below threshold.",
+    "description_snippet": "Loma Linda University Faculty Medical Group, Department of Emergency Medicine is seeking full-time Emergency Medicine physicians to join our dedicated faculty. Candidates must be BE/BC and Emergency Medicine trained, and demonstrate interest and experience in academics, research and clinical practice. About the area Loma Linda, recognized as the only Blue Zone in the nation, is a family-friendly community known for its strong sense of community and commitment to health and wellness. Loma Linda \u2026",
+    "date_found": "2026-08-07"
+  },
+  {
+    "id": "49b5cf0ecd6e",
+    "title": "Emergency Medicine Physician (MD/DO)",
+    "employer": "CityMD",
+    "location": "Bronx, NY",
+    "salary": "$125-$185/hour",
+    "source_url": "https://www.adzuna.com/details/4919339807?utm_medium=api&utm_source=04e8e9e3",
+    "source_name": "Adzuna",
+    "rejection_reason": "CityMD is an urgent care chain, not a hospital-based Emergency Medicine position. Additionally, the Bronx/New York location falls under 'Other East Coast' which requires salary >$400,000 \u2014 estimated compensation at $125-$185/hr does not reliably meet that threshold. Urgent care does not align with candidate's interest in EM attending roles at hospital-based EDs.",
+    "description_snippet": "Doctor of Medicine | Emergency Medicine Location: Bronx, NY Employer: The Inline Group Pay: Competitive weekly pay (inquire for details) Start Date: ASAP About the Position CityMD - Full Time Your Own 36 Hour Schedule | Three, Four, or Five Days per Week Employed New Graduates Welcome to Apply Call Schedule: No Call Compensation: - $125 to $185 per hour Highly Competitive and Negotiable Compensation | Control Your Income Based on the Hours You Want to Work | Quarterly Performance-Based Incentiv\u2026",
+    "date_found": "2026-08-07"
   }
 ]
