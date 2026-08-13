@@ -1,9 +1,27 @@
 # EM Job Board — Session Handoff
 
-**Last session:** 2026-07-10
-**Status:** Dashboard sort-by-date-captured shipped and live. Pipeline audit found Google Jobs (SerpAPI) has returned **zero raw postings since 2026-05-12** — smoke-tested and confirmed to be a Google-side issue (not our keys/quota/code); user independently confirmed it's not SF-specific. Decision: sit tight, no scraper changes, revisit ~2026-07-17.
+**Last session:** 2026-08-13
+**Status:** ⏸ **PAUSED.** The daily scrape cron is commented out in `.github/workflows/scrape.yml` — the job search is inactive and Ryan is not refiling to activate this board soon. `workflow_dispatch` is still live (manual runs work). The dashboard remains deployed at <https://em-job-board.vercel.app> with data frozen at 2026-08-10. **To resume you must do BOTH:** uncomment the two cron lines AND repopulate the `ANTHROPIC_API_KEY` repo secret — and also restore this pipeline's health-check lines in the Morning Brief + Mid-day Pulse cloud-routine prompts (see `Playground\cloud-routine-handoff.md` §5). Prior status: dashboard sort-by-date-captured shipped and live. Pipeline audit found Google Jobs (SerpAPI) has returned **zero raw postings since 2026-05-12** — smoke-tested and confirmed to be a Google-side issue (not our keys/quota/code); user independently confirmed it's not SF-specific. Decision: sit tight, no scraper changes, revisit ~2026-07-17.
 
 ---
+
+## 2026-08-13 — Scrape cron PAUSED
+
+**Accomplished**
+- Commented out the `schedule:` block in `.github/workflows/scrape.yml` (was `0 12 * * 1-5`), leaving `workflow_dispatch` live as the re-activation path. Re-parsed the YAML to confirm `on:` still resolves to a valid trigger (`{workflow_dispatch: None}`) — a fully-commented `on:` block would have made the workflow un-runnable and broken the resume path.
+- Pushed as `774f7f3` (rebased onto 17 bot data commits that were ahead of local master).
+- Marked PAUSED in the estate registries (`PIPELINES.md`, `BACKEND-OPS.md`) and removed from the Morning Brief / Mid-day Pulse fleet health check so the pause doesn't generate a daily ⚠️→🚨 alert.
+
+**Decisions**
+- Commented the cron rather than disabling the workflow via the GitHub API — a commented cron is discoverable in the repo six months from now; an API-disabled workflow is invisible.
+- Left the Vercel deployment and the `.env`/secrets alone. Left untracked `CV.txt` alone.
+
+**Open questions**
+- **Why did it actually start failing?** Runs 08-04→08-10 all succeeded and committed data; 08-11, 08-12, 08-13 all failed. Ryan's stated cause is an empty `ANTHROPIC_API_KEY`, and the clean success→failure break is consistent with the **same failure mode as the 2026-07-08/09 Anthropic billing outage noted below** (where the fail-loud guard correctly refused to commit bad data) — i.e. most likely a credit/billing lapse rather than a code regression. Not investigated further since the board is being paused either way. **Check this before resuming**, or day one will fail the same way.
+- Google Jobs (SerpAPI) returning zero raw postings since 2026-05-12 (below) was never resolved — still open if this ever restarts.
+
+**Next step**
+- None while paused. To resume: uncomment the two cron lines in `scrape.yml`, restore/verify `ANTHROPIC_API_KEY`, run once via `workflow_dispatch` and confirm a green run + data commit BEFORE re-enabling the schedule, then restore the health-check lines in both cloud-routine prompts.
 
 ## 2026-07-10 — Sort control + Google Jobs pipeline audit
 
