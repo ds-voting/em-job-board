@@ -1,11 +1,15 @@
 name: Daily Job Scrape
 
 on:
-  schedule:
-    # Run weekdays (Mon-Fri) at 12:00 UTC (7:00 AM CT). ~22 runs/mo at ~24
-    # SerpAPI searches/run stays under the 3-key free budget (~750/mo) with margin.
-    - cron: "0 12 * * 1-5"
-  workflow_dispatch: # Allow manual trigger from GitHub UI
+  # PAUSED 2026-08-13 (Ryan): job search is inactive and the ANTHROPIC_API_KEY
+  # secret is empty, so every scheduled run failed. Cron disabled so a future
+  # re-activation isn't drained by a scraper nobody is reading.
+  # TO RESUME: uncomment the two lines below (weekdays 12:00 UTC / 7:00 AM CT,
+  # ~22 runs/mo at ~24 SerpAPI searches/run — under the 3-key free budget
+  # ~750/mo with margin) AND repopulate the ANTHROPIC_API_KEY repo secret.
+  # schedule:
+  #   - cron: "0 12 * * 1-5"
+  workflow_dispatch: # Manual trigger from GitHub UI — still live, this is the re-activation path
 
 jobs:
   scrape:
